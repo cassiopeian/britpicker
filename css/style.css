@@ -19,6 +19,13 @@ body {
     background-color: rgb(245, 240, 240);
 }
 
+/* MAIN */
+
+main div {
+    width: 85%;
+    margin: 10% auto;
+}
+
 /* FOOTER */
 
 footer {
