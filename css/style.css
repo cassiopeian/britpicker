@@ -25,6 +25,13 @@ main div {
     width: 85%;
     margin: 10% auto;
 }
+textarea {
+    display: block;
+    width: 100%;
+    min-height: 300px;
+    margin: 1rem 0 0 0;
+    resize: none;
+}
 
 /* FOOTER */
 
