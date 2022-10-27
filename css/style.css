@@ -24,6 +24,7 @@ h1 {
     margin: 1rem;
 }
 h1 a {
+    color: rgb(60, 95, 150);
     text-decoration: none;
 }
 
