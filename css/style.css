@@ -23,6 +23,9 @@ body {
 h1 {
     margin: 1rem;
 }
+h1 a {
+    text-decoration: none;
+}
 
 /* MAIN */
 
