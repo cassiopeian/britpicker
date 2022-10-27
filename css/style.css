@@ -19,6 +19,11 @@ body {
     background-color: rgb(245, 240, 240);
 }
 
+/* HEADER */
+h1 {
+    margin: 1rem;
+}
+
 /* MAIN */
 
 main div {
