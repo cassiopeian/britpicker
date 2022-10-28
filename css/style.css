@@ -30,9 +30,9 @@ h1 a {
 
 /* MAIN */
 
-main div {
+main {
     width: 85%;
-    margin: 10% auto;
+    margin: 2rem auto;
 }
 textarea {
     display: block;
