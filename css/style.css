@@ -40,6 +40,9 @@ main {
     justify-content: space-between;
     margin-bottom: 5rem;
 }
+#intro img {
+    height: 250px;
+}
 textarea {
     display: block;
     width: 100%;
