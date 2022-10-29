@@ -24,7 +24,10 @@ h1 {
     margin: 1rem;
 }
 h1 a {
+    font-size: 1.7rem;
+    letter-spacing: .15rem;
     color: rgb(60, 95, 150);
+    text-transform: uppercase;
     text-decoration: none;
 }
 
