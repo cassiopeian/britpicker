@@ -29,7 +29,8 @@ h1 a {
 
 /* HEADER */
 h1 {
-    margin: 1rem;
+    margin: 2.5rem 0;
+    text-align: center;
 }
 h1 a {
     font-size: 1.7rem;
