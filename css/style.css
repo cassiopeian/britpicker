@@ -83,6 +83,10 @@ textarea {
     resize: none;
     caret-color: rgb(226, 50, 42);
 }
+textarea:focus {
+    outline: none;
+    border: 1px solid rgb(226, 50, 42);
+}
 
 /* FOOTER */
 
