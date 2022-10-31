@@ -81,6 +81,7 @@ textarea {
     border-radius: 0 0 8px 8px;
     padding: 1.5rem;
     resize: none;
+    caret-color: rgb(226, 50, 42);
 }
 
 /* FOOTER */
