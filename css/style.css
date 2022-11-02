@@ -73,17 +73,17 @@ main {
     border-bottom: 1px solid rgb(224, 209, 209);
     padding: 1.5rem;
 }
-textarea {
+.text {
     display: block;
     width: 100%;
     min-height: 350px;
-    border: none;
+    border: 1px solid transparent;
     border-radius: 0 0 8px 8px;
     padding: 1.5rem;
     resize: none;
     caret-color: rgb(226, 50, 42);
 }
-textarea:focus {
+.text:focus {
     outline: none;
     border: 1px solid rgb(226, 50, 42);
 }
