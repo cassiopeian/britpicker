@@ -82,6 +82,7 @@ main {
     padding: 1.5rem;
     resize: none;
     caret-color: rgb(226, 50, 42);
+    white-space: pre-wrap;
 }
 .text:focus {
     outline: none;
