@@ -74,6 +74,9 @@ main {
     min-height: 350px;
     border: none;
 }
+.text-wrapper:first-child {
+    border-right: 1px solid rgb(224, 209, 209);
+}
 #britpicker span {
     display: block;
     border-bottom: 1px solid rgb(224, 209, 209);
