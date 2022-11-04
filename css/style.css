@@ -96,6 +96,12 @@ main {
     outline: none;
     border: 1px solid rgb(226, 50, 42);
 }
+#ae:focus {
+    border-radius: 0 0 0 8px;
+}
+#be:focus {
+    border-radius: 0 0 8px 0;
+}
 
 /* FOOTER */
 
