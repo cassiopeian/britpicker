@@ -87,6 +87,9 @@ main {
 #britpicker span {
     display: block;
 }
+#trash {
+    height: 1.125rem;
+}
 .text {
     display: block;
     width: 100%;
