@@ -1,0 +1,38 @@
+<svg id="basura" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37.448 42.99">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #151f51;
+      }
+
+      .cls-1, .cls-2 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-1, .cls-3 {
+        stroke-width: 3px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+      }
+
+      .cls-2 {
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <path class="cls-1" d="M25.522,41.49h-13.6a5.868,5.868,0,0,1-5.851-5.851L3.145,8.634a.586.586,0,0,1,.583-.65H33.719a.587.587,0,0,1,.584.65L31.374,35.639A5.868,5.868,0,0,1,25.522,41.49Z"/>
+  <g>
+    <line class="cls-2" x1="18.724" y1="13.118" x2="18.724" y2="36.355"/>
+    <line class="cls-2" x1="11.211" y1="13.162" x2="13.236" y2="36.311"/>
+    <line class="cls-2" x1="26.236" y1="13.162" x2="24.211" y2="36.311"/>
+  </g>
+  <line class="cls-3" x1="1.5" y1="7.984" x2="35.948" y2="7.984"/>
+  <rect class="cls-3" x="11.911" y="1.5" width="13.625" height="6.484" rx="1.901"/>
+</svg>
