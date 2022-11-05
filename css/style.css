@@ -79,8 +79,6 @@ main {
 }
 #britpicker span {
     display: block;
-    border-bottom: 1px solid rgb(224, 209, 209);
-    padding: 1.5rem;
 }
 .text {
     display: block;
