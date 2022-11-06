@@ -108,6 +108,9 @@ main {
     caret-color: rgb(226, 50, 42);
     white-space: pre-wrap;
 }
+.text:first-letter {
+    font-size: 2rem;
+}
 .text:focus {
     outline: none;
     border: 1px solid rgb(226, 50, 42);
