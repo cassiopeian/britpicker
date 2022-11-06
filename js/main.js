@@ -23,3 +23,13 @@ $('#trash').on('click', function() {
     // clear all text in the american english box
     $('#ae').html('');
 });
+
+// modify trash icon, on hover
+$('#trash').hover(
+    function() {
+        $(this).attr('src', './images/icons/trash-filled.svg');
+    }, 
+    function() {
+        $(this).attr('src', './images/icons/trash.svg');
+    }
+);
