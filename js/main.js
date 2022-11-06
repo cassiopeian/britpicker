@@ -17,3 +17,9 @@ function indentText(event) {
 $('.text').on('focus blur', function() {
     window.addEventListener('keydown', indentText);
 });
+
+// when the trash icon is clicked
+$('#trash').on('click', function() {
+    // clear all text in the american english box
+    $('#ae').html('');
+});
