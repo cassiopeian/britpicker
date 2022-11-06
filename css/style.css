@@ -61,7 +61,6 @@ main {
 }
 #britpicker {
     display: flex;
-    align-items: center;
     width: 100%;
     background-color: rgb(255, 255, 255);
     border: 1px solid rgb(224, 209, 209);
