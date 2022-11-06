@@ -89,6 +89,7 @@ main {
 }
 #trash {
     height: 1.125rem;
+    cursor: pointer;
 }
 .text {
     display: block;
