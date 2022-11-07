@@ -26,7 +26,8 @@ h1 a {
     font-weight: 400;
     font-style: normal;
 }
-.text {
+.text,
+#britpicker span {
     font-family: quasimoda, sans-serif;
     font-weight: 400;
     font-style: normal;
