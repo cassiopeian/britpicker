@@ -90,7 +90,9 @@ main {
     border-bottom: 1px solid rgb(224, 209, 209);
 }
 #britpicker span {
-    display: block;
+    font-size: 1.1rem;
+    letter-spacing: .03rem;
+    color: rgb(21, 31, 81);
 }
 #trash {
     height: 1.125rem;
