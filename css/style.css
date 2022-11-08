@@ -75,7 +75,7 @@ main {
 }
 .text-wrapper {
     display: block;
-    width: 100%;
+    width: 50%;
     min-height: 350px;
     border: none;
 }
