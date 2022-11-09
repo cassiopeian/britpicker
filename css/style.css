@@ -35,6 +35,9 @@ h1 a {
 
 /* HEADER */
 
+header {
+    background-color: rgb(60, 95, 150);
+}
 h1 {
     margin: 2.5rem 0;
     text-align: center;
