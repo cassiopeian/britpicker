@@ -51,6 +51,11 @@ p {
     letter-spacing: .02rem;
     color: rgb(21, 31, 81);
 }
+#copyright {
+    font-size: .8rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid rgb(211, 211, 228);
+}
 
 /* HEADER */
 
