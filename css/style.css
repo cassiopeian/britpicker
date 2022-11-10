@@ -33,6 +33,13 @@ h2 {
     font-size: 1.5rem;
     color: rgb(60, 95, 150);
 }
+#intro p {
+    font-family: quasimoda, sans-serif;
+    font-weight: 300;
+    font-style: italic;
+    font-size: 1.15rem;
+    margin: 1rem 3rem 0 0;
+}
 .text,
 #britpicker span {
     font-family: quasimoda, sans-serif;
@@ -71,10 +78,6 @@ main {
 }
 #intro img {
     height: 250px;
-}
-#intro p {
-    font-size: 1.2rem;
-    margin: 1rem 3rem 0 0;
 }
 #britpicker {
     display: flex;
