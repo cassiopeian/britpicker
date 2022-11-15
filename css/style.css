@@ -151,15 +151,18 @@ main {
 .text:first-letter {
     font-size: 2rem;
 }
-.text:focus {
-    outline: none;
-    border: 1px solid rgb(226, 50, 42);
-}
-#ae:focus {
+#ae {
+    border-left: 1px solid rgb(211, 211, 228);
     border-radius: 0 0 0 8px;
 }
-#be:focus {
+#be {
+    border-right: 1px solid rgb(211, 211, 228);
     border-radius: 0 0 8px 0;
+}
+#ae:focus,
+#be:focus {
+    outline: none;
+    border: 1px solid rgb(226, 50, 42);
 }
 
 /* FOOTER */
