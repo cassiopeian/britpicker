@@ -132,15 +132,18 @@ main {
     height: 1.125rem;
     cursor: pointer;
 }
+#text-container {
+    display: flex;
+    width: 100%;
+}
 .text {
     font-size: 1rem;
     line-height: 1.6;
     color: rgb(57, 58, 65);
-    display: block;
-    width: 100%;
+    width: 50%;
     min-height: 350px;
-    border: 1px solid transparent;
-    border-radius: 0 0 8px 8px;
+    border-top: 1px solid rgb(211, 211, 228);
+    border-bottom: 1px solid rgb(211, 211, 228);
     padding: 1.5rem;
     caret-color: rgb(226, 50, 42);
     white-space: pre-wrap;
