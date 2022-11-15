@@ -122,6 +122,12 @@ main {
     letter-spacing: .03rem;
     color: rgb(21, 31, 81);
 }
+.divider {
+    display: block;
+    width: 1px;
+    height: 58.5px;
+    background-color: rgb(211, 211, 228);
+}
 #trash {
     height: 1.125rem;
     cursor: pointer;
