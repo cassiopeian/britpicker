@@ -151,11 +151,11 @@ main {
     font-size: 2rem;
 }
 #ae {
-    border-left: 1px solid rgb(211, 211, 228);
+    border-right: none;
     border-radius: 0 0 0 8px;
 }
 #be {
-    border-right: 1px solid rgb(211, 211, 228);
+    border-left: none;
     border-radius: 0 0 8px 0;
 }
 #ae:focus,
