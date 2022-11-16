@@ -142,8 +142,7 @@ main {
     color: rgb(57, 58, 65);
     width: 50%;
     min-height: 350px;
-    border-top: 1px solid rgb(211, 211, 228);
-    border-bottom: 1px solid rgb(211, 211, 228);
+    border: 1px solid rgb(211, 211, 228);
     padding: 1.5rem;
     caret-color: rgb(226, 50, 42);
     white-space: pre-wrap;
