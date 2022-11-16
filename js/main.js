@@ -1,5 +1,12 @@
 let mimic = [];
 
+$(window).on('load', function() {
+    let dialectHeight = $('#dialect-container').outerHeight();
+
+    // set the height of the dialect-container divider 
+    $('#dialect-container .divider').css('height', dialectHeight);
+});
+
 function indentText(event) {
     // if the tab key is pressed
     if (event.key === 'Tab') {
