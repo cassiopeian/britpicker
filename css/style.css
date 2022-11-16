@@ -125,7 +125,6 @@ main {
 .divider {
     display: block;
     width: 1px;
-    height: 58.5px;
     background-color: rgb(211, 211, 228);
 }
 #trash {
