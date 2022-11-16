@@ -121,6 +121,7 @@ main {
     font-size: 1.1rem;
     letter-spacing: .03rem;
     color: rgb(21, 31, 81);
+    cursor: default;
 }
 .divider {
     display: block;
