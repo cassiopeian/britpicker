@@ -213,4 +213,10 @@ footer {
     #britpicker button {
         display: block;
     }
+    #dialect-container div:nth-child(3) {
+        display: none;
+    }
+    #be {
+        display: none;
+    }
 }
