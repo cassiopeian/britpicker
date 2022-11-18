@@ -42,7 +42,8 @@ h2 {
 }
 p,
 .text,
-.dialect {
+.dialect,
+#britpicker button {
     font-family: quasimoda, sans-serif;
     font-weight: 400;
     font-style: normal;
@@ -162,6 +163,17 @@ main {
     border-left: none;
     border-radius: 0 0 8px 0;
 }
+#britpicker button {
+    display: none;
+    text-align: center;
+    text-transform: uppercase;
+    color: rgb(255, 255, 255);
+    background-color: rgb(21, 31, 81);
+    border: none;
+    border-radius: 0 0 8px 8px;
+    padding: 1rem 1.5rem;
+    width: 100%;
+}
 
 /* FOOTER */
 
@@ -197,5 +209,8 @@ footer {
         border-left: 1px solid rgb(211, 211, 228);
         border-right: 1px solid rgb(211, 211, 228);
         border-radius: 0 0 0 0;
+    }
+    #britpicker button {
+        display: block;
     }
 }
