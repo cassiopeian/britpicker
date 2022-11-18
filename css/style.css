@@ -182,4 +182,14 @@ footer {
     h1 a {
         font-size: 1.8rem;
     }
+
+    /* MAIN */
+
+    #dialect-container div,
+    .text {
+        width: 100%;
+    }
+    .divider {
+        display: none;
+    }
 }
