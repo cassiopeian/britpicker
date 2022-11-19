@@ -38,13 +38,13 @@ $('.text').on('focus blur', function() {
 });
 
 // when the trash icon is clicked
-$('#trash').on('click', function() {
+$('#clear-all').on('click', function() {
     // clear all text in the american english box
     $('#ae').html('');
 });
 
 // modify trash icon, on hover
-$('#trash').hover(
+$('#clear-all img').hover(
     function() {
         $(this).attr('src', './images/icons/trash-filled.svg');
     }, 
