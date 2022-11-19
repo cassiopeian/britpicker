@@ -74,3 +74,25 @@ function copyCat(e) {
 };
 
 $('#ae').on('keyup', copyCat);
+
+$('#toggle-dialects').on('click', function() {
+    let americanLabel = $('#dialect-container div:nth-child(1)');
+    let americanText = $('#ae');
+    let britishLabel = $('#dialect-container div:nth-child(3)');
+    let britishText = $('#be');
+
+    // if the british dialect is visible
+    if (britishLabel.css('display') === 'block') {
+        // show the view british button, on click
+        $(this).html('View British English');
+    } else {
+        // show the view american button, on click
+        $(this).html('View American English');
+    }
+
+    // toggle between american and british english
+    americanLabel.toggle();
+    americanText.toggle();
+    britishLabel.toggle();
+    britishText.toggle();
+});
