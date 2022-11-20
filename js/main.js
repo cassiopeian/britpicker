@@ -46,7 +46,10 @@ $('#clear-all').on('click', function() {
 // modify trash icon, on hover
 $('#clear-all img').hover(
     function() {
-        $(this).attr('src', './images/icons/trash-filled.svg');
+        // prevent hover state on small screens
+        if ($(window).width() > 415) {
+            $(this).attr('src', './images/icons/trash-filled.svg');
+        }
     }, 
     function() {
         $(this).attr('src', './images/icons/trash.svg');
