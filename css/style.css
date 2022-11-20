@@ -173,6 +173,7 @@ main {
 }
 #toggle-dialects {
     display: none;
+    font-weight: 700;
     text-align: center;
     text-transform: uppercase;
     color: rgb(255, 255, 255);
