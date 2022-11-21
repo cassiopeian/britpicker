@@ -223,7 +223,7 @@ footer {
         border-right: 1px solid rgb(211, 211, 228);
         border-radius: 0 0 0 0;
     }
-    #britpicker button {
+    #toggle-dialects {
         display: block;
     }
     #dialect-container div:nth-child(3) {
