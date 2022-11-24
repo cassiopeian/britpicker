@@ -99,3 +99,10 @@ $('#toggle-dialects').on('click', function() {
     britishLabel.toggle();
     britishText.toggle();
 });
+
+$('#insult-tab').on('click', function() {
+    // open the insult generator
+    $('#insult-wrapper').animate({
+        right: 0
+    }, 2000);
+});
