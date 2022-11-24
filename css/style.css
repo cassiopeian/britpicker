@@ -204,11 +204,7 @@ aside {
     height: 20%;
     right: 100%;
 }
-#insult-generator::after {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 100%;
+#insult-tab {
     height: 100%;
     width: 50px;
     background-color: rgb(60, 95, 150);
