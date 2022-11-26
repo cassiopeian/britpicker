@@ -125,3 +125,7 @@ function generateInsultButtonText() {
     // update the insult button's text
     $('#insult-me').html(randomInsultButtonText);
 };
+
+$('#insult-me').on('click', function() {
+    generateInsultButtonText();
+});
