@@ -106,3 +106,22 @@ $('#insult-tab').on('click', function() {
         right: 0
     }, 2000);
 });
+
+function generateInsultButtonText() {
+    let beRude = [
+        'Slag me off',
+        'Take the piss',
+        'Have a go',
+        'Roast me',
+        'Don\'t hold back',
+        'Lemme have it',
+        'Go on, then',
+        'Insult me'
+    ];
+    
+    let i = Math.floor(Math.random() * beRude.length);
+    let randomInsultButtonText = beRude[i];
+
+    // update the insult button's text
+    $('#insult-me').html(randomInsultButtonText);
+};
