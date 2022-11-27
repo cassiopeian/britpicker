@@ -129,3 +129,12 @@ function generateInsultButtonText() {
 $('#insult-me').on('click', function() {
     generateInsultButtonText();
 });
+
+$('#insult-generator .close').on('click', function() {
+    let windowWidth = $(window).width();
+
+    // close the insult generator
+    $('#insult-wrapper').animate({
+        right: `${windowWidth - 50}px`
+    }, 2000);
+});
