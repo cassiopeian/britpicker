@@ -138,6 +138,25 @@ function generateInsultButtonText() {
     $('#insult-me').html(randomInsultButtonText);
 };
 
+function generateInsult() {
+    let insultAdj = $('<p></p>');
+    let space = $('<span>&nbsp;</span>');
+    let insultNoun = $('<p></p>');
+    let ai = Math.floor(Math.random() * adjectives.length);
+    let randomAdjective = adjectives[ai];
+    let ni = Math.floor(Math.random() * nouns.length);
+    let randomNoun = nouns[ni];
+
+    // wrap the random adjective in a p tag
+    $(insultAdj).text(randomAdjective);
+    
+    // wrap the random noun in a p tag
+    $(insultNoun).text(randomNoun);
+
+    // display the random insult in the #insult div
+    $('#insult').append(insultAdj, space, insultNoun);
+};
+
 $('#insult-me').on('click', function() {
     generateInsultButtonText();
 });
