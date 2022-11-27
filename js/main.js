@@ -158,7 +158,12 @@ function generateInsult() {
 };
 
 $('#insult-me').on('click', function() {
+    // clear previous insult
+    $('#insult').html('');
+
     generateInsultButtonText();
+
+    generateInsult();
 });
 
 $('#insult-generator .close').on('click', function() {
