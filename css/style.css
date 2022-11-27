@@ -221,6 +221,11 @@ aside {
     background-color: rgb(255, 255, 255);
     margin: 1.5rem auto 1rem;
 }
+#insult p,
+#insult span {
+    display: inline;
+    font-size: 1.3rem;
+}
 #insult-me {
     display: block;
     font-weight: 700;
