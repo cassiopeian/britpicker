@@ -1,4 +1,16 @@
 let mimic = [];
+let adjectives = [
+    'bloody',
+    'daft',
+    'mad',
+    'wonky'
+];
+let nouns = [
+    'donut',
+    'git',
+    'muppet',
+    'womble'
+];
 
 $(window).on('load', function() {
     let dialectHeight = $('#dialect-container').outerHeight();
