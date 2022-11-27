@@ -213,6 +213,9 @@ aside {
     height: 100%;
 }
 #insult {
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 70%;
     height: 2.5rem;
     background-color: rgb(255, 255, 255);
