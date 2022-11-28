@@ -276,6 +276,9 @@ footer {
 
     /* MAIN */
 
+    #intro {
+        flex-direction: column-reverse;
+    }
     #dialect-container div,
     .text {
         width: 100%;
