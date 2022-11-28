@@ -240,6 +240,7 @@ aside {
     cursor: pointer;
 }
 #insult-tab {
+    flex-shrink: 0;
     height: 100%;
     width: 50px;
     background-color: rgb(60, 95, 150);
