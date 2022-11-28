@@ -280,6 +280,9 @@ footer {
         flex-direction: column-reverse;
         align-items: center;
     }
+    #intro p {
+        margin: 1rem 0;
+    }
     #dialect-container div,
     .text {
         width: 100%;
