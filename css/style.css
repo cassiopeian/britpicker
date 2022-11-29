@@ -220,6 +220,7 @@ aside {
     height: 2.5rem;
     background-color: rgb(255, 255, 255);
     margin: 1.5rem auto 1rem;
+    overflow: hidden;
 }
 #insult p,
 #insult span {
