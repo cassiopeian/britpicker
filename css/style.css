@@ -225,6 +225,8 @@ aside {
 #insult span {
     display: inline;
     font-size: 1.3rem;
+    position: relative;
+    top: -2.3rem;
 }
 #insult-me {
     display: block;
