@@ -1,14 +1,20 @@
 let mimic = [];
 let adjectives = [
+    'barmy',
+    'blithering',
     'bloody',
     'daft',
     'mad',
+    'unrepentant',
     'wonky'
 ];
 let nouns = [
+    'donkey',
     'donut',
     'git',
     'muppet',
+    'numpty',
+    'pillock',
     'womble'
 ];
 
