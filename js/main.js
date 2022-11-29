@@ -167,6 +167,11 @@ $('#insult-me').on('click', function() {
     generateInsultButtonText();
 
     generateInsult();
+
+    // make the insult slide into view
+    $('#insult p, #insult span').animate({
+        top: 0
+    }, 500);    
 });
 
 $('#insult-generator .close').on('click', function() {
