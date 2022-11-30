@@ -257,6 +257,11 @@ aside {
     float: right;
     cursor: pointer;
 }
+@media (hover: hover) {
+    .close:hover {
+        color: rgb(197, 216, 232);
+    }
+}
 
 /* FOOTER */
 
