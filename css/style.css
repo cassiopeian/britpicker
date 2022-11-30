@@ -197,7 +197,7 @@ aside {
     height: 100%;
     background-color: transparent;
 }
-#insult-wrapper {
+#generator-wrapper {
     display: flex;
     align-items: center;
     position: relative;
