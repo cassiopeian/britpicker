@@ -261,6 +261,15 @@ aside {
     border-width: 0.2rem 0.2rem 0 0;
     border-radius: 0 100px 0 0;
 }
+.lock-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 1rem;
+    width: 1.5rem;
+    border-radius: 0.18rem;
+    background-color: rgb(191, 191, 197);
+}
 #insult-me {
     display: block;
     font-weight: 700;
