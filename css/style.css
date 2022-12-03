@@ -247,7 +247,8 @@ aside {
 .shank {
     display: flex;
 }
-.shank span {
+.arc-l,
+.arc-r {
     display: inline-block;
     height: 0.5rem;
     width: 0.5rem;
