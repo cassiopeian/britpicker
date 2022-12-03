@@ -270,6 +270,12 @@ aside {
     border-radius: 0.18rem;
     background-color: rgb(191, 191, 197);
 }
+.keyhole {
+    height: 0.4rem;
+    width: 0.2rem;
+    border-radius: 2px;
+    background-color: rgb(255, 255, 255);
+}
 #insult-me {
     display: block;
     font-weight: 700;
