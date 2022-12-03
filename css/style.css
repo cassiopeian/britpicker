@@ -247,6 +247,12 @@ aside {
 .shank {
     display: flex;
 }
+.shank span {
+    display: inline-block;
+    height: 0.5rem;
+    width: 0.5rem;
+    border: 0.2rem solid rgb(191, 191, 197);
+}
 #insult-me {
     display: block;
     font-weight: 700;
