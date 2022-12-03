@@ -236,6 +236,14 @@ aside {
     position: relative;
     top: -2.3rem;
 }
+.lock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    width: 10%;
+}
 #insult-me {
     display: block;
     font-weight: 700;
