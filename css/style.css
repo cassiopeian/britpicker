@@ -246,6 +246,8 @@ aside {
 }
 .shank {
     display: flex;
+    transform-origin: right;
+    transform: rotateY(180deg);
 }
 .arc-l,
 .arc-r {
