@@ -188,3 +188,11 @@ $('#insult-generator .close').on('click', function() {
         right: `${windowWidth - 50}px`
     }, 2000);
 });
+
+function padlockColor(sel, color) {
+    // update the shank color
+    $(sel).find('.arc-l, .arc-r').css('borderColor', color);
+
+    // update the lock body color
+    $(sel).children('.lock-body').css('backgroundColor', color);
+};
