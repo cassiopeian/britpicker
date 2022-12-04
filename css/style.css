@@ -285,6 +285,14 @@ aside {
     animation: locked 2s ease-in;
     animation-fill-mode: forwards;
 }
+@-webkit-keyframes locked {
+    0% {transform: initial;}
+    100% {transform: rotateY(0deg);}
+}
+@keyframes locked {
+    0% {transform: initial;}
+    100% {transform: rotateY(0deg);}
+}
 #insult-me {
     display: block;
     font-weight: 700;
