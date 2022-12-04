@@ -279,6 +279,12 @@ aside {
     border-radius: 2px;
     background-color: rgb(255, 255, 255);
 }
+.locked {
+    -webkit-animation: locked 2s ease-in;
+    -webkit-animation-fill-mode: forwards;
+    animation: locked 2s ease-in;
+    animation-fill-mode: forwards;
+}
 #insult-me {
     display: block;
     font-weight: 700;
