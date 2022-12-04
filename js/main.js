@@ -196,3 +196,23 @@ function padlockColor(sel, color) {
     // update the lock body color
     $(sel).children('.lock-body').css('backgroundColor', color);
 };
+
+$('.lock').on('click', function() {
+    let thisShank = $(this).children('.shank');
+    let gray = 'rgb(191, 191, 197)';
+    let red = 'rgb(226, 50, 42)';
+
+    if (thisShank.hasClass('locked') === true) {
+        // open the padlock shank
+        thisShank.removeClass('locked');
+
+        // turn the lock gray
+        padlockColor(this, gray);
+    } else {
+        // close the padlock shank
+        thisShank.addClass('locked');
+
+        // turn the lock red
+        padlockColor(this, red);
+    }
+});
