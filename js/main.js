@@ -1,3 +1,8 @@
+let insultAdj = $('<p></p>');
+let space = $('<span>&nbsp;</span>');
+let insultNoun = $('<p></p>');
+let adjShank = $('#adjective-lock').children('.shank');
+let nounShank = $('#noun-lock').children('.shank');
 let mimic = [];
 let adjectives = [
     'barmy',
@@ -148,13 +153,10 @@ function generateInsultButtonText() {
 };
 
 function generateInsult() {
-    let insultAdj = $('<p></p>');
-    let space = $('<span>&nbsp;</span>');
-    let insultNoun = $('<p></p>');
     let ai = Math.floor(Math.random() * adjectives.length);
-    let randomAdjective = adjectives[ai];
+    let randomAdjective;
     let ni = Math.floor(Math.random() * nouns.length);
-    let randomNoun = nouns[ni];
+    let randomNoun;
 
     // wrap the random adjective in a p tag
     $(insultAdj).text(randomAdjective);
