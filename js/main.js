@@ -158,6 +158,12 @@ function generateInsult() {
     let ni = Math.floor(Math.random() * nouns.length);
     let randomNoun;
 
+    // randomize the adjective, unless it's locked
+    adjShank.hasClass('locked') === true ? randomAdjective = randomAdjective : randomAdjective = adjectives[ai];  
+
+    // randomize the noun, unless it's locked
+    nounShank.hasClass('locked') === true ? randomNoun = randomNoun : randomNoun = nouns[ni];
+
     // wrap the random adjective in a p tag
     $(insultAdj).text(randomAdjective);
     
