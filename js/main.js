@@ -175,8 +175,16 @@ function generateInsult() {
 };
 
 $('#insult-me').on('click', function() {
-    // clear previous insult
-    $('#insult').html('');
+    if (adjShank.hasClass('locked') === true) {
+        // clear the noun
+        $(insultNoun).detach();
+    } else if (nounShank.hasClass('locked') === true) {
+        // clear the adjective
+        $(insultAdj).detach();
+    } else {
+        // clear previous insult
+        $('#insult').html('');
+    }
 
     generateInsultButtonText();
 
