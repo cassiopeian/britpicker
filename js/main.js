@@ -3,6 +3,7 @@ let space = $('<span>&nbsp;</span>');
 let insultNoun = $('<p></p>');
 let adjShank = $('#adjective-lock').children('.shank');
 let nounShank = $('#noun-lock').children('.shank');
+let lockBgColor = $('.lock').css('backgroundColor');
 let mimic = [];
 let adjectives = [
     'barmy',
@@ -232,3 +233,6 @@ $('.lock').on('click', function() {
         padlockColor(this, red);
     }
 });
+
+// make the keyholes match the lock buttons' backgrounds
+$('.keyhole').css('backgroundColor', lockBgColor);
