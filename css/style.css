@@ -279,7 +279,6 @@ aside {
     height: 0.4rem;
     width: 0.2rem;
     border-radius: 2px;
-    background-color: rgb(255, 255, 255);
 }
 .locked {
     -webkit-animation: locked 2s ease-in;
