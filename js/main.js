@@ -194,7 +194,10 @@ $('#insult-me').on('click', function() {
     // make the insult slide into view
     $('#insult p, #insult span').animate({
         top: 0
-    }, 500);    
+    }, 500); 
+    
+    // enable the lock buttons, if an insult has been generated
+    $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('.lock').prop('disabled', true) : $('.lock').prop('disabled', false);
 });
 
 $('#insult-generator .close').on('click', function() {
