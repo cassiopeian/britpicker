@@ -247,6 +247,9 @@ aside {
     border: none;
     cursor: pointer;
 }
+.lock:disabled {
+    opacity: 0.5;
+}
 .shank {
     display: flex;
     transform-origin: right;
