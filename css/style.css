@@ -243,6 +243,7 @@ aside {
     justify-content: center;
     height: 100%;
     width: 10%;
+    background-color: rgb(250, 250, 250);
     border: none;
     cursor: pointer;
 }
