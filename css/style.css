@@ -256,6 +256,12 @@ aside {
     transform: rotateY(180deg);
     transition: 1s ease-in;
 }
+.locked {
+    transform: rotateY(0deg);
+}
+.unlocked {
+    transform: rotateY(180deg);
+}
 .arc-l,
 .arc-r {
     display: inline-block;
