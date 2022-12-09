@@ -224,13 +224,13 @@ $('.lock').on('click', function() {
 
     if (thisShank.hasClass('locked') === true) {
         // open the padlock shank
-        thisShank.removeClass('locked');
+        thisShank.removeClass('locked').addClass('unlocked');
 
         // turn the lock gray
         padlockColor(this, gray);
     } else {
         // close the padlock shank
-        thisShank.addClass('locked');
+        thisShank.addClass('locked').removeClass('unlocked');
 
         // turn the lock red
         padlockColor(this, red);
