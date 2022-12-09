@@ -254,6 +254,7 @@ aside {
     display: flex;
     transform-origin: right;
     transform: rotateY(180deg);
+    transition: 1s ease-in;
 }
 .arc-l,
 .arc-r {
