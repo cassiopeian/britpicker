@@ -304,6 +304,17 @@ aside {
     margin: 0 auto;
     cursor: pointer;
 }
+#lock-alert {
+    display: none;
+    position: relative;
+    font-size: .8rem;
+    color: rgb(255, 255, 255);
+    background-color: rgb(243, 125, 0);
+    width: fit-content;
+    padding: 0.5rem;
+    margin: 8px auto 0;
+    border-radius: 5px;
+}
 #insult-tab {
     display: flex;
     align-items: center;
