@@ -304,6 +304,17 @@ aside {
     margin: 0 auto;
     cursor: pointer;
 }
+#lock-alert::before {
+    content: '';
+    position: absolute;
+    top: -5px;
+    left: calc(50% - 5px);
+    height: 10px;
+    width: 10px;
+    transform: rotate(45deg);
+    background-color: rgb(243, 125, 0);
+    border-radius: 2px 0 0 0;
+}
 #lock-alert {
     display: none;
     position: relative;
