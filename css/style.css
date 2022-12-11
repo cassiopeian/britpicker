@@ -345,7 +345,9 @@ aside {
     font-size: 1.1rem;
     line-height: .8;
     color: rgb(255, 255, 255);
-    float: right;
+    position: absolute;
+    top: 15px;
+    right: 15px;
     cursor: pointer;
 }
 @media (hover: hover) {
