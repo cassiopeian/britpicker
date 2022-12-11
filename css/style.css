@@ -207,6 +207,10 @@ aside {
     right: calc(100% - 50px);
 }
 #insult-generator {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     position: relative;
     background-color: rgb(10, 28, 56);
     border-radius: 0 4px 4px 0;
