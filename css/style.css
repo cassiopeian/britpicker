@@ -202,7 +202,7 @@ aside {
     display: flex;
     align-items: center;
     position: relative;
-    height: 20%;
+    height: 35%;
     width: 100%;
     right: calc(100% - 50px);
 }
