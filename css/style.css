@@ -218,6 +218,9 @@ aside {
     width: 100%;
     height: 100%;
 }
+#insult-generator h2 {
+    color: rgb(242, 242, 247);
+}
 #insult-wrapper {
     display: flex;
     align-items: center;
