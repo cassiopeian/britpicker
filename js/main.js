@@ -197,7 +197,7 @@ $('#insult-me').on('click', function() {
     }, 500); 
     
     // enable the lock buttons, if an insult has been generated
-    $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('.lock').prop('disabled', true) : $('.lock').prop('disabled', false);
+    $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('.lock').addClass('mostly-disabled') : $('.lock').removeClass('mostly-disabled');
 });
 
 $('#insult-generator .close').on('click', function() {
