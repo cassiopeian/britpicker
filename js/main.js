@@ -222,6 +222,15 @@ $('.lock').on('click', function() {
     let gray = 'rgb(191, 191, 197)';
     let red = 'rgb(226, 50, 42)';
 
+    if ($(this).hasClass('mostly-disabled') === true) {
+        // flash the click me first notification
+        $('#lock-alert').fadeIn(400, function() {
+            $('#lock-alert').delay(1500).fadeOut(200);
+        });
+        // disable the locks
+        return;
+    }
+
     if (thisShank.hasClass('locked') === true) {
         // open the padlock shank
         thisShank.removeClass('locked').addClass('unlocked');
