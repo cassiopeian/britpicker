@@ -333,6 +333,7 @@ aside {
     width: fit-content;
     padding: 0.5rem;
     border-radius: 5px;
+    cursor: default;
 }
 #insult-tab {
     display: flex;
