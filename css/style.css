@@ -325,13 +325,13 @@ aside {
 }
 #lock-alert {
     display: none;
-    position: relative;
+    position: absolute;
+    bottom: 3px;
     font-size: .8rem;
     color: rgb(255, 255, 255);
     background-color: rgb(243, 125, 0);
     width: fit-content;
     padding: 0.5rem;
-    margin: 8px auto 0;
     border-radius: 5px;
 }
 #insult-tab {
