@@ -255,7 +255,7 @@ aside {
     border: none;
     cursor: pointer;
 }
-.lock:disabled {
+.mostly-disabled {
     opacity: 0.5;
 }
 .shank {
