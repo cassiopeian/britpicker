@@ -439,4 +439,17 @@ footer {
     #be {
         display: none;
     }
+
+    /* ASIDE */
+
+    #insult-wrapper {
+        width: 100%;
+    }
+    .lock {
+        width: 18%;
+    }
+    #insult {
+        width: 64%;
+    }
+
 }
