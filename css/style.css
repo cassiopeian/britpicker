@@ -376,6 +376,15 @@ footer {
 
 /* MEDIA QUERIES */
 
+@media only screen and (max-width: 1000px) {
+    
+    /* ASIDE */
+
+    #insult-wrapper {
+        width: 85%;
+    }
+}
+
 @media only screen and (max-width: 415px) {
     
     /* HEADER */
