@@ -376,6 +376,18 @@ footer {
 
 /* MEDIA QUERIES */
 
+@media only screen and (max-width: 750px) {
+
+    /* ASIDE */
+
+    .lock {
+        width: 13%;
+    }
+    #insult {
+        width: 74%;
+    }
+}
+
 @media only screen and (max-width: 1000px) {
     
     /* ASIDE */
