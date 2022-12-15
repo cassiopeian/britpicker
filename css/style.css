@@ -202,7 +202,6 @@ aside {
     display: flex;
     align-items: center;
     position: relative;
-    height: 35%;
     width: 100%;
     right: calc(100% - 50px);
 }
@@ -313,7 +312,7 @@ aside {
     border: none;
     border-radius: 20px;
     padding: .5rem 1rem;
-    margin: 0 auto;
+    margin: 1rem auto;
     cursor: pointer;
 }
 #lock-alert::before {
