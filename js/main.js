@@ -183,6 +183,9 @@ $('#insult-me').on('click', function() {
         // reset the adjective's starting position and clear the word
         $(insultAdj).css('top', '-2.3rem').detach();
     } else {
+        // reset the insult's starting position
+        $('#insult p, #insult span').css('top', '-2.3rem');
+        
         // clear previous insult
         $('#insult').html('');
     }
