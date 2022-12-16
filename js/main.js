@@ -177,8 +177,8 @@ function generateInsult() {
 
 $('#insult-me').on('click', function() {
     if (adjShank.hasClass('locked') === true) {
-        // clear the noun
-        $(insultNoun).detach();
+        // reset the noun's starting position and clear the word
+        $(insultNoun).css('top', '-2.3rem').detach();
     } else if (nounShank.hasClass('locked') === true) {
         // clear the adjective
         $(insultAdj).detach();
