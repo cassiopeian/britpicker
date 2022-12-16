@@ -180,8 +180,8 @@ $('#insult-me').on('click', function() {
         // reset the noun's starting position and clear the word
         $(insultNoun).css('top', '-2.3rem').detach();
     } else if (nounShank.hasClass('locked') === true) {
-        // clear the adjective
-        $(insultAdj).detach();
+        // reset the adjective's starting position and clear the word
+        $(insultAdj).css('top', '-2.3rem').detach();
     } else {
         // clear previous insult
         $('#insult').html('');
