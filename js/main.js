@@ -7,10 +7,13 @@ let lockBgColor = $('.lock').css('backgroundColor');
 let mimic = [];
 let adjectives = [
     'barmy',
+    'bleeding',
     'blithering',
     'bloody',
     'daft',
+    'dodgy',
     'mad',
+    'proper',
     'unrepentant',
     'wonky'
 ];
@@ -19,8 +22,11 @@ let nouns = [
     'donut',
     'git',
     'muppet',
+    'ninny',
+    'noodle',
     'numpty',
     'pillock',
+    'twit',
     'womble'
 ];
 
