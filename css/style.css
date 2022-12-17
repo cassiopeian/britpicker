@@ -445,6 +445,9 @@ footer {
 
     /* ASIDE */
 
+    aside {
+        height: 55%;
+    }
     #insult-wrapper {
         width: 100%;
     }
