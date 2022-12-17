@@ -12,6 +12,8 @@ let adjectives = [
     'bloody',
     'daft',
     'dodgy',
+    'faffing',
+    'feckless',
     'mad',
     'proper',
     'unrepentant',
@@ -21,11 +23,13 @@ let nouns = [
     'donkey',
     'donut',
     'git',
+    'minger',
     'muppet',
     'ninny',
     'noodle',
     'numpty',
     'pillock',
+    'prat',
     'twit',
     'womble'
 ];
