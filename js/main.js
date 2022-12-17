@@ -182,10 +182,10 @@ function generateInsult() {
 };
 
 $('#insult-me').on('click', function() {
-    if (adjShank.hasClass('locked') === true) {
+    if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === false) {
         // reset the noun's starting position and clear the word
         $(insultNoun).css('top', '-2.3rem').detach();
-    } else if (nounShank.hasClass('locked') === true) {
+    } else if (nounShank.hasClass('locked') === true && adjShank.hasClass('locked') === false) {
         // reset the adjective's starting position and clear the word
         $(insultAdj).css('top', '-2.3rem').detach();
     } else {
