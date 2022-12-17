@@ -188,6 +188,9 @@ $('#insult-me').on('click', function() {
     } else if (nounShank.hasClass('locked') === true && adjShank.hasClass('locked') === false) {
         // reset the adjective's starting position and clear the word
         $(insultAdj).css('top', '-2.3rem').detach();
+    } else if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === true) {
+        // hold both words, if both locks are engaged
+        $(insultAdj, insultNoun).css('top', '0px');
     } else {
         // reset the insult's starting position
         $('#insult p, #insult span').css('top', '-2.3rem');
