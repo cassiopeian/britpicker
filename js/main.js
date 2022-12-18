@@ -23,6 +23,8 @@ let adjectives = [
     'wonky'
 ];
 let nouns = [
+    'berk',
+    'crumpet',
     'donkey',
     'donut',
     'git',
@@ -32,6 +34,7 @@ let nouns = [
     'noodle',
     'numpty',
     'pillock',
+    'plonker',
     'prat',
     'twit',
     'womble'
