@@ -142,7 +142,7 @@ $('#toggle-dialects').on('click', function() {
 
 $('#insult-tab').on('click', function() {
     // open the insult generator
-    $('#generator-wrapper').animate({
+    $('aside').animate({
         right: 0
     }, 2000);
 });
@@ -226,7 +226,7 @@ $('#insult-generator .close').on('click', function() {
     let windowWidth = $(window).width();
 
     // close the insult generator
-    $('#generator-wrapper').animate({
+    $('aside').animate({
         right: `${windowWidth - 50}px`
     }, 2000);
 });
