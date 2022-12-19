@@ -187,10 +187,12 @@ main {
     padding: 1rem 1.5rem;
     width: 100%;
 }
-#generator-wrapper {
+aside {
     display: flex;
     align-items: center;
-    position: relative;
+    position: fixed;
+    z-index: 2;
+    top: 25%;
     width: 100%;
     right: calc(100% - 50px);
 }
