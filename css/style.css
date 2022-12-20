@@ -61,6 +61,9 @@ p {
     padding-top: 0.5rem;
     border-top: 1px solid rgb(211, 211, 228);
 }
+.ital {
+    font-style: italic;
+}
 
 /* HEADER */
 
