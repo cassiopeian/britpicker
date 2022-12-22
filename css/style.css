@@ -121,6 +121,11 @@ main {
     width: 50%;
     padding: 1rem 1.5rem;
 }
+.country {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
 .dialect {
     display: flex;
     align-items: center;
