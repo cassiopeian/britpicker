@@ -82,6 +82,11 @@ $('.us').on('click', function() {
     $('#ae').focus();
 });
 
+$('.uk').on('click', function() {
+    // focus the british english text
+    $('#be').focus();
+});
+
 // when the trash icon is clicked
 $('#clear-all').on('click', function() {
     // clear all text in the american english box
