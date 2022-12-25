@@ -176,7 +176,7 @@ main {
 }
 .text:focus {
     outline: none;
-    border: 1px solid rgb(226, 50, 42);
+    border: 1px solid rgb(60, 95, 150);
 }
 #ae {
     border-right: none;
