@@ -77,6 +77,11 @@ $('.text').on('focus blur', function() {
     $(this).is(':focus') ? dividerIs(blue) : dividerIs(gray);
 });
 
+$('.us').on('click', function() {
+    // focus the american english text
+    $('#ae').focus();
+});
+
 // when the trash icon is clicked
 $('#clear-all').on('click', function() {
     // clear all text in the american english box
