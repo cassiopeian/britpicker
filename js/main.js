@@ -68,13 +68,13 @@ function dividerIs(color) {
 };
 
 $('.text').on('focus blur', function() {
-    const red = 'rgb(226, 50, 42)';
+    const blue = 'rgb(60, 95, 150)';
     const gray = 'rgb(211, 211, 228)';
 
     window.addEventListener('keydown', indentText);
 
     // focus state toggles divider color
-    $(this).is(':focus') ? dividerIs(red) : dividerIs(gray);
+    $(this).is(':focus') ? dividerIs(blue) : dividerIs(gray);
 });
 
 // when the trash icon is clicked
