@@ -18,7 +18,10 @@ let adjectives = [
     'feckless',
     'insipid',
     'mad',
+    'mischievous',
+    'pathetic',
     'proper',
+    'right',
     'unrepentant',
     'wonky'
 ];
