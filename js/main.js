@@ -27,11 +27,14 @@ let adjectives = [
 ];
 let nouns = [
     'berk',
+    'chancer',
     'crumpet',
     'donkey',
     'donut',
     'git',
+    'guttersnipe',
     'minger',
+    'miscreant',
     'muppet',
     'ninny',
     'noodle',
