@@ -42,7 +42,10 @@ let nouns = [
     'pillock',
     'plonker',
     'prat',
+    'reprobate',
+    'tosser',
     'twit',
+    'wastrel',
     'womble'
 ];
 
