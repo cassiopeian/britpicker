@@ -23,6 +23,9 @@ let adjectives = [
     'proper',
     'right',
     'unrepentant',
+    'utter',
+    'whinging',
+    'wicked',
     'wonky'
 ];
 let nouns = [
