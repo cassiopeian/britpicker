@@ -38,6 +38,7 @@ let nouns = [
     'donut',
     'git',
     'guttersnipe',
+    'knave',
     'minger',
     'miscreant',
     'muppet',
@@ -50,6 +51,7 @@ let nouns = [
     'reprobate',
     'tosser',
     'twit',
+    'wanker',
     'wastrel',
     'womble'
 ];
