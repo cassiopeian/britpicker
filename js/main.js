@@ -35,7 +35,9 @@ let adjectives = [
 let nouns = [
     'berk',
     'chancer',
+    'chav',
     'crumpet',
+    'degenerate',
     'donkey',
     'donut',
     'git',
