@@ -148,6 +148,12 @@ function copyCat(e) {
 
     // clear the mimic array
     mimic = [];
+
+    // if each letter is deleted individually, to clear #ae text
+    if ($('#ae').html() === '') {
+        // clear any lingering first letters in the #be text
+        $('#be').html('');
+    }
 };
 
 $('#ae').on('keyup', copyCat);
