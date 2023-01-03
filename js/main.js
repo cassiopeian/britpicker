@@ -56,6 +56,7 @@ let nouns = [
     'ninny',
     'noodle',
     'numpty',
+    'nutter',
     'pillock',
     'plonker',
     'prat',
@@ -65,6 +66,7 @@ let nouns = [
     'tosser',
     'turnip',
     'twit',
+    'wally',
     'wanker',
     'wastrel',
     'womble'
