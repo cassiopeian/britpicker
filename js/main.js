@@ -60,6 +60,8 @@ let nouns = [
     'plonker',
     'prat',
     'reprobate',
+    'rotter',
+    'tit',
     'tosser',
     'turnip',
     'twit',
