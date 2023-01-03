@@ -24,6 +24,8 @@ let adjectives = [
     'insipid',
     'knackered',
     'mad',
+    'mangy',
+    'manky',
     'mischievous',
     'pathetic',
     'proper',
