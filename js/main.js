@@ -26,6 +26,8 @@ let adjectives = [
     'mad',
     'mangy',
     'manky',
+    'mardy',
+    'mewling',
     'mischievous',
     'pathetic',
     'proper',
