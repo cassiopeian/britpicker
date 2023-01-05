@@ -34,8 +34,10 @@ let adjectives = [
     'proper',
     'right',
     'sozzled',
+    'unctuous',
     'unrepentant',
     'utter',
+    'vacuous',
     'whinging',
     'wicked',
     'wonky'
