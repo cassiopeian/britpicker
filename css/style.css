@@ -243,6 +243,10 @@ aside {
     margin: 0 0 0 3px;
     cursor: pointer;
 }
+#info-icon span {
+    font-size: .8rem;
+    color: rgb(187, 221, 242);
+}
 #insult-info {
     color: rgb(255, 255, 255);
     margin: 1rem 4rem;
