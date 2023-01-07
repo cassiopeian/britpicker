@@ -248,6 +248,7 @@ aside {
     color: rgb(187, 221, 242);
 }
 #insult-info {
+    display: none;
     color: rgb(255, 255, 255);
     margin: 1rem 4rem;
 }
