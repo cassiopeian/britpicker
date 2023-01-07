@@ -231,6 +231,7 @@ aside {
 }
 #insult-generator h2 {
     color: rgb(242, 242, 247);
+    margin: 0;
 }
 #info-icon {
     display: flex;
