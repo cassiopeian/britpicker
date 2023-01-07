@@ -203,6 +203,17 @@ $('#insult-tab').on('click', function() {
     }, 2000);
 });
 
+$('#info-icon').on('click', function() {
+    // if the insult blurb is hidden
+    if ($('#insult-info').css('display') === 'none') {
+        // make it slide down
+        $('#insult-info').slideDown('slow');
+    } else {
+        // otherwise, hide it
+        $('#insult-info').css('display', 'none');
+    }
+});
+
 function generateInsultButtonText() {
     let beRude = [
         'Slag me off',
