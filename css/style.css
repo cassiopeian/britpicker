@@ -227,6 +227,7 @@ aside {
 }
 #generator-title-line {
     display: flex;
+    margin: 1rem 0;
 }
 #insult-generator h2 {
     color: rgb(242, 242, 247);
