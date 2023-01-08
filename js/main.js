@@ -209,8 +209,8 @@ $('#info-icon').on('click', function() {
         // make it slide down
         $('#insult-info').slideDown('slow');
     } else {
-        // otherwise, hide it
-        $('#insult-info').css('display', 'none');
+        // make it slide back up
+        $('#insult-info').slideUp('slow');
     }
 });
 
