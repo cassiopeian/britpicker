@@ -35,6 +35,8 @@ let adjectives = [
     'prattling',
     'proper',
     'right',
+    'shameless',
+    'sniveling',
     'sozzled',
     'unctuous',
     'unrepentant',
