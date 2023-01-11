@@ -51,11 +51,13 @@ let adjectives = [
 let nouns = [
     'berk',
     'blighter',
+    'cad',
     'chancer',
     'chav',
     'codger',
     'crumpet',
     'degenerate',
+    'dobber',
     'donkey',
     'donut',
     'duffer',
