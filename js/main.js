@@ -6,6 +6,7 @@ let nounShank = $('#noun-lock').children('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
 let mimic = [];
 let adjectives = [
+    'artless',
     'barmy',
     'bleeding',
     'blithering',
@@ -40,6 +41,7 @@ let adjectives = [
     'shameless',
     'sniveling',
     'sozzled',
+    'spotty',
     'unctuous',
     'unrepentant',
     'utter',
