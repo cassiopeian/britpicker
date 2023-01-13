@@ -60,6 +60,7 @@ let nouns = [
     'crumpet',
     'degenerate',
     'dobber',
+    'dolt',
     'donkey',
     'donut',
     'duffer',
