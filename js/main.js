@@ -78,6 +78,7 @@ let nouns = [
     'duffer',
     'gherkin',
     'git',
+    'gobshite',
     'guttersnipe',
     'harpy',
     'Hobnob',
