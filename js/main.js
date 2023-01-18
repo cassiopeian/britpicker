@@ -44,6 +44,7 @@ let adjectives = [
     'putrescent',
     'right',
     'sanctimonious',
+    'scheming',
     'shameless',
     'silly',
     'skiving',
