@@ -71,6 +71,7 @@ let nouns = [
     'chancer',
     'chav',
     'codger',
+    'cretin',
     'crumpet',
     'degenerate',
     'dobber',
