@@ -8,6 +8,7 @@ let mimic = [];
 let adjectives = [
     'artless',
     'barmy',
+    'blagging',
     'bleeding',
     'blithering',
     'bloody',
