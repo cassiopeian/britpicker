@@ -87,6 +87,7 @@ let nouns = [
     'Hobnob',
     'insect',
     'knave',
+    'knob',
     'lout',
     'minger',
     'miscreant',
