@@ -28,6 +28,7 @@ let adjectives = [
     'gormless',
     'howling',
     'insipid',
+    'jammy',
     'knackered',
     'mad',
     'mangy',
