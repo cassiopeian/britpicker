@@ -90,6 +90,7 @@ let nouns = [
     'insect',
     'knave',
     'knob',
+    'limpet',
     'lout',
     'minger',
     'miscreant',
