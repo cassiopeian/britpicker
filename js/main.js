@@ -26,6 +26,7 @@ let adjectives = [
     'feckless',
     'gobsmacked',
     'gormless',
+    'horrid',
     'howling',
     'insipid',
     'jammy',
