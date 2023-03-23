@@ -77,6 +77,7 @@ let nouns = [
     'cretin',
     'crumpet',
     'degenerate',
+    'dildo',
     'dobber',
     'dolt',
     'donkey',
