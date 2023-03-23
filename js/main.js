@@ -18,6 +18,7 @@ let adjectives = [
     'contemptible',
     'craven',
     'cursed',
+    'daffy',
     'daft',
     'depraved',
     'despicable',
