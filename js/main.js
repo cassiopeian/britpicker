@@ -17,6 +17,7 @@ let adjectives = [
     'cowardly',
     'contemptible',
     'craven',
+    'cretinous',
     'cursed',
     'daffy',
     'daft',
