@@ -66,6 +66,7 @@ let adjectives = [
     'wonky'
 ];
 let nouns = [
+    'Bedlamite',
     'bellend',
     'berk',
     'biscuit',
