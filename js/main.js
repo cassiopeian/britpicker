@@ -106,6 +106,7 @@ let nouns = [
     'nutter',
     'pillock',
     'pissant',
+    'plank',
     'plonker',
     'prat',
     'prick',
