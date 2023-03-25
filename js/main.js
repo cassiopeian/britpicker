@@ -14,6 +14,7 @@ let adjectives = [
     'bloody',
     'blooming',
     'brazen',
+    'cheeky',
     'cowardly',
     'contemptible',
     'craven',
