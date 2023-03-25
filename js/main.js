@@ -52,6 +52,7 @@ let adjectives = [
     'sanctimonious',
     'scheming',
     'shameless',
+    'shirty',
     'silly',
     'skiving',
     'sniveling',
