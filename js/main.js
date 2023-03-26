@@ -89,6 +89,7 @@ let nouns = [
     'donkey',
     'donut',
     'duffer',
+    'dunce',
     'gherkin',
     'git',
     'gobshite',
