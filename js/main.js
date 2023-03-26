@@ -104,6 +104,7 @@ let nouns = [
     'munter',
     'muppet',
     'ninny',
+    'nitwit',
     'noodle',
     'numpty',
     'nutter',
