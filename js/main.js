@@ -58,6 +58,7 @@ let adjectives = [
     'sniveling',
     'sozzled',
     'spotty',
+    'stroppy',
     'twee',
     'unctuous',
     'unrepentant',
