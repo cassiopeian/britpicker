@@ -48,6 +48,7 @@ let adjectives = [
     'prattling',
     'proper',
     'putrescent',
+    'rank',
     'right',
     'sanctimonious',
     'scheming',
