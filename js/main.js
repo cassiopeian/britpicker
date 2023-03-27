@@ -116,6 +116,7 @@ let nouns = [
     'plank',
     'plonker',
     'prat',
+    'prawn',
     'prick',
     'prig',
     'reprobate',
