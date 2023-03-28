@@ -35,6 +35,7 @@ let adjectives = [
     'insipid',
     'jammy',
     'knackered',
+    'loopy',
     'mad',
     'mangy',
     'manky',
