@@ -123,6 +123,7 @@ let nouns = [
     'reprobate',
     'rotter',
     'spanner',
+    'spiv',
     'swine',
     'tit',
     'toff',
