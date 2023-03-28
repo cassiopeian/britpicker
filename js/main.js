@@ -6,6 +6,7 @@ let nounShank = $('#noun-lock').children('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
 let mimic = [];
 let adjectives = [
+    'antisocial',
     'artless',
     'barmy',
     'blagging',
