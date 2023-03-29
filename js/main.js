@@ -118,6 +118,7 @@ let nouns = [
     'pillock',
     'pissant',
     'plank',
+    'pleb',
     'plonker',
     'prat',
     'prawn',
