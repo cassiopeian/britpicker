@@ -99,6 +99,7 @@ let nouns = [
     'gherkin',
     'git',
     'gobshite',
+    'gomeril',
     'guttersnipe',
     'harpy',
     'Hobnob',
