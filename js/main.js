@@ -34,6 +34,7 @@ let adjectives = [
     'gormless',
     'horrid',
     'howling',
+    'humdrum',
     'insipid',
     'jammy',
     'knackered',
