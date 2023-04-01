@@ -14,6 +14,7 @@ let adjectives = [
     'blithering',
     'bloody',
     'blooming',
+    'blundering',
     'bollocksed',
     'bothersome',
     'brazen',
