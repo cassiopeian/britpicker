@@ -105,6 +105,7 @@ let nouns = [
     'gobshite',
     'gomeril',
     'guttersnipe',
+    'halfwit',
     'harpy',
     'Hobnob',
     'insect',
