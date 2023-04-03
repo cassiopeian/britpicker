@@ -54,37 +54,39 @@
     <aside>
         <section id="insult-generator">
             <span class="close">✕</span>
-            <img src="./images/teed-kettle.svg" alt="Steaming teakettle with bleep-out pattern" />
-            <div id="generator-title-line">
-                <h2>Insult Generator</h2>
-                <div id="info-icon">
-                    <span>i</span>
+            <div id="generator-wrapper">
+                <img src="./images/teed-kettle.svg" alt="Steaming teakettle with bleep-out pattern" />
+                <div id="generator-title-line">
+                    <h2>Insult Generator</h2>
+                    <div id="info-icon">
+                        <span>i</span>
+                    </div>
                 </div>
+                <p id="insult-info">Looking to unleash your inner Gordon Ramsay, but unsure where to start? Click the <span class="ital">Insult Me</span> button to trigger a random insult. Once a slight is generated, the <span class="ital">Lock</span> buttons can be used to maintain one word, while the other continues to be generated.</p>
+                <div id="insult-wrapper">
+                    <button class="lock mostly-disabled" id="adjective-lock" type="button" title="Adjective Lock">
+                        <div class="shank">
+                            <span class="arc-l"></span>
+                            <span class="arc-r"></span>
+                        </div>
+                        <div class="lock-body">
+                            <span class="keyhole"></span>
+                        </div>
+                    </button>
+                    <div id="insult"></div>
+                    <button class="lock mostly-disabled" id="noun-lock" type="button" title="Noun Lock">
+                        <div class="shank">
+                            <span class="arc-l"></span>
+                            <span class="arc-r"></span>
+                        </div>
+                        <div class="lock-body">
+                            <span class="keyhole"></span>
+                        </div>
+                    </button>
+                </div>
+                <button id="insult-me" type="button">Insult Me</button>
+                <div id="lock-alert">Click Me First</div>
             </div>
-            <p id="insult-info">Looking to unleash your inner Gordon Ramsay, but unsure where to start? Click the <span class="ital">Insult Me</span> button to trigger a random insult. Once a slight is generated, the <span class="ital">Lock</span> buttons can be used to maintain one word, while the other continues to be generated.</p>
-            <div id="insult-wrapper">
-                <button class="lock mostly-disabled" id="adjective-lock" type="button" title="Adjective Lock">
-                    <div class="shank">
-                        <span class="arc-l"></span>
-                        <span class="arc-r"></span>
-                    </div>
-                    <div class="lock-body">
-                        <span class="keyhole"></span>
-                    </div>
-                </button>
-                <div id="insult"></div>
-                <button class="lock mostly-disabled" id="noun-lock" type="button" title="Noun Lock">
-                    <div class="shank">
-                        <span class="arc-l"></span>
-                        <span class="arc-r"></span>
-                    </div>
-                    <div class="lock-body">
-                        <span class="keyhole"></span>
-                    </div>
-                </button>
-            </div>
-            <button id="insult-me" type="button">Insult Me</button>
-            <div id="lock-alert">Click Me First</div>
         </section>
         <div id="insult-tab" title="Insult Generator">
             <img src="./images/teacup.svg" alt="Gray teacup with bleep-out pattern" />
