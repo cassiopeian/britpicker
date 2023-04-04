@@ -260,6 +260,7 @@ aside {
     margin: 1rem 4rem;
 }
 #add-insult {
+    visibility: hidden;
     display: flex;
     align-items: center;
     justify-content: space-between;
