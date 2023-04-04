@@ -359,6 +359,9 @@ $('#insult-me').on('click', function() {
     
     // enable the lock buttons, if an insult has been generated
     $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('.lock').addClass('mostly-disabled') : $('.lock').removeClass('mostly-disabled');
+
+    // display the like button, if an insult has been generated
+    $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('#add-insult').css('visibility', 'hidden') : $('#add-insult').css('visibility', 'visible');
 });
 
 $('#insult-generator .close').on('click', function() {
