@@ -279,6 +279,12 @@ aside {
     height: 20px;
     margin: 0;
 }
+#add-insult span {
+    background-color: rgb(14, 38, 86);
+    height: 20px;
+    width: 2px;
+    margin: 0 0.5rem;
+}
 #insult-wrapper {
     display: flex;
     align-items: center;
