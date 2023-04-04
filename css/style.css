@@ -270,6 +270,11 @@ aside {
     padding: 0.3rem 0.5rem;
     cursor: pointer;
 }
+@media (hover: hover) {
+    #add-insult:hover {
+        background-color: rgb(12, 33, 67);
+    }
+}
 #insult-wrapper {
     display: flex;
     align-items: center;
