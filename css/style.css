@@ -275,6 +275,10 @@ aside {
         background-color: rgb(12, 33, 67);
     }
 }
+#add-insult img {
+    height: 20px;
+    margin: 0;
+}
 #insult-wrapper {
     display: flex;
     align-items: center;
