@@ -407,6 +407,12 @@ aside {
     border-radius: 5px;
     cursor: default;
 }
+#favorite-insults {
+    display: none;
+    background-color: rgb(12, 33, 67);
+    width: 100%;
+    padding: 1rem;
+}
 #insult-tab {
     display: flex;
     align-items: center;
