@@ -414,6 +414,10 @@ aside {
     width: 100%;
     padding: 1rem;
 }
+#favorite-insults li {
+    color: rgb(187, 221, 242);
+    letter-spacing: .02rem;
+}
 #insult-tab {
     display: flex;
     align-items: center;
