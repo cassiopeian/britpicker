@@ -416,6 +416,10 @@ aside {
     padding: 1rem;
     overflow: scroll;
 }
+#favorite-insults ol {
+    display: flex;
+    flex-wrap: wrap;
+}
 #favorite-insults li {
     color: rgb(187, 221, 242);
     letter-spacing: .02rem;
