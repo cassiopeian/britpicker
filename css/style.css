@@ -421,6 +421,7 @@ aside {
     flex-wrap: wrap;
 }
 #favorite-insults li {
+    flex-basis: 33.333333%;
     color: rgb(187, 221, 242);
     letter-spacing: .02rem;
 }
