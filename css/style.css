@@ -412,7 +412,9 @@ aside {
     display: none;
     background-color: rgb(12, 33, 67);
     width: 100%;
+    max-height: 117.5px;
     padding: 1rem;
+    overflow: scroll;
 }
 #favorite-insults li {
     color: rgb(187, 221, 242);
