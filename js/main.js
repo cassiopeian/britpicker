@@ -412,3 +412,13 @@ $('.lock').on('click', function() {
 
 // make the keyholes match the lock buttons' backgrounds
 $('.keyhole').css('backgroundColor', lockBgColor);
+
+$('#add-insult').on('click', function() {
+    let currentInsult = $('#insult').text();
+
+    // add the liked insult to the favorites list
+    $('#favorite-insults ol').append(`<li>${currentInsult}</li>`);
+
+    // display the favorites list
+    $('#favorite-insults').css('display', 'block');
+});
