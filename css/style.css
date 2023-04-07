@@ -546,5 +546,8 @@ footer {
     #insult {
         width: 64%;
     }
+    #favorite-insults ol {
+        display: block;
+    }
 
 }
