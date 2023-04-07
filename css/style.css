@@ -483,6 +483,15 @@ footer {
     }
 }
 
+@media only screen and (max-width: 930px) {
+    
+    /* ASIDE */
+
+    #favorite-insults li {
+        flex-basis: 50%;
+    }
+}
+
 @media only screen and (max-width: 750px) {
 
     /* ASIDE */
