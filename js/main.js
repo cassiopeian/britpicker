@@ -48,6 +48,7 @@ let adjectives = [
     'mewling',
     'misbegotten',
     'mischievous',
+    'miserable',
     'naff',
     'pathetic',
     'petulant',
