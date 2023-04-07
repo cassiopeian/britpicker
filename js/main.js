@@ -149,6 +149,7 @@ let nouns = [
     'villain',
     'wally',
     'wanker',
+    'wankstain',
     'wastrel',
     'womble'
 ];
