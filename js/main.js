@@ -139,6 +139,7 @@ let nouns = [
     'spanner',
     'strumpet',
     'spiv',
+    'squirrel',
     'swine',
     'tit',
     'toff',
