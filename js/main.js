@@ -31,6 +31,7 @@ let adjectives = [
     'dodgy',
     'faffing',
     'feckless',
+    'ghastly',
     'gobsmacked',
     'gormless',
     'horrid',
