@@ -440,6 +440,9 @@ aside {
     height: 100%;
     width: 27px;
 }
+#insult-nav img {
+    width: 10px;
+}
 #insult-tab {
     display: flex;
     align-items: center;
