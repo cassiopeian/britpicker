@@ -424,5 +424,5 @@ $('#add-insult').on('click', function() {
     $('#favorite-insults ol').append(`<li>${currentInsult}</li>`);
 
     // display the favorites list
-    $('#favorite-insults').css('display', 'block');
+    $('#favorite-insults').css('display', 'flex');
 });
