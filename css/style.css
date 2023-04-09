@@ -432,6 +432,14 @@ aside {
     color: rgb(187, 221, 242);
     letter-spacing: .02rem;
 }
+#insult-nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    height: 100%;
+    width: 27px;
+}
 #insult-tab {
     display: flex;
     align-items: center;
