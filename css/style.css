@@ -443,6 +443,9 @@ aside {
 #insult-nav img {
     width: 10px;
 }
+#up-arrow {
+    transform: rotate(180deg);
+}
 #insult-tab {
     display: flex;
     align-items: center;
