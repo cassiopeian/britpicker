@@ -428,6 +428,15 @@ $('#add-insult').on('click', function() {
     $('#favorite-insults').css('display', 'flex');
 });
 
+$('#up-arrow').on('click', function() {
+    // scroll up through the insult list
+    insultList.scrollBy({
+        top: -80,
+        left: 0,
+        behavior: 'smooth'
+    });
+});
+
 $('#down-arrow').on('click', function() {
     // scroll down through the insult list
     insultList.scrollBy({
