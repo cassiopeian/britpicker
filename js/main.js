@@ -4,6 +4,7 @@ let insultNoun = $('<p></p>');
 let adjShank = $('#adjective-lock').children('.shank');
 let nounShank = $('#noun-lock').children('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
+let insultList = document.getElementById('insult-list');
 let mimic = [];
 let adjectives = [
     'antisocial',
@@ -425,4 +426,13 @@ $('#add-insult').on('click', function() {
 
     // display the favorites list
     $('#favorite-insults').css('display', 'flex');
+});
+
+$('#down-arrow').on('click', function() {
+    // scroll down through the insult list
+    insultList.scrollBy({
+        top: 80,
+        left: 0,
+        behavior: 'smooth'
+    });
 });
