@@ -432,6 +432,11 @@ aside {
     color: rgb(187, 221, 242);
     letter-spacing: .02rem;
 }
+#favorite-insults li::marker {
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(246, 97, 90);
+}
 #insult-nav {
     display: flex;
     flex-direction: column;
