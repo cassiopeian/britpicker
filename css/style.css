@@ -451,6 +451,11 @@ aside {
     padding: 0.5rem;
     cursor: pointer;
 }
+@media (hover: hover) {
+    #insult-nav button:hover {
+        opacity: .5;
+    }
+}
 #insult-nav img {
     width: 10px;
 }
