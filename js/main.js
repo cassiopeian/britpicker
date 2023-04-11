@@ -54,6 +54,7 @@ let adjectives = [
     'naff',
     'pathetic',
     'petulant',
+    'posh',
     'poxy',
     'prattling',
     'proper',
