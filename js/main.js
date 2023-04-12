@@ -20,6 +20,7 @@ let adjectives = [
     'bothersome',
     'brazen',
     'cheeky',
+    'complete',
     'contemptible',
     'cowardly',
     'craven',
