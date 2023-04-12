@@ -118,6 +118,7 @@ let nouns = [
     'knob',
     'limpet',
     'lout',
+    'lush',
     'minger',
     'miscreant',
     'munter',
