@@ -428,6 +428,12 @@ $('#add-insult').on('click', function() {
 
     // display the favorites list
     $('#favorite-insults').css('display', 'flex');
+
+    // if there is overflow, and the scrollbar exists
+    if (insultList.offsetHeight < insultList.scrollHeight) {
+        // make the nav arrows visible
+        $('#insult-nav').css('visibility', 'visible');
+    }
 });
 
 $('#up-arrow').on('click', function() {
