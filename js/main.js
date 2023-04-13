@@ -21,6 +21,7 @@ let adjectives = [
     'bothersome',
     'brazen',
     'cheeky',
+    'clumsy',
     'complete',
     'contemptible',
     'cowardly',
