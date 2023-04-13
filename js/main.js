@@ -118,6 +118,7 @@ let nouns = [
     'insect',
     'knave',
     'knob',
+    'knobhead',
     'limpet',
     'lout',
     'lush',
