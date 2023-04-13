@@ -7,6 +7,7 @@ let lockBgColor = $('.lock').css('backgroundColor');
 let insultList = document.getElementById('insult-list');
 let mimic = [];
 let adjectives = [
+    'absolute',
     'antisocial',
     'artless',
     'barmy',
