@@ -20,6 +20,7 @@ let adjectives = [
     'bollocksed',
     'bothersome',
     'brazen',
+    'bumbling',
     'cheeky',
     'clumsy',
     'complete',
