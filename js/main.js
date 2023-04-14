@@ -165,7 +165,8 @@ let nouns = [
     'wanker',
     'wankstain',
     'wastrel',
-    'womble'
+    'womble',
+    'yokel'
 ];
 
 $(window).on('load', function() {
