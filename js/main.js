@@ -133,6 +133,7 @@ let nouns = [
     'noodle',
     'numpty',
     'nutter',
+    'oaf',
     'offender',
     'pillock',
     'pissant',
