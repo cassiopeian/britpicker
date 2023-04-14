@@ -62,6 +62,7 @@ let adjectives = [
     'poxy',
     'prattling',
     'proper',
+    'provincial',
     'putrescent',
     'rank',
     'right',
