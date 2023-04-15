@@ -139,6 +139,7 @@ let nouns = [
     'nutter',
     'oaf',
     'offender',
+    'philistine',
     'pillock',
     'pissant',
     'plank',
