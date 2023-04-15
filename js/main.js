@@ -118,6 +118,7 @@ let nouns = [
     'halfwit',
     'harpy',
     'Hobnob',
+    'hooligan',
     'insect',
     'knave',
     'knob',
