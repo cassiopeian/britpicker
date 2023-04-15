@@ -82,6 +82,7 @@ let adjectives = [
     'unrepentant',
     'utter',
     'vacuous',
+    'vulgar',
     'wee',
     'whinging',
     'wicked',
