@@ -42,6 +42,7 @@ let adjectives = [
     'horrid',
     'howling',
     'humdrum',
+    'inept',
     'insipid',
     'interfering',
     'jammy',
