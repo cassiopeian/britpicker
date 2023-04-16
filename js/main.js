@@ -92,6 +92,7 @@ let adjectives = [
     'wonky'
 ];
 let nouns = [
+    'barbarian',
     'Bedlamite',
     'bellend',
     'berk',
