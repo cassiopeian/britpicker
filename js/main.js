@@ -32,6 +32,7 @@ let adjectives = [
     'cursed',
     'daffy',
     'daft',
+    'dense',
     'depraved',
     'despicable',
     'dodgy',
