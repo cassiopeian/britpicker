@@ -175,6 +175,7 @@ let nouns = [
     'wankstain',
     'wastrel',
     'womble',
+    'yob',
     'yokel'
 ];
 
