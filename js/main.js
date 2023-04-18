@@ -160,6 +160,7 @@ let nouns = [
     'prig',
     'reprobate',
     'rotter',
+    'ruffian',
     'sot',
     'spanner',
     'strumpet',
