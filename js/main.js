@@ -12,6 +12,7 @@ let adjectives = [
     'artless',
     'barmy',
     'blagging',
+    'blasted',
     'bleeding',
     'blithering',
     'bloody',
