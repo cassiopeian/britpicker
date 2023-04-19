@@ -162,6 +162,7 @@ let nouns = [
     'reprobate',
     'rotter',
     'ruffian',
+    'sarnie',
     'sot',
     'spanner',
     'strumpet',
