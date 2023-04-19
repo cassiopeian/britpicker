@@ -81,6 +81,7 @@ let adjectives = [
     'skint',
     'skiving',
     'sniveling',
+    'soggy',
     'sozzled',
     'spotty',
     'stroppy',
