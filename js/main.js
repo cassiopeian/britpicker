@@ -136,6 +136,7 @@ let nouns = [
     'knave',
     'knob',
     'knobhead',
+    'laggard',
     'limpet',
     'lout',
     'lummox',
