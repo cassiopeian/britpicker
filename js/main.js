@@ -36,6 +36,7 @@ let adjectives = [
     'dense',
     'depraved',
     'despicable',
+    'dithering',
     'dodgy',
     'faffing',
     'feckless',
