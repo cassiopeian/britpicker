@@ -178,6 +178,7 @@ let nouns = [
     'spiv',
     'squirrel',
     'swine',
+    'swot',
     'tit',
     'toff',
     'tosser',
