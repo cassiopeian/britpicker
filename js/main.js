@@ -109,6 +109,7 @@ let nouns = [
     'blackguard',
     'blighter',
     'bollard',
+    'braggart',
     'butty',
     'cad',
     'chancer',
