@@ -44,6 +44,7 @@ let adjectives = [
     'ghastly',
     'gobsmacked',
     'gormless',
+    'hapless',
     'horrid',
     'howling',
     'humdrum',
