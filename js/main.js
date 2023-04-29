@@ -112,6 +112,7 @@ let nouns = [
     'biscuit',
     'blackguard',
     'blighter',
+    'boffin',
     'bollard',
     'braggart',
     'butty',
