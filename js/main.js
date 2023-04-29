@@ -59,6 +59,7 @@ let adjectives = [
     'manky',
     'mardy',
     'mewling',
+    'middling',
     'misbegotten',
     'mischievous',
     'miserable',
