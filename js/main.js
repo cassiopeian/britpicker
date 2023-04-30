@@ -123,6 +123,7 @@ let nouns = [
     'codger',
     'cretin',
     'crumpet',
+    'cuddy',
     'degenerate',
     'dildo',
     'dobber',
