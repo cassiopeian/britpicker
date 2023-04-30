@@ -120,6 +120,7 @@ let nouns = [
     'butty',
     'cad',
     'chancer',
+    'charlie',
     'chav',
     'codger',
     'cretin',
