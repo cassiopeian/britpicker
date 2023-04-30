@@ -78,6 +78,7 @@ let adjectives = [
     'putrescent',
     'rank',
     'right',
+    'rubbish',
     'rustic',
     'sanctimonious',
     'scheming',
