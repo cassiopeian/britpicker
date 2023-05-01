@@ -40,6 +40,7 @@ let adjectives = [
     'dodgy',
     'faffing',
     'feckless',
+    'frivolous',
     'fussy',
     'gammy',
     'ghastly',
