@@ -147,6 +147,7 @@ let nouns = [
     'guttersnipe',
     'halfwit',
     'harpy',
+    'hobgoblin',
     'Hobnob',
     'hooligan',
     'inebriate',
