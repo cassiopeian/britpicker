@@ -78,6 +78,7 @@ let adjectives = [
     'proper',
     'provincial',
     'putrescent',
+    'quarrelsome',
     'rank',
     'right',
     'rubbish',
