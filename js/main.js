@@ -95,6 +95,7 @@ let adjectives = [
     'spotty',
     'stroppy',
     'thick',
+    'tightfisted',
     'tragic',
     'twee',
     'unctuous',
