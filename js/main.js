@@ -160,6 +160,7 @@ let nouns = [
     'lush',
     'minger',
     'miscreant',
+    'miser',
     'mug',
     'munter',
     'muppet',
