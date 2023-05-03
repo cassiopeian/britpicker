@@ -135,6 +135,7 @@ let nouns = [
     'crumpet',
     'cuddy',
     'degenerate',
+    'delinquent',
     'dildo',
     'dobber',
     'dolt',
