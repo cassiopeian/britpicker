@@ -199,6 +199,7 @@ let nouns = [
     'strumpet',
     'spiv',
     'squirrel',
+    'substitute',
     'swine',
     'swot',
     'tit',
