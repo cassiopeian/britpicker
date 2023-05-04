@@ -59,6 +59,7 @@ let adjectives = [
     'knackered',
     'loopy',
     'mad',
+    'maggoty',
     'mangy',
     'manky',
     'mardy',
