@@ -202,6 +202,7 @@ let nouns = [
     'substitute',
     'swine',
     'swot',
+    'sycophant',
     'tit',
     'toff',
     'tosser',
