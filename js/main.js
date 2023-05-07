@@ -123,6 +123,7 @@ let nouns = [
     'berk',
     'biscuit',
     'blackguard',
+    'bleeder',
     'blighter',
     'blowhard',
     'boffin',
