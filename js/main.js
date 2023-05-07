@@ -47,6 +47,7 @@ let adjectives = [
     'fussy',
     'gammy',
     'ghastly',
+    'gobby',
     'gobsmacked',
     'gormless',
     'hapless',
