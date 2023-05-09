@@ -404,6 +404,9 @@ function generateInsult() {
 };
 
 $('#insult-me').on('click', function() {
+    //retain a copy of the previous insult
+    let prevInsult = $('#insult').html();
+
     if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === false) {
         // reset the noun's starting position and clear the word
         $(insultNoun).css('top', '-2.3rem').detach();
@@ -424,6 +427,8 @@ $('#insult-me').on('click', function() {
     generateInsultButtonText();
 
     generateInsult();
+
+    console.log(prevInsult);
 
     // make the insult slide into view
     $('#insult p, #insult span').animate({
