@@ -276,7 +276,7 @@ aside {
     cursor: pointer;
 }
 @media (hover: hover) {
-    #add-insult:hover {
+    #fav-buttons-wrapper button:hover {
         background-color: rgb(12, 33, 67);
     }
 }
