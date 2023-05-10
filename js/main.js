@@ -1,3 +1,4 @@
+let prevInsult;
 let insultAdj = $('<p></p>');
 let space = $('<span>&nbsp;</span>');
 let insultNoun = $('<p></p>');
@@ -405,7 +406,7 @@ function generateInsult() {
 
 $('#insult-me').on('click', function() {
     //retain a copy of the previous insult
-    let prevInsult = $('#insult').html();
+    prevInsult = $('#insult').html();
 
     if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === false) {
         // reset the noun's starting position and clear the word
