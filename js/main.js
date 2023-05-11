@@ -496,14 +496,19 @@ $('.lock').on('click', function() {
 $('.keyhole').css('backgroundColor', lockBgColor);
 
 $('#prev-arrow').on('click', function() {
-    // reset the insult's starting position
-    $('#insult p, #insult span').css('top', '-2.3rem');
-        
-    // clear current insult
-    $('#insult').html('');
-
-    // display the previous insult in the #insult div
-    $('#insult').append(prevInsult);
+    // prevent prev, if a lock is engaged
+    if (adjShank.hasClass('locked') === true || nounShank.hasClass('locked') === true) {
+        return;
+    } else {
+        // reset the insult's starting position
+        $('#insult p, #insult span').css('top', '-2.3rem');
+            
+        // clear current insult
+        $('#insult').html('');
+    
+        // display the previous insult in the #insult div
+        $('#insult').append(prevInsult);
+    }
 });
 
 $('#add-insult').on('click', function() {
