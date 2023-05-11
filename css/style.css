@@ -278,6 +278,7 @@ aside {
     border-radius: 8px;
     padding: 0.3rem 0.5rem;
     margin: 0 0 0 10px;
+    height: 33.59px; /* for the shorter arrow */
     cursor: pointer;
 }
 @media (hover: hover) {
