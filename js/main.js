@@ -179,6 +179,7 @@ let nouns = [
     'muppet',
     'ninny',
     'nitwit',
+    'nob',
     'noodle',
     'numpty',
     'nutter',
