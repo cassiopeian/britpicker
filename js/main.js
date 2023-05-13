@@ -501,6 +501,8 @@ $('#prev-arrow').on('click', function() {
     // prevent prev, if a lock is engaged
     if (adjShank.hasClass('locked') === true || nounShank.hasClass('locked') === true) {
         return;
+    } else if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === true) {
+        return;
     } else {
         // reset the insult's starting position
         $('#insult p, #insult span').css('top', '-2.3rem');
