@@ -382,8 +382,14 @@ function generateInsultButtonText() {
     let i = Math.floor(Math.random() * beRude.length);
     let randomInsultButtonText = beRude[i];
 
-    // update the insult button's text
-    $('#insult-me').html(randomInsultButtonText);
+    // if both locks are engaged
+    if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === true) {
+        // stet the button text
+        return;
+    } else {
+        // update the insult button's text
+        $('#insult-me').html(randomInsultButtonText);
+    }
 };
 
 function generateInsult() {
