@@ -342,6 +342,12 @@ aside {
 .mostly-disabled {
     opacity: 0.5;
 }
+.lock-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
 .shank {
     display: flex;
     transform-origin: right;
