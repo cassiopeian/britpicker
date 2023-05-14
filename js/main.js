@@ -2,8 +2,8 @@ let prevInsult;
 let insultAdj = $('<p></p>');
 let space = $('<span>&nbsp;</span>');
 let insultNoun = $('<p></p>');
-let adjShank = $('#adjective-lock').children('.shank');
-let nounShank = $('#noun-lock').children('.shank');
+let adjShank = $('#adjective-lock').find('.shank');
+let nounShank = $('#noun-lock').find('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
 let insultList = document.getElementById('insult-list');
 let mimic = [];
@@ -470,11 +470,11 @@ function padlockColor(sel, color) {
     $(sel).find('.arc-l, .arc-r').css('borderColor', color);
 
     // update the lock body color
-    $(sel).children('.lock-body').css('backgroundColor', color);
+    $(sel).find('.lock-body').css('backgroundColor', color);
 };
 
 $('.lock').on('click', function() {
-    let thisShank = $(this).children('.shank');
+    let thisShank = $(this).find('.shank');
     let gray = 'rgb(191, 191, 197)';
     let red = 'rgb(226, 50, 42)';
 
