@@ -459,6 +459,11 @@ $('#insult-me').on('click', function() {
     $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('#add-insult').css('visibility', 'hidden') : $('#add-insult').css('visibility', 'visible');
 });
 
+$('.lock-wrapper').on('animationend', function() {
+    // remove the class, when the locks stop jiggling
+    $(this).removeClass('lock-dance');
+});
+
 $('#insult-generator .close').on('click', function() {
     let windowWidth = $(window).width();
 
