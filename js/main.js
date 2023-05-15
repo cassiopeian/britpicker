@@ -427,6 +427,9 @@ $('#insult-me').on('click', function() {
     } else if (adjShank.hasClass('locked') === true && nounShank.hasClass('locked') === true) {
         // hold both words, if both locks are engaged
         $(insultAdj, insultNoun).css('top', '0px');
+
+        // jiggle the locks
+        $('.lock-wrapper').addClass('lock-dance');
     } else {
         // reset the insult's starting position
         $('#insult p, #insult span').css('top', '-2.3rem');
