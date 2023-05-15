@@ -328,6 +328,10 @@ aside {
     position: relative;
     top: -2.3rem;
 }
+.lock-dance {
+    -webkit-animation: lock-dance 2s ease-in-out;
+    animation: lock-dance 2s ease-in-out;
+}
 .lock {
     display: flex;
     align-items: center;
