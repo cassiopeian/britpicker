@@ -329,8 +329,8 @@ aside {
     top: -2.3rem;
 }
 .lock-dance {
-    -webkit-animation: lock-dance 2s ease-in-out;
-    animation: lock-dance 2s ease-in-out;
+    -webkit-animation: lock-dance .5s ease-in-out 5 alternate;
+    animation: lock-dance .5s ease-in-out 5 alternate;
 }
 @-webkit-keyframes lock-dance {
     0% {transform: rotateZ( 0deg);}
