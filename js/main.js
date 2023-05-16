@@ -428,6 +428,9 @@ $('#insult-me').on('click', function() {
         // jiggle the locks
         $('.lock-wrapper').addClass('lock-dance');
 
+        // make the insult me button flash red
+        $('#insult-me').addClass('red-flash');
+
         // hold both words, if both locks are engaged
         return;
     } else {
