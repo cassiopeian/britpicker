@@ -467,6 +467,11 @@ $('.lock-wrapper').on('animationend', function() {
     $(this).removeClass('lock-dance');
 });
 
+$('#insult-me').on('animationend', function() {
+    // remove the class, when the red flash ends
+    $(this).removeClass('red-flash');
+});
+
 $('#insult-generator .close').on('click', function() {
     let windowWidth = $(window).width();
 
