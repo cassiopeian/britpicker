@@ -400,6 +400,10 @@ aside {
     width: 0.2rem;
     border-radius: 2px;
 }
+.red-flash {
+    -webkit-animation: red-flash 1.5s ease-in-out;
+    animation: red-flash 1.5s ease-in-out;
+}
 #insult-me {
     display: block;
     font-weight: 700;
