@@ -543,7 +543,7 @@ $('#add-insult').on('click', function() {
     let currentInsult = $('#insult').text();
 
     // add the liked insult to the favorites list
-    $('#favorite-insults ol').append(`<li>${currentInsult}</li>`);
+    $('#favorite-insults ol').append(`<li>${currentInsult} <button class="delete-insult" type="button"><span>✕</span></button></li>`);
 
     // display the favorites list
     $('#favorite-insults').css('display', 'flex');
