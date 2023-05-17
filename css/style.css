@@ -479,6 +479,22 @@ aside {
     font-weight: bold;
     color: rgb(246, 97, 90);
 }
+.delete-insult {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    font-weight: bold;
+    color: rgb(242, 242, 247);
+    background-color: rgba(246, 97, 90, .65);
+    border: none;
+    border-radius: 50px;
+    height: 15px;
+    width: 15px;
+    margin: 0 0 0 4px;
+    vertical-align: 2px;
+    cursor: pointer;
+}
 #insult-nav {
     display: flex;
     visibility: hidden;
