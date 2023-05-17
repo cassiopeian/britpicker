@@ -89,6 +89,7 @@ let adjectives = [
     'quarrelsome',
     'randy',
     'rank',
+    'rat-arsed',
     'right',
     'rubbish',
     'rustic',
