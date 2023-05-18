@@ -105,6 +105,7 @@ let adjectives = [
     'soggy',
     'sozzled',
     'spotty',
+    'squidgy',
     'stroppy',
     'thick',
     'tightfisted',
