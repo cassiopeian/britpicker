@@ -161,6 +161,7 @@ let nouns = [
     'gomeril',
     'guttersnipe',
     'halfwit',
+    'harlot',
     'harpy',
     'hobgoblin',
     'Hobnob',
