@@ -97,6 +97,7 @@ let adjectives = [
     'scheming',
     'shameless',
     'shirty',
+    'shite',
     'silly',
     'skint',
     'skiving',
