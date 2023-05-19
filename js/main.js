@@ -117,6 +117,7 @@ let adjectives = [
     'vacuous',
     'vulgar',
     'wee',
+    'wet',
     'whinging',
     'wicked',
     'wittering',
