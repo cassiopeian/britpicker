@@ -164,6 +164,7 @@ let nouns = [
     'halfwit',
     'harlot',
     'harpy',
+    'hobbit',
     'hobgoblin',
     'Hobnob',
     'hooligan',
