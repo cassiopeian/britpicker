@@ -119,6 +119,7 @@ let adjectives = [
     'wee',
     'whinging',
     'wicked',
+    'wittering',
     'wonky'
 ];
 let nouns = [
