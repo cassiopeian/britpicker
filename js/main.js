@@ -26,6 +26,7 @@ let adjectives = [
     'brazen',
     'bumbling',
     'cheeky',
+    'clapped-out',
     'clumsy',
     'complete',
     'contemptible',
