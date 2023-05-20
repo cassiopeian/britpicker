@@ -145,6 +145,7 @@ let nouns = [
     'chav',
     'clod',
     'codger',
+    'coupon',
     'cretin',
     'crumpet',
     'cuddy',
