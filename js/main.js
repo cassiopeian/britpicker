@@ -53,6 +53,7 @@ let adjectives = [
     'gobby',
     'gobsmacked',
     'gormless',
+    'grafting',
     'hapless',
     'horrid',
     'howling',
