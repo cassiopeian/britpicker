@@ -586,3 +586,8 @@ $('#down-arrow').on('click', function() {
         behavior: 'smooth'
     });
 });
+
+$(document).on('click', '.delete-insult', function() {
+    // delete the selected insult from the favorites list
+    $(this).parent('li').remove();
+});
