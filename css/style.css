@@ -473,6 +473,7 @@ aside {
     flex-basis: 33.333333%;
     color: rgb(187, 221, 242);
     letter-spacing: .02rem;
+    margin: 0 0 0.5rem 0;
 }
 #favorite-insults li::marker {
     font-size: 14px;
