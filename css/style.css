@@ -593,6 +593,13 @@ aside {
         color: rgba(163, 159, 153, 0.75);
     }
 }
+#confirmation-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 0 1rem 1rem 1rem;
+}
 
 /* FOOTER */
 
