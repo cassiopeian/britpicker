@@ -612,6 +612,9 @@ aside {
     margin: 0;
     cursor: pointer;
 }
+#no-del {
+    background-color: rgb(133, 133, 136);
+}
 
 /* FOOTER */
 
