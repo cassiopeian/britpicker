@@ -581,6 +581,18 @@ aside {
     margin: 0 auto;
     padding: .5rem;
 }
+#close-modal {
+    align-self: end;
+    font-size: 1.1rem;
+    color: rgb(163, 159, 153);
+    margin: 0;
+    cursor: pointer;
+}
+@media (hover:hover) {
+    #close-modal:hover {
+        color: rgba(163, 159, 153, 0.75);
+    }
+}
 
 /* FOOTER */
 
