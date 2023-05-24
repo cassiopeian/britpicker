@@ -583,7 +583,9 @@ aside {
     padding: .5rem;
 }
 #close-modal {
-    align-self: end;
+    position: absolute;
+    top: 0.8rem;
+    right: 1rem;
     font-size: 1.1rem;
     color: rgb(163, 159, 153);
     margin: 0;
