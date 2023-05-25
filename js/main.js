@@ -591,3 +591,8 @@ $(document).on('click', '.delete-insult', function() {
     // display the #deletion-confirmation popup
     $('#modal').css('display', 'block');
 });
+
+$('#close-modal, #no-del').on('click', function() {
+    // close the #deletion-confirmation popup
+    $('#modal').css('display', 'none');
+});
