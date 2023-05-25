@@ -588,6 +588,6 @@ $('#down-arrow').on('click', function() {
 });
 
 $(document).on('click', '.delete-insult', function() {
-    // delete the selected insult from the favorites list
-    $(this).parent('li').remove();
+    // display the #deletion-confirmation popup
+    $('#modal').css('display', 'block');
 });
