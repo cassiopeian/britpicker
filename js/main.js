@@ -1,3 +1,4 @@
+let xi;
 let prevInsult;
 let insultAdj = $('<p></p>');
 let space = $('<span>&nbsp;</span>');
@@ -588,6 +589,12 @@ $('#down-arrow').on('click', function() {
 });
 
 $(document).on('click', '.delete-insult', function() {
+    // create an array of red delete buttons
+    let xsArr = Array.from($('.delete-insult'));
+    
+    // get the index of the clicked delete button
+    xi = xsArr.indexOf(this);
+
     // display the #deletion-confirmation popup
     $('#modal').css('display', 'block');
 });
