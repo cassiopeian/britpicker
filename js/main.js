@@ -603,3 +603,13 @@ $('#close-modal, #no-del').on('click', function() {
     // close the #deletion-confirmation popup
     $('#modal').css('display', 'none');
 });
+
+$('#yes-del').on('click', function() {
+    let xs = $('.delete-insult');
+
+    // delete the parent li of the clicked delete button
+    xs[xi].parentElement.remove();
+
+    // close the #deletion-confirmation popup
+    $('#modal').css('display', 'none');
+});
