@@ -596,7 +596,7 @@ $(document).on('click', '.delete-insult', function() {
     xi = xsArr.indexOf(this);
 
     // display the #deletion-confirmation popup
-    $('#modal').css('display', 'block');
+    $('#modal').css('display', 'flex');
 });
 
 $('#close-modal, #no-del').on('click', function() {
