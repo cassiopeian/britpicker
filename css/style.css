@@ -563,7 +563,6 @@ aside {
     display: none;
     position: fixed;
     z-index: 3;
-    padding: 25% 0 0 0;
     left: 0;
     top: 0;
     width: 100%;
