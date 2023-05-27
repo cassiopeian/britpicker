@@ -602,6 +602,12 @@ $(document).on('click', '.delete-insult', function() {
     // get the index of the clicked delete button
     xi = xsArr.indexOf(this);
 
+    // get the insult from the p tag "prev" to "this" selected button
+    let unwantedInsult = $(this).prev().text();
+
+    // add the unwanted insult to the confirmation message
+    $('#deletion-confirmation p').text(`Delete ${unwantedInsult}?`);
+
     // display the #deletion-confirmation popup
     $('#modal').css('display', 'flex');
 });
