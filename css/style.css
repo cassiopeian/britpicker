@@ -602,6 +602,18 @@ aside {
         color: rgba(163, 159, 153, 0.75);
     }
 }
+#deletion-exclamation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 600;
+    color: rgb(226, 50, 42);
+    height: 30px;
+    width: 30px;
+    border: 2px solid rgb(226, 50, 42);
+    border-radius: 50px;
+    margin: 1rem 0 0 0;
+}
 .del-btn {
     font-weight: 700;
     font-size: .7rem;
