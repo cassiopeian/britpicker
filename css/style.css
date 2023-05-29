@@ -213,7 +213,7 @@ aside {
     position: fixed;
     z-index: 2;
     top: 10%;
-    width: 100%;
+    width: fit-content;
     right: calc(100% - 50px);
 }
 #insult-generator {
