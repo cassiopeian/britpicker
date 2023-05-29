@@ -219,7 +219,6 @@ aside {
 #insult-generator {
     position: relative;
     background-color: rgb(10, 28, 56);
-    border-radius: 0 4px 4px 0;
     padding: 1rem;
     width: 100vw;
     height: 100%;
