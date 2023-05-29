@@ -364,7 +364,7 @@ $('#toggle-dialects').on('click', function() {
 $('#insult-tab').on('click', function() {
     // open the insult generator
     $('aside').animate({
-        right: 0
+        right: '-50px'
     }, 2000);
 });
 
