@@ -276,6 +276,9 @@ table {
 td {
     padding: 0 0 0 0.5rem;
 }
+table p {
+    margin: .2rem;
+}
 #insult-info img {
     display: block;
     height: 23px;
