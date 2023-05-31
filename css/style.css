@@ -264,6 +264,12 @@ aside {
     color: rgb(255, 255, 255);
     margin: 1rem 4rem;
 }
+#insult-info img {
+    display: block;
+    height: 23px;
+    max-width: 22.94px;
+    margin: 0 auto;
+}
 #fav-buttons-wrapper {
     display: flex;
     align-items: center;
