@@ -273,6 +273,9 @@ table {
     border-color: rgb(187, 221, 242);
     margin: 0 0 0 1.5rem;
 }
+td {
+    padding: 0 0 0 0.5rem;
+}
 #insult-info img {
     display: block;
     height: 23px;
