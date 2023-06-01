@@ -98,6 +98,7 @@ let adjectives = [
     'rubbish',
     'rustic',
     'sanctimonious',
+    'sarky',
     'scheming',
     'shameless',
     'shirty',
