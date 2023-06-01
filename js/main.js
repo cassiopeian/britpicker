@@ -214,6 +214,7 @@ let nouns = [
     'rotter',
     'ruffian',
     'sarnie',
+    'scrump',
     'slapper',
     'slowcoach',
     'smeghead',
