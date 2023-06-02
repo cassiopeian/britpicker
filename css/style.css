@@ -266,6 +266,9 @@ aside {
 #insult-info p {
     color: rgb(255, 255, 255);
 }
+#insult-info ul {
+    display: flex;
+}
 #insult-info img {
     display: block;
     height: 23px;
