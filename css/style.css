@@ -261,8 +261,7 @@ aside {
 }
 #insult-info {
     display: none;
-    margin: 1rem 4rem;
-    width: 80%;
+    width: 100%;
 }
 #insult-info p {
     color: rgb(255, 255, 255);
