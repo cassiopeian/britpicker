@@ -281,6 +281,10 @@ aside {
     max-width: 22.94px;
     margin: 0 auto;
 }
+#insult-info li p {
+    display: inline;
+    margin: .2rem 0.7rem;
+}
 #fav-buttons-wrapper {
     display: flex;
     align-items: center;
