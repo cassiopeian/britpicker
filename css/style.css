@@ -273,7 +273,6 @@ aside {
 #insult-info li {
     display: flex;
     align-items: center;
-    flex-basis: 33.333333%;
     list-style: none;
 }
 .legend-icon-wrapper {
