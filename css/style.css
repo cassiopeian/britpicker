@@ -762,6 +762,9 @@ footer {
     #insult-info p {
         display: none;
     }
+    #insult-info ul {
+        margin: 0 0 1rem 0;
+    }
     .lock {
         width: 18%;
     }
