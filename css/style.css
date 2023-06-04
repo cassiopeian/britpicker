@@ -759,6 +759,9 @@ footer {
     #generator-wrapper {
         width: 100%;
     }
+    #insult-info p {
+        display: none;
+    }
     .lock {
         width: 18%;
     }
