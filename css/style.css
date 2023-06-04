@@ -763,6 +763,8 @@ footer {
         display: none;
     }
     #insult-info ul {
+        flex-direction: column;
+        align-items: flex-start;
         margin: 0 0 1rem 0;
     }
     .lock {
