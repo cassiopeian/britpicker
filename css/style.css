@@ -242,6 +242,7 @@ aside {
 #insult-generator h2 {
     color: rgb(242, 242, 247);
     margin: 0;
+    padding: 0 0 0 1rem; /* offsets #info-icon */
 }
 #info-icon {
     display: flex;
