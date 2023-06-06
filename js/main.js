@@ -145,6 +145,7 @@ let nouns = [
     'braggart',
     'butty',
     'cad',
+    'cadger',
     'chancer',
     'charlie',
     'chav',
