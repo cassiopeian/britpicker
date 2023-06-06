@@ -77,6 +77,7 @@ let adjectives = [
     'mischievous',
     'miserable',
     'naff',
+    'narky',
     'obsequious',
     'overgrown',
     'pathetic',
