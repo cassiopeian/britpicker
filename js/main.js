@@ -128,6 +128,7 @@ let adjectives = [
     'wet',
     'whinging',
     'wicked',
+    'witless',
     'wittering',
     'wonky'
 ];
