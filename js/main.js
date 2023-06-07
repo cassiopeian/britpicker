@@ -204,6 +204,7 @@ let nouns = [
     'nutter',
     'oaf',
     'offender',
+    'peeler',
     'philistine',
     'pillock',
     'pissant',
