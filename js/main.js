@@ -81,6 +81,7 @@ let adjectives = [
     'obsequious',
     'overgrown',
     'pathetic',
+    'pernickety',
     'petulant',
     'plodding',
     'plummy',
