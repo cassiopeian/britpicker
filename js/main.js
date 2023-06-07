@@ -217,6 +217,7 @@ let nouns = [
     'prick',
     'prig',
     'punter',
+    'purloiner',
     'reprobate',
     'rotter',
     'ruffian',
