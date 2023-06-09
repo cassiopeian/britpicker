@@ -36,6 +36,7 @@ let adjectives = [
     'cretinous',
     'cumbersome',
     'cursed',
+    'cute',
     'daffy',
     'daft',
     'dense',
