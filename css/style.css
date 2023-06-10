@@ -248,8 +248,8 @@ aside {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 1rem;
-    width: 1rem;
+    height: 1.1rem;
+    width: 1.1rem;
     vertical-align: top;
     border: 1px solid rgb(187, 221, 242);
     border-radius: 50%;
