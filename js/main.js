@@ -167,6 +167,7 @@ let nouns = [
     'degenerate',
     'delinquent',
     'dildo',
+    'dilettante',
     'dobber',
     'dogsbody',
     'dolt',
