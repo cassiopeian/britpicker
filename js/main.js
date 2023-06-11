@@ -83,6 +83,7 @@ let adjectives = [
     'naff',
     'narky',
     'obsequious',
+    'officious',
     'overgrown',
     'pathetic',
     'pernickety',
