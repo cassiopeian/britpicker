@@ -47,6 +47,7 @@ let adjectives = [
     'dim',
     'dithering',
     'dodgy',
+    'dozy',
     'faffing',
     'feckless',
     'frivolous',
