@@ -65,6 +65,7 @@ let adjectives = [
     'inept',
     'insipid',
     'interfering',
+    'invigilating',
     'jammy',
     'knackered',
     'legless',
