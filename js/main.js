@@ -164,6 +164,7 @@ let nouns = [
     'clot',
     'codger',
     'coupon',
+    'cow',
     'cretin',
     'crumpet',
     'cuddy',
