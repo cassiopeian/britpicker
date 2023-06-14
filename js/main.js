@@ -157,6 +157,7 @@ let nouns = [
     'boffin',
     'bollard',
     'boor',
+    'bore',
     'braggart',
     'butty',
     'cad',
