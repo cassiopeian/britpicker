@@ -52,6 +52,7 @@ let adjectives = [
     'faffing',
     'feckless',
     'frivolous',
+    'frowsty',
     'fumbling',
     'fussy',
     'gammy',
