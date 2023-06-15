@@ -197,6 +197,7 @@ let nouns = [
     'halfwit',
     'harlot',
     'harpy',
+    'heel',
     'hobbit',
     'hobgoblin',
     'Hobnob',
