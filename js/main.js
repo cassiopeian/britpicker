@@ -165,6 +165,7 @@ let nouns = [
     'cad',
     'cadger',
     'canary',
+    'catastrophe',
     'chancer',
     'charlie',
     'chav',
