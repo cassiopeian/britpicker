@@ -115,6 +115,7 @@ let adjectives = [
     'sanctimonious',
     'sarky',
     'scheming',
+    'shabby',
     'shambolic',
     'shameless',
     'shirty',
