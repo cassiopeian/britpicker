@@ -235,6 +235,7 @@ let nouns = [
     'oaf',
     'offender',
     'peeler',
+    'pest',
     'philistine',
     'pillock',
     'pissant',
