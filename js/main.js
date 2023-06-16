@@ -91,6 +91,7 @@ let adjectives = [
     'narky',
     'obsequious',
     'officious',
+    'ornery',
     'overgrown',
     'pathetic',
     'pernickety',
