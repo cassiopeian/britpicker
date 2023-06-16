@@ -178,6 +178,7 @@ let nouns = [
     'cretin',
     'crumpet',
     'cuddy',
+    'cur',
     'degenerate',
     'delinquent',
     'dildo',
