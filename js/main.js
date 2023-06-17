@@ -217,6 +217,7 @@ let nouns = [
     'laggard',
     'Lemsip',
     'limpet',
+    'louse',
     'lout',
     'lummox',
     'lush',
