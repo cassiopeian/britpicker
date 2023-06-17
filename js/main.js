@@ -101,6 +101,7 @@ let adjectives = [
     'posh',
     'poxy',
     'prattling',
+    'prevaricating',
     'priggish',
     'proper',
     'provincial',
