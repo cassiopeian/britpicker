@@ -266,6 +266,7 @@ let nouns = [
     'smeghead',
     'sot',
     'spanner',
+    'stodge',
     'strumpet',
     'spiv',
     'squirrel',
