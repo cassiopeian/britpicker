@@ -189,6 +189,7 @@ let nouns = [
     'dildo',
     'dilettante',
     'dink',
+    'dinosaur',
     'dobber',
     'dogsbody',
     'dolt',
