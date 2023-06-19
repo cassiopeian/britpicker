@@ -179,6 +179,7 @@ let nouns = [
     'chav',
     'clod',
     'clot',
+    'clown',
     'codger',
     'coupon',
     'cow',
