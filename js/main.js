@@ -27,6 +27,7 @@ let adjectives = [
     'bothersome',
     'brazen',
     'bumbling',
+    'chancy',
     'cheeky',
     'clapped-out',
     'clumsy',
