@@ -244,6 +244,7 @@ let nouns = [
     'nutter',
     'oaf',
     'offender',
+    'parasite',
     'peeler',
     'pest',
     'philistine',
