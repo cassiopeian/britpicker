@@ -36,6 +36,7 @@ let adjectives = [
     'cowardly',
     'craven',
     'cretinous',
+    'cross',
     'cumbersome',
     'cursed',
     'cute',
