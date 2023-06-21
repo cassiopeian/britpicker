@@ -92,6 +92,7 @@ let adjectives = [
     'miserable',
     'mousy',
     'naff',
+    'narked',
     'narky',
     'nettled',
     'obsequious',
