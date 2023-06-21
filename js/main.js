@@ -169,6 +169,7 @@ let nouns = [
     'blighter',
     'blowhard',
     'boffin',
+    'bogey',
     'bollard',
     'boor',
     'bore',
