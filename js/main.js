@@ -297,6 +297,7 @@ let nouns = [
     'turnip',
     'twat',
     'twit',
+    'urchin',
     'villain',
     'wally',
     'wanker',
