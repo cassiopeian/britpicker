@@ -141,6 +141,7 @@ let adjectives = [
     'stroppy',
     'tatty',
     'thick',
+    'tight-arsed',
     'tightfisted',
     'tragic',
     'twee',
