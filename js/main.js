@@ -100,6 +100,7 @@ let adjectives = [
     'ornery',
     'overgrown',
     'pathetic',
+    'peevish',
     'pernickety',
     'petulant',
     'plodding',
