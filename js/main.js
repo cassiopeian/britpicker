@@ -308,6 +308,7 @@ let nouns = [
     'wankstain',
     'wastrel',
     'wazzock',
+    'whelp',
     'winkle',
     'womble',
     'yob',
