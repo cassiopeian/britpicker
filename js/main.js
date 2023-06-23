@@ -113,6 +113,7 @@ let adjectives = [
     'priggish',
     'proper',
     'provincial',
+    'puerile',
     'putrescent',
     'quarrelsome',
     'quibbling',
