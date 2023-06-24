@@ -12,6 +12,7 @@ let adjectives = [
     'absolute',
     'antisocial',
     'artless',
+    'austere',
     'barmy',
     'bespoke',
     'bilious',
