@@ -315,7 +315,8 @@ let nouns = [
     'winkle',
     'womble',
     'yob',
-    'yokel'
+    'yokel',
+    'zealot'
 ];
 
 $(window).on('load', function() {
