@@ -239,6 +239,7 @@ let nouns = [
     'lummox',
     'lush',
     'magpie',
+    'marionette',
     'minger',
     'minion',
     'miscreant',
