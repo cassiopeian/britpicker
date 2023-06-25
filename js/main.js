@@ -162,6 +162,7 @@ let adjectives = [
     'wicked',
     'witless',
     'wittering',
+    'wizard',
     'wonky'
 ];
 let nouns = [
