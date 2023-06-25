@@ -165,6 +165,7 @@ let adjectives = [
 ];
 let nouns = [
     'anorak',
+    'arse',
     'barbarian',
     'Bedlamite',
     'bellend',
