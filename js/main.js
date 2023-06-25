@@ -119,6 +119,7 @@ let adjectives = [
     'putrescent',
     'quarrelsome',
     'quibbling',
+    'quivering',
     'randy',
     'rank',
     'rat-arsed',
