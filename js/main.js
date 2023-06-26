@@ -186,6 +186,7 @@ let nouns = [
     'boor',
     'bore',
     'braggart',
+    'bum',
     'butty',
     'cad',
     'cadger',
