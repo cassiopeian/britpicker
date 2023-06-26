@@ -104,6 +104,7 @@ let adjectives = [
     'ornery',
     'overgrown',
     'pathetic',
+    'pear-shaped',
     'peevish',
     'pernickety',
     'petulant',
