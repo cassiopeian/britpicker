@@ -57,6 +57,7 @@ let adjectives = [
     'dozy',
     'faffing',
     'feckless',
+    'festering',
     'frivolous',
     'frowsty',
     'fumbling',
