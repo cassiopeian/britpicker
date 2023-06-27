@@ -151,6 +151,7 @@ let adjectives = [
     'thick',
     'tight-arsed',
     'tightfisted',
+    'tiresome',
     'tragic',
     'twee',
     'unctuous',
