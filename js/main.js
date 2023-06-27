@@ -270,6 +270,7 @@ let nouns = [
     'oaf',
     'offender',
     'parasite',
+    'pedant',
     'peeler',
     'pest',
     'philistine',
