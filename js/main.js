@@ -147,6 +147,7 @@ let adjectives = [
     'squidgy',
     'stroppy',
     'tatty',
+    'tedious',
     'thick',
     'tight-arsed',
     'tightfisted',
