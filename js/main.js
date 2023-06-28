@@ -139,6 +139,7 @@ let adjectives = [
     'shirty',
     'shite',
     'silly',
+    'simple',
     'skint',
     'skiving',
     'sniveling',
