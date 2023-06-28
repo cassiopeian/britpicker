@@ -14,6 +14,7 @@ let adjectives = [
     'artless',
     'austere',
     'barmy',
+    'berserk',
     'bespoke',
     'bilious',
     'blagging',
