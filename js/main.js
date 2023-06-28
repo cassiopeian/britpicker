@@ -229,6 +229,7 @@ let nouns = [
     'git',
     'gobshite',
     'gomeril',
+    'goose',
     'guttersnipe',
     'halfwit',
     'harlot',
