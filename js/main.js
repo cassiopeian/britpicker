@@ -271,6 +271,7 @@ let nouns = [
     'nit',
     'nitwit',
     'nob',
+    'nobbler',
     'noodle',
     'numpty',
     'nutter',
