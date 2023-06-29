@@ -101,6 +101,7 @@ let adjectives = [
     'narked',
     'narky',
     'nettled',
+    'nobbling',
     'obsequious',
     'officious',
     'ornery',
