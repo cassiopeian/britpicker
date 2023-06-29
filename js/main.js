@@ -56,6 +56,7 @@ let adjectives = [
     'dithering',
     'dodgy',
     'dozy',
+    'duplicitous',
     'faffing',
     'feckless',
     'festering',
