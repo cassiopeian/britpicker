@@ -218,6 +218,7 @@ let nouns = [
     'delinquent',
     'dildo',
     'dilettante',
+    'dingbat',
     'dink',
     'dinosaur',
     'dobber',
