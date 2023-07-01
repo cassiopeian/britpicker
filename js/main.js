@@ -223,6 +223,7 @@ let nouns = [
     'dingbat',
     'dink',
     'dinosaur',
+    'disaster',
     'dobber',
     'dogsbody',
     'dolt',
