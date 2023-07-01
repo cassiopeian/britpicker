@@ -236,6 +236,7 @@ let nouns = [
     'gawper',
     'gherkin',
     'git',
+    'gobbler',
     'gobshite',
     'gomeril',
     'goose',
