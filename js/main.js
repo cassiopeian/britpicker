@@ -85,6 +85,7 @@ let adjectives = [
     'interfering',
     'invigilating',
     'jammy',
+    'jolly',
     'knackered',
     'legless',
     'loopy',
