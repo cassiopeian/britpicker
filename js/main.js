@@ -143,6 +143,7 @@ let adjectives = [
     'shabby',
     'shambolic',
     'shameless',
+    'shattered',
     'shirty',
     'shite',
     'silly',
