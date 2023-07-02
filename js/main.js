@@ -88,6 +88,7 @@ let adjectives = [
     'jolly',
     'knackered',
     'legless',
+    'limpid',
     'loopy',
     'mad',
     'maggoty',
