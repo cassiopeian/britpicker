@@ -337,6 +337,7 @@ let nouns = [
     'tyke',
     'urchin',
     'villain',
+    'viper',
     'wally',
     'wanker',
     'wankstain',
