@@ -330,6 +330,7 @@ let nouns = [
     'tosspot',
     'tragedy',
     'trollop',
+    'turkey',
     'turnip',
     'twat',
     'twit',
