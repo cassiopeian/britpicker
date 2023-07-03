@@ -34,6 +34,7 @@ let adjectives = [
     'callow',
     'chancy',
     'cheeky',
+    'chuntering',
     'churlish',
     'clapped-out',
     'clumsy',
