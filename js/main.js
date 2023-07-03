@@ -10,6 +10,7 @@ let insultList = document.getElementById('insult-list');
 let mimic = [];
 let adjectives = [
     'absolute',
+    'aggro',
     'antisocial',
     'artless',
     'austere',
