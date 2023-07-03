@@ -306,6 +306,7 @@ let nouns = [
     'prig',
     'punter',
     'purloiner',
+    'quaffer',
     'relic',
     'reprobate',
     'rotter',
