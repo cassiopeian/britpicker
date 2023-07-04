@@ -217,6 +217,7 @@ let nouns = [
     'clown',
     'codger',
     'coupon',
+    'courgette',
     'cow',
     'cretin',
     'crumpet',
