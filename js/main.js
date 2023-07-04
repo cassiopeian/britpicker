@@ -303,6 +303,7 @@ let nouns = [
     'pleb',
     'plimsoll',
     'plonker',
+    'potato',
     'prat',
     'prawn',
     'prick',
