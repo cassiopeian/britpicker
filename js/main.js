@@ -151,6 +151,7 @@ let adjectives = [
     'shattered',
     'shirty',
     'shite',
+    'shouty',
     'silly',
     'simple',
     'skint',
