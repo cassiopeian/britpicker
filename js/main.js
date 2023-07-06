@@ -141,6 +141,7 @@ let adjectives = [
     'right',
     'rubbish',
     'rufty-tufty',
+    'rum',
     'rustic',
     'sanctimonious',
     'sarky',
