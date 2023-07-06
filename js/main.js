@@ -295,6 +295,7 @@ let nouns = [
     'nobbler',
     'noodle',
     'numpty',
+    'nutcase',
     'nutter',
     'oaf',
     'offender',
