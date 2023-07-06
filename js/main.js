@@ -111,6 +111,7 @@ let adjectives = [
     'nettled',
     'nobbling',
     'obsequious',
+    'odd',
     'officious',
     'ornery',
     'overgrown',
