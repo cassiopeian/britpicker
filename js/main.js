@@ -273,6 +273,7 @@ let nouns = [
     'louse',
     'lout',
     'lummox',
+    'lunatic',
     'lush',
     'madman',
     'magpie',
