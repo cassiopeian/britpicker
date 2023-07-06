@@ -229,6 +229,7 @@ let nouns = [
     'cur',
     'degenerate',
     'delinquent',
+    'deviant',
     'dildo',
     'dilettante',
     'dingbat',
