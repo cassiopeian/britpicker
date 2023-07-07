@@ -315,6 +315,7 @@ let nouns = [
     'plonker',
     'potato',
     'prat',
+    'prattler',
     'prawn',
     'prick',
     'prig',
