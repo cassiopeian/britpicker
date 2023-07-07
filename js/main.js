@@ -322,6 +322,7 @@ let nouns = [
     'punter',
     'purloiner',
     'quaffer',
+    'raconteur',
     'relic',
     'reprobate',
     'rotter',
