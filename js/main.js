@@ -119,6 +119,7 @@ let adjectives = [
     'pathetic',
     'pear-shaped',
     'peckish',
+    'peculiar',
     'peevish',
     'pernickety',
     'petulant',
