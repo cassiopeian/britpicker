@@ -161,6 +161,7 @@ let adjectives = [
     'simple',
     'skint',
     'skiving',
+    'smarmy',
     'sniveling',
     'soggy',
     'sozzled',
