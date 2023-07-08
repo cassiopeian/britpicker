@@ -73,6 +73,7 @@ let adjectives = [
     'gammy',
     'ghastly',
     'giggly',
+    'gimcrack',
     'gobby',
     'gobsmacked',
     'gormless',
