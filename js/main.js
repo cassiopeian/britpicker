@@ -250,6 +250,7 @@ let nouns = [
     'fanny',
     'fleabag',
     'gammon',
+    'gasbag',
     'gawper',
     'gherkin',
     'git',
