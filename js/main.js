@@ -349,6 +349,7 @@ let nouns = [
     'swine',
     'swot',
     'sycophant',
+    'tearaway',
     'tit',
     'toad',
     'toff',
