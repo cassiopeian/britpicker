@@ -374,6 +374,7 @@ let nouns = [
     'winkle',
     'womble',
     'yob',
+    'yobbo',
     'yokel',
     'zealot'
 ];
