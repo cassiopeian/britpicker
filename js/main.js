@@ -349,6 +349,7 @@ let nouns = [
     'spiv',
     'squirrel',
     'substitute',
+    'swindler',
     'swine',
     'swot',
     'sycophant',
