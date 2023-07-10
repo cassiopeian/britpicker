@@ -95,6 +95,7 @@ let adjectives = [
     'knackered',
     'legless',
     'limpid',
+    'loitering',
     'loopy',
     'mad',
     'maggoty',
