@@ -316,6 +316,7 @@ let nouns = [
     'philistine',
     'pillock',
     'pip',
+    'pirate',
     'pissant',
     'plank',
     'pleb',
