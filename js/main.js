@@ -330,6 +330,7 @@ let nouns = [
     'prawn',
     'prick',
     'prig',
+    'pseud',
     'punter',
     'purloiner',
     'quaffer',
