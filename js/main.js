@@ -344,6 +344,7 @@ let nouns = [
     'skinflint',
     'slapper',
     'slowcoach',
+    'slug',
     'smeghead',
     'sot',
     'spanner',
