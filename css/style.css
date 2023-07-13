@@ -1,4 +1,4 @@
-/* GLOBAL */
+/* 1. GLOBAL */
 
 html {
     font-size: 16px;
@@ -19,7 +19,7 @@ body {
     background-color: rgb(242, 242, 247);
 }
 
-/* FONTS */
+/* 2. FONTS */
 
 h1 a {
     font-family: rosella-hatched, sans-serif;
@@ -70,7 +70,7 @@ p {
     font-style: italic;
 }
 
-/* HEADER */
+/* 3. HEADER */
 
 header {
     background-color: rgb(60, 95, 150);
@@ -87,7 +87,7 @@ h1 a {
     text-decoration: none;
 }
 
-/* MAIN */
+/* 4. MAIN */
 
 main {
     width: 85%;
@@ -205,7 +205,7 @@ main {
     width: 100%;
 }
 
-/* ASIDE */
+/* 5. ASIDE */
 
 aside {
     display: flex;
@@ -591,7 +591,7 @@ aside {
     }
 }
 
-/* MODAL */
+/* 6. MODAL */
 
 #modal {
     display: none;
@@ -671,7 +671,7 @@ aside {
     background-color: rgb(133, 133, 136);
 }
 
-/* FOOTER */
+/* 7. FOOTER */
 
 footer {
     width: 100%;
@@ -681,7 +681,7 @@ footer {
     padding: 40px 30px 10px;
 }
 
-/* MEDIA QUERIES */
+/* 8. MEDIA QUERIES */
 
 @media only screen and (max-width: 1000px) {
     
