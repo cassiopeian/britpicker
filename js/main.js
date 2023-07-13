@@ -344,6 +344,7 @@ let nouns = [
     'ruffian',
     'sarnie',
     'scrump',
+    'simpleton',
     'skinflint',
     'slapper',
     'slowcoach',
