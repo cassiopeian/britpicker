@@ -155,6 +155,7 @@ let adjectives = [
     'rustic',
     'sanctimonious',
     'sarky',
+    'scatty',
     'scheming',
     'scunnered',
     'shabby',
