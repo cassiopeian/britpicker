@@ -34,6 +34,7 @@ let adjectives = [
     'brazen',
     'bumbling',
     'callow',
+    'certifiable',
     'chancy',
     'cheeky',
     'chuffed',
