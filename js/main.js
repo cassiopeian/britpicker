@@ -55,6 +55,7 @@ let adjectives = [
     'daffy',
     'daft',
     'decrepit',
+    'demented',
     'dense',
     'depraved',
     'despicable',
