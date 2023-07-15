@@ -45,6 +45,7 @@ let adjectives = [
     'complete',
     'contemptible',
     'cowardly',
+    'cracked',
     'craven',
     'cretinous',
     'cross',
