@@ -296,6 +296,7 @@ let nouns = [
     'lush',
     'madman',
     'magpie',
+    'malcontent',
     'maniac',
     'marionette',
     'minger',
