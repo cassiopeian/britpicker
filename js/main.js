@@ -263,6 +263,7 @@ let nouns = [
     'duffer',
     'dunce',
     'fanny',
+    'flake',
     'fleabag',
     'gammon',
     'gasbag',
