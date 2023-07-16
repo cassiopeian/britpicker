@@ -202,7 +202,8 @@ let adjectives = [
     'witless',
     'wittering',
     'wizard',
-    'wonky'
+    'wonky',
+    'wretched'
 ];
 let nouns = [
     'anorak',
