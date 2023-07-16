@@ -175,6 +175,7 @@ let adjectives = [
     'sniveling',
     'soggy',
     'sozzled',
+    'spineless',
     'spotty',
     'squidgy',
     'stroppy',
