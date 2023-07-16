@@ -268,6 +268,7 @@ let nouns = [
     'gammon',
     'gasbag',
     'gawper',
+    'geezer',
     'gherkin',
     'git',
     'gobbler',
