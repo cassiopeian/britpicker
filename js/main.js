@@ -133,6 +133,7 @@ let adjectives = [
     'peculiar',
     'peevish',
     'pernickety',
+    'persistent',
     'petulant',
     'plodding',
     'plummy',
