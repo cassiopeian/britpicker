@@ -354,6 +354,7 @@ let nouns = [
     'reprobate',
     'rotter',
     'ruffian',
+    'runt',
     'sarnie',
     'scrump',
     'simpleton',
