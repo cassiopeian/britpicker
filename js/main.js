@@ -41,6 +41,7 @@ let adjectives = [
     'chuntering',
     'churlish',
     'clapped-out',
+    'clingy',
     'clumsy',
     'complete',
     'contemptible',
