@@ -358,6 +358,7 @@ let nouns = [
     'ruffian',
     'runt',
     'sarnie',
+    'scone',
     'scrub',
     'scrump',
     'simpleton',
