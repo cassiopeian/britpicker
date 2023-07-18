@@ -62,6 +62,7 @@ let adjectives = [
     'devious',
     'dewy',
     'dim',
+    'dirty',
     'dissembling',
     'dithering',
     'dodgy',
