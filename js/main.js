@@ -37,6 +37,7 @@ let adjectives = [
     'certifiable',
     'chancy',
     'cheeky',
+    'chronic',
     'chuffed',
     'chuntering',
     'churlish',
