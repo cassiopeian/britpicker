@@ -271,6 +271,7 @@ let nouns = [
     'fanny',
     'flake',
     'fleabag',
+    'fraudster',
     'gammon',
     'gasbag',
     'gawper',
