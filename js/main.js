@@ -412,6 +412,7 @@ let nouns = [
     'winkle',
     'womble',
     'Wotsit',
+    'wraith',
     'yob',
     'yobbo',
     'yokel',
