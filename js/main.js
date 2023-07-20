@@ -154,6 +154,7 @@ let adjectives = [
     'quarrelsome',
     'quibbling',
     'quivering',
+    'rancid',
     'randy',
     'rank',
     'rat-arsed',
