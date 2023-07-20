@@ -128,6 +128,7 @@ let adjectives = [
     'obscene',
     'obsequious',
     'odd',
+    'odious',
     'officious',
     'ornery',
     'overgrown',
