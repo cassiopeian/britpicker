@@ -301,6 +301,7 @@ let nouns = [
     'knobhead',
     'lag',
     'laggard',
+    'leech',
     'Lemsip',
     'limpet',
     'louse',
