@@ -403,6 +403,7 @@ let nouns = [
     'twit',
     'tyke',
     'urchin',
+    'vagabond',
     'villain',
     'viper',
     'wally',
