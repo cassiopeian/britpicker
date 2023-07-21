@@ -199,6 +199,7 @@ let adjectives = [
     'unctuous',
     'unholy',
     'unrepentant',
+    'unsavory',
     'utter',
     'vacuous',
     'vile',
