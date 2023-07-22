@@ -327,6 +327,7 @@ let nouns = [
     'mug',
     'munter',
     'muppet',
+    'nag',
     'nark',
     'ninny',
     'nit',
