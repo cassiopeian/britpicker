@@ -71,6 +71,7 @@ let adjectives = [
     'dozy',
     'dreadful',
     'duplicitous',
+    'errant',
     'faffing',
     'feckless',
     'festering',
