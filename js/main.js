@@ -239,6 +239,7 @@ let nouns = [
     'braggart',
     'bum',
     'butty',
+    'buzzkill',
     'cad',
     'cadger',
     'canary',
