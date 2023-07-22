@@ -205,6 +205,7 @@ let adjectives = [
     'vacuous',
     'vile',
     'vulgar',
+    'wayward',
     'weaselly',
     'wee',
     'wet',
