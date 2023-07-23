@@ -120,6 +120,7 @@ let adjectives = [
     'misbegotten',
     'mischievous',
     'miserable',
+    'morose',
     'mousy',
     'naff',
     'narked',
