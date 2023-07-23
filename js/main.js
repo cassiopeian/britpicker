@@ -259,6 +259,7 @@ let nouns = [
     'crumpet',
     'cuddy',
     'cur',
+    'cynic',
     'degenerate',
     'delinquent',
     'deviant',
