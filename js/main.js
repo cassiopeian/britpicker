@@ -190,6 +190,7 @@ let adjectives = [
     'spotty',
     'squidgy',
     'stroppy',
+    'sullen',
     'tatty',
     'tedious',
     'thick',
