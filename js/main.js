@@ -280,6 +280,7 @@ let nouns = [
     'donut',
     'duffer',
     'dunce',
+    'fabulist',
     'fanny',
     'flake',
     'fleabag',
