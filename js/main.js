@@ -248,6 +248,7 @@ let nouns = [
     'canary',
     'catastrophe',
     'chancer',
+    'charlatan',
     'charlie',
     'chav',
     'clod',
