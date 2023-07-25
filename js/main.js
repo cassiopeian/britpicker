@@ -96,6 +96,7 @@ let adjectives = [
     'horrid',
     'howling',
     'humdrum',
+    'idle',
     'impudent',
     'inbred',
     'inept',
