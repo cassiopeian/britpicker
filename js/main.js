@@ -383,6 +383,7 @@ let nouns = [
     'scone',
     'scrub',
     'scrump',
+    'showboat',
     'simpleton',
     'skinflint',
     'slapper',
