@@ -260,6 +260,7 @@ let nouns = [
     'coupon',
     'courgette',
     'cow',
+    'cowboy'
     'cretin',
     'crumpet',
     'cuddy',
