@@ -250,6 +250,7 @@ let nouns = [
     'cad',
     'cadger',
     'canary',
+    'Casanova',
     'catastrophe',
     'chancer',
     'charlatan',
