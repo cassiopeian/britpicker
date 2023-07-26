@@ -321,6 +321,7 @@ let nouns = [
     'leech',
     'Lemsip',
     'limpet',
+    'lothario',
     'louse',
     'lout',
     'lummox',
