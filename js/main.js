@@ -107,6 +107,7 @@ let adjectives = [
     'jammy',
     'jolly',
     'knackered',
+    'lecherous',
     'legless',
     'limpid',
     'loathsome',
