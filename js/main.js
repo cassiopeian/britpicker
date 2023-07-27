@@ -335,6 +335,7 @@ let nouns = [
     'malcontent',
     'maniac',
     'marionette',
+    'milksop',
     'minger',
     'minion',
     'miscreant',
