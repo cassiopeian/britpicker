@@ -130,6 +130,7 @@ let adjectives = [
     'naff',
     'narked',
     'narky',
+    'negligent',
     'nettled',
     'nobbling',
     'obscene',
