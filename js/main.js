@@ -57,6 +57,7 @@ let adjectives = [
     'cute',
     'daffy',
     'daft',
+    'debauched',
     'decrepit',
     'demented',
     'dense',
