@@ -110,6 +110,7 @@ let adjectives = [
     'knackered',
     'lecherous',
     'legless',
+    'licentious',
     'limpid',
     'loathsome',
     'loitering',
