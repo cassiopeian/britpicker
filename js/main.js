@@ -401,6 +401,7 @@ let nouns = [
     'slowcoach',
     'slug',
     'smeghead',
+    'snitch',
     'sot',
     'spanner',
     'stodge',
