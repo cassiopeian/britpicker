@@ -82,6 +82,7 @@ let adjectives = [
     'foul',
     'frivolous',
     'frowsty',
+    'frumpy',
     'fumbling',
     'fussy',
     'gammy',
