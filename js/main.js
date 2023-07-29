@@ -313,6 +313,7 @@ let nouns = [
     'halfwit',
     'harlot',
     'harpy',
+    'headache',
     'heel',
     'hobbit',
     'hobgoblin',
