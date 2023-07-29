@@ -94,6 +94,7 @@ let adjectives = [
     'gormless',
     'grafting',
     'grim',
+    'grotesque',
     'grotty',
     'hapless',
     'horrid',
