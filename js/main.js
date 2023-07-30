@@ -105,6 +105,7 @@ let adjectives = [
     'inbred',
     'inept',
     'insipid',
+    'insolent',
     'interfering',
     'invigilating',
     'jammy',
