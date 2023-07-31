@@ -147,6 +147,7 @@ let adjectives = [
     'odious',
     'officious',
     'ornery',
+    'overbearing',
     'overgrown',
     'pathetic',
     'pear-shaped',
