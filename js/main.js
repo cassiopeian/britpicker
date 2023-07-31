@@ -101,6 +101,7 @@ let adjectives = [
     'howling',
     'humdrum',
     'idle',
+    'impertinent',
     'impudent',
     'inbred',
     'inept',
