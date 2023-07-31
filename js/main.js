@@ -312,6 +312,7 @@ let nouns = [
     'git',
     'gobbler',
     'gobshite',
+    'golem',
     'gomeril',
     'goose',
     'guttersnipe',
