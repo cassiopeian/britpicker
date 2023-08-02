@@ -433,6 +433,7 @@ let nouns = [
     'swot',
     'sycophant',
     'tearaway',
+    'thickhead',
     'tip',
     'tit',
     'toad',
