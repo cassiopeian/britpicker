@@ -415,6 +415,7 @@ let nouns = [
     'showboat',
     'simpleton',
     'skinflint',
+    'skunk',
     'slapper',
     'slowcoach',
     'slug',
