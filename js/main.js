@@ -140,6 +140,7 @@ let adjectives = [
     'negligent',
     'nettled',
     'nobbling',
+    'noxious',
     'oblivious',
     'obscene',
     'obsequious',
