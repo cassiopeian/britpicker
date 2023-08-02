@@ -206,6 +206,7 @@ let adjectives = [
     'spineless',
     'spotty',
     'squidgy',
+    'stale',
     'stroppy',
     'sullen',
     'tatty',
