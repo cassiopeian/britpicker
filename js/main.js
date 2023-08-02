@@ -178,6 +178,7 @@ let adjectives = [
     'rat-arsed',
     'right',
     'ripe',
+    'rotten',
     'rubbish',
     'rufty-tufty',
     'rum',
