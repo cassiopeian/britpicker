@@ -306,6 +306,7 @@ let nouns = [
     'duffer',
     'dullard',
     'dunce',
+    'egomaniac',
     'fabulist',
     'fanny',
     'flake',
