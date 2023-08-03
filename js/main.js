@@ -177,6 +177,7 @@ let adjectives = [
     'randy',
     'rank',
     'rat-arsed',
+    'repulsive',
     'right',
     'ripe',
     'rotten',
