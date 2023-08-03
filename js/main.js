@@ -79,6 +79,7 @@ let adjectives = [
     'faffing',
     'feckless',
     'festering',
+    'fetid',
     'foul',
     'frivolous',
     'frowsty',
