@@ -385,6 +385,7 @@ let nouns = [
     'pedant',
     'peeler',
     'pest',
+    'petrolhead',
     'philanderer',
     'philistine',
     'pillock',
