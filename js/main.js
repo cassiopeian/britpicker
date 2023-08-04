@@ -423,6 +423,7 @@ let nouns = [
     'simpleton',
     'skinflint',
     'skunk',
+    'slag',
     'slapper',
     'slowcoach',
     'slug',
