@@ -156,6 +156,7 @@ let adjectives = [
     'pear-shaped',
     'peckish',
     'peculiar',
+    'pedestrian',
     'peevish',
     'pernickety',
     'persistent',
