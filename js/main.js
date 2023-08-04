@@ -275,6 +275,7 @@ let nouns = [
     'chancer',
     'charlatan',
     'charlie',
+    'chauvinist',
     'chav',
     'clod',
     'clot',
