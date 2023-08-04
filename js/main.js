@@ -111,6 +111,7 @@ let adjectives = [
     'interfering',
     'invigilating',
     'jammy',
+    'jingoistic',
     'jolly',
     'knackered',
     'lecherous',
