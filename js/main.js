@@ -80,6 +80,7 @@ let adjectives = [
     'feckless',
     'festering',
     'fetid',
+    'foolish',
     'foul',
     'frivolous',
     'frowsty',
