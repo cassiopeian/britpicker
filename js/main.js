@@ -250,6 +250,7 @@ let nouns = [
     'arse',
     'arsehole',
     'arsepick',
+    'bagman',
     'barbarian',
     'beast',
     'Bedlamite',
