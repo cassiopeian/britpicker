@@ -342,6 +342,7 @@ let nouns = [
     'hooligan',
     'inebriate',
     'insect',
+    'jester',
     'kite',
     'knave',
     'knob',
