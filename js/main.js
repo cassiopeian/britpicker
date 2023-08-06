@@ -383,6 +383,7 @@ let nouns = [
     'nobbler',
     'noddy',
     'noodle',
+    'nuisance',
     'numpty',
     'nut',
     'nutcase',
