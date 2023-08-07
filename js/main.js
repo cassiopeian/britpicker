@@ -212,6 +212,7 @@ let adjectives = [
     'sozzled',
     'spineless',
     'spotty',
+    'squabbling',
     'squidgy',
     'stale',
     'stroppy',
