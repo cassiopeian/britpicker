@@ -19,6 +19,7 @@ let adjectives = [
     'batty',
     'berserk',
     'bespoke',
+    'bickering',
     'bilious',
     'blagging',
     'blasted',
