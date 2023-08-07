@@ -35,6 +35,7 @@ let adjectives = [
     'bumbling',
     'callow',
     'certifiable',
+    'chaffering',
     'chancy',
     'cheeky',
     'chronic',
