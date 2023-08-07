@@ -333,6 +333,7 @@ let nouns = [
     'golem',
     'gomeril',
     'goose',
+    'gossip',
     'guttersnipe',
     'halfwit',
     'harlot',
