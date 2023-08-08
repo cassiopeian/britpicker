@@ -15,6 +15,7 @@ let adjectives = [
     'appalling',
     'artless',
     'austere',
+    'babbling',
     'barmy',
     'batty',
     'berserk',
