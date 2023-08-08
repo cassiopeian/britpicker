@@ -250,6 +250,7 @@ let adjectives = [
     'wretched'
 ];
 let nouns = [
+    'addlepate',
     'affliction',
     'anorak',
     'arse',
