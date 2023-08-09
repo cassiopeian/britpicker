@@ -166,6 +166,7 @@ let adjectives = [
     'pernickety',
     'persistent',
     'petulant',
+    'plastic',
     'plodding',
     'plummy',
     'posh',
