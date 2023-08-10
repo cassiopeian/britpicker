@@ -437,6 +437,7 @@ let nouns = [
     'runt',
     'sarnie',
     'scone',
+    'scoundrel',
     'scrub',
     'scrump',
     'showboat',
