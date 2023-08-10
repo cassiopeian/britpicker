@@ -327,6 +327,7 @@ let nouns = [
     'egomaniac',
     'fabulist',
     'fanny',
+    'fink',
     'flake',
     'fleabag',
     'fraudster',
