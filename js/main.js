@@ -102,6 +102,7 @@ let adjectives = [
     'grotesque',
     'grotty',
     'hapless',
+    'hideous',
     'horrid',
     'howling',
     'humdrum',
