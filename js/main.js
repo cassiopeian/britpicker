@@ -109,6 +109,7 @@ let adjectives = [
     'impertinent',
     'impudent',
     'inbred',
+    'indolent',
     'inept',
     'insipid',
     'insolent',
