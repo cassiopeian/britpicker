@@ -79,6 +79,7 @@ let adjectives = [
     'dull',
     'duplicitous',
     'errant',
+    'facile',
     'faffing',
     'feckless',
     'festering',
