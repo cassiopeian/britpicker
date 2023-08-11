@@ -154,6 +154,7 @@ let adjectives = [
     'oblivious',
     'obscene',
     'obsequious',
+    'obtuse',
     'odd',
     'odious',
     'officious',
