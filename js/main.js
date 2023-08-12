@@ -349,6 +349,7 @@ let nouns = [
     'gomeril',
     'goose',
     'gossip',
+    'gowk',
     'guttersnipe',
     'halfwit',
     'harlot',
