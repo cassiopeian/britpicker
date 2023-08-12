@@ -459,6 +459,7 @@ let nouns = [
     'snitch',
     'sot',
     'spanner',
+    'spoon',
     'stodge',
     'strumpet',
     'spiv',
