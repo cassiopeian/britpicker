@@ -199,6 +199,7 @@ let adjectives = [
     'rustic',
     'sanctimonious',
     'sarky',
+    'scabby',
     'scatty',
     'scheming',
     'scunnered',
