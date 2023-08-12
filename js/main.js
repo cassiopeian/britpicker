@@ -244,6 +244,7 @@ let adjectives = [
     'vile',
     'vulgar',
     'wayward',
+    'weapons-grade',
     'weaselly',
     'wee',
     'wet',
