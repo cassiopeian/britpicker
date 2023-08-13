@@ -97,6 +97,7 @@ let adjectives = [
     'gimcrack',
     'gobby',
     'gobsmacked',
+    'gommy',
     'gormless',
     'grafting',
     'grim',
