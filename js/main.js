@@ -450,6 +450,7 @@ let nouns = [
     'scoundrel',
     'scrub',
     'scrump',
+    'shitgibbon',
     'showboat',
     'simpleton',
     'skinflint',
