@@ -485,6 +485,7 @@ let nouns = [
     'tosspot',
     'tragedy',
     'tramp',
+    'travesty',
     'trollop',
     'turkey',
     'turnip',
