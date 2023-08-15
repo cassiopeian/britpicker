@@ -276,6 +276,7 @@ let nouns = [
     'beast',
     'Bedlamite',
     'bellend',
+    'bellyacher',
     'berk',
     'biscuit',
     'blackguard',
