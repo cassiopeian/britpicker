@@ -229,6 +229,7 @@ let adjectives = [
     'stale',
     'sticky',
     'stroppy',
+    'stubborn',
     'sullen',
     'tatty',
     'tedious',
