@@ -227,6 +227,7 @@ let adjectives = [
     'squabbling',
     'squidgy',
     'stale',
+    'sticky',
     'stroppy',
     'sullen',
     'tatty',
