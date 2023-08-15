@@ -355,6 +355,7 @@ let nouns = [
     'goose',
     'gossip',
     'gowk',
+    'grinch',
     'guttersnipe',
     'halfwit',
     'harlot',
