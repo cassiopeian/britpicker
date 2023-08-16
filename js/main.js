@@ -372,6 +372,7 @@ let nouns = [
     'inebriate',
     'insect',
     'jester',
+    'killjoy',
     'kite',
     'knave',
     'knob',
