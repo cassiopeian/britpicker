@@ -136,6 +136,7 @@ let adjectives = [
     'mangy',
     'manky',
     'mardy',
+    'maundering',
     'maudlin',
     'meddlesome',
     'mental',
