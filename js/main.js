@@ -373,6 +373,7 @@ let nouns = [
     'hobgoblin',
     'Hobnob',
     'hooligan',
+    'imp',
     'inebriate',
     'insect',
     'jester',
