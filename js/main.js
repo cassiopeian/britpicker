@@ -211,6 +211,7 @@ let adjectives = [
     'shambolic',
     'shameless',
     'shattered',
+    'shifty',
     'shirty',
     'shite',
     'shouty',
