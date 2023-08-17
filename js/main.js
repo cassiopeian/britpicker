@@ -222,6 +222,7 @@ let adjectives = [
     'skint',
     'skiving',
     'smarmy',
+    'sneaky',
     'sniveling',
     'soggy',
     'sozzled',
