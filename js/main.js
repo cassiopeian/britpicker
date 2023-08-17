@@ -471,6 +471,7 @@ let nouns = [
     'slapper',
     'slowcoach',
     'slug',
+    'slyboots',
     'smeghead',
     'snitch',
     'sot',
