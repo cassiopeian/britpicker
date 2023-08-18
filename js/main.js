@@ -237,6 +237,7 @@ let adjectives = [
     'sullen',
     'tatty',
     'tedious',
+    'tetchy',
     'thick',
     'tight-arsed',
     'tightfisted',
