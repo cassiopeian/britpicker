@@ -394,6 +394,7 @@ let nouns = [
     'lout',
     'lummox',
     'lunatic',
+    'lurker',
     'lush',
     'madman',
     'magpie',
