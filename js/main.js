@@ -266,7 +266,8 @@ let adjectives = [
     'wizard',
     'wonky',
     'wooden',
-    'wretched'
+    'wretched',
+    'yappy'
 ];
 let nouns = [
     'addlepate',
