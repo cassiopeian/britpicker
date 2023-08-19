@@ -235,6 +235,7 @@ let adjectives = [
     'stroppy',
     'stubborn',
     'sullen',
+    'surly',
     'tatty',
     'tedious',
     'tetchy',
