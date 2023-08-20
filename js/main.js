@@ -348,6 +348,7 @@ let nouns = [
     'fabulist',
     'fanny',
     'fink',
+    'fishwife',
     'flake',
     'fleabag',
     'fraudster',
