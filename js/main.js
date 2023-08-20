@@ -217,6 +217,7 @@ let adjectives = [
     'shite',
     'shouty',
     'shrewd',
+    'shrill',
     'silly',
     'simpering',
     'simple',
