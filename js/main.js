@@ -18,6 +18,7 @@ let adjectives = [
     'babbling',
     'barmy',
     'batty',
+    'baying',
     'belligerent',
     'berserk',
     'bespoke',
