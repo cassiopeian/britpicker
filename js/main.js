@@ -367,6 +367,7 @@ let nouns = [
     'golem',
     'gomeril',
     'goose',
+    'gorgon',
     'gossip',
     'gowk',
     'grinch',
