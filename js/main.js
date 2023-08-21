@@ -78,6 +78,7 @@ let adjectives = [
     'dithering',
     'dodgy',
     'dozy',
+    'draconian',
     'dreadful',
     'dull',
     'duplicitous',
