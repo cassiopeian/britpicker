@@ -68,6 +68,7 @@ let adjectives = [
     'dense',
     'depraved',
     'despicable',
+    'despotic',
     'devious',
     'dewy',
     'dim',
