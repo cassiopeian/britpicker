@@ -226,6 +226,7 @@ let adjectives = [
     'skint',
     'skiving',
     'smarmy',
+    'smug',
     'sneaky',
     'sniveling',
     'soggy',
