@@ -271,6 +271,7 @@ let adjectives = [
     'wizard',
     'wonky',
     'wooden',
+    'work-shy',
     'wretched',
     'yappy'
 ];
