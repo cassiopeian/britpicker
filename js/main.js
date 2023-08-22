@@ -401,6 +401,7 @@ let nouns = [
     'Lemsip',
     'lickspittle',
     'limpet',
+    'loiterer',
     'loon',
     'lothario',
     'louse',
