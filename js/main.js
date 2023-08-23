@@ -295,6 +295,7 @@ let nouns = [
     'blackguard',
     'bleeder',
     'blighter',
+    'blockhead',
     'blowhard',
     'bobblehead',
     'boffin',
