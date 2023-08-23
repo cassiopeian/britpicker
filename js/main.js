@@ -192,6 +192,7 @@ let adjectives = [
     'quarrelsome',
     'quibbling',
     'quivering',
+    'rambling',
     'rancid',
     'randy',
     'rank',
