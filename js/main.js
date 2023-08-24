@@ -43,6 +43,7 @@ let adjectives = [
     'chaffering',
     'chancy',
     'cheeky',
+    'cheesed-off',
     'chronic',
     'chuffed',
     'chuntering',
