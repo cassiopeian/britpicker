@@ -12,6 +12,7 @@ let adjectives = [
     'absolute',
     'aggro',
     'antisocial',
+    'apoplectic',
     'appalling',
     'artless',
     'austere',
