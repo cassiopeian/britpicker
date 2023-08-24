@@ -432,6 +432,7 @@ let nouns = [
     'muppet',
     'nag',
     'nark',
+    'newt',
     'nimrod',
     'ninny',
     'nit',
