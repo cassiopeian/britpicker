@@ -109,6 +109,7 @@ let adjectives = [
     'grim',
     'grotesque',
     'grotty',
+    'hacked-off',
     'hackit',
     'hapless',
     'hideous',
