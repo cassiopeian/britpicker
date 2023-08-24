@@ -379,6 +379,7 @@ let nouns = [
     'gowk',
     'grinch',
     'guttersnipe',
+    'haggler',
     'halfwit',
     'harlot',
     'harpy',
