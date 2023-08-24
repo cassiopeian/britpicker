@@ -397,6 +397,7 @@ let nouns = [
     'hustler',
     'imp',
     'inebriate',
+    'ingrate',
     'insect',
     'jester',
     'killjoy',
