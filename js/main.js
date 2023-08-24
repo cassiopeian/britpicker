@@ -358,6 +358,7 @@ let nouns = [
     'dullard',
     'dunce',
     'egomaniac',
+    'embarrassment',
     'fabulist',
     'fanny',
     'fink',
