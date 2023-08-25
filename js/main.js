@@ -106,6 +106,7 @@ let adjectives = [
     'gommy',
     'gormless',
     'grafting',
+    'grasping',
     'grim',
     'grotesque',
     'grotty',
