@@ -181,6 +181,7 @@ let adjectives = [
     'pernickety',
     'persistent',
     'petulant',
+    'pilfering',
     'plastic',
     'plodding',
     'plummy',
