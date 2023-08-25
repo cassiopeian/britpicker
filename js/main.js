@@ -527,6 +527,7 @@ let nouns = [
     'tragedy',
     'tramp',
     'travesty',
+    'troglodyte',
     'trollop',
     'turkey',
     'turnip',
