@@ -388,6 +388,7 @@ let nouns = [
     'harpy',
     'harridan',
     'headache',
+    'heathen',
     'heel',
     'hellion',
     'hobbit',
