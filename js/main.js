@@ -298,6 +298,7 @@ let nouns = [
     'bampot',
     'barbarian',
     'beast',
+    'beastie',
     'Bedlamite',
     'bellend',
     'bellyacher',
