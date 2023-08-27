@@ -187,6 +187,7 @@ let adjectives = [
     'plastic',
     'plodding',
     'plummy',
+    'plundering',
     'posh',
     'poxy',
     'prattling',
