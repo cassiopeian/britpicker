@@ -300,6 +300,7 @@ let nouns = [
     'bellend',
     'bellyacher',
     'berk',
+    'berserker',
     'biscuit',
     'blackguard',
     'bleeder',
