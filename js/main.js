@@ -550,6 +550,7 @@ let nouns = [
     'wazzock',
     'whelp',
     'whinger',
+    'wiener',
     'winkle',
     'womble',
     'Wotsit',
