@@ -217,6 +217,7 @@ let adjectives = [
     'scabby',
     'scatty',
     'scheming',
+    'screaming',
     'scunnered',
     'shabby',
     'shambolic',
