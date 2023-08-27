@@ -439,6 +439,7 @@ let nouns = [
     'minion',
     'miscreant',
     'miser',
+    'moggy',
     'moppet',
     'mountebank',
     'mug',
