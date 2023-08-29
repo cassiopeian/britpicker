@@ -476,6 +476,7 @@ let nouns = [
     'pip',
     'pirate',
     'pissant',
+    'plague',
     'plank',
     'pleb',
     'plimsoll',
