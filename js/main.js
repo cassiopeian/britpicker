@@ -201,6 +201,7 @@ let adjectives = [
     'quarrelsome',
     'quibbling',
     'quivering',
+    'raging',
     'rambling',
     'rancid',
     'randy',
