@@ -281,6 +281,7 @@ let adjectives = [
     'witless',
     'wittering',
     'wizard',
+    'woeful',
     'wonky',
     'wooden',
     'work-shy',
