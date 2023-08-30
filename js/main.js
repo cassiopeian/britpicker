@@ -21,6 +21,7 @@ let adjectives = [
     'barmy',
     'batty',
     'baying',
+    'beastly',
     'belligerent',
     'berserk',
     'bespoke',
