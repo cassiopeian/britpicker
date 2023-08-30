@@ -423,6 +423,7 @@ let nouns = [
     'lag',
     'laggard',
     'leech',
+    'lemon',
     'Lemsip',
     'lickspittle',
     'limpet',
