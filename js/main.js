@@ -344,6 +344,7 @@ let nouns = [
     'cow',
     'coward',
     'cowboy',
+    'creature',
     'cretin',
     'crumpet',
     'cuddy',
