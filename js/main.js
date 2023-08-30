@@ -17,6 +17,7 @@ let adjectives = [
     'artless',
     'austere',
     'babbling',
+    'barbaric',
     'barmy',
     'batty',
     'baying',
