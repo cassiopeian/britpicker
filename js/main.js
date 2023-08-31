@@ -511,6 +511,7 @@ let nouns = [
     'scoundrel',
     'scrub',
     'scrump',
+    'shambles',
     'shitgibbon',
     'showboat',
     'simpleton',
