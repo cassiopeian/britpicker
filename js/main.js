@@ -37,6 +37,7 @@ let adjectives = [
     'bollocksed',
     'bone-idle',
     'bonny',
+    'botched',
     'bothersome',
     'brazen',
     'bumbling',
