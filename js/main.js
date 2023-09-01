@@ -44,6 +44,7 @@ let adjectives = [
     'callow',
     'certifiable',
     'chaffering',
+    'chaffy',
     'chancy',
     'cheeky',
     'cheesed-off',
