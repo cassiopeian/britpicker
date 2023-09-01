@@ -118,6 +118,7 @@ let adjectives = [
     'grotty',
     'hacked-off',
     'hackit',
+    'haphazard',
     'hapless',
     'hideous',
     'horrid',
