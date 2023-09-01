@@ -391,6 +391,7 @@ let nouns = [
     'git',
     'gobbler',
     'gobshite',
+    'gofer',
     'golem',
     'gomeril',
     'goose',
