@@ -225,6 +225,7 @@ let adjectives = [
     'sanctimonious',
     'sarky',
     'scabby',
+    'scatterbrained',
     'scatty',
     'scheming',
     'screaming',
