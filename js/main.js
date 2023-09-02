@@ -82,6 +82,7 @@ let adjectives = [
     'dismal',
     'dissembling',
     'dithering',
+    'dizzy',
     'dodgy',
     'dozy',
     'draconian',
