@@ -186,6 +186,7 @@ main {
 #ae {
     border-right: none;
     border-radius: 0 0 0 8px;
+    resize: none;
 }
 #be {
     border-left: none;
