@@ -651,33 +651,40 @@ $('#clear-all img').hover(
     }
 );
 
-function copyCat(e) {
-    let letters = $('#ae').html().split('');
+// function copyCat(e) {
+//     let letters = $('#ae').html().split('');
     
-    // prevent duplication of capitalized letters
-    if (e.key === 'Shift') {
-        return;
-    }
+//     // prevent duplication of capitalized letters
+//     if (e.key === 'Shift') {
+//         return;
+//     }
 
-    for (let i = 0; i < letters.length; i++) {
-        // send each letter to the mimic array  
-        mimic.push(letters[i]);      
+//     for (let i = 0; i < letters.length; i++) {
+//         // send each letter to the mimic array  
+//         mimic.push(letters[i]);      
         
-        // add the joined letters to the british text
-        $('#be').text(mimic.join(''));
-    }
+//         // add the joined letters to the british text
+//         $('#be').text(mimic.join(''));
+//     }
 
-    // clear the mimic array
-    mimic = [];
+//     // clear the mimic array
+//     mimic = [];
 
-    // if each letter is deleted individually, to clear #ae text
-    if ($('#ae').html() === '') {
-        // clear any lingering first letters in the #be text
-        $('#be').html('');
-    }
-};
+//     // if each letter is deleted individually, to clear #ae text
+//     if ($('#ae').html() === '') {
+//         // clear any lingering first letters in the #be text
+//         $('#be').html('');
+//     }
+// };
 
-$('#ae').on('keyup', copyCat);
+// $('#ae').on('keyup', copyCat);
+
+$('#ae').on('keyup', function() {
+    let aeText = $(this).val();
+    
+    // copy the #ae text into the #be box
+    $('#be').text(aeText);
+});
 
 $('#toggle-dialects').on('click', function() {
     let americanLabel = $('#dialect-container div:nth-child(1)');
