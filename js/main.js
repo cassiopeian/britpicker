@@ -584,6 +584,16 @@ let nouns = [
     'yokel',
     'zealot'
 ];
+let translations = [
+    {
+        american: 'ad',
+        british: 'advert'
+    },
+    {
+        american: 'apartment',
+        british: 'flat'
+    }
+];
 
 $(window).on('load', function() {
     let dialectHeight = $('#dialect-container').outerHeight();
