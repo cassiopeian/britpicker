@@ -592,6 +592,14 @@ let translations = [
     {
         american: 'apartment',
         british: 'flat'
+    },
+    {
+        american: 'argument',
+        british: 'argy-bargy'
+    },
+    {
+        american: 'arugula',
+        british: 'rocket'
     }
 ];
 
