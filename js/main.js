@@ -612,6 +612,14 @@ let translations = [
     {
         american: 'burlap',
         british: 'hessian'
+    },
+    {
+        american: 'chips',
+        british: 'crisps'
+    },
+    {
+        american: 'cilantro',
+        british: 'coriander'
     }
 ];
 
