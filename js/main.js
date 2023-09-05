@@ -600,7 +600,11 @@ let translations = [
     {
         american: 'arugula',
         british: 'rocket'
-    }
+    },
+    {
+        american: 'ass',
+        british: 'arse'
+    },
 ];
 
 $(window).on('load', function() {
