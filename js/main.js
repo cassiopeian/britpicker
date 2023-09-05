@@ -605,6 +605,14 @@ let translations = [
         american: 'ass',
         british: 'arse'
     },
+    {
+        american: 'broke',
+        british: 'skint'
+    },
+    {
+        american: 'burlap',
+        british: 'hessian'
+    }
 ];
 
 $(window).on('load', function() {
