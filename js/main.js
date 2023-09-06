@@ -620,6 +620,10 @@ let translations = [
     {
         american: 'cilantro',
         british: 'coriander'
+    },
+    {
+        american: 'cookie',
+        british: 'biscuit'
     }
 ];
 
@@ -719,7 +723,7 @@ $('#clear-all img').hover(
 
 $('#ae').on('keyup', function() {
     let aeText = $(this).val();
-    
+
     // copy the #ae text into the #be box
     $('#be').text(aeText);
 });
