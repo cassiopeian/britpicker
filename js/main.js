@@ -624,7 +624,11 @@ let translations = [
     {
         american: 'cookie',
         british: 'biscuit'
-    }
+    },
+    {
+        american: 'cooktop',
+        british: 'hob'
+    },
 ];
 
 $(window).on('load', function() {
