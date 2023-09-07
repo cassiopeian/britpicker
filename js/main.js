@@ -641,6 +641,10 @@ let translations = [
         american: 'dollar',
         british: ['pound', 'quid']
     },
+    {
+        american: 'eggplant',
+        british: 'aubergine'
+    },
 ];
 
 $(window).on('load', function() {
