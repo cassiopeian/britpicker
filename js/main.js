@@ -649,6 +649,10 @@ let translations = [
         american: 'elevator',
         british: 'lift'
     },
+    {
+        american: 'field',
+        british: 'pitch'
+    },
 ];
 
 $(window).on('load', function() {
