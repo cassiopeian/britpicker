@@ -637,6 +637,10 @@ let translations = [
         american: 'countertop',
         british: 'worktop'
     },
+    {
+        american: 'dollar',
+        british: ['pound', 'quid']
+    },
 ];
 
 $(window).on('load', function() {
