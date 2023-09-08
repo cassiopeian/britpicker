@@ -665,6 +665,10 @@ let translations = [
         american: 'fries',
         british: 'chips'
     },
+    {
+        american: 'gas',
+        british: 'petrol'
+    },
 ];
 
 $(window).on('load', function() {
