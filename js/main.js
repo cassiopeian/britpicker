@@ -657,6 +657,10 @@ let translations = [
         american: 'freshman',
         british: 'fresher'
     },
+    {
+        american: 'friend',
+        british: 'mate'
+    },
 ];
 
 $(window).on('load', function() {
