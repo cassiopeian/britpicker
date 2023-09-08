@@ -653,6 +653,10 @@ let translations = [
         american: 'field',
         british: 'pitch'
     },
+    {
+        american: 'freshman',
+        british: 'fresher'
+    },
 ];
 
 $(window).on('load', function() {
