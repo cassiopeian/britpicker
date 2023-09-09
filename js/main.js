@@ -669,6 +669,14 @@ let translations = [
         american: 'gas',
         british: 'petrol'
     },
+    {
+        american: 'gas',
+        british: 'petrol'
+    },
+    {
+        american: 'hood',
+        british: 'bonnet'
+    },
 ];
 
 $(window).on('load', function() {
