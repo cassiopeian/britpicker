@@ -697,6 +697,10 @@ let translations = [
         american: 'parka',
         british: 'anorak'
     },
+    {
+        american: 'putter',
+        british: 'potter'
+    },
 ];
 
 $(window).on('load', function() {
