@@ -701,6 +701,10 @@ let translations = [
         american: 'putter',
         british: 'potter'
     },
+    {
+        american: 'quieted',
+        british: 'quietened'
+    },
 ];
 
 $(window).on('load', function() {
