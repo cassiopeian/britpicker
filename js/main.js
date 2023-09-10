@@ -693,6 +693,10 @@ let translations = [
         american: 'pants',
         british: 'trousers'
     },
+    {
+        american: 'parka',
+        british: 'anorak'
+    },
 ];
 
 $(window).on('load', function() {
