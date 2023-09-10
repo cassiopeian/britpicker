@@ -689,6 +689,10 @@ let translations = [
         american: 'mom',
         british: 'mum'
     },
+    {
+        american: 'pants',
+        british: 'trousers'
+    },
 ];
 
 $(window).on('load', function() {
