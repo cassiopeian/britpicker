@@ -795,6 +795,23 @@ $('#ae').on('keyup', function() {
     // duplicate that array for the #be text
     let beSplit = aeSplit;
 
+    // while looping through the #be text
+    for (let i = 0; i < beSplit.length; i++) {
+        // call the current word "word"
+        let word = beSplit[i];
+        // and the index of that word, "index"
+        let index = beSplit.indexOf(beSplit[i]);
+
+        // loop through each phrase in the translations array
+        translations.forEach(phrase => {
+            // if the current word matches an american phrase
+            if (word == phrase.american) {
+                // replace that word with the "translated" british phrase
+                beSplit.splice(index, 1, phrase.british);
+            }
+        });
+    }
+
     // copy the #ae text into the #be box
     $('#be').text(aeText);
 });
