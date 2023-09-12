@@ -812,8 +812,8 @@ $('#ae').on('keyup', function() {
         });
     }
 
-    // copy the #ae text into the #be box
-    $('#be').text(aeText);
+    // join and display the words in the split British array
+    $('#be').text(beSplit.join(' '));
 });
 
 $('#toggle-dialects').on('click', function() {
