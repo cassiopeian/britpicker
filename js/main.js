@@ -790,7 +790,10 @@ $('#clear-all img').hover(
 );
 
 $('#ae').on('keyup', function() {
-    let aeText = $(this).val();
+    // turn #ae into an array of words
+    let aeSplit = $('#ae').val().split(' ');
+    // duplicate that array for the #be text
+    let beSplit = aeSplit;
 
     // copy the #ae text into the #be box
     $('#be').text(aeText);
