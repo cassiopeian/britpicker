@@ -804,8 +804,8 @@ $('#ae').on('keyup', function() {
 
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
-            // if the current word matches an american phrase
-            if (word == phrase.american) {
+            // if the current case-insensitive word matches an american phrase
+            if (word.toLowerCase() == phrase.american) {
                 // replace that word with the "translated" british phrase
                 beSplit.splice(index, 1, phrase.british);
             }
