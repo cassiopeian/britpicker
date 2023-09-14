@@ -718,6 +718,10 @@ let translations = [
         british: 'pavement'
     },
     {
+        american: 'soccer',
+        british: 'football'
+    },
+    {
         american: 'uniform',
         british: 'kit'
     },
