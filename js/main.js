@@ -730,6 +730,10 @@ let translations = [
         british: 'cheers'
     },
     {
+        american: 'toilet',
+        british: 'loo'
+    },
+    {
         american: 'uniform',
         british: 'kit'
     },
