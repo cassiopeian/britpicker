@@ -830,6 +830,20 @@ $('#ae').on('keyup', function() {
         translations.forEach(phrase => {
             // if the current case-insensitive word matches an american phrase
             if (word.toLowerCase() == phrase.american) {
+                // match the case of the displayed american word
+                function caseMatch(britPhrase) {
+                    let firstLetter = britPhrase.substring(0, 1);
+                    let remainingLetters = britPhrase.substring(1);
+                    
+                    if (capitalized === true) {
+                        // cap the first letter, and make the rest lowercase
+                        return britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
+                    } else {
+                        // set the whole word lowercase
+                        return britPhrase = britPhrase.toLowerCase();
+                    }
+                }
+
                 // replace that word with the "translated" british phrase
                 beSplit.splice(index, 1, phrase.british);
             }
