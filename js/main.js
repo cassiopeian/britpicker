@@ -845,7 +845,7 @@ $('#ae').on('keyup', function() {
                 }
 
                 // replace that word with the "translated" british phrase
-                beSplit.splice(index, 1, phrase.british);
+                beSplit.splice(index, 1, caseMatch(phrase.british));
             }
         });
     }
