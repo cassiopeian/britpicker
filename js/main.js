@@ -810,6 +810,7 @@ $('#ae').on('keyup', function() {
     let aeSplit = $('#ae').val().split(' ');
     // duplicate that array for the #be text
     let beSplit = aeSplit;
+    let capitalized;
 
     // while looping through the #be text
     for (let i = 0; i < beSplit.length; i++) {
