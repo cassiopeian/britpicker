@@ -819,6 +819,13 @@ $('#ae').on('keyup', function() {
         // and the index of that word, "index"
         let index = beSplit.indexOf(beSplit[i]);
 
+        // if the american word is capitalized
+        if (word.charAt(0).match(/[A-Z]/)) {
+            capitalized = true;
+        } else {
+            capitalized = false;
+        }
+
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
             // if the current case-insensitive word matches an american phrase
