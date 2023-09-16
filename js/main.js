@@ -738,6 +738,10 @@ let translations = [
         british: 'loo'
     },
     {
+        american: 'truck',
+        british: 'lorry'
+    },
+    {
         american: 'uniform',
         british: 'kit'
     },
