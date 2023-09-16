@@ -745,6 +745,10 @@ let translations = [
         american: 'uniform',
         british: 'kit'
     },
+    {
+        american: 'windshield',
+        british: 'windscreen'
+    },
 ];
 
 $(window).on('load', function() {
