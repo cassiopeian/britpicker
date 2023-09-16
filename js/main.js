@@ -694,6 +694,10 @@ let translations = [
         british: 'porridge'
     },
     {
+        american: 'panties',
+        british: 'knickers'
+    },
+    {
         american: 'pants',
         british: 'trousers'
     },
