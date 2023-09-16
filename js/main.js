@@ -822,8 +822,8 @@ $('#clear-all img').hover(
 );
 
 $('#ae').on('keyup', function() {
-    // turn #ae into an array of words
-    let aeSplit = $('#ae').val().split(' ');
+    // turn #ae into an array of words, split at non-words
+    let aeSplit = $('#ae').val().split(/([_\W])/);
     // duplicate that array for the #be text
     let beSplit = aeSplit;
     let capitalized;
