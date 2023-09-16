@@ -867,7 +867,7 @@ $('#ae').on('keyup', function() {
     }
 
     // join and display the words in the split British array
-    $('#be').text(beSplit.join(' '));
+    $('#be').text(beSplit.join(''));
 });
 
 $('#toggle-dialects').on('click', function() {
