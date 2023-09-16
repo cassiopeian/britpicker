@@ -749,6 +749,10 @@ let translations = [
         american: 'windshield',
         british: 'windscreen'
     },
+    {
+        american: 'wrench',
+        british: 'spanner'
+    },
 ];
 
 $(window).on('load', function() {
