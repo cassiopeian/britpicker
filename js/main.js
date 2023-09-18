@@ -853,10 +853,12 @@ $('#ae').on('keyup', function() {
                     
                     if (capitalized === true) {
                         // cap the first letter, and make the rest lowercase
-                        return britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
+                        britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
+                        return `<mark class="translated">${britPhrase}</mark>`;
                     } else {
                         // set the whole word lowercase
-                        return britPhrase = britPhrase.toLowerCase();
+                        britPhrase = britPhrase.toLowerCase();
+                        return `<mark class="translated">${britPhrase}</mark>`;
                     }
                 }
 
