@@ -858,7 +858,11 @@ $('#ae').on('keyup', function() {
                     let firstLetter = britPhrase.substring(0, 1);
                     let remainingLetters = britPhrase.substring(1);
                     
-                    if (capitalized === true) {
+                    if (uppercase === true) {
+                        // set the whole word uppercase
+                        britPhrase = britPhrase.toUpperCase();
+                        return `<mark class="translated">${britPhrase}</mark>`;
+                    } else if (capitalized === true) {
                         // cap the first letter, and make the rest lowercase
                         britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
                         return `<mark class="translated">${britPhrase}</mark>`;
