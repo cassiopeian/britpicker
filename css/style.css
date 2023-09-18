@@ -189,6 +189,9 @@ main {
     border-left: none;
     border-radius: 0 0 8px 0;
 }
+.translated {
+    background-color: rgba(172, 255, 47, 0.603);
+}
 #toggle-dialects {
     display: none;
     font-weight: 700;
