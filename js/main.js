@@ -828,6 +828,7 @@ $('#ae').on('keyup', function() {
     // duplicate that array for the #be text
     let beSplit = aeSplit;
     let capitalized;
+    let uppercase;
 
     // while looping through the #be text
     for (let i = 0; i < beSplit.length; i++) {
@@ -836,10 +837,15 @@ $('#ae').on('keyup', function() {
         // and the index of that word, "index"
         let index = beSplit.indexOf(beSplit[i]);
 
-        // if the american word is capitalized
-        if (word.charAt(0).match(/[A-Z]/)) {
+        // determine the case of the american word
+        if (word === word.toUpperCase()) {
+            uppercase = true;
+            capitalized = false;
+        } else if (word.charAt(0).match(/[A-Z]/)) {
+            uppercase = false;
             capitalized = true;
         } else {
+            uppercase = false;
             capitalized = false;
         }
 
