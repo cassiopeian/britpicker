@@ -804,8 +804,9 @@ $('.uk').on('click', function() {
 
 // when the trash icon is clicked
 $('#clear-all').on('click', function() {
-    // clear all text in the american english box
-    $('#ae').html('');
+    // clear all american and british text
+    $('#ae').val('');
+    $('#be').html('');
 });
 
 // modify trash icon, on hover
