@@ -826,6 +826,16 @@ $('#clear-all img').hover(
     }
 );
 
+$('#highlight-toggle').on('click', function() {
+    if ($('mark').hasClass('highlights-off')) {
+        // turn highlights on
+        $('mark').removeClass('highlights-off');
+    } else {
+        // turn highlights off
+        $('mark').addClass('highlights-off');
+    }
+});
+
 $('#ae').on('keyup', function() {
     // turn #ae into an array of words, split at non-words
     let aeSplit = $('#ae').val().split(/([_\W])/);
