@@ -192,6 +192,9 @@ main {
 .translated {
     background-color: rgba(172, 255, 47, 0.603);
 }
+.highlights-off {
+    background-color: transparent !important;
+}
 #toggle-dialects {
     display: none;
     font-weight: 700;
