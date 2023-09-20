@@ -149,7 +149,7 @@ main {
     width: 1px;
     background-color: rgb(211, 211, 228);
 }
-#clear-all {
+.translator-icon {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -157,7 +157,7 @@ main {
     background-color: transparent;
     padding: 0;
 }
-#clear-all img {
+.translator-icon img {
     height: 1.125rem;
     cursor: pointer;
 }
