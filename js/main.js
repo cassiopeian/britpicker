@@ -702,6 +702,10 @@ let translations = [
         british: 'trousers'
     },
     {
+        american: 'paper towels',
+        british: 'kitchen roll'
+    },
+    {
         american: 'parka',
         british: 'anorak'
     },
