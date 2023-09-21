@@ -854,6 +854,8 @@ $('#ae').on('keyup', function() {
         let word = beSplit[i];
         // and the index of that word, "index"
         let index = beSplit.indexOf(beSplit[i]);
+        // the previous word takes spaces into account
+        let prevWord = beSplit[i-2];
 
         // determine the case of the american word
         if (word === word.toUpperCase()) {
