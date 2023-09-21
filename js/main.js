@@ -867,30 +867,30 @@ $('#ae').on('keyup', function() {
             capitalized = false;
         }
 
+        // match the case of the displayed american word
+        function caseMatch(britPhrase) {
+            let firstLetter = britPhrase.substring(0, 1);
+            let remainingLetters = britPhrase.substring(1);
+            
+            if (uppercase === true) {
+                // set the whole word uppercase
+                britPhrase = britPhrase.toUpperCase();
+                return `<mark class="translated">${britPhrase}</mark>`;
+            } else if (capitalized === true) {
+                // cap the first letter, and make the rest lowercase
+                britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
+                return `<mark class="translated">${britPhrase}</mark>`;
+            } else {
+                // set the whole word lowercase
+                britPhrase = britPhrase.toLowerCase();
+                return `<mark class="translated">${britPhrase}</mark>`;
+            }
+        }
+
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
             // if the current case-insensitive word matches an american phrase
             if (word.toLowerCase() == phrase.american) {
-                // match the case of the displayed american word
-                function caseMatch(britPhrase) {
-                    let firstLetter = britPhrase.substring(0, 1);
-                    let remainingLetters = britPhrase.substring(1);
-                    
-                    if (uppercase === true) {
-                        // set the whole word uppercase
-                        britPhrase = britPhrase.toUpperCase();
-                        return `<mark class="translated">${britPhrase}</mark>`;
-                    } else if (capitalized === true) {
-                        // cap the first letter, and make the rest lowercase
-                        britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
-                        return `<mark class="translated">${britPhrase}</mark>`;
-                    } else {
-                        // set the whole word lowercase
-                        britPhrase = britPhrase.toLowerCase();
-                        return `<mark class="translated">${britPhrase}</mark>`;
-                    }
-                }
-
                 // replace that word with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british));
             }
