@@ -670,6 +670,10 @@ let translations = [
         british: 'pitch'
     },
     {
+        american: 'freeway',
+        british: 'motorway'
+    },
+    {
         american: 'freshman',
         british: 'fresher'
     },
