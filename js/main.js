@@ -895,9 +895,16 @@ $('#ae').on('keyup', function() {
 
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
-            // if the current case-insensitive word matches an american phrase
-            if (word.toLowerCase() == phrase.american) {
-                // replace that word with the "translated" british phrase
+            // if a two-word phrase matches an american phrase
+            if (twoWords.toLowerCase() == phrase.american) {
+                // replace the second word with the whole american phrase 
+                aeSplit.splice(index, 1, phrase.american);
+                // replace that phrase with the "translated" british phrase
+                beSplit.splice(index, 1, caseMatch(phrase.british));
+                // remove the redundant (first) word and space before the phrase 
+                aeSplit.splice(prevIndex, 2);
+            } else if (word.toLowerCase() == phrase.american) {
+                // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british));
             }
         });
