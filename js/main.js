@@ -618,6 +618,10 @@ let translations = [
         british: 'barman'
     },
     {
+        american: 'bathing suit',
+        british: 'swimming costume'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
