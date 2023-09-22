@@ -856,6 +856,8 @@ $('#ae').on('keyup', function() {
         let index = beSplit.indexOf(beSplit[i]);
         // the previous word takes spaces into account
         let prevWord = beSplit[i-2];
+        // index of prevWord
+        let prevIndex = beSplit.indexOf(beSplit[i-2]);
         // match multi-word phrases
         let twoWords = prevWord + ' ' + word;
 
