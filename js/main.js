@@ -606,6 +606,10 @@ let translations = [
         british: 'rocket'
     },
     {
+        american: 'an arugula',
+        british: 'a rocket'
+    },
+    {
         american: 'ass',
         british: 'arse'
     },
