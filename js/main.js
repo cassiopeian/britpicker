@@ -614,6 +614,10 @@ let translations = [
         british: 'arse'
     },
     {
+        american: 'bartender',
+        british: 'barman'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
