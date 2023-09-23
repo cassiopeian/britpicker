@@ -619,7 +619,8 @@ let translations = [
     },
     {
         american: 'bartender',
-        british: 'barman'
+        british: 'barman',
+        plural: 'barmen'
     },
     {
         american: 'bathing suit',
