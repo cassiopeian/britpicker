@@ -601,7 +601,8 @@ let translations = [
     },
     {
         american: 'argument',
-        british: 'argy-bargy'
+        british: 'argy-bargy',
+        plural: 'argy-bargies'
     },
     {
         american: 'arugula',
