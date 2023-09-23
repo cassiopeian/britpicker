@@ -614,7 +614,8 @@ let translations = [
     },
     {
         american: 'ass',
-        british: 'arse'
+        british: 'arse',
+        plural: 'arses'
     },
     {
         american: 'bartender',
