@@ -929,7 +929,7 @@ $('#ae').on('keyup', function() {
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british));
-            } else if (word.toLowerCase() == phrase.american + 's') {
+            } else if (word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
                 beSplit.splice(index, 1, caseMatch(phrase.plural));
             }
