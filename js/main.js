@@ -587,11 +587,13 @@ let nouns = [
 let translations = [
     {
         american: 'ad',
-        british: 'advert'
+        british: 'advert',
+        plural: 'adverts'
     },
     {
         american: 'apartment',
-        british: 'flat'
+        british: 'flat',
+        plural: 'flats'
     },
     {
         american: 'an apartment',
