@@ -645,7 +645,8 @@ let translations = [
     },
     {
         american: 'cookie',
-        british: 'biscuit'
+        british: 'biscuit',
+        plural: 'biscuits'
     },
     {
         american: 'cooktop',
