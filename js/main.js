@@ -658,8 +658,14 @@ let translations = [
         british: 'fancy dress'
     },
     {
+        american: 'counter',
+        british: 'worktop',
+        plural: 'worktops'
+    },
+    {
         american: 'countertop',
-        british: 'worktop'
+        british: 'worktop',
+        plural: 'worktops'
     },
     {
         american: 'dollar',
