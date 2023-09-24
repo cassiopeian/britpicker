@@ -650,7 +650,8 @@ let translations = [
     },
     {
         american: 'cooktop',
-        british: 'hob'
+        british: 'hob',
+        plural: 'hobs'
     },
     {
         american: 'costume',
