@@ -635,8 +635,9 @@ let translations = [
         british: 'hessian'
     },
     {
-        american: 'chips',
-        british: 'crisps'
+        american: 'chip',
+        british: 'crisp',
+        plural: 'crisps'
     },
     {
         american: 'cilantro',
