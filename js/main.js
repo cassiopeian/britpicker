@@ -689,7 +689,8 @@ let translations = [
     },
     {
         american: 'freeway',
-        british: 'motorway'
+        british: 'motorway',
+        plural: 'motorways'
     },
     {
         american: 'freshman',
