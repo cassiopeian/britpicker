@@ -674,7 +674,8 @@ let translations = [
     },
     {
         american: 'eggplant',
-        british: 'aubergine'
+        british: 'aubergine',
+        plural: 'aubergines'
     },
     {
         american: 'elevator',
