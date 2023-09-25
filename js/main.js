@@ -704,6 +704,11 @@ let translations = [
         british: 'chips'
     },
     {
+        american: 'garbageman',
+        british: 'binman',
+        plural: 'binmen' 
+    },
+    {
         american: 'gas',
         british: 'petrol'
     },
