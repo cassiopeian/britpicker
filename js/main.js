@@ -669,7 +669,8 @@ let translations = [
     },
     {
         american: 'dollar',
-        british: ['pound', 'quid']
+        british: 'pound',
+        plural: 'pounds'
     },
     {
         american: 'eggplant',
