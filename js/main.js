@@ -699,7 +699,8 @@ let translations = [
     },
     {
         american: 'friend',
-        british: 'mate'
+        british: 'mate',
+        plural: 'mates'
     },
     {
         american: 'fries',
