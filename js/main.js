@@ -694,7 +694,8 @@ let translations = [
     },
     {
         american: 'freshman',
-        british: 'fresher'
+        british: 'fresher',
+        plural: 'freshers'
     },
     {
         american: 'friend',
