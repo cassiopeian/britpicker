@@ -679,7 +679,8 @@ let translations = [
     },
     {
         american: 'elevator',
-        british: 'lift'
+        british: 'lift',
+        plural: 'lifts'
     },
     {
         american: 'field',
