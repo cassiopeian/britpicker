@@ -716,10 +716,6 @@ let translations = [
         british: 'petrol'
     },
     {
-        american: 'gas',
-        british: 'petrol'
-    },
-    {
         american: 'hood',
         british: 'bonnet'
     },
