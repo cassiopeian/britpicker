@@ -684,7 +684,8 @@ let translations = [
     },
     {
         american: 'field',
-        british: 'pitch'
+        british: 'pitch',
+        plural: 'pitches'
     },
     {
         american: 'freeway',
