@@ -703,8 +703,9 @@ let translations = [
         plural: 'mates'
     },
     {
-        american: 'fries',
-        british: 'chips'
+        american: 'fry',
+        british: 'chip',
+        plural: 'chips'
     },
     {
         american: 'garbageman',
