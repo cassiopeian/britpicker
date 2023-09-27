@@ -723,7 +723,8 @@ let translations = [
     },
     {
         american: 'journalist',
-        british: 'journo'
+        british: 'journo',
+        plural: 'journos'
     },
     {
         american: 'laundromat',
