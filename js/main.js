@@ -738,7 +738,8 @@ let translations = [
     },
     {
         american: 'oatmeal',
-        british: 'porridge'
+        british: 'porridge',
+        plural: 'porridges'
     },
     {
         american: 'panties',
