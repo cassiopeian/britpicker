@@ -733,7 +733,8 @@ let translations = [
     },
     {
         american: 'mom',
-        british: 'mum'
+        british: 'mum',
+        plural: 'mums'
     },
     {
         american: 'oatmeal',
