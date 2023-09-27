@@ -952,7 +952,10 @@ $('#ae').on('keyup', function() {
                 // or replace pluralized words
                 beSplit.splice(index, 1, caseMatch(phrase.plural));
             } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
-                // or replace pluralized words with the suffix '-men'
+                // or replace pluralized words with the suffix "-men"
+                beSplit.splice(index, 1, caseMatch(phrase.plural));
+            } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
+                // or replace pluralized words with the suffix "-ies"
                 beSplit.splice(index, 1, caseMatch(phrase.plural));
             }
         });
