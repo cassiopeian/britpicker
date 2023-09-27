@@ -728,7 +728,8 @@ let translations = [
     },
     {
         american: 'laundromat',
-        british: 'launderette'
+        british: 'launderette',
+        plural: 'launderettes'
     },
     {
         american: 'mom',
