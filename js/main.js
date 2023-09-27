@@ -742,12 +742,14 @@ let translations = [
         plural: 'porridges'
     },
     {
-        american: 'panties',
-        british: 'knickers'
+        american: 'panty',
+        british: 'knicker',
+        plural: 'knickers'
     },
     {
-        american: 'pants',
-        british: 'trousers'
+        american: 'pant',
+        british: 'trouser',
+        plural: 'trousers'
     },
     {
         american: 'paper towels',
