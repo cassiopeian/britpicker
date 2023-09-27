@@ -718,7 +718,8 @@ let translations = [
     },
     {
         american: 'hood',
-        british: 'bonnet'
+        british: 'bonnet',
+        plural: 'bonnets'
     },
     {
         american: 'journalist',
