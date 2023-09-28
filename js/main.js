@@ -765,7 +765,8 @@ let translations = [
     },
     {
         american: 'parka',
-        british: 'anorak'
+        british: 'anorak',
+        plural: 'anoraks'
     },
     {
         american: 'pleased',
