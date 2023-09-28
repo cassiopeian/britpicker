@@ -890,6 +890,19 @@ $('#highlight-toggle').on('click', function() {
     }
 });
 
+// modify highlighter icon, on hover
+$('#highlight-toggle img').hover(
+    function() {
+        // prevent hover state on small screens
+        if ($(window).width() > 415) {
+            $(this).attr('src', './images/icons/tilted-highlighter-filled.svg')
+        } 
+    },
+    function() {
+        $(this).attr('src', './images/icons/tilted-highlighter.svg');
+    }
+);
+
 $('#ae').on('keyup', function() {
     // turn #ae into an array of words, split at non-words
     let aeSplit = $('#ae').val().split(/([_\W])/);
