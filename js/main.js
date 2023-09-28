@@ -708,6 +708,10 @@ let translations = [
         plural: 'chips'
     },
     {
+        american: 'garbage',
+        british: 'rubbish'
+    },
+    {
         american: 'garbageman',
         british: 'binman',
         plural: 'binmen' 
