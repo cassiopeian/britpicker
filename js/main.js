@@ -790,6 +790,10 @@ let translations = [
         british: 'potter'
     },
     {
+        american: 'quiet down',
+        british: 'quieten down'
+    },
+    {
         american: 'quieted',
         british: 'quietened'
     },
