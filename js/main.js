@@ -782,6 +782,10 @@ let translations = [
         british: 'chuffed'
     },
     {
+        american: 'pruning shears',
+        british: 'secateurs'
+    },
+    {
         american: 'putter',
         british: 'potter'
     },
