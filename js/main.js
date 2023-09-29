@@ -769,6 +769,10 @@ let translations = [
         plural: 'anoraks'
     },
     {
+        american: 'pay raise',
+        british: 'pay rise'
+    },
+    {
         american: 'pharmacist',
         british: 'chemist',
         plural: 'chemists'
