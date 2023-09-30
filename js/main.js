@@ -815,8 +815,9 @@ let translations = [
         british: 'football'
     },
     {
-        american: 'sneakers',
-        british: 'trainers'
+        american: 'sneaker',
+        british: 'trainer',
+        plural: 'trainers'
     },
     {
         american: 'thanks',
