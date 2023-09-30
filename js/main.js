@@ -840,7 +840,8 @@ let translations = [
     },
     {
         american: 'truck',
-        british: 'lorry'
+        british: 'lorry',
+        plural: 'lorries'
     },
     {
         american: 'uniform',
