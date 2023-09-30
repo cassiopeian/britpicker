@@ -798,6 +798,11 @@ let translations = [
         british: 'quietened'
     },
     {
+        american: 'rental',
+        british: 'hire',
+        plural: 'hires'
+    },
+    {
         american: 'shrimp',
         british: 'prawn'
     },
