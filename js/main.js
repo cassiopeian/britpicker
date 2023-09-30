@@ -833,6 +833,11 @@ let translations = [
         british: 'loo'
     },
     {
+        american: 'ton',
+        british: 'shedload',
+        plural: 'shedloads'
+    },
+    {
         american: 'truck',
         british: 'lorry'
     },
