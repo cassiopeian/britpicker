@@ -830,7 +830,8 @@ let translations = [
     },
     {
         american: 'toilet',
-        british: 'loo'
+        british: 'loo',
+        plural: 'loos'
     },
     {
         american: 'ton',
