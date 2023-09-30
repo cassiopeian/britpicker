@@ -820,6 +820,11 @@ let translations = [
         plural: 'trainers'
     },
     {
+        american: 'stroller',
+        british: 'pram',
+        plural: 'prams'
+    },
+    {
         american: 'thanks',
         british: 'cheers'
     },
