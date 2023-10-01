@@ -843,6 +843,10 @@ let translations = [
         british: 'trackies'
     },
     {
+        american: 'trash',
+        british: 'rubbish'
+    },
+    {
         american: 'truck',
         british: 'lorry',
         plural: 'lorries'
