@@ -858,7 +858,8 @@ let translations = [
     },
     {
         american: 'windshield',
-        british: 'windscreen'
+        british: 'windscreen',
+        plural: 'windscreens'
     },
     {
         american: 'wrench',
