@@ -988,16 +988,15 @@ $('#ae').on('keyup', function() {
             if (uppercase === true) {
                 // set the whole word uppercase
                 britPhrase = britPhrase.toUpperCase();
-                return `<mark class="translated">${britPhrase}</mark>`;
             } else if (capitalized === true) {
                 // cap the first letter, and make the rest lowercase
                 britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
-                return `<mark class="translated">${britPhrase}</mark>`;
             } else {
                 // set the whole word lowercase
                 britPhrase = britPhrase.toLowerCase();
-                return `<mark class="translated">${britPhrase}</mark>`;
             }
+
+            return `<mark class="translated">${britPhrase}</mark>`;
         }
 
         // loop through each phrase in the translations array
