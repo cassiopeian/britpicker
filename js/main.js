@@ -845,7 +845,8 @@ let translations = [
     },
     {
         american: 'uniform',
-        british: 'kit'
+        british: 'kit',
+        plural: 'kits'
     },
     {
         american: 'windshield',
