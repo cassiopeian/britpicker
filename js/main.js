@@ -863,7 +863,8 @@ let translations = [
     },
     {
         american: 'wrench',
-        british: 'spanner'
+        british: 'spanner',
+        plural: 'spanners'
     },
 ];
 
