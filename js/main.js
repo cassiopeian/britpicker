@@ -839,6 +839,10 @@ let translations = [
         plural: 'shedloads'
     },
     {
+        american: 'track pants',
+        british: 'trackies'
+    },
+    {
         american: 'truck',
         british: 'lorry',
         plural: 'lorries'
