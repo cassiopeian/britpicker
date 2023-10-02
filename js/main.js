@@ -823,13 +823,13 @@ let translations = [
         plural: 'pavements'
     },
     {
-        american: 'soccer',
-        british: 'football'
-    },
-    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers'
+    },
+    {
+        american: 'soccer',
+        british: 'football'
     },
     {
         american: 'stroller',
