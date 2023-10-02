@@ -809,7 +809,8 @@ let translations = [
     },
     {
         american: 'shrimp',
-        british: 'prawn'
+        british: 'prawn',
+        plural: 'prawns'
     },
     {
         american: 'sidewalk',
