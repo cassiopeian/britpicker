@@ -750,6 +750,10 @@ let translations = [
         plural: 'porridges'
     },
     {
+        american: 'an oatmeal',
+        british: 'a porridge'
+    },
+    {
         american: 'panty',
         british: 'knicker',
         plural: 'knickers'
