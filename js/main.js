@@ -730,6 +730,11 @@ let translations = [
         plural: 'bonnets'
     },
     {
+        american: 'highway',
+        british: 'motorway',
+        plural: 'motorways'
+    },
+    {
         american: 'journalist',
         british: 'journo',
         plural: 'journos'
