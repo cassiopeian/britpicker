@@ -770,7 +770,8 @@ let translations = [
     },
     {
         american: 'pay raise',
-        british: 'pay rise'
+        british: 'pay rise',
+        plural: 'pay rises'
     },
     {
         american: 'pharmacist',
