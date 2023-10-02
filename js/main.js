@@ -1020,6 +1020,13 @@ $('#ae').on('keyup', function() {
                 beSplit.splice(index, 1, caseMatch(phrase.british));
                 // remove the redundant (first) word and space before the phrase 
                 aeSplit.splice(prevIndex, 2);
+            } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
+                // replace the second word with the whole american phrase 
+                aeSplit.splice(index, 1, phrase.american);
+                // replace that phrase with the pluralized british phrase
+                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                // remove the redundant (first) word and space before the phrase 
+                aeSplit.splice(prevIndex, 2);
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british));
