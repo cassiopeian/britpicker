@@ -837,6 +837,11 @@ let translations = [
         plural: 'prams'
     },
     {
+        american: 'tank top',
+        british: 'singlet',
+        plural: 'singlets'
+    },
+    {
         american: 'thanks',
         british: 'cheers'
     },
