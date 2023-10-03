@@ -591,6 +591,10 @@ let translations = [
         plural: 'adverts'
     },
     {
+        american: 'among',
+        british: 'amongst'
+    },
+    {
         american: 'apartment',
         british: 'flat',
         plural: 'flats'
