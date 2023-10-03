@@ -759,6 +759,11 @@ let translations = [
         plural: 'mums'
     },
     {
+        american: 'national holiday',
+        british: 'bank holiday',
+        plural: 'bank holidays'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
