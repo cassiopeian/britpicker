@@ -668,6 +668,10 @@ let translations = [
         plural: 'worktops'
     },
     {
+        american: 'counterclockwise',
+        british: 'anticlockwise'
+    },
+    {
         american: 'countertop',
         british: 'worktop',
         plural: 'worktops'
