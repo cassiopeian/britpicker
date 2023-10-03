@@ -624,7 +624,8 @@ let translations = [
     },
     {
         american: 'bathing suit',
-        british: 'swimming costume'
+        british: 'swimming costume',
+        plural: 'swimming costumes'
     },
     {
         american: 'broke',
