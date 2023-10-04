@@ -882,6 +882,10 @@ let translations = [
         plural: 'shedloads'
     },
     {
+        american: 'toward',
+        british: 'towards'
+    },
+    {
         american: 'track pants',
         british: 'trackies'
     },
