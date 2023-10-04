@@ -846,6 +846,12 @@ let translations = [
         british: 'football'
     },
     {
+        // soccer ball
+        american: 'football ball',
+        british: 'football',
+        plural: 'footballs'
+    },
+    {
         american: 'stroller',
         british: 'pram',
         plural: 'prams'
