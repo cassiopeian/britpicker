@@ -1043,6 +1043,13 @@ $('#ae').on('keyup', function() {
 
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
+            // if the first word of a phrase is already translated
+            if (typeof prevWord !== 'undefined' && prevWord[0] == '<') {
+                // strip the mark tags from the translated word
+                prevWord = prevWord.replace(/<\/?.+?>/ig, '');
+                twoWords = prevWord + ' ' + word;
+            }
+
             // if a two-word phrase matches an american phrase
             if (twoWords.toLowerCase() == phrase.american) {
                 // replace the second word with the whole american phrase 
