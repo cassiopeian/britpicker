@@ -852,6 +852,12 @@ let translations = [
         plural: 'footballs'
     },
     {
+        // soccer player
+        american: 'football player',
+        british: 'footballer',
+        plural: 'footballers'
+    },
+    {
         american: 'stroller',
         british: 'pram',
         plural: 'prams'
