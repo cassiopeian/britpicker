@@ -904,6 +904,10 @@ let translations = [
         plural: 'kits'
     },
     {
+        american: 'while',
+        british: 'whilst'
+    },
+    {
         american: 'windshield',
         british: 'windscreen',
         plural: 'windscreens'
