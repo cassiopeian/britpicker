@@ -1029,6 +1029,8 @@ $('#ae').on('keyup', function() {
         let prevIndex = beSplit.indexOf(beSplit[i-2]);
         // match multi-word phrases
         let twoWords = prevWord + ' ' + word;
+        // needed between two-word and one-word translations
+        let hiddenSpace = '\u200B';
 
         // determine the case of the american word
         if (word === word.toUpperCase()) {
