@@ -1074,12 +1074,10 @@ $('#ae').on('keyup', function() {
 
             // if a two-word phrase matches an american phrase
             if (twoWords.toLowerCase() == phrase.american) {
-                // replace the second word with the whole american phrase 
-                aeSplit.splice(index, 1, phrase.american);
-                // replace that phrase with the "translated" british phrase
-                beSplit.splice(index, 1, caseMatch(phrase.british));
-                // remove the redundant (first) word and space before the phrase 
-                aeSplit.splice(prevIndex, 2);
+                // replace both words and the space with the joined american phrase 
+                aeSplit.splice(prevIndex, 3, phrase.american);
+                // replace that with the british phrase and a hidden space
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.british), hiddenSpace);
             } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // replace the second word with the whole american phrase 
                 aeSplit.splice(index, 1, phrase.american);
