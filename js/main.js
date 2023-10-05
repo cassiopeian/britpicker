@@ -904,6 +904,11 @@ let translations = [
         plural: 'kits'
     },
     {
+        american: 'vacation',
+        british: 'holiday',
+        plural: 'holidays'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
