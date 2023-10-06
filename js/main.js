@@ -11,7 +11,6 @@ let adjShank = $('#adjective-lock').find('.shank');
 let nounShank = $('#noun-lock').find('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
 let insultList = document.getElementById('insult-list');
-let mimic = [];
 
 $(window).on('load', function() {
     let dialectHeight = $('#dialect-container').outerHeight();
