@@ -277,6 +277,11 @@ let translations = [
         plural: 'prams'
     },
     {
+        american: 'sunscreen',
+        british: 'sun cream',
+        plural: 'sun creams'
+    },
+    {
         american: 'tank top',
         british: 'singlet',
         plural: 'singlets'
