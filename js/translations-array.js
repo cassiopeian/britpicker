@@ -148,6 +148,10 @@ let translations = [
         british: 'get on'
     },
     {
+        american: 'gotten',
+        british: 'got'
+    },
+    {
         american: 'hood',
         british: 'bonnet',
         plural: 'bonnets'
