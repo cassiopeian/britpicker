@@ -182,6 +182,11 @@ let translations = [
         plural: 'bank holidays'
     },
     {
+        american: 'napkin',
+        british: 'serviette',
+        plural: 'serviettes'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
