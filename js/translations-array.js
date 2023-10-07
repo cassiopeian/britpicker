@@ -187,6 +187,11 @@ let translations = [
         plural: 'serviettes'
     },
     {
+        american: 'nerd',
+        british: 'swot',
+        plural: 'swots'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
