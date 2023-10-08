@@ -172,6 +172,10 @@ let translations = [
         plural: 'launderettes'
     },
     {
+        american: 'math',
+        british: 'maths'
+    },
+    {
         american: 'mom',
         british: 'mum',
         plural: 'mums'
