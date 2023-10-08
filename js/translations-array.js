@@ -172,6 +172,11 @@ let translations = [
         plural: 'launderettes'
     },
     {
+        american: 'mailbox',
+        british: 'postbox',
+        plural: 'postboxes'
+    },
+    {
         american: 'mailman',
         british: 'postman',
         plural: 'postmen'
