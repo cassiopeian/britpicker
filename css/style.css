@@ -192,6 +192,7 @@ main {
 }
 .translated {
     background-color: rgba(172, 255, 47, 0.603);
+    cursor: pointer;
 }
 .highlights-off {
     background-color: transparent !important;
