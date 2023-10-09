@@ -200,6 +200,14 @@ main {
 #be span {
     position: relative;
 }
+.edits-container {
+    display: none;
+    position: absolute;
+    width: fit-content;
+    top: 100%;
+    left: 0px;
+    z-index: 2;
+}
 #toggle-dialects {
     display: none;
     font-weight: 700;
