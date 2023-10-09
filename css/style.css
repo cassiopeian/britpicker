@@ -221,6 +221,9 @@ main {
     border: none;
     cursor: pointer;
 }
+.edit:hover {
+    background-color: rgb(217, 230, 236);
+}
 #toggle-dialects {
     display: none;
     font-weight: 700;
