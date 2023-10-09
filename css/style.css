@@ -196,6 +196,9 @@ main {
 .highlights-off {
     background-color: transparent !important;
 }
+#be span {
+    position: relative;
+}
 #toggle-dialects {
     display: none;
     font-weight: 700;
