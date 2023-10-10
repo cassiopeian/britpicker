@@ -36,6 +36,11 @@ let translations = [
         plural: 'arses'
     },
     {
+        american: 'attorney',
+        british: 'solicitor',
+        plural: 'solicitors'
+    },
+    {
         american: 'bartender',
         british: 'barman',
         plural: 'barmen'
