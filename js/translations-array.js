@@ -324,6 +324,11 @@ let translations = [
         plural: 'singlets'
     },
     {
+        american: 'teleprompter',
+        british: 'autocue',
+        plural: 'autocues'
+    },
+    {
         american: 'thanks',
         british: 'cheers'
     },
