@@ -91,6 +91,10 @@ let translations = [
         british: 'anticlockwise'
     },
     {
+        american: 'cutesy',
+        british: 'twee'
+    },
+    {
         american: 'countertop',
         british: 'worktop',
         plural: 'worktops'
