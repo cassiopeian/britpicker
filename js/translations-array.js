@@ -63,6 +63,11 @@ let translations = [
         british: 'coriander'
     },
     {
+        american: 'class',
+        british: 'lesson',
+        plural: 'lessons'
+    },
+    {
         american: 'cookie',
         british: 'biscuit',
         plural: 'biscuits'
