@@ -186,6 +186,10 @@ let translations = [
         plural: 'launderettes'
     },
     {
+        american: 'lazy',
+        british: 'bone-idle'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
