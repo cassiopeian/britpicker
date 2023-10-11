@@ -190,6 +190,11 @@ let translations = [
         british: 'bone-idle'
     },
     {
+        american: 'line',
+        british: 'queue',
+        plural: 'queues'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
