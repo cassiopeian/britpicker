@@ -120,6 +120,11 @@ let translations = [
         plural: 'lifts'
     },
     {
+        american: 'fanny pack',
+        british: 'bum bag',
+        plural: 'bum bags'
+    },
+    {
         american: 'field',
         british: 'pitch',
         plural: 'pitches'
