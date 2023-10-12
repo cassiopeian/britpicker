@@ -383,6 +383,11 @@ let translations = [
         british: 'trackies'
     },
     {
+        american: 'trailer park',
+        british: 'caravan park',
+        plural: 'caravan parks'
+    },
+    {
         american: 'trash',
         british: 'rubbish'
     },
