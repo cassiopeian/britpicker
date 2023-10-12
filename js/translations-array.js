@@ -251,6 +251,11 @@ let translations = [
         british: 'a porridge'
     },
     {
+        american: 'opportunist',
+        british: 'chancer',
+        plural: 'chancers'
+    },
+    {
         american: 'panty',
         british: 'knicker',
         plural: 'knickers'
