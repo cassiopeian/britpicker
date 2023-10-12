@@ -87,6 +87,10 @@ let translations = [
         british: 'fancy dress'
     },
     {
+        american: 'cotton candy',
+        british: 'candy floss'
+    },
+    {
         american: 'counter',
         british: 'worktop',
         plural: 'worktops'
