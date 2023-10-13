@@ -360,6 +360,11 @@ let translations = [
         plural: 'trainers'
     },
     {
+        american: 'soda',
+        british: 'fizzy drink',
+        plural: 'fizzy drinks'
+    },
+    {
         american: 'soccer',
         british: 'football'
     },
