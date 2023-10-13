@@ -335,6 +335,11 @@ let translations = [
         plural: 'hires'
     },
     {
+        american: 'row house',
+        british: 'terraced house',
+        plural: 'terraced houses'
+    },
+    {
         american: 'sandwich',
         british: 'sarnie',
         plural: 'sarnies'
