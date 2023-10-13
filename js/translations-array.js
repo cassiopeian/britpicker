@@ -96,6 +96,11 @@ let translations = [
         british: 'candy floss'
     },
     {
+        american: 'cotton swab',
+        british: 'cotton bud',
+        plural: 'cotton buds'
+    },
+    {
         american: 'counter',
         british: 'worktop',
         plural: 'worktops'
