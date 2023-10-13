@@ -110,6 +110,11 @@ let translations = [
         british: 'anticlockwise'
     },
     {
+        american: 'cupcake',
+        british: 'fairy cake',
+        plural: 'fairy cakes'
+    },
+    {
         american: 'cutesy',
         british: 'twee'
     },
