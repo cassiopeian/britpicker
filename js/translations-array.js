@@ -51,6 +51,11 @@ let translations = [
         plural: 'swimming costumes'
     },
     {
+        american: 'bedspread',
+        british: 'counterpane',
+        plural: 'counterpanes'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
