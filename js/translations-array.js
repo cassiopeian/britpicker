@@ -139,6 +139,11 @@ let translations = [
         plural: 'lifts'
     },
     {
+        american: 'exclamation point',
+        british: 'exclamation mark',
+        plural: 'exclamation marks'
+    },
+    {
         american: 'fanny pack',
         british: 'bum bag',
         plural: 'bum bags'
