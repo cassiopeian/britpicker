@@ -325,6 +325,11 @@ let translations = [
         british: 'quietened'
     },
     {
+        american: 'realtor',
+        british: 'estate agent',
+        plural: 'estate agents'
+    },
+    {
         american: 'rental',
         british: 'hire',
         plural: 'hires'
