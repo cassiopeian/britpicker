@@ -346,6 +346,11 @@ let translations = [
         plural: 'footballers'
     },
     {
+        american: 'stove',
+        british: 'cooker',
+        plural: 'cookers'
+    },
+    {
         american: 'stroller',
         british: 'pram',
         plural: 'prams'
