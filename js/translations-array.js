@@ -455,6 +455,11 @@ let translations = [
         british: 'spanner',
         plural: 'spanners'
     },
+    {
+        american: 'zucchini',
+        british: 'courgette',
+        plural: 'courgettes'
+    },
 ];
 
 export { translations };
