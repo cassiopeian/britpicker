@@ -119,11 +119,6 @@ let translations = [
         british: 'anticlockwise'
     },
     {
-        american: 'cucumber',
-        british: 'gherkin',
-        plural: 'gherkins'
-    },
-    {
         american: 'cupcake',
         british: 'fairy cake',
         plural: 'fairy cakes'
@@ -317,6 +312,11 @@ let translations = [
         american: 'pharmacist',
         british: 'chemist',
         plural: 'chemists'
+    },
+    {
+        american: 'pickle',
+        british: 'gherkin',
+        plural: 'gherkins'
     },
     {
         american: 'pleased',
