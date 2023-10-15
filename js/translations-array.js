@@ -1,5 +1,9 @@
 let translations = [
     {
+        american: 'acetaminophen',
+        british: 'paracetamol'
+    },
+    {
         american: 'ad',
         british: 'advert',
         plural: 'adverts'
