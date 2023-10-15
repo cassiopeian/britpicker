@@ -68,6 +68,11 @@ let translations = [
         british: 'hessian'
     },
     {
+        american: 'carnival',
+        british: 'funfair',
+        plural: 'funfairs'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
