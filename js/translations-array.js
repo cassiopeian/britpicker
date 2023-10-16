@@ -168,6 +168,10 @@ let translations = [
         plural: 'pitches'
     },
     {
+        american: 'filthy',
+        british: 'grotty'
+    },
+    {
         american: 'freeway',
         british: 'motorway',
         plural: 'motorways'
