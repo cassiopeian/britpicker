@@ -45,6 +45,11 @@ let translations = [
         plural: 'solicitors'
     },
     {
+        american: 'backpack',
+        british: 'rucksack',
+        plural: 'rucksacks'
+    },
+    {
         american: 'ballpoint pen',
         british: 'Biro',
         plural: 'Biros'
