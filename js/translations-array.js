@@ -388,6 +388,11 @@ let translations = [
         plural: 'pavements'
     },
     {
+        american: 'slowpoke',
+        british: 'slowcoach',
+        plural: 'slowcoaches'
+    },
+    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers'
