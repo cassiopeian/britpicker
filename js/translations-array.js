@@ -332,6 +332,11 @@ let translations = [
         british: 'chuffed'
     },
     {
+        american: 'prostitute',
+        british: 'prozzie',
+        plural: 'prozzies'
+    },
+    {
         american: 'pruning shears',
         british: 'secateurs'
     },
