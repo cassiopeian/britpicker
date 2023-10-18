@@ -265,6 +265,11 @@ let translations = [
         british: 'maths'
     },
     {
+        american: 'minivan',
+        british: 'people carrier',
+        plural: 'people carriers'
+    },
+    {
         american: 'mom',
         british: 'mum',
         plural: 'mums'
