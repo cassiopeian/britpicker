@@ -88,6 +88,11 @@ let translations = [
         plural: 'crisps'
     },
     {
+        american: 'cell phone',
+        british: 'mobile phone',
+        plural: 'mobile phones'
+    },
+    {
         american: 'cilantro',
         british: 'coriander'
     },
