@@ -444,6 +444,11 @@ let translations = [
         plural: 'sun creams'
     },
     {
+        american: 'takeout',
+        british: 'takeaway',
+        plural: 'takeaways'
+    },
+    {
         american: 'tank top',
         british: 'singlet',
         plural: 'singlets'
