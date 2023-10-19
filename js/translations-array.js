@@ -544,7 +544,8 @@ let translations = [
     },
     {
         american: 'whiner',
-        british: 'whinger'
+        british: 'whinger',
+        plural: 'whingers'
     },
     {
         american: 'whipped cream',
