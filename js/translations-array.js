@@ -539,6 +539,10 @@ let translations = [
         british: 'whilst'
     },
     {
+        american: 'whine',
+        british: 'whinge'
+    },
+    {
         american: 'whipped cream',
         british: 'squirty cream',
         plural: 'squirty creams'
