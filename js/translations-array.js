@@ -83,6 +83,11 @@ let translations = [
         plural: 'funfairs'
     },
     {
+        american: 'cat',
+        british: 'moggy',
+        plural: 'moggies'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
