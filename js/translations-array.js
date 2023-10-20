@@ -252,6 +252,11 @@ let translations = [
         plural: 'journos'
     },
     {
+        american: 'ladybug',
+        british: 'ladybird',
+        plural: 'ladybirds'
+    },
+    {
         american: 'laundromat',
         british: 'launderette',
         plural: 'launderettes'
