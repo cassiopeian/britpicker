@@ -459,6 +459,11 @@ let translations = [
         plural: 'prams'
     },
     {
+        american: 'studio apartment',
+        british: 'bedsit',
+        plural: 'bedsits'
+    },
+    {
         american: 'substitute teacher',
         british: 'supply teacher',
         plural: 'supply teachers'
