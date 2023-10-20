@@ -295,6 +295,11 @@ let translations = [
         plural: 'bank holidays'
     },
     {
+        american: 'nap',
+        british: 'kip',
+        plural: 'kips'
+    },
+    {
         american: 'napkin',
         british: 'serviette',
         plural: 'serviettes'
