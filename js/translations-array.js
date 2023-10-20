@@ -243,6 +243,10 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'hungry',
+        british: 'peckish'
+    },
+    {
         american: 'journalist',
         british: 'journo',
         plural: 'journos'
