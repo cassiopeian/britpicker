@@ -158,6 +158,10 @@ let translations = [
         plural: 'worktops'
     },
     {
+        american: 'disgusting',
+        british: 'minging'
+    },
+    {
         american: 'dollar',
         british: 'pound',
         plural: 'pounds'
