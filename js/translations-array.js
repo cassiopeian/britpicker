@@ -139,6 +139,11 @@ let translations = [
         british: 'anticlockwise'
     },
     {
+        american: 'countertop',
+        british: 'worktop',
+        plural: 'worktops'
+    },
+    {
         american: 'crosswalk',
         british: 'zebra crossing',
         plural: 'zebra crossings'
@@ -151,11 +156,6 @@ let translations = [
     {
         american: 'cutesy',
         british: 'twee'
-    },
-    {
-        american: 'countertop',
-        british: 'worktop',
-        plural: 'worktops'
     },
     {
         american: 'disgusting',
