@@ -158,6 +158,10 @@ let translations = [
         british: 'twee'
     },
     {
+        american: 'dirty',
+        british: 'manky'
+    },
+    {
         american: 'disgusting',
         british: 'minging'
     },
