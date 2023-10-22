@@ -200,6 +200,11 @@ let translations = [
         british: 'grotty'
     },
     {
+        american: 'fool',
+        british: 'muppet',
+        plural: 'muppets'
+    },
+    {
         american: 'freeway',
         british: 'motorway',
         plural: 'motorways'
