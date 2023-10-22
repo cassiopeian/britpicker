@@ -576,6 +576,11 @@ let translations = [
         plural: 'holidays'
     },
     {
+        american: 'vacationer',
+        british: 'holidaymaker',
+        plural: 'holidaymakers'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
