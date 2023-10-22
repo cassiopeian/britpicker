@@ -393,6 +393,11 @@ let translations = [
         british: 'secateurs'
     },
     {
+        american: 'pullover',
+        british: 'jumper',
+        plural: 'jumpers'
+    },
+    {
         american: 'putter',
         british: 'potter'
     },
