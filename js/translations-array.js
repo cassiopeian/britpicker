@@ -70,6 +70,11 @@ let translations = [
         plural: 'counterpanes'
     },
     {
+        american: 'billboard',
+        british: 'hoarding',
+        plural: 'hoardings'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
