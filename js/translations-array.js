@@ -265,6 +265,11 @@ let translations = [
         british: 'peckish'
     },
     {
+        american: 'ice pop',
+        british: 'ice lolly',
+        plural: 'ice lollies'
+    },
+    {
         american: 'journalist',
         british: 'journo',
         plural: 'journos'
