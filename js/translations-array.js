@@ -420,6 +420,11 @@ let translations = [
         british: 'quietened'
     },
     {
+        american: 'quotation mark',
+        british: 'inverted comma',
+        plural: 'inverted commas'
+    },
+    {
         american: 'realtor',
         british: 'estate agent',
         plural: 'estate agents'
