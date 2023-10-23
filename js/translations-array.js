@@ -586,6 +586,11 @@ let translations = [
         plural: 'holidaymakers'
     },
     {
+        american: 'vacuum',
+        british: 'hoover',
+        plural: 'hoovers'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
