@@ -435,6 +435,11 @@ let translations = [
         plural: 'hires'
     },
     {
+        american: 'rest stop',
+        british: 'service station',
+        plural: 'service stations'
+    },
+    {
         american: 'row house',
         british: 'terraced house',
         plural: 'terraced houses'
