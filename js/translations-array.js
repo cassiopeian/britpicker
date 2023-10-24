@@ -171,6 +171,10 @@ let translations = [
         british: 'minging'
     },
     {
+        american: 'disorganized',
+        british: 'shambolic'
+    },
+    {
         american: 'dollar',
         british: 'pound',
         plural: 'pounds'
