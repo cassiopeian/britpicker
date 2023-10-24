@@ -454,6 +454,10 @@ let translations = [
         plural: 'sarnies'
     },
     {
+        american: 'shit',
+        british: 'shite'
+    },
+    {
         american: 'shrimp',
         british: 'prawn',
         plural: 'prawns'
