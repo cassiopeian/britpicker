@@ -171,6 +171,11 @@ let translations = [
         british: 'minging'
     },
     {
+        american: 'dish towel',
+        british: 'tea towel',
+        plural: 'tea towels'
+    },
+    {
         american: 'disorganized',
         british: 'shambolic'
     },
