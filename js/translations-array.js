@@ -326,6 +326,10 @@ let translations = [
         plural: 'people carriers'
     },
     {
+        american: 'molasses',
+        british: 'treacle'
+    },
+    {
         american: 'mom',
         british: 'mum',
         plural: 'mums'
