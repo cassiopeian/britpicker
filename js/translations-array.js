@@ -438,6 +438,11 @@ let translations = [
         plural: 'inverted commas'
     },
     {
+        american: 'rain boot',
+        british: 'wellie',
+        plural: 'wellies'
+    },
+    {
         american: 'realtor',
         british: 'estate agent',
         plural: 'estate agents'
