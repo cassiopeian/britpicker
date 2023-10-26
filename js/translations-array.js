@@ -75,6 +75,11 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'boy',
+        british: 'lad',
+        plural: 'lads'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
