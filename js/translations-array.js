@@ -398,6 +398,11 @@ let translations = [
         plural: 'anoraks'
     },
     {
+        american: 'parking lot',
+        british: 'car park',
+        plural: 'car parks'
+    },
+    {
         american: 'pay raise',
         british: 'pay rise',
         plural: 'pay rises'
