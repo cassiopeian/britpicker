@@ -256,6 +256,11 @@ let translations = [
         british: 'get on'
     },
     {
+        american: 'girl',
+        british: 'bird',
+        plural: 'birds'
+    },
+    {
         american: 'gotten',
         british: 'got'
     },
