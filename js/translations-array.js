@@ -159,6 +159,10 @@ let translations = [
         plural: 'worktops'
     },
     {
+        american: 'crazy',
+        british: 'barmy'
+    },
+    {
         american: 'crosswalk',
         british: 'zebra crossing',
         plural: 'zebra crossings'
