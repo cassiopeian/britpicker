@@ -55,6 +55,11 @@ let translations = [
         plural: 'Biros'
     },
     {
+        american: 'band-aid',
+        british: 'plaster',
+        plural: 'plasters'
+    },
+    {
         american: 'bartender',
         british: 'barman',
         plural: 'barmen'
