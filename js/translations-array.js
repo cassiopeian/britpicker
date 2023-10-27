@@ -204,6 +204,10 @@ let translations = [
         plural: 'pounds'
     },
     {
+        american: 'eager',
+        british: 'keen'
+    },
+    {
         american: 'eggplant',
         british: 'aubergine',
         plural: 'aubergines'
