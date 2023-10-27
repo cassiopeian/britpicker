@@ -222,6 +222,10 @@ let translations = [
         plural: 'lifts'
     },
     {
+        american: 'evasive',
+        british: 'dodgy'
+    },
+    {
         american: 'exclamation point',
         british: 'exclamation mark',
         plural: 'exclamation marks'
