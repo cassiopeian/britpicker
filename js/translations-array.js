@@ -245,6 +245,11 @@ let translations = [
         plural: 'bum bags'
     },
     {
+        american: 'fender bender',
+        british: 'prang',
+        plural: 'prangs'
+    },
+    {
         american: 'field',
         british: 'pitch',
         plural: 'pitches'
