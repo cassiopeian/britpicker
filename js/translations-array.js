@@ -343,6 +343,11 @@ let translations = [
         british: 'bone-idle'
     },
     {
+        american: 'lie',
+        british: 'porky',
+        plural: 'porkies'
+    },
+    {
         american: 'line',
         british: 'queue',
         plural: 'queues'
