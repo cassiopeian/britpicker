@@ -227,6 +227,10 @@ let translations = [
         plural: 'exclamation marks'
     },
     {
+        american: 'extremely',
+        british: 'well'
+    },
+    {
         american: 'fanny pack',
         british: 'bum bag',
         plural: 'bum bags'
