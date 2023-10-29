@@ -60,6 +60,11 @@ let translations = [
         plural: 'plasters'
     },
     {
+        american: 'bar',
+        british: 'pub',
+        plural: 'pubs'
+    },
+    {
         american: 'bartender',
         british: 'barman',
         plural: 'barmen'
