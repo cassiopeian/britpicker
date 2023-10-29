@@ -339,6 +339,11 @@ let translations = [
         plural: 'journos'
     },
     {
+        american: 'jumping jack',
+        british: 'star jump',
+        plural: 'star jumps'
+    },
+    {
         american: 'ladybug',
         british: 'ladybird',
         plural: 'ladybirds'
