@@ -543,6 +543,10 @@ let translations = [
         plural: 'sarnies'
     },
     {
+        american: 'scotch tape',
+        british: 'sellotape'
+    },
+    {
         american: 'shit',
         british: 'shite'
     },
