@@ -706,6 +706,11 @@ let translations = [
         plural: 'boots'
     },
     {
+        american: 'turn signal',
+        british: 'indicator',
+        plural: 'indicators'
+    },
+    {
         american: 'umbrella',
         british: 'brolly',
         plural: 'brollies'
