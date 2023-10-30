@@ -302,6 +302,11 @@ let translations = [
         british: 'petrol'
     },
     {
+        american: 'gearshift',
+        british: 'gear stick',
+        plural: 'gear sticks' 
+    },
+    {
         american: 'get along',
         british: 'get on'
     },
