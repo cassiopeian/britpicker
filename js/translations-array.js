@@ -430,6 +430,11 @@ let translations = [
         plural: 'swots'
     },
     {
+        american: 'nightstick',
+        british: 'truncheon',
+        plural: 'truncheons'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
