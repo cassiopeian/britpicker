@@ -168,7 +168,7 @@ $('#ae').on('keyup', function() {
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
                 beSplit.splice(prevIndex, 1, caseMatch(phrase.british), hiddenSpace);
-            } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
+            } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
