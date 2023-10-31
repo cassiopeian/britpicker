@@ -19,22 +19,6 @@ $(window).on('load', function() {
     $('#dialect-container .divider').css('height', dialectHeight);
 });
 
-function indentText(event) {
-    // if the tab key is pressed
-    if (event.key === 'Tab') {
-        // prevent blur
-        event.preventDefault();
-
-        let selection = document.getSelection();
-        let range = selection.getRangeAt(0);
-        let tabNode = document.createTextNode('\u0009');
-
-        range.insertNode(tabNode);
-        range.setStartAfter(tabNode);
-        range.setEndAfter(tabNode);
-    }
-};
-
 function dividerIs(color) {
     $('#text-container .divider').css('backgroundColor', color);
 };
@@ -42,8 +26,6 @@ function dividerIs(color) {
 $('.text').on('focus blur', function() {
     const blue = 'rgb(60, 95, 150)';
     const gray = 'rgb(211, 211, 228)';
-
-    window.addEventListener('keydown', indentText);
 
     // focus state toggles divider color
     $(this).is(':focus') ? dividerIs(blue) : dividerIs(gray);
