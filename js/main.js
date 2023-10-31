@@ -139,15 +139,12 @@ $('#ae').on('keyup', function() {
 
         // match the case of the displayed american word
         function caseMatch(britPhrase) {
-            let firstLetter = britPhrase.substring(0, 1);
-            let remainingLetters = britPhrase.substring(1);
-            
             if (uppercase === true) {
                 // set the whole word uppercase
                 britPhrase = britPhrase.toUpperCase();
             } else if (capitalized === true) {
                 // cap the first letter, and make the rest lowercase
-                britPhrase = `${firstLetter.toUpperCase()}${remainingLetters.toLowerCase()}`;
+                britPhrase = britPhrase[0].toUpperCase() + britPhrase.slice(1);
             } else {
                 // set the whole word lowercase
                 britPhrase = britPhrase.toLowerCase();
