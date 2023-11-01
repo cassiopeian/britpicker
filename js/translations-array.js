@@ -214,6 +214,11 @@ let translations = [
         plural: 'pounds'
     },
     {
+        american: 'dude',
+        british: 'bloke',
+        plural: 'blokes'
+    },
+    {
         american: 'dummy',
         british: 'numpty',
         plural: 'numpties'
