@@ -9,6 +9,11 @@ let translations = [
         plural: 'adverts'
     },
     {
+        american: 'advice columnist',
+        british: 'agony aunt',
+        plural: 'agony aunts'
+    },
+    {
         american: 'among',
         british: 'amongst'
     },
