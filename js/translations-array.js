@@ -543,6 +543,10 @@ let translations = [
         plural: 'wellies'
     },
     {
+        american: 'ran away',
+        british: 'scarpered'
+    },
+    {
         american: 'realtor',
         british: 'estate agent',
         plural: 'estate agents'
@@ -565,6 +569,14 @@ let translations = [
     {
         american: 'run away',
         british: 'scarper'
+    },
+    {
+        american: 'running away',
+        british: 'scarpering'
+    },
+    {
+        american: 'runs away',
+        british: 'scarpers'
     },
     {
         american: 'sandwich',
