@@ -14,6 +14,11 @@ let translations = [
         plural: 'agony aunts'
     },
     {
+        american: 'airplane',
+        british: 'aeroplane',
+        plural: 'aeroplanes'
+    },
+    {
         american: 'among',
         british: 'amongst'
     },

@@ -84,11 +84,22 @@ $('#highlight-toggle img').hover(
     }
 );
 
-$('#ae').on('keyup', function() {
+// turn #ae into an array of words, split at non-words
+let aeSplit;
+// duplicate that array for the #be text
+let beSplit;
+let edited;
+
+$(document).on('keyup', '#ae', function() {
+    if (edited === true) {
+        $('#ae').html(aeSplit.join(''));
+        // $('#be').html(beSplit.join(''));
+    }
+
     // turn #ae into an array of words, split at non-words
-    let aeSplit = $('#ae').val().split(/([_\W])/);
+    aeSplit = $('#ae').val().split(/([_\W])/);
     // duplicate that array for the #be text
-    let beSplit = aeSplit;
+    beSplit = aeSplit;
     let capitalized;
     let uppercase;
 
@@ -120,19 +131,27 @@ $('#ae').on('keyup', function() {
         }
 
         // match the case of the displayed american word
-        function caseMatch(britPhrase) {
+        function caseMatch(britPhrase, usPhrase, altPhrase, secretIndex) {
             if (uppercase === true) {
                 // set the whole word uppercase
                 britPhrase = britPhrase.toUpperCase();
+                usPhrase = usPhrase.toUpperCase();
+                altPhrase = altPhrase.toUpperCase();
             } else if (capitalized === true) {
                 // cap the first letter, and make the rest lowercase
                 britPhrase = britPhrase[0].toUpperCase() + britPhrase.slice(1);
+                usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
+                altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
             } else {
                 // set the whole word lowercase
                 britPhrase = britPhrase.toLowerCase();
+                usPhrase = usPhrase.toLowerCase();
+                altPhrase = altPhrase.toLowerCase();
             }
 
-            return `<mark class="translated">${britPhrase}</mark>`;
+            // return `<mark class="translated">${britPhrase}</mark>`;
+
+            return `<span><mark class="translated">${britPhrase}</mark><div class="edits-container"><button class="edit" type="button">${usPhrase}</button><button class="edit" type="button">${altPhrase}</button></div><span hidden>${secretIndex}</span></span>`;
         }
 
         // loop through each phrase in the translations array
@@ -144,35 +163,122 @@ $('#ae').on('keyup', function() {
                 twoWords = prevWord + ' ' + word;
             }
 
-            // if a two-word phrase matches an american phrase
-            if (twoWords.toLowerCase() == phrase.american) {
+            // // if a two-word phrase matches an american phrase
+            // if (twoWords.toLowerCase() == phrase.american) {
+            //     // replace both words and the space with the joined american phrase 
+            //     aeSplit.splice(prevIndex, 3, phrase.american);
+            //     // replace that with the british phrase and a hidden space
+            //     beSplit.splice(prevIndex, 1, caseMatch(phrase.british), hiddenSpace);
+            // } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
+            //     // replace both words and the space with the joined american phrase 
+            //     aeSplit.splice(prevIndex, 3, phrase.american);
+            //     // replace that with the pluralized british phrase and a hidden space
+            //     beSplit.splice(prevIndex, 1, caseMatch(phrase.plural), hiddenSpace);
+            // } else if (word.toLowerCase() == phrase.american) {
+            //     // or replace single words with the "translated" british phrase
+            //     beSplit.splice(index, 1, caseMatch(phrase.british));
+            // } else if (typeof phrase.plural !== 'undefined' && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
+            //     // or replace pluralized words
+            //     beSplit.splice(index, 1, caseMatch(phrase.plural));
+            // } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
+            //     // or replace pluralized words with the suffix "-men"
+            //     beSplit.splice(index, 1, caseMatch(phrase.plural));
+            // } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
+            //     // or replace pluralized words with the suffix "-ies"
+            //     beSplit.splice(index, 1, caseMatch(phrase.plural));
+            // }
+
+            if (word.toLowerCase() == phrase.alt) {
+                console.log('hey');
+                return;
+            } else if (twoWords.toLowerCase() == phrase.american) {
+                // if a two-word phrase matches an american phrase
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.british), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
             } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural, word, phrase.altplural, index), hiddenSpace);
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
-                beSplit.splice(index, 1, caseMatch(phrase.british));
+                beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
             } else if (typeof phrase.plural !== 'undefined' && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
                 // or replace pluralized words with the suffix "-men"
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words with the suffix "-ies"
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             }
+
         });
     }
 
+    console.log(aeSplit);
+    console.log(beSplit);
+
     // join and display the words in the split British array
     $('#be').html(beSplit.join(''));
+
+    
+});
+
+$(document).on('click', 'mark', function() {
+    let thisDropdown = $(this).siblings('.edits-container');
+
+    // hide other dropdowns, so they can't overlap
+    $('.edits-container').css('display', 'none');
+    
+    // display the clicked dropdown
+    thisDropdown.css('display', 'block');
+});
+
+$(document).on('click', '.edit', function() {
+    // // turn #ae into an array of words, split at non-words
+    // aeSplit = $('#ae').val().split(/([_\W])/);
+    // // duplicate that array for the #be text
+    // beSplit = aeSplit;
+
+    
+
+    let updatedWord = $(this).html();
+    console.log(updatedWord);
+
+    let copiedIndex = $(this).parent().siblings('span').html();
+    console.log(copiedIndex);
+
+    // replace the highlighted word with the selected edit
+    // aeSplit.splice(copiedIndex, 1, updatedWord);
+    beSplit.splice(copiedIndex, 1, updatedWord);
+
+    
+    // let element = document.querySelector('#ae');
+    // element.dispatchEvent(new KeyboardEvent('keyup', {'key':'Shift'}));
+
+    // turn #ae into an array of words, split at non-words
+    // aeSplit = $('#ae').val().split(/([_\W])/);
+    // aeSplit = aeSplit;
+    // duplicate that array for the #be text
+    // beSplit = aeSplit;
+    
+    // $('#ae').html(aeSplit.join(''));
+    $('#be').html(beSplit.join(''));
+
+    console.log(aeSplit[copiedIndex]);
+    console.log(beSplit[copiedIndex]);
+    console.log(aeSplit);
+    console.log(beSplit);
+
+    edited = true;
+
+    // replace the translation with the clicked dropdown option
+    // $(this).parent().siblings('mark').html(updatedWord);
+    // console.log($(this).parent().siblings('mark').html());
 });
 
 $('#toggle-dialects').on('click', function() {
