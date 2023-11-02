@@ -407,6 +407,11 @@ let translations = [
         plural: 'queues'
     },
     {
+        american: 'liquor store',
+        british: 'off-license',
+        plural: 'off-licenses'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
