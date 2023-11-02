@@ -469,6 +469,11 @@ let translations = [
         plural: 'truncheons'
     },
     {
+        american: 'nutcase',
+        british: 'nutter',
+        plural: 'nutters'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
