@@ -392,6 +392,11 @@ let translations = [
         british: 'bone-idle'
     },
     {
+        american: 'license plate',
+        british: 'number plate',
+        plural: 'number plates'
+    },
+    {
         american: 'lie',
         british: 'porky',
         plural: 'porkies'
