@@ -383,6 +383,10 @@ let translations = [
         plural: 'ladybirds'
     },
     {
+        american: 'laid off',
+        british: 'made redundant'
+    },
+    {
         american: 'laundromat',
         british: 'launderette',
         plural: 'launderettes'
