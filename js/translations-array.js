@@ -532,6 +532,11 @@ let translations = [
         plural: 'gherkins'
     },
     {
+        american: 'pink slip',
+        british: 'p45',
+        plural: 'p45s'
+    },
+    {
         american: 'pleased',
         british: 'chuffed'
     },
