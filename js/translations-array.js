@@ -60,6 +60,10 @@ let translations = [
         plural: 'rucksacks'
     },
     {
+        american: 'backward',
+        british: 'backwards'
+    },
+    {
         american: 'baked potato',
         british: 'jacket potato',
         plural: 'jacket potatoes'
