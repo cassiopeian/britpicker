@@ -109,6 +109,11 @@ let translations = [
         plural: 'lads'
     },
     {
+        american: 'braid',
+        british: 'plait',
+        plural: 'plaits'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
