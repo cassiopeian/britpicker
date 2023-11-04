@@ -137,14 +137,14 @@ let translations = [
         plural: 'moggies'
     },
     {
-        american: 'chip',
-        british: 'crisp',
-        plural: 'crisps'
-    },
-    {
         american: 'cell phone',
         british: 'mobile phone',
         plural: 'mobile phones'
+    },
+    {
+        american: 'chip',
+        british: 'crisp',
+        plural: 'crisps'
     },
     {
         american: 'cilantro',
