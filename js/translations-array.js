@@ -156,6 +156,11 @@ let translations = [
         plural: 'lessons'
     },
     {
+        american: 'cleat',
+        british: 'boot',
+        plural: 'boots'
+    },
+    {
         american: 'cookie',
         british: 'biscuit',
         plural: 'biscuits'
