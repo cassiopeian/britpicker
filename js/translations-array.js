@@ -50,6 +50,10 @@ let translations = [
         plural: 'arses'
     },
     {
+        american: 'astounded',
+        british: 'gobsmacked'
+    },
+    {
         american: 'attorney',
         british: 'solicitor',
         plural: 'solicitors'
