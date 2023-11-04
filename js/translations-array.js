@@ -440,6 +440,11 @@ let translations = [
         plural: 'postmen'
     },
     {
+        american: 'main street',
+        british: 'high street',
+        plural: 'high streets'
+    },
+    {
         american: 'math',
         british: 'maths'
     },
