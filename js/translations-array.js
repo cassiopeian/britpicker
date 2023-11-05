@@ -113,6 +113,11 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'blunder',
+        british: 'clanger',
+        plural: 'clangers'
+    },
+    {
         american: 'boy',
         british: 'lad',
         plural: 'lads'
