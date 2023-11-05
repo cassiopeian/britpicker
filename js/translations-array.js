@@ -555,6 +555,10 @@ let translations = [
         plural: 'gherkins'
     },
     {
+        american: 'pimply',
+        british: 'spotty'
+    },
+    {
         american: 'pink slip',
         british: 'p45',
         plural: 'p45s'
