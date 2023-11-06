@@ -728,6 +728,11 @@ let translations = [
         british: 'squidgy'
     },
     {
+        american: 'station wagon',
+        british: 'estate car',
+        plural: 'estate cars'
+    },
+    {
         american: 'stove',
         british: 'cooker',
         plural: 'cookers'
