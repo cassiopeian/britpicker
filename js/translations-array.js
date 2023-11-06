@@ -317,6 +317,11 @@ let translations = [
         british: 'grotty'
     },
     {
+        american: 'fish stick',
+        british: 'fish finger',
+        plural: 'fish fingers'
+    },
+    {
         american: 'fool',
         british: 'muppet',
         plural: 'muppets'
