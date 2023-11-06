@@ -136,6 +136,11 @@ let translations = [
         british: 'hessian'
     },
     {
+        american: 'busy signal',
+        british: 'engaged tone',
+        plural: 'engaged tones'
+    },
+    {
         american: 'carnival',
         british: 'funfair',
         plural: 'funfairs'
