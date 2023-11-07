@@ -294,6 +294,10 @@ let translations = [
         plural: 'exclamation marks'
     },
     {
+        american: 'exhausted',
+        british: 'shattered'
+    },
+    {
         american: 'extremely',
         british: 'well'
     },
