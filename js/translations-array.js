@@ -240,6 +240,11 @@ let translations = [
         british: 'twee'
     },
     {
+        american: 'dickhead',
+        british: 'bellend',
+        plural: 'bellends'
+    },
+    {
         american: 'dirty',
         british: 'manky'
     },
