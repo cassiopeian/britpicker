@@ -271,6 +271,10 @@ let translations = [
         plural: 'pounds'
     },
     {
+        american: 'drunk driving',
+        british: 'drink-driving'
+    },
+    {
         american: 'dude',
         british: 'bloke',
         plural: 'blokes'
