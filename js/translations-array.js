@@ -185,6 +185,10 @@ let translations = [
         plural: 'boots'
     },
     {
+        american: 'community service',
+        british: 'community payback'
+    },
+    {
         american: 'cookie',
         british: 'biscuit',
         plural: 'biscuits'
