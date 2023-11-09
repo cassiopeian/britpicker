@@ -528,6 +528,11 @@ let translations = [
         plural: 'gobs'
     },
     {
+        american: 'nail polish',
+        british: 'nail varnish',
+        plural: 'nail varnishes'
+    },
+    {
         american: 'national holiday',
         british: 'bank holiday',
         plural: 'bank holidays'
