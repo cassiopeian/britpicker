@@ -118,6 +118,11 @@ let translations = [
         plural: 'clangers'
     },
     {
+        american: 'bobby pin',
+        british: 'kirby grip',
+        plural: 'kirby grips'
+    },
+    {
         american: 'boy',
         british: 'lad',
         plural: 'lads'
