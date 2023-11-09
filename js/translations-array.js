@@ -369,6 +369,10 @@ let translations = [
         plural: 'chips'
     },
     {
+        american: 'fussy',
+        british: 'fiddly'
+    },
+    {
         american: 'garbage',
         british: 'rubbish'
     },
