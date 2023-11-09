@@ -518,6 +518,11 @@ let translations = [
         plural: 'mummies'
     },
     {
+        american: 'mouth',
+        british: 'gob',
+        plural: 'gobs'
+    },
+    {
         american: 'national holiday',
         british: 'bank holiday',
         plural: 'bank holidays'
