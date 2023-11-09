@@ -562,6 +562,11 @@ let translations = [
         plural: 'chancers'
     },
     {
+        american: 'overpass',
+        british: 'flyover',
+        plural: 'flyovers'
+    },
+    {
         american: 'panty',
         british: 'knicker',
         plural: 'knickers'
