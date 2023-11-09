@@ -837,6 +837,10 @@ let translations = [
         plural: 'titbits'
     },
     {
+        american: 'tipsy',
+        british: 'tiddly'
+    },
+    {
         american: 'toilet',
         british: 'loo',
         plural: 'loos'
