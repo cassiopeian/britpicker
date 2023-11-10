@@ -167,6 +167,9 @@ $('#ae').on('keyup', function() {
             } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words with the suffix "-ies"
                 beSplit.splice(index, 1, caseMatch(phrase.plural));
+            } else if (word.toLowerCase() == phrase.american + 'ing') {
+                // or replace words ending with "-ing"
+                beSplit.splice(index, 1, caseMatch(phrase.british + 'ing'));
             }
         });
     }
