@@ -553,6 +553,11 @@ let translations = [
         plural: 'swots'
     },
     {
+        american: 'newscaster',
+        british: 'newsreader',
+        plural: 'newsreaders'
+    },
+    {
         american: 'newsdealer',
         british: 'newsagent',
         plural: 'newsagents'
