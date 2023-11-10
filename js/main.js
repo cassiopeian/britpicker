@@ -170,6 +170,9 @@ $('#ae').on('keyup', function() {
             } else if (word.toLowerCase() == phrase.american + 'ing') {
                 // or replace words ending with "-ing"
                 beSplit.splice(index, 1, caseMatch(phrase.british + 'ing'));
+            } else if (word.toLowerCase() == phrase.american + 'ed') {
+                // or replace words ending with "-ed"
+                beSplit.splice(index, 1, caseMatch(phrase.british + 'ed'));
             }
         });
     }
