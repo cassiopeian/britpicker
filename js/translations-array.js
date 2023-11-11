@@ -630,6 +630,11 @@ let translations = [
         british: 'pernickety'
     },
     {
+        american: 'phone booth',
+        british: 'phone box',
+        plural: 'phone boxes'
+    },
+    {
         american: 'plexiglas',
         british: 'perspex'
     },
