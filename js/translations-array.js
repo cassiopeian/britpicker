@@ -602,6 +602,11 @@ let translations = [
         plural: 'trousers'
     },
     {
+        american: 'paper route',
+        british: 'paper round',
+        plural: 'paper rounds'
+    },
+    {
         american: 'paper towels',
         british: 'kitchen roll'
     },
