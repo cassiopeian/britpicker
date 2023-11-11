@@ -626,6 +626,10 @@ let translations = [
         plural: 'pay rises'
     },
     {
+        american: 'persnickety',
+        british: 'pernickety'
+    },
+    {
         american: 'plexiglas',
         british: 'perspex'
     },
