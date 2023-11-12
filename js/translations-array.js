@@ -307,6 +307,11 @@ let translations = [
         plural: 'aubergines'
     },
     {
+        american: 'election day',
+        british: 'polling day',
+        plural: 'polling days'
+    },
+    {
         american: 'elevator',
         british: 'lift',
         plural: 'lifts'
