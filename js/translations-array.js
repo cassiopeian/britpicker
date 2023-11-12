@@ -280,6 +280,10 @@ let translations = [
         british: 'drink-driving'
     },
     {
+        american: 'drywall',
+        british: 'plasterboard'
+    },
+    {
         american: 'dude',
         british: 'bloke',
         plural: 'blokes'
