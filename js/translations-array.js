@@ -358,6 +358,11 @@ let translations = [
         plural: 'fish fingers'
     },
     {
+        american: 'fistfight',
+        british: 'punch-up',
+        plural: 'punch-ups'
+    },
+    {
         american: 'fool',
         british: 'muppet',
         plural: 'muppets'
