@@ -203,6 +203,10 @@ $('#toggle-dialects').on('click', function() {
     britishText.toggle();
 });
 
+/* **************
+INSULT GENERATOR
+************** */
+
 $('#insult-tab').on('click', function() {
     // open the insult generator
     $('aside').animate({
