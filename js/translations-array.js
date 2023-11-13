@@ -542,6 +542,10 @@ let translations = [
         plural: 'gobs'
     },
     {
+        american: 'move over',
+        british: 'budge up'
+    },
+    {
         american: 'nail polish',
         british: 'nail varnish',
         plural: 'nail varnishes'
