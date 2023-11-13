@@ -294,6 +294,11 @@ let translations = [
         plural: 'numpties'
     },
     {
+        american: 'dumpster',
+        british: 'skip',
+        plural: 'skips'
+    },
+    {
         american: 'eager',
         british: 'keen'
     },
