@@ -471,6 +471,11 @@ let translations = [
         plural: 'launderettes'
     },
     {
+        american: 'layer cake',
+        british: 'sandwich cake',
+        plural: 'sandwich cakes'
+    },
+    {
         american: 'lazy',
         british: 'bone-idle'
     },
