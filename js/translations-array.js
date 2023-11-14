@@ -146,6 +146,10 @@ let translations = [
         plural: 'engaged tones'
     },
     {
+        american: 'can of',
+        british: 'tin of'
+    },
+    {
         american: 'caregiver',
         british: 'carer',
         plural: 'carers'
