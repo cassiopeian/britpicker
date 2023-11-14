@@ -995,6 +995,11 @@ let translations = [
         plural: 'hoovers'
     },
     {
+        american: 'veggie',
+        british: 'veg',
+        plural: 'veg'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
