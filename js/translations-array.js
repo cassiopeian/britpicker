@@ -150,6 +150,10 @@ let translations = [
         british: 'tin of'
     },
     {
+        american: 'canned',
+        british: 'tinned'
+    },
+    {
         american: 'cans of',
         british: 'tins of'
     },
