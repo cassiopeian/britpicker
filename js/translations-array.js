@@ -150,6 +150,10 @@ let translations = [
         british: 'tin of'
     },
     {
+        american: 'cans of',
+        british: 'tins of'
+    },
+    {
         american: 'caregiver',
         british: 'carer',
         plural: 'carers'
