@@ -202,6 +202,11 @@ let translations = [
         plural: 'boots'
     },
     {
+        american: 'college',
+        british: 'university',
+        plural: 'universities'
+    },
+    {
         american: 'community service',
         british: 'community payback'
     },
