@@ -917,6 +917,10 @@ let translations = [
         plural: 'shedloads'
     },
     {
+        american: 'touchy',
+        british: 'tetchy'
+    },
+    {
         american: 'toward',
         british: 'towards'
     },
