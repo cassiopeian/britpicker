@@ -279,6 +279,11 @@ let translations = [
         british: 'minging'
     },
     {
+        american: 'dish soap',
+        british: 'washing-up liquid',
+        plural: 'washing-up liquids'
+    },
+    {
         american: 'dish towel',
         british: 'tea towel',
         plural: 'tea towels'
