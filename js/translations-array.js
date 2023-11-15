@@ -671,6 +671,11 @@ let translations = [
         plural: 'pay rises'
     },
     {
+        american: 'pay stub',
+        british: 'payslip',
+        plural: 'payslips'
+    },
+    {
         american: 'persnickety',
         british: 'pernickety'
     },
