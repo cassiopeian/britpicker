@@ -822,6 +822,11 @@ let translations = [
         plural: 'prawns'
     },
     {
+        american: 'side-view mirror',
+        british: 'wing mirror',
+        plural: 'wing mirrors'
+    },
+    {
         american: 'sidewalk',
         british: 'pavement',
         plural: 'pavements'
