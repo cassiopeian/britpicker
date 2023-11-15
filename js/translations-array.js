@@ -666,6 +666,11 @@ let translations = [
         plural: 'car parks'
     },
     {
+        american: 'paycheck',
+        british: 'pay packet',
+        plural: 'pay packets'
+    },
+    {
         american: 'pay raise',
         british: 'pay rise',
         plural: 'pay rises'
