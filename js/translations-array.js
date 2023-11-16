@@ -151,6 +151,11 @@ let translations = [
         plural: 'clangers'
     },
     {
+        american: 'boardwalk',
+        british: 'promenade',
+        plural: 'promenades'
+    },
+    {
         american: 'bobby pin',
         british: 'kirby grip',
         plural: 'kirby grips'
