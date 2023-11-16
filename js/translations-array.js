@@ -111,6 +111,11 @@ let translations = [
         plural: 'pubs'
     },
     {
+        american: 'barrette',
+        british: 'hair slide',
+        plural: 'hair slides'
+    },
+    {
         american: 'bartender',
         british: 'barman',
         plural: 'barmen'
