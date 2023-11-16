@@ -68,6 +68,11 @@ let translations = [
         plural: 'solicitors'
     },
     {
+        american: 'bachelor party',
+        british: 'stag do',
+        plural: 'stag dos'
+    },
+    {
         american: 'backpack',
         british: 'rucksack',
         plural: 'rucksacks'
