@@ -102,6 +102,10 @@ let translations = [
         plural: 'plasters'
     },
     {
+        american: 'bangs',
+        british: 'fringe'
+    },
+    {
         american: 'bar',
         british: 'pub',
         plural: 'pubs'
