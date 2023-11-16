@@ -161,6 +161,11 @@ let translations = [
         plural: 'kirby grips'
     },
     {
+        american: 'booger',
+        british: 'bogey',
+        plural: 'bogeys'
+    },
+    {
         american: 'boy',
         british: 'lad',
         plural: 'lads'
