@@ -1048,6 +1048,11 @@ let translations = [
         plural: 'spanners'
     },
     {
+        american: 'z',
+        british: 'zed',
+        plural: 'zeds'
+    },
+    {
         american: 'zucchini',
         british: 'courgette',
         plural: 'courgettes'
