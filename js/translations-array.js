@@ -73,6 +73,11 @@ let translations = [
         plural: 'stag dos'
     },
     {
+        american: 'bachelorette party',
+        british: 'hen do',
+        plural: 'hen dos'
+    },
+    {
         american: 'backpack',
         british: 'rucksack',
         plural: 'rucksacks'
