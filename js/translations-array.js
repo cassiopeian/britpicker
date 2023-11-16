@@ -1,5 +1,9 @@
 let translations = [
     {
+        american: '911',
+        british: '999'
+    },
+    {
         american: 'acetaminophen',
         british: 'paracetamol'
     },
