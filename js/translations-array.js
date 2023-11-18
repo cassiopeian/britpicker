@@ -197,6 +197,10 @@ let translations = [
         british: 'tinned'
     },
     {
+        american: 'careen',
+        british: 'career'
+    },
+    {
         american: 'cans of',
         british: 'tins of'
     },
