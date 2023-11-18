@@ -50,6 +50,10 @@ let translations = [
         british: 'rocket'
     },
     {
+        american: 'askew',
+        british: 'skew-whiff'
+    },
+    {
         american: 'an arugula',
         british: 'a rocket'
     },
