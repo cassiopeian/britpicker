@@ -234,6 +234,10 @@ let translations = [
         plural: 'mobile phones'
     },
     {
+        american: 'checkers',
+        british: 'draughts'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
