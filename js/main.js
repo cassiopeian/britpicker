@@ -84,7 +84,7 @@ $('#highlight-toggle img').hover(
     }
 );
 
-$('#ae').on('keyup', function() {
+$(document).on('keyup', '#ae', function() {
     // turn #ae into an array of words, split at non-words
     let aeSplit = $('#ae').val().split(/([_\W])/);
     // duplicate that array for the #be text
