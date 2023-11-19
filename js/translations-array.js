@@ -321,6 +321,11 @@ let translations = [
         british: 'twee'
     },
     {
+        american: 'diaper',
+        british: 'nappy',
+        plural: 'nappies'
+    },
+    {
         american: 'dickhead',
         british: 'bellend',
         plural: 'bellends'
