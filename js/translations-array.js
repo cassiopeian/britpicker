@@ -450,6 +450,11 @@ let translations = [
         plural: 'punch-ups'
     },
     {
+        american: 'flashlight',
+        british: 'torch',
+        plural: 'torches'
+    },
+    {
         american: 'fool',
         british: 'muppet',
         plural: 'muppets'
