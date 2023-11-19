@@ -995,6 +995,11 @@ let translations = [
         british: 'cheers'
     },
     {
+        american: 'thingy',
+        british: 'wotsit',
+        plural: 'wotsits'
+    },
+    {
         american: 'tidbit',
         british: 'titbit',
         plural: 'titbits'
