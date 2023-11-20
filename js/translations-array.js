@@ -484,6 +484,11 @@ let translations = [
         plural: 'chips'
     },
     {
+        american: 'frosh',
+        british: 'fresher',
+        plural: 'freshers'
+    },
+    {
         american: 'frosting',
         british: 'icing'
     },
