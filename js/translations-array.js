@@ -357,7 +357,9 @@ let translations = [
     {
         american: 'dollar',
         british: 'pound',
-        plural: 'pounds'
+        plural: 'pounds',
+        alt: 'quid',
+        altplural: 'quid'
     },
     {
         american: 'drunk driving',
