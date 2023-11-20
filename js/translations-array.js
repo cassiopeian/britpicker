@@ -43,7 +43,9 @@ let translations = [
     {
         american: 'argument',
         british: 'argy-bargy',
-        plural: 'argy-bargies'
+        plural: 'argy-bargies',
+        alt: 'row',
+        altplural: 'rows'
     },
     {
         american: 'arugula',
