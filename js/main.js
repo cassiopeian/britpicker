@@ -205,6 +205,10 @@ $(document).on('click', 'mark', function() {
     thisDropdown.css('display', 'block');
 });
 
+function tagEdit(secondPhrase) {
+    return `<span class="changed">${secondPhrase}</span>`
+}
+
 $('#toggle-dialects').on('click', function() {
     let americanLabel = $('#dialect-container div:nth-child(1)');
     let americanText = $('#ae');
