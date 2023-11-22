@@ -209,6 +209,16 @@ function tagEdit(secondPhrase) {
     return `<span class="changed">${secondPhrase}</span>`
 }
 
+$(document).on('click', '.edit', function() {
+    let updatedWord = $(this).html();
+    let copiedIndex = $(this).parent().siblings('span').html();
+
+    // replace the highlighted word with the selected edit
+    aeSplit.splice(copiedIndex, 1, tagEdit(updatedWord));
+    beSplit.splice(copiedIndex, 1, tagEdit(updatedWord));
+    $('#be').html(beSplit.join(''));
+});
+
 $('#toggle-dialects').on('click', function() {
     let americanLabel = $('#dialect-container div:nth-child(1)');
     let americanText = $('#ae');
