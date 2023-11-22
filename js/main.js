@@ -121,19 +121,25 @@ $(document).on('keyup', '#ae', function() {
         }
 
         // match the case of the displayed american word
-        function caseMatch(britPhrase) {
+        function caseMatch(britPhrase, usPhrase, altPhrase = '', secretIndex) {
             if (uppercase === true) {
                 // set the whole word uppercase
                 britPhrase = britPhrase.toUpperCase();
+                usPhrase = usPhrase.toUpperCase();
+                altPhrase = altPhrase.toUpperCase();
             } else if (capitalized === true) {
                 // cap the first letter, and make the rest lowercase
                 britPhrase = britPhrase[0].toUpperCase() + britPhrase.slice(1);
+                usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
+                altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
             } else {
                 // set the whole word lowercase
                 britPhrase = britPhrase.toLowerCase();
+                usPhrase = usPhrase.toLowerCase();
+                altPhrase = altPhrase.toLowerCase();
             }
 
-            return `<mark class="translated">${britPhrase}</mark>`;
+            return `<span><mark class="translated">${britPhrase}</mark><div class="edits-container"><button class="edit" type="button">${usPhrase}</button><button class="edit" type="button">${altPhrase}</button></div><span hidden>${secretIndex}</span></span>`;
         }
 
         // loop through each phrase in the translations array
