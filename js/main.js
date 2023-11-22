@@ -214,7 +214,6 @@ $(document).on('click', '.edit', function() {
     let copiedIndex = $(this).parent().siblings('span').html();
 
     // replace the highlighted word with the selected edit
-    aeSplit.splice(copiedIndex, 1, tagEdit(updatedWord));
     beSplit.splice(copiedIndex, 1, tagEdit(updatedWord));
     $('#be').html(beSplit.join(''));
 });
