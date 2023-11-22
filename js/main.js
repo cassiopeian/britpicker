@@ -11,6 +11,7 @@ let adjShank = $('#adjective-lock').find('.shank');
 let nounShank = $('#noun-lock').find('.shank');
 let lockBgColor = $('.lock').css('backgroundColor');
 let insultList = document.getElementById('insult-list');
+let beSplit;
 
 $(window).on('load', function() {
     let dialectHeight = $('#dialect-container').outerHeight();
@@ -85,12 +86,12 @@ $('#highlight-toggle img').hover(
 );
 
 $(document).on('keyup', '#ae', function() {
-    // turn #ae into an array of words, split at non-words
-    let aeSplit = $('#ae').val().split(/([_\W])/);
-    // duplicate that array for the #be text
-    let beSplit = aeSplit;
     let capitalized;
     let uppercase;
+
+    // turn #ae into an array of words, split at non-words
+    let aeSplit = $('#ae').val().split(/([_\W])/);
+    beSplit = aeSplit;
 
     // while looping through the #be text
     for (let i = 0; i < beSplit.length; i++) {
