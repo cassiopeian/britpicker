@@ -156,30 +156,30 @@ $(document).on('keyup', '#ae', function() {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.british), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
             } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural, word, phrase.altplural, index), hiddenSpace);
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
-                beSplit.splice(index, 1, caseMatch(phrase.british));
+                beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
             } else if (typeof phrase.plural !== 'undefined' && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
                 // or replace pluralized words with the suffix "-men"
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words with the suffix "-ies"
-                beSplit.splice(index, 1, caseMatch(phrase.plural));
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american + 'ing') {
                 // or replace words ending with "-ing"
-                beSplit.splice(index, 1, caseMatch(phrase.british + 'ing'));
+                beSplit.splice(index, 1, caseMatch(phrase.british + 'ing', word, phrase.alt, index));
             } else if (word.toLowerCase() == phrase.american + 'ed') {
                 // or replace words ending with "-ed"
-                beSplit.splice(index, 1, caseMatch(phrase.british + 'ed'));
+                beSplit.splice(index, 1, caseMatch(phrase.british + 'ed', word, phrase.alt, index));
             }
         });
     }
