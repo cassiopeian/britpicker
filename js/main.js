@@ -188,6 +188,23 @@ $(document).on('keyup', '#ae', function() {
     $('#be').html(beSplit.join(''));
 });
 
+$(document).on('click', 'mark', function() {
+    let thisDropdown = $(this).siblings('.edits-container');
+    let altOption = $(this).siblings('.edits-container').children('button:nth-child(2)');
+
+    // if there is no alt translation
+    if (altOption.html() === '') {
+        // hide the empty button
+        $(altOption).css('display', 'none');
+    }
+
+    // hide other dropdowns, so they can't overlap
+    $('.edits-container').css('display', 'none');
+    
+    // display the clicked dropdown
+    thisDropdown.css('display', 'block');
+});
+
 $('#toggle-dialects').on('click', function() {
     let americanLabel = $('#dialect-container div:nth-child(1)');
     let americanText = $('#ae');
