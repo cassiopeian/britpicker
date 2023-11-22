@@ -20,7 +20,9 @@ let translations = [
     {
         american: 'advice columnist',
         british: 'agony aunt',
-        plural: 'agony aunts'
+        plural: 'agony aunts',
+        alt: 'agony uncle',
+        altplural: 'agony uncles'
     },
     {
         american: 'airplane',
