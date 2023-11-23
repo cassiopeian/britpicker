@@ -43,6 +43,11 @@ let translations = [
         british: 'a flat'
     },
     {
+        american: 'arguing',
+        british: 'rowing',
+        alt: 'quarreling'
+    },
+    {
         american: 'argument',
         british: 'argy-bargy',
         plural: 'argy-bargies',
