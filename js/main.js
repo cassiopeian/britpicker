@@ -131,7 +131,9 @@ $(document).on('keyup', '#ae', function() {
                 // cap the first letter, and make the rest lowercase
                 britPhrase = britPhrase[0].toUpperCase() + britPhrase.slice(1);
                 usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
-                altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
+                if (altPhrase.length > 0) {
+                    altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
+                }
             } else {
                 // set the whole word lowercase
                 britPhrase = britPhrase.toLowerCase();
