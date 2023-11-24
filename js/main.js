@@ -85,7 +85,7 @@ $('#highlight-toggle img').hover(
     }
 );
 
-$(document).on('keyup', '#ae', function() {
+$(document).on('keyup change input', '#ae', function() {
     let capitalized;
     let uppercase;
 
