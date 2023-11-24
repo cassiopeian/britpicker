@@ -985,6 +985,11 @@ let translations = [
         plural: 'estate cars'
     },
     {
+        american: 'steal',
+        british: 'nick',
+        alt: 'pinch'
+    },
+    {
         american: 'stove',
         british: 'cooker',
         plural: 'cookers'
