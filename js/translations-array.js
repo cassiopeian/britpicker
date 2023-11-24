@@ -1015,6 +1015,15 @@ let translations = [
         plural: 'bedsits'
     },
     {
+        american: 'study',
+        british: 'revise',
+        plural: 'revises'
+    },
+    {
+        american: 'studying',
+        british: 'revising'
+    },
+    {
         american: 'substitute teacher',
         british: 'supply teacher',
         plural: 'supply teachers'
