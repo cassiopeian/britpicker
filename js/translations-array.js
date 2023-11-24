@@ -990,6 +990,11 @@ let translations = [
         alt: 'pinch'
     },
     {
+        american: 'stole',
+        british: 'nicked',
+        alt: 'pinched'
+    },
+    {
         american: 'stove',
         british: 'cooker',
         plural: 'cookers'
