@@ -4,6 +4,7 @@
 
  + [Introduction](#introduction)
  + [Features](#features)
+    - [Final Edits](#final-edits)
     - [Insult Generator](#insult-generator)
  + [Favicon](#favicon)
  + [Tech Specs](#tech-specs)
@@ -15,6 +16,14 @@
  [Britpicker](https://cassiopeian.github.io/britpicker) parses through American English text and suggests Briticisms to writers who need help crafting dialogue for British characters.
 
 ## Features
+ 
+ ## Final Edits
+
+ <img src="images/read-me/final-edits.png" style="width: 75%" />
+
+ When you’ve finished typing or pasting the input text, you have a few options for final edits. If a “translation” isn’t quite right, click the highlighted text to display dropdown options. Every word can be reverted back to the original American English, and certain words have additional British alternatives. These replacements, like the initial suggestions, will match the case of the American English text. 
+
+ You can strip the highlights, so they aren’t copied to your clipboard, by clicking the highlighter icon. If you want to start over, click the trash can (*dustbin*) icon. 
 
  ### Insult Generator
 
