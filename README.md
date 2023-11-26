@@ -1,5 +1,13 @@
 # Britpicker
 
+## Table of Contents
+
+ + [Introduction](#introduction)
+ + [Features](#features)
+    - [Insult Generator](#insult-generator)
+ + [Favicon](#favicon)
+ + [Tech Specs](#tech-specs)
+
 ## Introduction
 
  ![Homepage screenshot](images/read-me/homepage.png "Homepage screenshot")
@@ -25,3 +33,7 @@
  <img src="images/nib-favicon.png" style="width: 25%" />
 
  When I set out to design the Britpicker favicon, I considered the project’s core themes. Favicons are too small to meaningfully display flags for two nations, so I focused on the aspect of writing. My hope is that the red background behind the pen nib evokes an editor’s marks. The phone box illustration and Insult Generator locks are the same shade of red.
+
+## Tech Specs
+
+ Britpicker was built with jQuery version 3.4.1.
