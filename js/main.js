@@ -221,25 +221,29 @@ $(document).on('click', '.edit', function() {
 });
 
 $('#toggle-dialects').on('click', function() {
-    let americanLabel = $('#dialect-container div:nth-child(1)');
     let americanText = $('#ae');
-    let britishLabel = $('#dialect-container div:nth-child(3)');
     let britishText = $('#be');
 
+    // toggle between american and british english
+    americanText.toggle();
+    britishText.toggle();
+
     // if the british dialect is visible
-    if (britishLabel.css('display') === 'block') {
-        // show the view british button, on click
-        $(this).html('View British English');
-    } else {
+    if (britishText.css('display') === 'block') {
+        // display the british label
+        $('#british.dialect-wrapper').css('display', 'flex');
+        // hide the american label
+        $('#american.dialect-wrapper').css('display', 'none');
         // show the view american button, on click
         $(this).html('View American English');
+    } else {
+        // hide the british label
+        $('#british.dialect-wrapper').css('display', 'none');
+        // display the american label
+        $('#american.dialect-wrapper').css('display', 'flex');
+        // show the view british button, on click
+        $(this).html('View British English');
     }
-
-    // toggle between american and british english
-    americanLabel.toggle();
-    americanText.toggle();
-    britishLabel.toggle();
-    britishText.toggle();
 });
 
 /* **************
