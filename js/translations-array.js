@@ -789,10 +789,6 @@ let translations = [
         plural: 'phone boxes'
     },
     {
-        american: 'plexiglas',
-        british: 'perspex'
-    },
-    {
         american: 'pharmacist',
         british: 'chemist',
         plural: 'chemists'
@@ -818,6 +814,10 @@ let translations = [
     {
         american: 'pleased',
         british: 'chuffed'
+    },
+    {
+        american: 'plexiglas',
+        british: 'perspex'
     },
     {
         american: 'prostitute',
