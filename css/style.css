@@ -795,7 +795,7 @@ footer {
     #toggle-dialects {
         display: block;
     }
-    #dialect-container div:nth-child(3) {
+    #british.dialect-wrapper {
         display: none;
     }
     #be {
