@@ -7,6 +7,7 @@
     - [Final Edits](#final-edits)
     - [Insult Generator](#insult-generator)
  + [Favicon](#favicon)
+ + [Inspiration](#inspiration)
  + [Tech Specs](#tech-specs)
 
 ## Introduction
