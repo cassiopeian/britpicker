@@ -43,6 +43,14 @@
 
  When I set out to design the Britpicker favicon, I considered the project’s core themes. Favicons are too small to meaningfully display flags for two nations, so I focused on the aspect of writing. My hope is that the red background behind the pen nib evokes an editor’s marks. The phone box illustration and Insult Generator locks are the same shade of red.
 
+## Inspiration
+
+ I’m fascinated by language and the precise way dialect can reveal and categorize us. Some words are so specific to a region, you can tell which side of a state a person hails from. In Pittsburgh, *yinz* refers to a group of people, whereas *jawns* would be used in Philadelphia.
+
+ Sometimes our tells are so ingrained, we aren’t even aware we’re giving ourselves away. I’ve read books by British and Australian authors who painstakingly alter their language, yet supposedly American characters will say, “My house is **in** Hummingbird Drive.” So, Britpicker is for all the American writers who are doing their best&mdash;but have never heard the word *paracetamol*.
+
+ (Mind you, as a copy editor, I loved projects where I was tasked with Americanizing the text. I always felt like I’d been given a little side quest!)
+
 ## Tech Specs
 
  Britpicker was built with jQuery version 3.4.1.
