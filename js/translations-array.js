@@ -635,7 +635,9 @@ let translations = [
     {
         american: 'mailman',
         british: 'postman',
-        plural: 'postmen'
+        plural: 'postmen',
+        alt: 'postie',
+        altplural: 'posties'
     },
     {
         american: 'main street',
