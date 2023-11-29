@@ -172,10 +172,10 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (pluralExists && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
-            } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
+            } else if (pluralExists && word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
                 // or replace pluralized words with the suffix "-men"
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
-            } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
+            } else if (pluralExists && word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words with the suffix "-ies"
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american + 'ing') {
