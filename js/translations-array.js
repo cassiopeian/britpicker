@@ -313,7 +313,8 @@ let translations = [
     },
     {
         american: 'crazy',
-        british: 'barmy'
+        british: 'barmy',
+        alt: 'mad'
     },
     {
         american: 'crosswalk',
