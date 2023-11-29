@@ -628,7 +628,9 @@ let translations = [
     {
         american: 'mailbox',
         british: 'postbox',
-        plural: 'postboxes'
+        plural: 'postboxes',
+        alt: 'pillar box',
+        altplural: 'pillar boxes'
     },
     {
         american: 'mailman',
