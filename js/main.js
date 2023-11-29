@@ -146,6 +146,8 @@ $(document).on('keyup change input', '#ae', function() {
 
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
+            let pluralExists = typeof phrase.plural !== 'undefined';
+
             // if the first word of a phrase is already translated
             if (typeof prevWord !== 'undefined' && prevWord[0] == '<') {
                 // strip the mark tags from the translated word
@@ -159,7 +161,7 @@ $(document).on('keyup change input', '#ae', function() {
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
                 beSplit.splice(prevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
-            } else if (typeof phrase.plural !== 'undefined' && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
+            } else if (pluralExists && twoWords.toLowerCase() == phrase.american + 's' || twoWords.toLowerCase() == phrase.american + 'es') {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
@@ -167,7 +169,7 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
-            } else if (typeof phrase.plural !== 'undefined' && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
+            } else if (pluralExists && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
