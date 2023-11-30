@@ -665,7 +665,9 @@ let translations = [
     {
         american: 'mommy',
         british: 'mummy',
-        plural: 'mummies'
+        plural: 'mummies',
+        alt: 'mumsie',
+        altplural: 'mumsies'
     },
     {
         american: 'mouth',
