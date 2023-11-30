@@ -1016,7 +1016,9 @@ let translations = [
     {
         american: 'stroller',
         british: 'pram',
-        plural: 'prams'
+        plural: 'prams',
+        alt: 'pushchair',
+        altplural: 'pushchairs'
     },
     {
         american: 'studio apartment',
