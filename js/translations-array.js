@@ -660,7 +660,9 @@ let translations = [
     {
         american: 'mom',
         british: 'mum',
-        plural: 'mums'
+        plural: 'mums',
+        alt: 'ma',
+        altplural: 'mas'
     },
     {
         american: 'mommy',
