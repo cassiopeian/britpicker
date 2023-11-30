@@ -1065,7 +1065,8 @@ let translations = [
     },
     {
         american: 'thanks',
-        british: 'cheers'
+        british: 'cheers',
+        alt: 'ta'
     },
     {
         american: 'thingy',
