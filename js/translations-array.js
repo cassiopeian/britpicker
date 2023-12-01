@@ -622,6 +622,10 @@ let translations = [
         plural: 'off-licenses'
     },
     {
+        american: 'lumber',
+        british: 'timber'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
