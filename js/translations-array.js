@@ -924,6 +924,11 @@ let translations = [
         british: 'scarpers'
     },
     {
+        american: 'rutabaga',
+        british: 'swede',
+        plural: 'swedes'
+    },
+    {
         american: 'sandwich',
         british: 'sarnie',
         plural: 'sarnies'
