@@ -869,6 +869,11 @@ let translations = [
         plural: 'inverted commas'
     },
     {
+        american: 'railroad',
+        british: 'railway',
+        plural: 'railways'
+    },
+    {
         american: 'rain boot',
         british: 'wellie',
         plural: 'wellies'
