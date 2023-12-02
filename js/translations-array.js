@@ -934,6 +934,11 @@ let translations = [
         plural: 'sarnies'
     },
     {
+        american: 'scads',
+        british: 'lashings',
+        alt: 'heaps'
+    },
+    {
         american: 'scotch tape',
         british: 'sellotape'
     },
