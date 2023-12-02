@@ -883,6 +883,10 @@ let translations = [
         british: 'scarpered'
     },
     {
+        american: 'rappel',
+        british: 'abseil'
+    },
+    {
         american: 'realtor',
         british: 'estate agent',
         plural: 'estate agents'
