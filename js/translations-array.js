@@ -931,7 +931,9 @@ let translations = [
     {
         american: 'sandwich',
         british: 'sarnie',
-        plural: 'sarnies'
+        plural: 'sarnies',
+        alt: 'butty',
+        altplural: 'butties'
     },
     {
         american: 'scads',
