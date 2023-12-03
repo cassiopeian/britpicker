@@ -982,7 +982,9 @@ let translations = [
     {
         american: 'sneaker',
         british: 'trainer',
-        plural: 'trainers'
+        plural: 'trainers',
+        alt: 'plimsoll',
+        altplural: 'plimsolls'
     },
     {
         american: 'soda',
