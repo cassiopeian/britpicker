@@ -966,6 +966,10 @@ let translations = [
         altplural: 'footpaths'
     },
     {
+        american: 'skim milk',
+        british: 'skimmed milk'
+    },
+    {
         american: 'sleigh',
         british: 'sledge',
         plural: 'sledges'
