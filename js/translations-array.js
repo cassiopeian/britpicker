@@ -959,7 +959,9 @@ let translations = [
     {
         american: 'sidewalk',
         british: 'pavement',
-        plural: 'pavements'
+        plural: 'pavements',
+        alt: 'footpath',
+        altplural: 'footpaths'
     },
     {
         american: 'sleigh',
