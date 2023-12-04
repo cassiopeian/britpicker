@@ -987,6 +987,10 @@ let translations = [
         altplural: 'plimsolls'
     },
     {
+        american: 'snuck',
+        british: 'sneaked'
+    },
+    {
         american: 'soda',
         british: 'fizzy drink',
         plural: 'fizzy drinks'
