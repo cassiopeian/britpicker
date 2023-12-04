@@ -997,7 +997,8 @@ let translations = [
     },
     {
         american: 'soccer',
-        british: 'football'
+        british: 'football',
+        alt: 'footie'
     },
     {
         // soccer ball
