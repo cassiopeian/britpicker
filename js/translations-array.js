@@ -1052,6 +1052,11 @@ let translations = [
         plural: 'cookers'
     },
     {
+        american: 'streetcar',
+        british: 'tram',
+        plural: 'trams'
+    },
+    {
         american: 'stroller',
         british: 'pram',
         plural: 'prams',
