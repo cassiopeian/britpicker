@@ -1187,6 +1187,10 @@ let translations = [
         plural: 'indicators'
     },
     {
+        american: 'two cents',
+        british: 'twopence'
+    },
+    {
         american: 'umbrella',
         british: 'brolly',
         plural: 'brollies'
