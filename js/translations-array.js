@@ -1201,6 +1201,10 @@ let translations = [
         plural: 'kits'
     },
     {
+        american: 'upscale',
+        british: 'upmarket'
+    },
+    {
         american: 'vacation',
         british: 'holiday',
         plural: 'holidays'
