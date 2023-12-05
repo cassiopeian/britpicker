@@ -1127,6 +1127,11 @@ let translations = [
         plural: 'wotsits'
     },
     {
+        american: 'thumbtack',
+        british: 'drawing pin',
+        plural: 'drawing pins'
+    },
+    {
         american: 'tidbit',
         british: 'titbit',
         plural: 'titbits'
