@@ -833,6 +833,11 @@ let translations = [
         british: 'perspex'
     },
     {
+        american: 'powdered sugar',
+        british: 'icing sugar',
+        plural: 'icing sugars'
+    },
+    {
         american: 'prostitute',
         british: 'prozzie',
         plural: 'prozzies'
