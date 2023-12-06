@@ -1215,6 +1215,11 @@ let translations = [
         plural: 'holidaymakers'
     },
     {
+        american: 'vacay',
+        british: 'hols',
+        plural: 'hols'
+    },
+    {
         american: 'vacuum',
         british: 'hoover',
         plural: 'hoovers'
