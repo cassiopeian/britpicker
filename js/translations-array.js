@@ -1268,6 +1268,11 @@ let translations = [
         plural: 'spanners'
     },
     {
+        american: 'yellow light',
+        british: 'amber light',
+        plural: 'amber lights'
+    },
+    {
         american: 'z',
         british: 'zed',
         plural: 'zeds'
