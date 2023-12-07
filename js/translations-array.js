@@ -759,6 +759,10 @@ let translations = [
         plural: 'knickers'
     },
     {
+        american: 'pantyhose',
+        british: 'sheer tights'
+    },
+    {
         american: 'paper route',
         british: 'paper round',
         plural: 'paper rounds'
