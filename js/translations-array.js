@@ -858,6 +858,10 @@ let translations = [
         british: 'secateurs'
     },
     {
+        american: 'public transit',
+        british: 'public transport'
+    },
+    {
         american: 'pullover',
         british: 'jumper',
         plural: 'jumpers'
