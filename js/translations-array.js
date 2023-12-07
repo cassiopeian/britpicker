@@ -749,14 +749,14 @@ let translations = [
         plural: 'flyovers'
     },
     {
-        american: 'panty',
-        british: 'knicker',
-        plural: 'knickers'
-    },
-    {
         american: 'pant',
         british: 'trouser',
         plural: 'trousers'
+    },
+    {
+        american: 'panty',
+        british: 'knicker',
+        plural: 'knickers'
     },
     {
         american: 'paper route',
