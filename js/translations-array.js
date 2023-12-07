@@ -676,6 +676,13 @@ let translations = [
         altplural: 'mumsies'
     },
     {
+        american: 'mortician',
+        british: 'undertaker',
+        plural: 'undertakers',
+        alt: 'funeral director',
+        altplural: 'funeral directors'
+    },
+    {
         american: 'mouth',
         british: 'gob',
         plural: 'gobs'
