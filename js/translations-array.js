@@ -545,6 +545,11 @@ let translations = [
         british: 'double cream'
     },
     {
+        american: 'hickey',
+        british: 'love bite',
+        plural: 'love bites'
+    },
+    {
         american: 'highway',
         british: 'motorway',
         plural: 'motorways'
