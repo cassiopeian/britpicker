@@ -536,6 +536,13 @@ let translations = [
         british: 'got'
     },
     {
+        american: 'grifter',
+        british: 'fraudster',
+        plural: 'fraudsters',
+        alt: 'con man',
+        altplural: 'con men'
+    },
+    {
         american: 'ground beef',
         british: 'mince',
         alt: 'minced beef'
