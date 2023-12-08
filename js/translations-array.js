@@ -545,14 +545,14 @@ let translations = [
         british: 'double cream'
     },
     {
-        american: 'hood',
-        british: 'bonnet',
-        plural: 'bonnets'
-    },
-    {
         american: 'highway',
         british: 'motorway',
         plural: 'motorways'
+    },
+    {
+        american: 'hood',
+        british: 'bonnet',
+        plural: 'bonnets'
     },
     {
         american: 'hungry',
