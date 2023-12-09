@@ -477,6 +477,11 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'french press',
+        british: 'cafetière',
+        plural: 'cafetières'
+    },
+    {
         american: 'freshman',
         british: 'fresher',
         plural: 'freshers'
