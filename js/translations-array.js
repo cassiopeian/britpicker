@@ -821,6 +821,11 @@ let translations = [
         plural: 'payslips'
     },
     {
+        american: 'period',
+        british: 'full stop',
+        plural: 'full stops'
+    },
+    {
         american: 'persnickety',
         british: 'pernickety'
     },
