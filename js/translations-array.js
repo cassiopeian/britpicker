@@ -1135,6 +1135,11 @@ let translations = [
         plural: 'sun creams'
     },
     {
+        american: 'suspender',
+        british: 'brace',
+        plural: 'braces'
+    },
+    {
         american: 'sweatpant',
         british: 'track bottom',
         plural: 'track bottoms'
