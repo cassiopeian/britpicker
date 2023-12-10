@@ -171,7 +171,9 @@ let translations = [
     {
         american: 'bobby pin',
         british: 'kirby grip',
-        plural: 'kirby grips'
+        plural: 'kirby grips',
+        alt: 'hair grip',
+        altplural: 'hair grips'
     },
     {
         american: 'booger',
