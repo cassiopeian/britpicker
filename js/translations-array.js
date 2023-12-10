@@ -978,6 +978,11 @@ let translations = [
         altplural: 'butties'
     },
     {
+        american: 'sausage',
+        british: 'banger',
+        plural: 'bangers'
+    },
+    {
         american: 'scads',
         british: 'lashings',
         alt: 'heaps'
