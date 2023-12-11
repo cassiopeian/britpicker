@@ -273,6 +273,11 @@ let translations = [
         plural: 'universities'
     },
     {
+        american: 'comforter',
+        british: 'duvet',
+        plural: 'duvets'
+    },
+    {
         american: 'community service',
         british: 'community payback'
     },
