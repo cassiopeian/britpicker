@@ -253,6 +253,11 @@ let translations = [
         british: 'draughts'
     },
     {
+        american: 'checking account',
+        british: 'current account',
+        plural: 'current accounts'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
