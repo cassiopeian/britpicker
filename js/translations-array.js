@@ -34,6 +34,10 @@ let translations = [
         british: 'amongst'
     },
     {
+        american: 'angry',
+        british: 'cross'
+    },
+    {
         american: 'apartment',
         british: 'flat',
         plural: 'flats'
