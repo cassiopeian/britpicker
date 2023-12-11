@@ -330,6 +330,11 @@ let translations = [
         plural: 'worktops'
     },
     {
+        american: 'crazies',
+        british: 'nutters',
+        alt: 'madmen'
+    },
+    {
         american: 'crazy',
         british: 'barmy',
         alt: 'mad'
