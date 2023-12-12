@@ -1093,6 +1093,10 @@ let translations = [
         plural: 'sleeping policemen'
     },
     {
+        american: 'sports',
+        british: 'sport'
+    },
+    {
         american: 'squishy',
         british: 'squidgy'
     },
