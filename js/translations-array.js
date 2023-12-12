@@ -1348,6 +1348,10 @@ let translations = [
         plural: 'amber lights'
     },
     {
+        american: 'you guys',
+        british: 'you lot'
+    },
+    {
         american: 'z',
         british: 'zed',
         plural: 'zeds'
