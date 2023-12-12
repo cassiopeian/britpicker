@@ -891,7 +891,9 @@ let translations = [
     {
         american: 'police officer',
         british: 'constable',
-        plural: 'constables'
+        plural: 'constables',
+        alt: 'bobby',
+        altplural: 'bobbies'
     },
     {
         american: 'powdered sugar',
