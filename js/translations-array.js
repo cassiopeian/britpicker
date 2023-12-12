@@ -889,6 +889,11 @@ let translations = [
         british: 'perspex'
     },
     {
+        american: 'police officer',
+        british: 'constable',
+        plural: 'constables'
+    },
+    {
         american: 'powdered sugar',
         british: 'icing sugar',
         plural: 'icing sugars'
