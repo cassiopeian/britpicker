@@ -974,6 +974,10 @@ let translations = [
         plural: 'service stations'
     },
     {
+        american: 'ritzy',
+        british: 'posh'
+    },
+    {
         american: 'roster',
         british: 'rota',
         plural: 'rotas'
