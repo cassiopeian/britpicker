@@ -453,7 +453,8 @@ let translations = [
     },
     {
         american: 'extremely',
-        british: 'well'
+        british: 'well',
+        alt: 'dead'
     },
     {
         american: 'fanny pack',
