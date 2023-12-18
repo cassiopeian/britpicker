@@ -359,6 +359,11 @@ let translations = [
         alt: 'nice'
     },
     {
+        american: 'detour',
+        british: 'diversion',
+        plural: 'diversions'
+    },
+    {
         american: 'diaper',
         british: 'nappy',
         plural: 'nappies'
