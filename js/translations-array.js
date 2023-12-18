@@ -1382,6 +1382,11 @@ let translations = [
         plural: 'postcodes'
     },
     {
+        american: 'zipper',
+        british: 'zip',
+        plural: 'zips'
+    },
+    {
         american: 'zucchini',
         british: 'courgette',
         plural: 'courgettes'
