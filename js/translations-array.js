@@ -816,6 +816,11 @@ let translations = [
         plural: 'flyovers'
     },
     {
+        american: 'pacifier',
+        british: 'dummy',
+        plural: 'dummies'
+    },
+    {
         american: 'pant',
         british: 'trouser',
         plural: 'trousers'
