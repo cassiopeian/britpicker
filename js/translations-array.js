@@ -372,6 +372,11 @@ let translations = [
         british: 'manky'
     },
     {
+        american: 'dining car',
+        british: 'restaurant car',
+        plural: 'restaurant cars'
+    },
+    {
         american: 'disgusting',
         british: 'minging'
     },
