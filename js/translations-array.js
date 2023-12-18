@@ -359,6 +359,10 @@ let translations = [
         plural: 'nappies'
     },
     {
+        american: 'dibs',
+        british: 'bagsy'
+    },
+    {
         american: 'dickhead',
         british: 'bellend',
         plural: 'bellends'
