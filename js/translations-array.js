@@ -500,6 +500,10 @@ let translations = [
         british: 'grotty'
     },
     {
+        american: 'first floor',
+        british: 'ground floor'
+    },
+    {
         american: 'fish stick',
         british: 'fish finger',
         plural: 'fish fingers'
