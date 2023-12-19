@@ -558,6 +558,11 @@ let translations = [
         british: 'icing'
     },
     {
+        american: 'furnace',
+        british: 'boiler',
+        plural: 'boilers'
+    },
+    {
         american: 'fussy',
         british: 'fiddly'
     },
