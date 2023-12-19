@@ -471,6 +471,11 @@ let translations = [
         british: 'shattered'
     },
     {
+        american: 'expiration date',
+        british: 'expiry date',
+        plural: 'expiry dates'
+    },
+    {
         american: 'extremely',
         british: 'well',
         alt: 'dead'
