@@ -867,6 +867,11 @@ let translations = [
         plural: 'anoraks'
     },
     {
+        american: 'parking garage',
+        british: 'multistory car park',
+        plural: 'multistory car parks'
+    },
+    {
         american: 'parking lot',
         british: 'car park',
         plural: 'car parks'
