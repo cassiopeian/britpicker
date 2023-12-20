@@ -916,6 +916,11 @@ let translations = [
         plural: 'gherkins'
     },
     {
+        american: 'picnic basket',
+        british: 'picnic hamper',
+        plural: 'picnic hampers'
+    },
+    {
         american: 'pimply',
         british: 'spotty'
     },
