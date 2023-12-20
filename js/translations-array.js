@@ -1265,6 +1265,11 @@ let translations = [
         plural: 'wotsits'
     },
     {
+        american: 'third wheel',
+        british: 'gooseberry',
+        plural: 'gooseberries'
+    },
+    {
         american: 'thumbtack',
         british: 'drawing pin',
         plural: 'drawing pins'
