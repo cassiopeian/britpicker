@@ -647,6 +647,11 @@ let translations = [
         plural: 'intervals'
     },
     {
+        american: 'jelly',
+        british: 'jam',
+        plural: 'jams'
+    },
+    {
         american: 'jerk',
         british: 'tosser',
         plural: 'tossers'
