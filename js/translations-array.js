@@ -1034,7 +1034,9 @@ let translations = [
     {
         american: 'rest stop',
         british: 'service station',
-        plural: 'service stations'
+        plural: 'service stations',
+        alt: 'lay-by',
+        altplural: 'lay-bys'
     },
     {
         american: 'ritzy',
