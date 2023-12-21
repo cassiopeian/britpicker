@@ -639,7 +639,9 @@ let translations = [
     {
         american: 'ice pop',
         british: 'ice lolly',
-        plural: 'ice lollies'
+        plural: 'ice lollies',
+        alt: 'lolly',
+        altplural: 'lollies'
     },
     {
         american: 'intermission',
