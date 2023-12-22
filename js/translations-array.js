@@ -748,6 +748,10 @@ let translations = [
         plural: 'high streets'
     },
     {
+        american: 'marinara',
+        british: 'napolitana'
+    },
+    {
         american: 'math',
         british: 'maths'
     },
