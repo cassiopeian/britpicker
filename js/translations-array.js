@@ -1025,6 +1025,13 @@ let translations = [
         plural: 'wellies'
     },
     {
+        american: 'raincoat',
+        british: 'waterproof',
+        plural: 'waterproofs',
+        alt: 'mac',
+        altpl: 'macs'
+    },
+    {
         american: 'ran away',
         british: 'scarpered'
     },
