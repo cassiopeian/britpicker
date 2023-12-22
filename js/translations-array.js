@@ -716,6 +716,11 @@ let translations = [
         british: 'timber'
     },
     {
+        american: 'lumberyard',
+        british: 'timber yard',
+        plural: 'timber yards'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
