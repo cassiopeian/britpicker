@@ -783,6 +783,11 @@ let translations = [
         british: 'glandular fever'
     },
     {
+        american: 'morgue',
+        british: 'mortuary',
+        plural: 'mortuaries'
+    },
+    {
         american: 'mortician',
         british: 'undertaker',
         plural: 'undertakers',
