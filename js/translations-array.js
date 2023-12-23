@@ -779,6 +779,10 @@ let translations = [
         altplural: 'mumsies'
     },
     {
+        american: 'mono',
+        british: 'glandular fever'
+    },
+    {
         american: 'mortician',
         british: 'undertaker',
         plural: 'undertakers',
