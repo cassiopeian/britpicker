@@ -902,6 +902,11 @@ let translations = [
         plural: 'car parks'
     },
     {
+        american: 'party tent',
+        british: 'marquee',
+        plural: 'marquees'
+    },
+    {
         american: 'paycheck',
         british: 'pay packet',
         plural: 'pay packets'
