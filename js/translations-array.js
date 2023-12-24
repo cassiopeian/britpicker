@@ -262,6 +262,11 @@ let translations = [
         plural: 'current accounts'
     },
     {
+        american: 'chitchat',
+        british: 'natter',
+        plural: 'natters'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
