@@ -267,6 +267,10 @@ let translations = [
         plural: 'natters'
     },
     {
+        american: 'chitchatting',
+        british: 'nattering'
+    },
+    {
         american: 'chip',
         british: 'crisp',
         plural: 'crisps'
