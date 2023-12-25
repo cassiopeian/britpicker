@@ -876,6 +876,11 @@ let translations = [
         plural: 'chancers'
     },
     {
+        american: 'outlet',
+        british: 'power point',
+        plural: 'power points'
+    },
+    {
         american: 'overpass',
         british: 'flyover',
         plural: 'flyovers'
