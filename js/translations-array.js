@@ -682,6 +682,10 @@ let translations = [
         plural: 'star jumps'
     },
     {
+        american: 'kerosene',
+        british: 'paraffin'
+    },
+    {
         american: 'ladybug',
         british: 'ladybird',
         plural: 'ladybirds'
