@@ -1006,6 +1006,11 @@ let translations = [
         altplural: 'bobbies'
     },
     {
+        american: 'pound sign',
+        british: 'hash sign',
+        plural: 'hash signs'
+    },
+    {
         american: 'powdered sugar',
         british: 'icing sugar',
         plural: 'icing sugars'
