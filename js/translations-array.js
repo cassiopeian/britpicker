@@ -771,7 +771,9 @@ let translations = [
     {
         american: 'merry christmas',
         british: 'happy christmas',
-        plural: 'happy christmases'
+        plural: 'happy christmases',
+        alt: 'happy crimbo',
+        altplural: 'happy crimbos'
     },
     {
         american: 'minivan',
