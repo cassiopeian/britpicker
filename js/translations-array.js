@@ -1048,6 +1048,11 @@ let translations = [
         british: 'secateurs'
     },
     {
+        american: 'public school',
+        british: 'state school',
+        plural: 'state schools'
+    },
+    {
         american: 'public transit',
         british: 'public transport'
     },
