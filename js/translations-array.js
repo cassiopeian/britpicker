@@ -1023,6 +1023,11 @@ let translations = [
         plural: 'icing sugars'
     },
     {
+        american: 'prep school',
+        british: 'private school',
+        plural: 'private schools'
+    },
+    {
         american: 'prostitute',
         british: 'prozzie',
         plural: 'prozzies'
