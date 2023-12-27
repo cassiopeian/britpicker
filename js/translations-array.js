@@ -1032,6 +1032,13 @@ let translations = [
         plural: 'private schools'
     },
     {
+        american: 'proctor',
+        british: 'invigilator',
+        plural: 'invigilators',
+        alt: 'invigilate',
+        altplural: 'invigilates'
+    },
+    {
         american: 'prostitute',
         british: 'prozzie',
         plural: 'prozzies'
