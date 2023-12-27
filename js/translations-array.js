@@ -89,6 +89,10 @@ let translations = [
         british: 'lush'
     },
     {
+        american: 'aughts',
+        british: 'noughties'
+    },
+    {
         american: 'bachelor party',
         british: 'stag do',
         plural: 'stag dos'
