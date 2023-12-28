@@ -1132,7 +1132,9 @@ let translations = [
     {
         american: 'roommate',
         british: 'flatmate',
-        plural: 'flatmates'
+        plural: 'flatmates',
+        alt: 'housemate',
+        altplural: 'housemates'
     },
     {
         american: 'roster',
