@@ -1130,6 +1130,11 @@ let translations = [
         british: 'posh'
     },
     {
+        american: 'roommate',
+        british: 'flatmate',
+        plural: 'flatmates'
+    },
+    {
         american: 'roster',
         british: 'rota',
         plural: 'rotas'
