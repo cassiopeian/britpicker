@@ -1185,6 +1185,11 @@ let translations = [
         british: 'sellotape'
     },
     {
+        american: 'sedan',
+        british: 'saloon',
+        plural: 'saloons'
+    },
+    {
         american: 'shit',
         british: 'shite'
     },
