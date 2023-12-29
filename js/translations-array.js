@@ -4,6 +4,10 @@ let translations = [
         british: '999'
     },
     {
+        american: '2000s',
+        british: 'noughties'
+    },
+    {
         american: 'acetaminophen',
         british: 'paracetamol'
     },
