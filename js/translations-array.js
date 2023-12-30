@@ -172,7 +172,9 @@ let translations = [
     {
         american: 'big rig',
         british: 'articulated lorry',
-        plural: 'articulated lorries'
+        plural: 'articulated lorries',
+        alt: 'artic',
+        altplural: 'artics'
     },
     {
         american: 'billboard',
