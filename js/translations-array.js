@@ -1175,6 +1175,11 @@ let translations = [
         plural: 'swedes'
     },
     {
+        american: 'sales assistant',
+        british: 'shop assistant',
+        plural: 'shop assistants'
+    },
+    {
         american: 'sandwich',
         british: 'sarnie',
         plural: 'sarnies',
