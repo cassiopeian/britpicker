@@ -170,6 +170,11 @@ let translations = [
         plural: 'porters'
     },
     {
+        american: 'big rig',
+        british: 'articulated lorry',
+        plural: 'articulated lorries'
+    },
+    {
         american: 'billboard',
         british: 'hoarding',
         plural: 'hoardings'
