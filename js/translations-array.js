@@ -839,6 +839,11 @@ let translations = [
         british: 'budge up'
     },
     {
+        american: 'muffler',
+        british: 'silencer',
+        plural: 'silencers'
+    },
+    {
         american: 'nail polish',
         british: 'nail varnish',
         plural: 'nail varnishes'
