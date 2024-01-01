@@ -1251,6 +1251,11 @@ let translations = [
         plural: 'slowcoaches'
     },
     {
+        american: 'slut',
+        british: 'slag',
+        plural: 'slags'
+    },
+    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers',
