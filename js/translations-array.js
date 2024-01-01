@@ -1291,6 +1291,10 @@ let translations = [
         plural: 'footballers'
     },
     {
+        american: 'solitaire',
+        british: 'patience'
+    },
+    {
         american: 'space heater',
         british: 'electric fire',
         plural: 'electric fires'
