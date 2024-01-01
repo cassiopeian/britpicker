@@ -1253,7 +1253,9 @@ let translations = [
     {
         american: 'slut',
         british: 'slag',
-        plural: 'slags'
+        plural: 'slags',
+        alt: 'sket',
+        altplural: 'skets'
     },
     {
         american: 'sneaker',
