@@ -1464,6 +1464,11 @@ let translations = [
         plural: 'caravan parks'
     },
     {
+        american: 'training wheel',
+        british: 'stabilizer',
+        plural: 'stabilizers'
+    },
+    {
         american: 'trash',
         british: 'rubbish'
     },
