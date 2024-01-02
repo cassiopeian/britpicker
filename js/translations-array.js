@@ -1225,6 +1225,11 @@ let translations = [
         plural: 'prawns'
     },
     {
+        american: 'shower stall',
+        british: 'shower cubicle',
+        plural: 'shower cubicles'
+    },
+    {
         american: 'side-view mirror',
         british: 'wing mirror',
         plural: 'wing mirrors'
