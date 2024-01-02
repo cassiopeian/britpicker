@@ -608,6 +608,11 @@ let translations = [
         plural: 'binmen' 
     },
     {
+        american: 'garter',
+        british: 'suspender',
+        plural: 'suspenders'
+    },
+    {
         american: 'gas',
         british: 'petrol'
     },
