@@ -1405,7 +1405,9 @@ let translations = [
     {
         american: 'taffy',
         british: 'chew',
-        plural: 'chews'
+        plural: 'chews',
+        alt: 'fruit chew',
+        altplural: 'fruit chews'
     },
     {
         american: 'tailpipe',
