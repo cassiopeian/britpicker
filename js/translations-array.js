@@ -1403,6 +1403,11 @@ let translations = [
         british: 'naff'
     },
     {
+        american: 'taffy',
+        british: 'chew',
+        plural: 'chews'
+    },
+    {
         american: 'tailpipe',
         british: 'exhaust pipe',
         plural: 'exhaust pipes'
