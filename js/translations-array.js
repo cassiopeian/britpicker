@@ -1481,6 +1481,11 @@ let translations = [
         british: 'trackies'
     },
     {
+        american: 'traffic jam',
+        british: 'tailback',
+        plural: 'tailbacks'
+    },
+    {
         american: 'trailer park',
         british: 'caravan park',
         plural: 'caravan parks'
