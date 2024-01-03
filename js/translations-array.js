@@ -1422,7 +1422,9 @@ let translations = [
     {
         american: 'tank top',
         british: 'singlet',
-        plural: 'singlets'
+        plural: 'singlets',
+        alt: 'vest',
+        altplural: 'vests'
     },
     {
         american: 'teleprompter',
