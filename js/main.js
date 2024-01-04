@@ -150,8 +150,11 @@ $(document).on('keyup change input', '#ae', function() {
 
             // if the first word of a phrase is already translated
             if (typeof prevWord !== 'undefined' && prevWord[0] == '<') {
-                // strip the mark tags from the translated word
-                prevWord = prevWord.replace(/<\/?.+?>/ig, '');
+                // strip the tags and hidden info from the translation
+                prevWord = $(prevWord);
+                let findMark = prevWord.find('mark');
+                let markText = findMark.html();
+                prevWord = markText;
                 twoWords = prevWord + ' ' + word;
             }
 
