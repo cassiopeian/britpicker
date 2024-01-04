@@ -268,6 +268,11 @@ let translations = [
         plural: 'mobile phones'
     },
     {
+        american: 'check mark',
+        british: 'tick',
+        plural: 'ticks'
+    },
+    {
         american: 'checkers',
         british: 'draughts'
     },
