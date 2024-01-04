@@ -908,6 +908,11 @@ let translations = [
         british: 'a porridge'
     },
     {
+        american: 'operating room',
+        british: 'operating theater',
+        plural: 'operating theaters'
+    },
+    {
         american: 'opportunist',
         british: 'chancer',
         plural: 'chancers'
