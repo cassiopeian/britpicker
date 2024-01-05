@@ -720,6 +720,13 @@ let translations = [
         british: 'made redundant'
     },
     {
+        american: 'landfill',
+        british: 'tip',
+        plural: 'tips',
+        alt: 'dump',
+        altplural: 'dumps'
+    },
+    {
         american: 'laundromat',
         british: 'launderette',
         plural: 'launderettes'
