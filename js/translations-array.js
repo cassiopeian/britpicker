@@ -666,6 +666,11 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'hobo',
+        british: 'tramp',
+        plural: 'tramps'
+    },
+    {
         american: 'hood',
         british: 'bonnet',
         plural: 'bonnets'
