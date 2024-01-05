@@ -1411,6 +1411,11 @@ let translations = [
         plural: 'supply teachers'
     },
     {
+        american: 'subway',
+        british: 'tube',
+        plural: 'tubes'
+    },
+    {
         american: 'sunscreen',
         british: 'sun cream',
         plural: 'sun creams'
