@@ -1413,7 +1413,9 @@ let translations = [
     {
         american: 'subway',
         british: 'tube',
-        plural: 'tubes'
+        plural: 'tubes',
+        alt: 'underground',
+        altplural: 'undergrounds'
     },
     {
         american: 'sunscreen',
