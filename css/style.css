@@ -211,15 +211,15 @@ main {
 }
 .edit {
     display: block;
-    font-size: .9rem;
+    font-size: 1.1rem;
     letter-spacing: .05rem;
     text-align: left;
-    color: rgb(105, 113, 114);
-    background-color: rgb(251, 251, 251);
+    color: rgb(251, 251, 251);
+    background-color: rgb(56, 69, 94);
     white-space: nowrap;
     width: 100%;
     margin: 0;
-    padding: 2px 5px;
+    padding: 4px 6px;
     border: none;
     cursor: pointer;
 }
