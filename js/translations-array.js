@@ -1640,6 +1640,11 @@ let translations = [
         plural: 'spanners'
     },
     {
+        american: 'yard',
+        british: 'garden',
+        plural: 'gardens'
+    },
+    {
         american: 'yellow light',
         british: 'amber light',
         plural: 'amber lights'
