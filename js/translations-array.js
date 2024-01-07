@@ -564,6 +564,10 @@ let translations = [
         plural: 'torches'
     },
     {
+        american: 'flirt with',
+        british: 'chat up'
+    },
+    {
         american: 'fool',
         british: 'muppet',
         plural: 'muppets'
