@@ -568,6 +568,10 @@ let translations = [
         british: 'chat up'
     },
     {
+        american: 'flirted with',
+        british: 'chatted up'
+    },
+    {
         american: 'fool',
         british: 'muppet',
         plural: 'muppets'
