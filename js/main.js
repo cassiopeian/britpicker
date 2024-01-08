@@ -205,11 +205,15 @@ $(document).on('click', 'mark', function() {
         $(altOption).css('display', 'none');
     }
 
-    // hide other dropdowns, so they can't overlap
-    $('.edits-container').css('display', 'none');
-    
-    // display the clicked dropdown
-    thisDropdown.css('display', 'block');
+    if (thisDropdown.is(':hidden')) {
+        // hide other dropdowns, so they can't overlap
+        $('.edits-container').css('display', 'none');
+        // display the clicked dropdown
+        thisDropdown.slideDown('slow');
+    } else {
+        // hide the clicked dropdown
+        thisDropdown.slideUp('slow');
+    }
 });
 
 function tagEdit(secondPhrase) {
