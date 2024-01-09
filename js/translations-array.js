@@ -1198,6 +1198,10 @@ let translations = [
         altplural: 'lay-bys'
     },
     {
+        american: 'right away',
+        british: 'straightaway'
+    },
+    {
         american: 'ritzy',
         british: 'posh'
     },
