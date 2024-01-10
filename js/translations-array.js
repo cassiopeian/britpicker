@@ -1185,6 +1185,10 @@ let translations = [
         british: 'abseil'
     },
     {
+        american: 'ready-made',
+        british: 'off-the-peg'
+    },
+    {
         american: 'realtor',
         british: 'estate agent',
         plural: 'estate agents'
