@@ -158,6 +158,7 @@ $(document).on('keyup change input', '#ae', function() {
                 let markText = findMark.html();
                 prevWord = markText;
                 twoWords = prevWord + ' ' + word;
+                hyphenatedWord = prevWord + '-' + word;
             }
 
             if (twoWords.toLowerCase() == phrase.american || hyphenatedWord.toLowerCase() == phrase.american) {
