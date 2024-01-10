@@ -1288,6 +1288,11 @@ let translations = [
         british: 'shite'
     },
     {
+        // shit-faced
+        american: 'shite-faced',
+        british: 'rat-arsed'
+    },
+    {
         american: 'shrimp',
         british: 'prawn',
         plural: 'prawns'
