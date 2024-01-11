@@ -715,6 +715,11 @@ let translations = [
         altplural: 'lollies'
     },
     {
+        american: 'in the hospital',
+        british: 'in hospital',
+        plural: 'in hospitals'
+    },
+    {
         american: 'intermission',
         british: 'interval',
         plural: 'intervals'
