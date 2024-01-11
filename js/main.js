@@ -107,6 +107,12 @@ $(document).on('keyup change input', '#ae', function() {
         let twoWords = prevWord + ' ' + word;
         // hyphenated words
         let hyphenatedWord = prevWord + '-' + word;
+        // the word before the previous word
+        let beforePrev = beSplit[i-4];
+        // index of beforePrev
+        let beforePrevIndex = beSplit.indexOf(beSplit[i-4]);
+        // match multi-word phrases
+        let threeWords = beforePrev + ' ' + prevWord + ' ' + word;
         // needed between two-word and one-word translations
         let hiddenSpace = '\u200B';
 
