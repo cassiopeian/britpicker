@@ -173,7 +173,8 @@ $(document).on('keyup change input', '#ae', function() {
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
                 beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
-            } else if (twoWords.toLowerCase() == phrase.american || hyphenatedWord.toLowerCase() == phrase.american) {
+            } else if (twoWords.toLowerCase() == phrase.american 
+                || hyphenatedWord.toLowerCase() == phrase.american) {
                 // replace both words and the space (or hyphen) with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
@@ -189,7 +190,8 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
-            } else if (pluralExists && word.toLowerCase() == phrase.american + 's' || word.toLowerCase() == phrase.american + 'es') {
+            } else if (pluralExists && word.toLowerCase() == phrase.american + 's' 
+                || word.toLowerCase() == phrase.american + 'es') {
                 // or replace pluralized words
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (pluralExists && word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
