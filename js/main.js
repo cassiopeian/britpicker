@@ -172,7 +172,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace all three words and the spaces between them with the joined american phrase 
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (twoWords.toLowerCase() == phrase.american 
                 || hyphenatedWord.toLowerCase() == phrase.american) {
                 // replace both words and the space (or hyphen) with the joined american phrase 
