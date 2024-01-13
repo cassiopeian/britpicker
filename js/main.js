@@ -113,6 +113,8 @@ $(document).on('keyup change input', '#ae', function() {
         let beforePrevIndex = beSplit.indexOf(beSplit[i-4]);
         // match multi-word phrases
         let threeWords = beforePrev + ' ' + prevWord + ' ' + word;
+        // two-word phrase consisting of a contraction and a word
+        let contractedPhrase = beforePrev + '\'' + prevWord + ' ' + word;
         // needed between two-word and one-word translations
         let hiddenSpace = '\u200B';
 
@@ -165,11 +167,13 @@ $(document).on('keyup change input', '#ae', function() {
                 prevWord = markText;
                 twoWords = prevWord + ' ' + word;
                 hyphenatedWord = prevWord + '-' + word;
+                contractedPhrase = beforePrev + '\'' + prevWord + ' ' + word;
             }
 
             // if a typed phrase matches an american phrase
-            if (threeWords.toLowerCase() == phrase.american) {
-                // replace all three words and the spaces between them with the joined american phrase 
+            if (threeWords.toLowerCase() == phrase.american
+                || contractedPhrase.toLowerCase() == phrase.american) {
+                // replace the split three-word phrase/contracted phrase with the joined american phrase 
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
                 beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace, hiddenSpace, hiddenSpace);
