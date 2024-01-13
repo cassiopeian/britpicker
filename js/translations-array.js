@@ -450,6 +450,13 @@ let translations = [
         british: 'shambolic'
     },
     {
+        american: 'doctor\'s office',
+        british: 'doctor\'s surgery',
+        plural: 'doctor\'s surgeries',
+        alt: 'doctor\'s practice',
+        altplural: 'doctor\'s practices'
+    },
+    {
         american: 'dollar',
         british: 'pound',
         plural: 'pounds',
