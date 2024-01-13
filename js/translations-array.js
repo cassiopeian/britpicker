@@ -457,6 +457,11 @@ let translations = [
         altplural: 'quid'
     },
     {
+        american: 'driver\'s license',
+        british: 'driving license',
+        plural: 'driving licenses'
+    },
+    {
         american: 'drunk driving',
         british: 'drink-driving'
     },
