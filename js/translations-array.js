@@ -1107,6 +1107,10 @@ let translations = [
         british: 'perspex'
     },
     {
+        american: 'plumber\'s crack',
+        british: 'builder\'s bum'
+    },
+    {
         american: 'police officer',
         british: 'constable',
         plural: 'constables',
