@@ -457,6 +457,13 @@ let translations = [
         altplural: 'doctor\'s practices'
     },
     {
+        american: 'doctors\' office',
+        british: 'doctors\' surgery',
+        plural: 'doctors\' surgeries',
+        alt: 'doctors\' practice',
+        altplural: 'doctors\' practices'
+    },
+    {
         american: 'dollar',
         british: 'pound',
         plural: 'pounds',
