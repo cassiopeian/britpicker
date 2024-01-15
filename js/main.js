@@ -198,7 +198,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural, word, phrase.altplural, index), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural, twoWords, phrase.altplural, index), hiddenSpace);
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
                 beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
