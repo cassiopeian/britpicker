@@ -190,7 +190,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace both words and the space (or hyphen) with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.british, word, phrase.alt, index), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.british, phrase.american, phrase.alt, index), hiddenSpace);
             } else if (pluralExists && twoWords.toLowerCase() == phrase.american + 's' 
                 || twoWords.toLowerCase() == phrase.american + 'es'
                 || hyphenatedWord.toLowerCase() == phrase.american + 's'
