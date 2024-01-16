@@ -176,7 +176,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace the split three-word phrase/contracted phrase with the joined american phrase 
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, phrase.american, phrase.alt, index), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, phrase.american, phrase.alt, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (pluralExists && threeWords.toLowerCase() == phrase.american + 's'
                 || threeWords.toLowerCase() == phrase.american + 'es'
                 || contractedPhrase.toLowerCase() == phrase.american + 's'
@@ -184,7 +184,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace those three words with the joined american phrase
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, threeWords, phrase.altplural, index), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, threeWords, phrase.altplural, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (twoWords.toLowerCase() == phrase.american 
                 || hyphenatedWord.toLowerCase() == phrase.american) {
                 // replace both words and the space (or hyphen) with the joined american phrase 
