@@ -184,7 +184,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace those three words with the joined american phrase
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, word, phrase.altplural, index), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, threeWords, phrase.altplural, index), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (twoWords.toLowerCase() == phrase.american 
                 || hyphenatedWord.toLowerCase() == phrase.american) {
                 // replace both words and the space (or hyphen) with the joined american phrase 
