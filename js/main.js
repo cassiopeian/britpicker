@@ -174,7 +174,8 @@ $(document).on('keyup change input', '#ae', function() {
 
             // if a typed phrase matches an american phrase
             if (threeWords.toLowerCase() == phrase.american
-                || contractedPhrase.toLowerCase() == phrase.american) {
+                || contractedPhrase.toLowerCase() == phrase.american
+                || hyphenatedPhrase.toLowerCase() == phrase.american) {
                 // replace the split three-word phrase/contracted phrase with the joined american phrase 
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
