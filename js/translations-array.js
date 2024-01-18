@@ -1419,6 +1419,11 @@ let translations = [
         plural: 'electric fires'
     },
     {
+        american: 'special election',
+        british: 'by-election',
+        plural: 'by-elections'
+    },
+    {
         american: 'speed bump',
         british: 'sleeping policeman',
         plural: 'sleeping policemen'
