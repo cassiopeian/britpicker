@@ -986,6 +986,10 @@ let translations = [
         british: 'a porridge'
     },
     {
+        american: 'occupied',
+        british: 'engaged'
+    },
+    {
         american: 'operating room',
         british: 'operating theater',
         plural: 'operating theaters'
