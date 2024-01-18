@@ -471,6 +471,11 @@ let translations = [
         altplural: 'quid'
     },
     {
+        american: 'dorm',
+        british: 'hall of residence',
+        plural: 'halls of residence'
+    },
+    {
         american: 'driver\'s license',
         british: 'driving license',
         plural: 'driving licenses'
