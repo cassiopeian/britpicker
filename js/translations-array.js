@@ -986,6 +986,10 @@ let translations = [
         british: 'a porridge'
     },
     {
+        american: 'obligated',
+        british: 'obliged'
+    },
+    {
         american: 'occupied',
         british: 'engaged'
     },
