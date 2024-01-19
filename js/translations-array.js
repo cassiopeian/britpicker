@@ -884,6 +884,11 @@ let translations = [
         plural: 'people carriers'
     },
     {
+        american: 'mohawk',
+        british: 'mohican',
+        plural: 'mohicans'
+    },
+    {
         american: 'molasses',
         british: 'treacle'
     },
