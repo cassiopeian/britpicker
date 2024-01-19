@@ -972,6 +972,10 @@ let translations = [
         plural: 'truncheons'
     },
     {
+        american: 'normalcy',
+        british: 'normality'
+    },
+    {
         american: 'nutcase',
         british: 'nutter',
         plural: 'nutters'
