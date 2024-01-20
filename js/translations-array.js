@@ -371,6 +371,11 @@ let translations = [
         plural: 'worktops'
     },
     {
+        american: 'coverall',
+        british: 'boilersuit',
+        plural: 'boilersuits'
+    },
+    {
         american: 'crazies',
         british: 'nutters',
         alt: 'madmen'
