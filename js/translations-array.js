@@ -373,7 +373,9 @@ let translations = [
     {
         american: 'coverall',
         british: 'boilersuit',
-        plural: 'boilersuits'
+        plural: 'boilersuits',
+        alt: 'overall',
+        altplural: 'overalls'
     },
     {
         american: 'crazies',
