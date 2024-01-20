@@ -1442,6 +1442,11 @@ let translations = [
         plural: 'sleeping policemen'
     },
     {
+        american: 'splinter',
+        british: 'sliver',
+        plural: 'slivers'
+    },
+    {
         american: 'sports',
         british: 'sport'
     },
