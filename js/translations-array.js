@@ -811,7 +811,8 @@ let translations = [
     },
     {
         american: 'lazy',
-        british: 'bone-idle'
+        british: 'bone-idle',
+        alt: 'work-shy'
     },
     {
         american: 'license plate',
