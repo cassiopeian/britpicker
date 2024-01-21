@@ -1341,6 +1341,10 @@ let translations = [
         plural: 'saloons'
     },
     {
+        american: 'self-righteous',
+        british: 'priggish'
+    },
+    {
         american: 'sherbet',
         british: 'sorbet',
         plural: 'sorbets'
