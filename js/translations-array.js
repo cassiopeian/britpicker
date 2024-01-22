@@ -699,6 +699,10 @@ let translations = [
         plural: 'birds'
     },
     {
+        american: 'go on about',
+        british: 'bang on about'
+    },
+    {
         american: 'gotten',
         british: 'got'
     },
