@@ -703,6 +703,10 @@ let translations = [
         british: 'bang on about'
     },
     {
+        american: 'goes on about',
+        british: 'bangs on about'
+    },
+    {
         american: 'gotten',
         british: 'got'
     },
