@@ -1213,6 +1213,10 @@ let translations = [
         british: 'potter'
     },
     {
+        american: 'questionable',
+        british: 'dodgy'
+    },
+    {
         american: 'quiet down',
         british: 'quieten down'
     },
