@@ -1751,6 +1751,10 @@ let translations = [
         plural: 'wastepaper baskets'
     },
     {
+        american: 'went on about',
+        british: 'banged on about'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
