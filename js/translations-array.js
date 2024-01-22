@@ -538,6 +538,10 @@ let translations = [
         british: 'dodgy'
     },
     {
+        american: 'exactly right',
+        british: 'bang on'
+    },
+    {
         american: 'exclamation point',
         british: 'exclamation mark',
         plural: 'exclamation marks'
