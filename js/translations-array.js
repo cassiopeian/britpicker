@@ -34,6 +34,10 @@ let translations = [
         plural: 'aeroplanes'
     },
     {
+        american: 'aluminum',
+        british: 'aluminium'
+    },
+    {
         american: 'among',
         british: 'amongst'
     },
