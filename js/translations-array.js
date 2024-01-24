@@ -742,6 +742,11 @@ let translations = [
         alt: 'minced beef'
     },
     {
+        american: 'grunt worker',
+        british: 'dogsbody',
+        plural: 'dogsbodies'
+    },
+    {
         american: 'heavy cream',
         british: 'double cream'
     },
