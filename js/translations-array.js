@@ -336,6 +336,11 @@ let translations = [
         british: 'community payback'
     },
     {
+        american: 'conniption',
+        british: 'strop',
+        plural: 'strops'
+    },
+    {
         american: 'cookie',
         british: 'biscuit',
         plural: 'biscuits',
