@@ -341,6 +341,12 @@ let translations = [
         plural: 'strops'
     },
     {
+        // conniption fit
+        american: 'strop fit',
+        british: 'strop',
+        plural: 'strops'
+    },
+    {
         american: 'cookie',
         british: 'biscuit',
         plural: 'biscuits',
