@@ -559,6 +559,11 @@ let translations = [
         plural: 'lifts'
     },
     {
+        american: 'emergency brake',
+        british: 'handbrake',
+        plural: 'handbrakes'
+    },
+    {
         american: 'evasive',
         british: 'dodgy'
     },
