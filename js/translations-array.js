@@ -531,6 +531,11 @@ let translations = [
         plural: 'skips'
     },
     {
+        american: 'dweeb',
+        british: 'anorak',
+        plural: 'anoraks'
+    },
+    {
         american: 'eager',
         british: 'keen'
     },
