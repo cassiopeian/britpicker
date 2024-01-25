@@ -498,6 +498,11 @@ let translations = [
         plural: 'halls of residence'
     },
     {
+        american: 'drape',
+        british: 'curtain',
+        plural: 'curtains'
+    },
+    {
         american: 'driver\'s license',
         british: 'driving license',
         plural: 'driving licenses'
