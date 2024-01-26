@@ -816,6 +816,11 @@ let translations = [
         british: 'innit'
     },
     {
+        american: 'jackhammer',
+        british: 'pneumatic drill',
+        plural: 'pneumatic drills'
+    },
+    {
         american: 'jelly',
         british: 'jam',
         plural: 'jams'
