@@ -831,6 +831,11 @@ let translations = [
         plural: 'tossers'
     },
     {
+        american: 'john hancock',
+        british: 'moniker',
+        plural: 'monikers'
+    },
+    {
         american: 'journalist',
         british: 'journo',
         plural: 'journos'
