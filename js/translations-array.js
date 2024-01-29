@@ -1002,6 +1002,10 @@ let translations = [
         plural: 'gobs'
     },
     {
+        american: 'mouthy',
+        british: 'gobby'
+    },
+    {
         american: 'move over',
         british: 'budge up'
     },
