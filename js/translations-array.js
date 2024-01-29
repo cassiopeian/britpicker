@@ -795,6 +795,10 @@ let translations = [
         british: 'peckish'
     },
     {
+        american: 'i haven\'t',
+        british: 'i\'ve not'
+    },
+    {
         american: 'ice pop',
         british: 'ice lolly',
         plural: 'ice lollies',
