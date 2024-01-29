@@ -771,6 +771,10 @@ let translations = [
         british: 'double cream'
     },
     {
+        american: 'he hasn\'t',
+        british: 'he\'s not'
+    },
+    {
         american: 'hickey',
         british: 'love bite',
         plural: 'love bites'
