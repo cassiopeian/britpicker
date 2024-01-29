@@ -1832,6 +1832,10 @@ let translations = [
         plural: 'windscreens'
     },
     {
+        american: 'worn-out',
+        british: 'clapped-out'
+    },
+    {
         american: 'wrench',
         british: 'spanner',
         plural: 'spanners'
