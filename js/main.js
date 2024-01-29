@@ -115,6 +115,8 @@ $(document).on('keyup change input', '#ae', function() {
         let threeWords = beforePrev + ' ' + prevWord + ' ' + word;
         // two-word phrase consisting of a contraction and a word
         let contractedPhrase = beforePrev + '\'' + prevWord + ' ' + word;
+        // two-word phrase consisting of a word and a contraction
+        let endOnContraction =  beforePrev + ' ' + prevWord + '\'' + word; 
         // phrase consisting of a hyphenated word and a word
         let hyphenatedPhrase = beforePrev + '-' + prevWord + ' ' + word;
         // needed between two-word and one-word translations
