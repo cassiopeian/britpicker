@@ -799,6 +799,10 @@ let translations = [
         british: 'peckish'
     },
     {
+        american: 'i hadn\'t',
+        british: 'i\'d not'
+    },
+    {
         american: 'i haven\'t',
         british: 'i\'ve not'
     },
