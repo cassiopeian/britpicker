@@ -771,6 +771,10 @@ let translations = [
         british: 'double cream'
     },
     {
+        american: 'he hadn\'t',
+        british: 'he\'d not'
+    },
+    {
         american: 'he hasn\'t',
         british: 'he\'s not'
     },
