@@ -1435,6 +1435,10 @@ let translations = [
         british: 'priggish'
     },
     {
+        american: 'she hadn\'t',
+        british: 'she\'d not'
+    },
+    {
         american: 'she hasn\'t',
         british: 'she\'s not'
     },
