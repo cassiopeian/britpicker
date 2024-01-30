@@ -1684,6 +1684,10 @@ let translations = [
         alt: 'ta'
     },
     {
+        american: 'they hadn\'t',
+        british: 'they\'d not'
+    },
+    {
         american: 'they haven\'t',
         british: 'they\'ve not'
     },
