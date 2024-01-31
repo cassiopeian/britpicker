@@ -1774,6 +1774,12 @@ let translations = [
         british: 'rubbish'
     },
     {
+        // trash can
+        american: 'rubbish can',
+        british: 'dustbin',
+        plural: 'dustbins'
+    },
+    {
         american: 'truck',
         british: 'lorry',
         plural: 'lorries'
