@@ -1771,7 +1771,8 @@ let translations = [
     },
     {
         american: 'trash',
-        british: 'rubbish'
+        british: 'rubbish',
+        alt: 'bin'
     },
     {
         // trash can
