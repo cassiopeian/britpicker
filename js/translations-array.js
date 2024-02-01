@@ -1051,6 +1051,11 @@ let translations = [
         plural: 'serviettes'
     },
     {
+        american: 'narc',
+        british: 'grass',
+        plural: 'grasses'
+    },
+    {
         american: 'nerd',
         british: 'swot',
         plural: 'swots'
