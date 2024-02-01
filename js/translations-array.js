@@ -1585,6 +1585,11 @@ let translations = [
         alt: 'pinched'
     },
     {
+        american: 'stoplight',
+        british: 'traffic light',
+        plural: 'traffic lights'
+    },
+    {
         american: 'store',
         british: 'shop',
         plural: 'shops'
