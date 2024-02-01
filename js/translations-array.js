@@ -1580,6 +1580,11 @@ let translations = [
         alt: 'pinch'
     },
     {
+        american: 'stenographer',
+        british: 'shorthand typist',
+        plural: 'shorthand typists'
+    },
+    {
         american: 'stole',
         british: 'nicked',
         alt: 'pinched'
