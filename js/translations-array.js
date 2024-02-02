@@ -1035,6 +1035,10 @@ let translations = [
         plural: 'silencers'
     },
     {
+        american: 'mutter',
+        british: 'chunter'
+    },
+    {
         american: 'nail polish',
         british: 'nail varnish',
         plural: 'nail varnishes'
