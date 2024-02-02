@@ -823,6 +823,10 @@ let translations = [
         plural: 'in hospitals'
     },
     {
+        american: 'insane',
+        british: 'mental'
+    },
+    {
         american: 'intermission',
         british: 'interval',
         plural: 'intervals'
