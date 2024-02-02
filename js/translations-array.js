@@ -43,7 +43,8 @@ let translations = [
     },
     {
         american: 'angry',
-        british: 'cross'
+        british: 'cross',
+        alt: 'shirty'
     },
     {
         american: 'apartment',
