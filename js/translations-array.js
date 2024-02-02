@@ -1557,6 +1557,11 @@ let translations = [
         plural: 'sleeping policemen'
     },
     {
+        american: 'spelunking',
+        british: 'potholing',
+        alt: 'caving'
+    },
+    {
         american: 'splinter',
         british: 'sliver',
         plural: 'slivers'
