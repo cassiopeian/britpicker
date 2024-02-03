@@ -1236,6 +1236,10 @@ let translations = [
         british: 'cling film'
     },
     {
+        american: 'play hooky',
+        british: 'skive off'
+    },
+    {
         american: 'pleased',
         british: 'chuffed'
     },
