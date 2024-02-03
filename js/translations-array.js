@@ -1248,6 +1248,10 @@ let translations = [
         british: 'skiving off'
     },
     {
+        american: 'plays hooky',
+        british: 'skives off'
+    },
+    {
         american: 'pleased',
         british: 'chuffed'
     },
