@@ -1244,6 +1244,10 @@ let translations = [
         british: 'skived off'
     },
     {
+        american: 'playing hooky',
+        british: 'skiving off'
+    },
+    {
         american: 'pleased',
         british: 'chuffed'
     },
