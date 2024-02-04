@@ -1886,6 +1886,10 @@ let translations = [
         plural: 'veg'
     },
     {
+        american: 'very',
+        british: 'jolly'
+    },
+    {
         american: 'washcloth',
         british: 'flannel',
         plural: 'flannels'
