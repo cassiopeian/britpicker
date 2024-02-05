@@ -244,6 +244,10 @@ let translations = [
         british: 'tin of'
     },
     {
+        american: 'cans of',
+        british: 'tins of'
+    },
+    {
         american: 'canned',
         british: 'tinned'
     },
