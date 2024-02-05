@@ -240,6 +240,11 @@ let translations = [
         plural: 'engaged tones'
     },
     {
+        american: 'caboose',
+        british: 'guard\'s van',
+        plural: 'guards\' vans'
+    },
+    {
         american: 'can of',
         british: 'tin of'
     },
