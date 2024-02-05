@@ -777,6 +777,11 @@ let translations = [
         plural: 'dogsbodies'
     },
     {
+        american: 'hard candy',
+        british: 'boiled sweet',
+        plural: 'boiled sweets'
+    },
+    {
         american: 'heavy cream',
         british: 'double cream'
     },
