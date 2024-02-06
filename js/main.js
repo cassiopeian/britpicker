@@ -205,6 +205,7 @@ $(document).on('keyup change input', '#ae', function() {
                 beSplit.splice(prevIndex, 1, caseMatch(phrase.british, phrase.american, phrase.alt, index-2), hiddenSpace);
             } else if (pluralExists && twoWords.toLowerCase() == phrase.american + 's' 
                 || twoWords.toLowerCase() == phrase.american + 'es'
+                || twoWords.toLowerCase() == phrase.american.slice(0, -1) + 'ies' 
                 || hyphenatedWord.toLowerCase() == phrase.american + 's'
                 || hyphenatedWord.toLowerCase() == phrase.american + 'es') {
                 // replace both words and the space with the joined american phrase 
