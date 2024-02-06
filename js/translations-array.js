@@ -249,6 +249,11 @@ let translations = [
         british: 'tin of'
     },
     {
+        american: 'candy apple',
+        british: 'toffee apple',
+        plural: 'toffee apples'
+    },
+    {
         american: 'cans of',
         british: 'tins of'
     },
