@@ -1778,6 +1778,10 @@ let translations = [
         plural: 'wotsits'
     },
     {
+        american: 'think',
+        british: 'reckon'
+    },
+    {
         american: 'third wheel',
         british: 'gooseberry',
         plural: 'gooseberries'
