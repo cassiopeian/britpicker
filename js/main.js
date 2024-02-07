@@ -228,6 +228,9 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (word.toLowerCase() == phrase.american + 'ed') {
                 // or replace words ending with "-ed"
                 beSplit.splice(index, 1, caseMatch(phrase.british + 'ed', word, phrase.alt, index));
+            } else if (noPluralExists && word.toLowerCase() == phrase.american + 's') {
+                // or replace words ending with "-s" that aren't pluralizations
+                beSplit.splice(index, 1, caseMatch(phrase.british + 's', word, phrase.alt, index));
             }
         });
     }
