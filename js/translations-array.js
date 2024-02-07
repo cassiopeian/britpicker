@@ -1787,6 +1787,10 @@ let translations = [
         plural: 'gooseberries'
     },
     {
+        american: 'thought',
+        british: 'reckoned'
+    },
+    {
         american: 'thumbtack',
         british: 'drawing pin',
         plural: 'drawing pins'
