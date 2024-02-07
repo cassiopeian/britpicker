@@ -161,6 +161,7 @@ $(document).on('keyup change input', '#ae', function() {
         // loop through each phrase in the translations array
         translations.forEach(phrase => {
             let pluralExists = typeof phrase.plural !== 'undefined';
+            let noPluralExists = typeof phrase.plural == 'undefined';
 
             // if the first word of a phrase is already translated
             if (typeof prevWord !== 'undefined' && prevWord[0] == '<') {
