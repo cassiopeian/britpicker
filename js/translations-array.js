@@ -1037,6 +1037,11 @@ let translations = [
         altplural: 'funeral directors'
     },
     {
+        american: 'mouse pad',
+        british: 'mouse mat',
+        plural: 'mouse mats'
+    },
+    {
         american: 'mouth',
         british: 'gob',
         plural: 'gobs'
