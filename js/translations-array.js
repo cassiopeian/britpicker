@@ -1860,6 +1860,11 @@ let translations = [
         altplural: 'bins'
     },
     {
+        american: 'tricky situation',
+        british: 'sticky wicket',
+        plural: 'sticky wickets'
+    },
+    {
         american: 'truck',
         british: 'lorry',
         plural: 'lorries'
