@@ -895,6 +895,10 @@ let translations = [
         plural: 'snogs'
     },
     {
+        american: 'kissing',
+        british: 'snogging'
+    },
+    {
         american: 'ladybug',
         british: 'ladybird',
         plural: 'ladybirds'
