@@ -1876,7 +1876,9 @@ let translations = [
         british: 'dustbin',
         plural: 'dustbins',
         alt: 'bin',
-        altplural: 'bins'
+        altplural: 'bins',
+        typed: 'trash can',
+        typedplural: 'trash cans'
     },
     {
         american: 'tricky situation',
