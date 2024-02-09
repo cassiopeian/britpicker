@@ -1593,7 +1593,9 @@ let translations = [
         // soccer ball
         american: 'football ball',
         british: 'football',
-        plural: 'footballs'
+        plural: 'footballs',
+        typed: 'soccer ball',
+        typedplural: 'soccer balls'
     },
     {
         // soccer player
