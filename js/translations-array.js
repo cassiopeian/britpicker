@@ -967,7 +967,10 @@ let translations = [
     {
         // mail slot
         american: 'post slot',
-        british: 'letter box'
+        british: 'letter box',
+        plural: 'letter boxes',
+        typed: 'mail slot',
+        typedplural: 'mail slots'
     },
     {
         american: 'mailbox',
