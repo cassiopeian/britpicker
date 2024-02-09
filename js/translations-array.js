@@ -1522,7 +1522,8 @@ let translations = [
     {
         // shit-faced
         american: 'shite-faced',
-        british: 'rat-arsed'
+        british: 'rat-arsed',
+        typed: 'shit-faced'
     },
     {
         american: 'shrimp',
