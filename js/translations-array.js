@@ -359,7 +359,9 @@ let translations = [
         // conniption fit
         american: 'strop fit',
         british: 'strop',
-        plural: 'strops'
+        plural: 'strops',
+        typed: 'conniption fit',
+        typedplural: 'conniption fits'
     },
     {
         american: 'cookie',
