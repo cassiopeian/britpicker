@@ -1359,6 +1359,11 @@ let translations = [
         plural: 'press-ups'
     },
     {
+        american: 'purse',
+        british: 'handbag',
+        plural: 'handbags'
+    },
+    {
         american: 'putter',
         british: 'potter'
     },
