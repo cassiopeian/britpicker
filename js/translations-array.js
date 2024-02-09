@@ -1601,7 +1601,9 @@ let translations = [
         // soccer player
         american: 'football player',
         british: 'footballer',
-        plural: 'footballers'
+        plural: 'footballers',
+        typed: 'soccer player',
+        typedplural: 'soccer players'
     },
     {
         american: 'solitaire',
