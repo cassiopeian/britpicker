@@ -1531,6 +1531,11 @@ let translations = [
         typed: 'shit-faced'
     },
     {
+        american: 'shopping bag',
+        british: 'carrier bag',
+        plural: 'carrier bags'
+    },
+    {
         american: 'shrimp',
         british: 'prawn',
         plural: 'prawns'
