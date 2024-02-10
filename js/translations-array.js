@@ -1996,6 +1996,10 @@ let translations = [
         british: 'whinge'
     },
     {
+        american: 'whined',
+        british: 'whinged'
+    },
+    {
         american: 'whiner',
         british: 'whinger',
         plural: 'whingers'
