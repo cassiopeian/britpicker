@@ -359,6 +359,10 @@ let translations = [
         british: 'whinged'
     },
     {
+        american: 'complaining',
+        british: 'whinging'
+    },
+    {
         american: 'conniption',
         british: 'strop',
         plural: 'strops'
