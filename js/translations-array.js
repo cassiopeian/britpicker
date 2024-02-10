@@ -351,6 +351,10 @@ let translations = [
         british: 'community payback'
     },
     {
+        american: 'complain',
+        british: 'whinge'
+    },
+    {
         american: 'conniption',
         british: 'strop',
         plural: 'strops'
