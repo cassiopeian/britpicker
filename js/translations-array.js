@@ -1777,6 +1777,10 @@ let translations = [
         plural: 'takeaways'
     },
     {
+        american: 'talking about',
+        british: 'on about'
+    },
+    {
         american: 'tank top',
         british: 'singlet',
         plural: 'singlets',
