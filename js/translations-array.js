@@ -1497,6 +1497,10 @@ let translations = [
         altplural: 'butties'
     },
     {
+        american: 'sarcastic',
+        british: 'sarky'
+    },
+    {
         american: 'sausage',
         british: 'banger',
         plural: 'bangers'
