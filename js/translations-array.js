@@ -1984,6 +1984,10 @@ let translations = [
         plural: 'wastepaper baskets'
     },
     {
+        american: 'wasting time',
+        british: 'faffing about'
+    },
+    {
         american: 'went on about',
         british: 'banged on about'
     },
