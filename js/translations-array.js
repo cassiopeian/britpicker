@@ -442,6 +442,10 @@ let translations = [
         plural: 'fairy cakes'
     },
     {
+        american: 'custom-made',
+        british: 'bespoke'
+    },
+    {
         american: 'cutesy',
         british: 'twee'
     },
