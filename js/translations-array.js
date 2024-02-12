@@ -451,6 +451,10 @@ let translations = [
         british: 'cuppa'
     },
     {
+        american: 'cups of tea',
+        british: 'cuppas'
+    },
+    {
         american: 'cupcake',
         british: 'fairy cake',
         plural: 'fairy cakes'
