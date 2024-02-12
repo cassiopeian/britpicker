@@ -227,6 +227,11 @@ let translations = [
         plural: 'plaits'
     },
     {
+        american: 'bro',
+        british: 'bruv',
+        plural: 'bruvs'
+    },
+    {
         american: 'broke',
         british: 'skint'
     },
