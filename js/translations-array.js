@@ -447,6 +447,10 @@ let translations = [
         plural: 'zebra crossings'
     },
     {
+        american: 'cup of tea',
+        british: 'cuppa'
+    },
+    {
         american: 'cupcake',
         british: 'fairy cake',
         plural: 'fairy cakes'
