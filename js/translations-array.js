@@ -236,6 +236,11 @@ let translations = [
         british: 'skint'
     },
     {
+        american: 'bruh',
+        british: 'bruv',
+        plural: 'bruvs'
+    },
+    {
         american: 'burlap',
         british: 'hessian'
     },
