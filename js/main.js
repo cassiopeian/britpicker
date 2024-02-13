@@ -206,6 +206,7 @@ $(document).on('keyup change input', '#ae', function() {
                 beSplit.splice(prevIndex, 1, caseMatch(phrase.british, phrase.typed || phrase.american, phrase.alt, index-2), hiddenSpace);
             } else if (pluralExists && twoWords.toLowerCase() == phrase.american + 's' 
                 || twoWords.toLowerCase() == phrase.american + 'es'
+                || twoWords.toLowerCase() == phrase.american.slice(0, -3) + 'men'
                 || twoWords.toLowerCase() == phrase.american.slice(0, -1) + 'ies' 
                 || hyphenatedWord.toLowerCase() == phrase.american + 's'
                 || hyphenatedWord.toLowerCase() == phrase.american + 'es') {
