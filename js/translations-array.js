@@ -753,6 +753,11 @@ let translations = [
         british: 'fiddly'
     },
     {
+        american: 'gambler',
+        british: 'punter',
+        plural: 'punters'
+    },
+    {
         american: 'garbage',
         british: 'rubbish'
     },
