@@ -1933,6 +1933,11 @@ let translations = [
         typedplural: 'trash cans'
     },
     {
+        american: 'traveling salesman',
+        british: 'bagman',
+        plural: 'bagmen'
+    },
+    {
         american: 'tricky situation',
         british: 'sticky wicket',
         plural: 'sticky wickets'
