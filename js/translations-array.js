@@ -1896,6 +1896,10 @@ let translations = [
         plural: 'shedloads'
     },
     {
+        american: 'total',
+        british: 'proper'
+    },
+    {
         american: 'touchy',
         british: 'tetchy'
     },
