@@ -2010,6 +2010,11 @@ let translations = [
         british: 'jolly'
     },
     {
+        american: 'warden',
+        british: 'warder',
+        plural: 'warders'
+    },
+    {
         american: 'washcloth',
         british: 'flannel',
         plural: 'flannels'
