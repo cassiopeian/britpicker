@@ -707,7 +707,9 @@ let translations = [
     {
         american: 'fool',
         british: 'muppet',
-        plural: 'muppets'
+        plural: 'muppets',
+        alt: 'mug',
+        altplural: 'mugs'
     },
     {
         american: 'freeway',
