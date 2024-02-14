@@ -881,6 +881,11 @@ let translations = [
         altplural: 'lollies'
     },
     {
+        american: 'idiot',
+        british: 'git',
+        plural: 'gits'
+    },
+    {
         american: 'in the hospital',
         british: 'in hospital',
         plural: 'in hospitals'
