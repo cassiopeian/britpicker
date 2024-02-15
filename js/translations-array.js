@@ -1485,6 +1485,11 @@ let translations = [
         altplural: 'lay-bys'
     },
     {
+        american: 'retiree',
+        british: 'pensioner',
+        plural: 'pensioners'
+    },
+    {
         american: 'right away',
         british: 'straightaway'
     },
