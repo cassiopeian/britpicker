@@ -1571,6 +1571,11 @@ let translations = [
         british: 'priggish'
     },
     {
+        american: 'senior citizen',
+        british: 'pensioner',
+        plural: 'pensioners'
+    },
+    {
         american: 'she hadn\'t',
         british: 'she\'d not'
     },
