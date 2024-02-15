@@ -519,6 +519,10 @@ let translations = [
         plural: 'tea towels'
     },
     {
+        american: 'disobedient',
+        british: 'naughty'
+    },
+    {
         american: 'disorganized',
         british: 'shambolic'
     },
