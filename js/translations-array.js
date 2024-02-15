@@ -574,7 +574,9 @@ let translations = [
     {
         american: 'dummy',
         british: 'numpty',
-        plural: 'numpties'
+        plural: 'numpties',
+        alt: 'berk',
+        altplural: 'berks'
     },
     {
         american: 'dumpster',
