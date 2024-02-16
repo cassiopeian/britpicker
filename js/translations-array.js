@@ -1047,7 +1047,8 @@ let translations = [
     },
     {
         american: 'man',
-        british: 'bloke'
+        british: 'bloke',
+        alt: 'chap'
     },
     {
         american: 'marinara',
@@ -1059,7 +1060,8 @@ let translations = [
     },
     {
         american: 'men',
-        british: 'blokes'
+        british: 'blokes',
+        alt: 'chaps'
     },
     {
         american: 'merry christmas',
