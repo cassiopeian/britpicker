@@ -572,8 +572,10 @@ let translations = [
     },
     {
         american: 'dude',
-        british: 'bloke',
-        plural: 'blokes'
+        british: 'mate',
+        plural: 'mates',
+        alt: 'bloke',
+        altplural: 'blokes'
     },
     {
         american: 'dummy',
