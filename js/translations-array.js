@@ -1046,12 +1046,20 @@ let translations = [
         plural: 'high streets'
     },
     {
+        american: 'man',
+        british: 'bloke'
+    },
+    {
         american: 'marinara',
         british: 'napolitana'
     },
     {
         american: 'math',
         british: 'maths'
+    },
+    {
+        american: 'men',
+        british: 'blokes'
     },
     {
         american: 'merry christmas',
