@@ -219,9 +219,11 @@ $(document).on('keyup change input', '#ae', function() {
                 beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
             } else if (pluralExists && word.toLowerCase() == phrase.american + 's' 
                 || word.toLowerCase() == phrase.american + 'es'
-                || word.toLowerCase() == phrase.american.slice(0, -3) + 'men' 
                 || word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words
+                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
+            } else if (pluralExists && word.length > 3 && word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
+                // replace pluralized words (w/ 4+ letters) ending with -men
                 beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american + 'ing') {
                 // or replace words ending with "-ing"
