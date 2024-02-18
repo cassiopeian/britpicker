@@ -249,6 +249,10 @@ let translations = [
         british: 'burgle'
     },
     {
+        american: 'burglarized',
+        british: 'burgled'
+    },
+    {
         american: 'busy signal',
         british: 'engaged tone',
         plural: 'engaged tones'
