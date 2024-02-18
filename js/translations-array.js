@@ -1125,7 +1125,9 @@ let translations = [
     {
         american: 'moron',
         british: 'prat',
-        plural: 'prats'
+        plural: 'prats',
+        alt: 'wally',
+        altplural: 'wallies'
     },
     {
         american: 'mortician',
