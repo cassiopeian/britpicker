@@ -1123,6 +1123,11 @@ let translations = [
         plural: 'mortuaries'
     },
     {
+        american: 'moron',
+        british: 'prat',
+        plural: 'prats'
+    },
+    {
         american: 'mortician',
         british: 'undertaker',
         plural: 'undertakers',
