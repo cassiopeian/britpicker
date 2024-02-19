@@ -2085,6 +2085,10 @@ let translations = [
         plural: 'warders'
     },
     {
+        american: 'was told off',
+        british: 'got a bollocking'
+    },
+    {
         american: 'washcloth',
         british: 'flannel',
         plural: 'flannels'
