@@ -2107,6 +2107,10 @@ let translations = [
         british: 'banged on about'
     },
     {
+        american: 'were told off',
+        british: 'got a bollocking'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
