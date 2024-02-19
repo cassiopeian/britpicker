@@ -1210,7 +1210,8 @@ let translations = [
     },
     {
         american: 'nonsense',
-        british: 'bollocks'
+        british: 'bollocks',
+        alt: 'codswallop'
     },
     {
         american: 'normalcy',
