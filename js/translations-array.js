@@ -2100,7 +2100,8 @@ let translations = [
     },
     {
         american: 'wasting time',
-        british: 'faffing about'
+        british: 'faffing about',
+        alt: 'fannying about'
     },
     {
         american: 'went on about',
