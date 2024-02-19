@@ -1209,6 +1209,10 @@ let translations = [
         plural: 'truncheons'
     },
     {
+        american: 'nonsense',
+        british: 'bollocks'
+    },
+    {
         american: 'normalcy',
         british: 'normality'
     },
