@@ -825,6 +825,10 @@ let translations = [
         british: 'banging on about'
     },
     {
+        american: 'got told off',
+        british: 'got a bollocking'
+    },
+    {
         american: 'gotten',
         british: 'got'
     },
