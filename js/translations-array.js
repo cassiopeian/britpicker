@@ -960,7 +960,8 @@ let translations = [
     },
     {
         american: 'joking',
-        british: 'taking the piss'
+        british: 'taking the piss',
+        alt: 'having a laugh'
     },
     {
         american: 'journalist',
