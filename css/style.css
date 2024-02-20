@@ -211,7 +211,7 @@ main {
 }
 .edit {
     display: block;
-    font-size: 1.1rem;
+    font-size: .95rem;
     letter-spacing: .05rem;
     text-align: left;
     color: rgb(251, 251, 251);
