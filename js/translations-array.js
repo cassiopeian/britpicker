@@ -1206,6 +1206,11 @@ let translations = [
         plural: 'grasses'
     },
     {
+        american: 'neosporin',
+        british: 'savlon',
+        plural: 'savlons'
+    },
+    {
         american: 'nerd',
         british: 'swot',
         plural: 'swots'
