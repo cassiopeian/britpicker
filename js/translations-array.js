@@ -144,6 +144,11 @@ let translations = [
         plural: 'plasters'
     },
     {
+        american: 'bandaid',
+        british: 'plaster',
+        plural: 'plasters'
+    },
+    {
         american: 'bangs',
         british: 'fringe'
     },
