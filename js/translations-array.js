@@ -959,6 +959,10 @@ let translations = [
         plural: 'monikers'
     },
     {
+        american: 'joking',
+        british: 'taking the piss'
+    },
+    {
         american: 'journalist',
         british: 'journo',
         plural: 'journos'
