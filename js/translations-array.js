@@ -375,15 +375,18 @@ let translations = [
     },
     {
         american: 'complain',
-        british: 'whinge'
+        british: 'whinge',
+        alt: 'mither'
     },
     {
         american: 'complained',
-        british: 'whinged'
+        british: 'whinged',
+        alt: 'mithered'
     },
     {
         american: 'complaining',
-        british: 'whinging'
+        british: 'whinging',
+        alt: 'mithering'
     },
     {
         american: 'conniption',
