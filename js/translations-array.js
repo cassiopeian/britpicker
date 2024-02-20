@@ -1186,11 +1186,6 @@ let translations = [
         plural: 'nail varnishes'
     },
     {
-        american: 'national holiday',
-        british: 'bank holiday',
-        plural: 'bank holidays'
-    },
-    {
         american: 'nap',
         british: 'kip',
         plural: 'kips'
@@ -1204,6 +1199,11 @@ let translations = [
         american: 'narc',
         british: 'grass',
         plural: 'grasses'
+    },
+    {
+        american: 'national holiday',
+        british: 'bank holiday',
+        plural: 'bank holidays'
     },
     {
         american: 'neosporin',
