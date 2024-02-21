@@ -2051,6 +2051,10 @@ let translations = [
         plural: 'indicators'
     },
     {
+        american: 'turn up',
+        british: 'rock up'
+    },
+    {
         american: 'two cents',
         british: 'twopence'
     },
