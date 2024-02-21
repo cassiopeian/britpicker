@@ -2055,6 +2055,10 @@ let translations = [
         british: 'rock up'
     },
     {
+        american: 'turned up',
+        british: 'rocked up'
+    },
+    {
         american: 'two cents',
         british: 'twopence'
     },
