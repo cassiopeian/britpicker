@@ -29,6 +29,10 @@ let translations = [
         altplural: 'agony uncles'
     },
     {
+        american: 'aggressive',
+        british: 'aggro'
+    },
+    {
         american: 'airplane',
         british: 'aeroplane',
         plural: 'aeroplanes'
