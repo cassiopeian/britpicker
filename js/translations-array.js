@@ -951,7 +951,9 @@ let translations = [
     {
         american: 'jerk',
         british: 'tosser',
-        plural: 'tossers'
+        plural: 'tossers',
+        alt: 'twat',
+        altplural: 'twats'
     },
     {
         american: 'john hancock',
