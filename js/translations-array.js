@@ -1042,7 +1042,9 @@ let translations = [
     {
         american: 'liquor store',
         british: 'off-license',
-        plural: 'off-licenses'
+        plural: 'off-licenses',
+        alt: 'offie',
+        altplural: 'offies'
     },
     {
         american: 'lumber',
