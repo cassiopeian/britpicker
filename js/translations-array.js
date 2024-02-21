@@ -649,7 +649,8 @@ let translations = [
     },
     {
         american: 'exactly right',
-        british: 'bang on'
+        british: 'bang on',
+        alt: 'spot-on'
     },
     {
         american: 'exclamation point',
