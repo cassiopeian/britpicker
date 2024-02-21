@@ -1376,6 +1376,11 @@ let translations = [
         plural: 'picnic hampers'
     },
     {
+        american: 'pimple',
+        british: 'spot',
+        plural: 'spots'
+    },
+    {
         american: 'pimply',
         british: 'spotty'
     },
