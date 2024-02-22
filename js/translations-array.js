@@ -1174,7 +1174,8 @@ let translations = [
     },
     {
         american: 'mouthy',
-        british: 'gobby'
+        british: 'gobby',
+        alt: 'lairy'
     },
     {
         american: 'move over',
