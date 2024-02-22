@@ -1872,6 +1872,10 @@ let translations = [
         british: 'revising'
     },
     {
+        american: 'stuffed',
+        british: 'stodged'
+    },
+    {
         american: 'substitute teacher',
         british: 'supply teacher',
         plural: 'supply teachers'
