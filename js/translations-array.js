@@ -1794,6 +1794,13 @@ let translations = [
         british: 'squidgy'
     },
     {
+        american: 'state store',
+        british: 'off-license',
+        plural: 'off-licenses',
+        alt: 'offie',
+        altplural: 'offies'
+    },
+    {
         american: 'station wagon',
         british: 'estate car',
         plural: 'estate cars'
