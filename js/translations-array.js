@@ -1138,8 +1138,8 @@ let translations = [
         american: 'mom',
         british: 'mum',
         plural: 'mums',
-        alt: 'ma',
-        altplural: 'mas'
+        alt: 'mam',
+        altplural: 'mams'
     },
     {
         american: 'mommy',
