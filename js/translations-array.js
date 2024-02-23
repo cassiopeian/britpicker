@@ -513,7 +513,9 @@ let translations = [
     {
         american: 'dick',
         british: 'knob',
-        plural: 'knobs'
+        plural: 'knobs',
+        alt: 'prick',
+        altplural: 'pricks'
     },
     {
         american: 'dickhead',
