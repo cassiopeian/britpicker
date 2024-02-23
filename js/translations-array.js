@@ -182,6 +182,11 @@ let translations = [
         plural: 'skirting boards'
     },
     {
+        american: 'bastard',
+        british: 'blighter',
+        plural: 'blighters'
+    },
+    {
         american: 'bedspread',
         british: 'counterpane',
         plural: 'counterpanes'
