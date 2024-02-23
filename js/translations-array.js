@@ -184,7 +184,9 @@ let translations = [
     {
         american: 'bastard',
         british: 'blighter',
-        plural: 'blighters'
+        plural: 'blighters',
+        alt: 'bleeder',
+        altplural: 'bleeders'
     },
     {
         american: 'bedspread',
