@@ -281,7 +281,9 @@ let translations = [
     {
         american: 'butterface',
         british: 'munter',
-        plural: 'munters'
+        plural: 'munters',
+        alt: 'minger',
+        altplural: 'mingers'
     },
     {
         american: 'caboose',
