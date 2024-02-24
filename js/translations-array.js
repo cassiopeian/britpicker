@@ -279,6 +279,11 @@ let translations = [
         plural: 'engaged tones'
     },
     {
+        american: 'butterface',
+        british: 'munter',
+        plural: 'munters'
+    },
+    {
         american: 'caboose',
         british: 'guard\'s van',
         plural: 'guards\' vans'
