@@ -243,6 +243,11 @@ let translations = [
         plural: 'plaits'
     },
     {
+        american: 'breadbox',
+        british: 'bread bin',
+        plural: 'bread bins'
+    },
+    {
         american: 'bro',
         british: 'bruv',
         plural: 'bruvs'
