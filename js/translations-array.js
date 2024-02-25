@@ -1108,6 +1108,10 @@ let translations = [
         plural: 'high streets'
     },
     {
+        american: 'making fun of',
+        british: 'taking the piss out of'
+    },
+    {
         american: 'man',
         british: 'bloke',
         alt: 'chap'
