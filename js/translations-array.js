@@ -1077,6 +1077,10 @@ let translations = [
         plural: 'timber yards'
     },
     {
+        american: 'made fun of',
+        british: 'took the piss out of'
+    },
+    {
         american: 'mail',
         british: 'post'
     },
