@@ -1116,6 +1116,10 @@ let translations = [
         british: 'take the piss out of'
     },
     {
+        american: 'makes fun of',
+        british: 'takes the piss out of'
+    },
+    {
         american: 'making fun of',
         british: 'taking the piss out of'
     },
