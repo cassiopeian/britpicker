@@ -833,6 +833,14 @@ let translations = [
         british: 'petrol'
     },
     {
+        // gas pedal
+        american: 'petrol pedal',
+        british: 'accelerator',
+        plural: 'accelerators',
+        typed: 'gas pedal',
+        typedplural: 'gas pedals'
+    },
+    {
         american: 'gearshift',
         british: 'gear stick',
         plural: 'gear sticks' 
