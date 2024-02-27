@@ -465,6 +465,11 @@ let translations = [
         plural: 'cotton buds'
     },
     {
+        american: 'couch',
+        british: 'settee',
+        plural: 'settees'
+    },
+    {
         american: 'counter',
         british: 'worktop',
         plural: 'worktops'
