@@ -179,7 +179,9 @@ let translations = [
     {
         american: 'bathroom',
         british: 'toilet',
-        plural: 'toilets'
+        plural: 'toilets',
+        alt: 'bog',
+        altplural: 'bogs'
     },
     {
         american: 'baseboard',
