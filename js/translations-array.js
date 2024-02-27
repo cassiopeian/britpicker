@@ -353,7 +353,9 @@ let translations = [
     {
         american: 'cell phone',
         british: 'phone',
-        plural: 'phones'
+        plural: 'phones',
+        alt: 'mobile',
+        altplural: 'mobiles'
     },
     {
         american: 'check mark',
