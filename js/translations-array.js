@@ -366,6 +366,10 @@ let translations = [
         british: 'the till'
     },
     {
+        american: 'the checkout',
+        british: 'the till'
+    },
+    {
         american: 'chitchat',
         british: 'natter',
         plural: 'natters'
