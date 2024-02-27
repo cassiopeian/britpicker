@@ -177,6 +177,11 @@ let translations = [
         plural: 'swimming costumes'
     },
     {
+        american: 'bathroom',
+        british: 'toilet',
+        plural: 'toilets'
+    },
+    {
         american: 'baseboard',
         british: 'skirting board',
         plural: 'skirting boards'
