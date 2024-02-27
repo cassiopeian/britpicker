@@ -42,6 +42,14 @@ let translations = [
         british: 'aluminium'
     },
     {
+        // aluminum foil
+        american: 'aluminium foil',
+        british: 'tinfoil',
+        plural: 'tinfoils',
+        typed: 'aluminum foil',
+        typedplural: 'aluminum foils'
+    },
+    {
         american: 'among',
         british: 'amongst'
     },
