@@ -352,8 +352,8 @@ let translations = [
     },
     {
         american: 'cell phone',
-        british: 'mobile phone',
-        plural: 'mobile phones'
+        british: 'phone',
+        plural: 'phones'
     },
     {
         american: 'check mark',
