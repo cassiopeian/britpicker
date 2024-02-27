@@ -1793,8 +1793,10 @@ let translations = [
     },
     {
         american: 'soda',
-        british: 'fizzy drink',
-        plural: 'fizzy drinks'
+        british: 'pop',
+        plural: 'pops',
+        alt: 'fizzy drink',
+        altplural: 'fizzy drinks'
     },
     {
         american: 'soccer',
