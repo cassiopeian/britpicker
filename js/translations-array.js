@@ -699,6 +699,11 @@ let translations = [
         plural: 'handbrakes'
     },
     {
+        american: 'eraser',
+        british: 'rubber',
+        plural: 'rubbers'
+    },
+    {
         american: 'evasive',
         british: 'dodgy'
     },
