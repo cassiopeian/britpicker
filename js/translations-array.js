@@ -1266,6 +1266,11 @@ let translations = [
         british: 'budge up'
     },
     {
+        american: 'movie',
+        british: 'film',
+        plural: 'films'
+    },
+    {
         american: 'muffler',
         british: 'silencer',
         plural: 'silencers'
