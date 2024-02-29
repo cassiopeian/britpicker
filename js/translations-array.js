@@ -1992,7 +1992,9 @@ let translations = [
     {
         american: 'sweatpant',
         british: 'track bottom',
-        plural: 'track bottoms'
+        plural: 'track bottoms',
+        alt: 'jogging bottom',
+        altplural: 'jogging bottoms'
     },
     {
         american: 'tacky',
