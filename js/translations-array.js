@@ -802,6 +802,10 @@ let translations = [
         altplural: 'mugs'
     },
     {
+        american: 'freaked me out',
+        british: 'gave me the screaming habdabs'
+    },
+    {
         american: 'freeway',
         british: 'motorway',
         plural: 'motorways'
