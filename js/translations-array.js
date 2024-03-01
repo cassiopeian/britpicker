@@ -714,6 +714,10 @@ let translations = [
         alt: 'spot-on'
     },
     {
+        american: 'excellent',
+        british: 'brilliant'
+    },
+    {
         american: 'exclamation point',
         british: 'exclamation mark',
         plural: 'exclamation marks'
