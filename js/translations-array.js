@@ -269,7 +269,8 @@ let translations = [
     },
     {
         american: 'broke',
-        british: 'skint'
+        british: 'skint',
+        alt: 'brassic'
     },
     {
         american: 'bruh',
