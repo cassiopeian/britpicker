@@ -2049,6 +2049,11 @@ let translations = [
         alt: 'ta'
     },
     {
+        american: 'theater',
+        british: 'cinema',
+        plural: 'cinemas'
+    },
+    {
         american: 'they hadn\'t',
         british: 'they\'d not'
     },
