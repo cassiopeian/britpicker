@@ -1546,6 +1546,10 @@ let translations = [
         plural: 'private schools'
     },
     {
+        american: 'pretentious',
+        british: 'wanky'
+    },
+    {
         american: 'proctor',
         british: 'invigilator',
         plural: 'invigilators',
