@@ -582,6 +582,10 @@ let translations = [
         plural: 'restaurant cars'
     },
     {
+        american: 'dipshit',
+        british: 'gobshite'
+    },
+    {
         american: 'disgusting',
         british: 'minging'
     },
