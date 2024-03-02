@@ -1370,6 +1370,10 @@ let translations = [
         british: 'engaged'
     },
     {
+        american: 'odds and ends',
+        british: 'bits and bobs'
+    },
+    {
         american: 'operating room',
         british: 'operating theater',
         plural: 'operating theaters'
