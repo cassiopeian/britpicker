@@ -1989,6 +1989,11 @@ let translations = [
         british: 'stodged'
     },
     {
+        american: 'stupid',
+        british: 'thick',
+        alt: 'gormless'
+    },
+    {
         american: 'substitute teacher',
         british: 'supply teacher',
         plural: 'supply teachers'
