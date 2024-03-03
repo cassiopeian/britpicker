@@ -2217,6 +2217,10 @@ let translations = [
         british: 'twopence'
     },
     {
+        american: 'two weeks',
+        british: 'a fortnight'
+    },
+    {
         american: 'umbrella',
         british: 'brolly',
         plural: 'brollies'
