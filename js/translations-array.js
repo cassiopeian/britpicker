@@ -1756,6 +1756,10 @@ let translations = [
         plural: 'pensioners'
     },
     {
+        american: 'shady',
+        british: 'dodgy'
+    },
+    {
         american: 'she hadn\'t',
         british: 'she\'d not'
     },
