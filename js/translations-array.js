@@ -659,6 +659,10 @@ let translations = [
         altplural: 'blokes'
     },
     {
+        american: 'dumb',
+        british: 'daft'
+    },
+    {
         american: 'dummy',
         british: 'numpty',
         plural: 'numpties',
