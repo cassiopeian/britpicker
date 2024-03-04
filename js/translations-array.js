@@ -731,6 +731,10 @@ let translations = [
         british: 'shattered'
     },
     {
+        american: 'expensive',
+        british: 'dear'
+    },
+    {
         american: 'expiration date',
         british: 'expiry date',
         plural: 'expiry dates'
