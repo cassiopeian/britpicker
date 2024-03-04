@@ -938,6 +938,11 @@ let translations = [
         altplural: 'con men'
     },
     {
+        american: 'grouchy',
+        british: 'mardy',
+        alt: 'scunnered'
+    },
+    {
         american: 'ground beef',
         british: 'mince',
         alt: 'minced beef'
