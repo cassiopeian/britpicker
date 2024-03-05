@@ -970,6 +970,10 @@ let translations = [
         british: 'he\'s not'
     },
     {
+        american: 'hey',
+        british: 'oi'
+    },
+    {
         american: 'hickey',
         british: 'love bite',
         plural: 'love bites'
