@@ -463,6 +463,11 @@ let translations = [
         plural: 'hobs'
     },
     {
+        american: 'cop',
+        british: 'rozzer',
+        plural: 'rozzers'
+    },
+    {
         american: 'costume',
         british: 'fancy dress'
     },
