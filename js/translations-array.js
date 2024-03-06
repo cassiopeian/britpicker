@@ -1858,6 +1858,10 @@ let translations = [
         altplural: 'skets'
     },
     {
+        american: 'smart',
+        british: 'clever'
+    },
+    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers',
