@@ -1859,7 +1859,8 @@ let translations = [
     },
     {
         american: 'smart',
-        british: 'clever'
+        british: 'clever',
+        alt: 'canny'
     },
     {
         american: 'sneaker',
