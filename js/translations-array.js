@@ -307,6 +307,11 @@ let translations = [
         plural: 'guards\' vans'
     },
     {
+        american: 'calendar',
+        british: 'diary',
+        plural: 'diaries'
+    },
+    {
         american: 'can of',
         british: 'tin of'
     },
