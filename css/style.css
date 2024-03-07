@@ -191,6 +191,11 @@ main {
     border-left: none;
     border-radius: 0 0 8px 0;
 }
+.context {
+    font-size: .8rem;
+    text-align: center;
+    margin: 4px;
+}
 .translated {
     background-color: rgba(172, 255, 47, 0.603);
     cursor: pointer;
