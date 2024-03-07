@@ -201,6 +201,18 @@ main {
     border-radius: 4px;
     box-shadow: 2px 2px 3px 1px #a5a6aa;
 }
+.context-box::after {
+    content: '';
+    position: absolute;
+    bottom: -5px;
+    left: 15px;
+    height: 10px;
+    width: 10px;
+    transform: rotate(45deg);
+    background-color: rgb(255, 255, 255);
+    border-radius: 2px 0 0 0;
+    box-shadow: 3px 2px 2px 0px #a5a6aa;
+}
 .context {
     font-size: .8rem;
     text-align: center;
