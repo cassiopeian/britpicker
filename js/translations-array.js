@@ -1089,6 +1089,10 @@ let translations = [
         british: 'paraffin'
     },
     {
+        american: 'kinda',
+        british: 'quite'
+    },
+    {
         american: 'kiss',
         british: 'snog',
         plural: 'snogs'
