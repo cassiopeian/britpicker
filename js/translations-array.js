@@ -933,6 +933,11 @@ let translations = [
         british: 'banging on about'
     },
     {
+        american: 'good guy',
+        british: 'goody',
+        plural: 'goodies'
+    },
+    {
         american: 'got told off',
         british: 'got a bollocking'
     },
