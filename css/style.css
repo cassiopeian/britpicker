@@ -191,6 +191,16 @@ main {
     border-left: none;
     border-radius: 0 0 8px 0;
 }
+.context-box {
+    position: absolute;
+    top: -35px;
+    left: 0;
+    min-width: 162px;
+    width: fit-content;
+    background-color: rgb(255, 255, 255);
+    border-radius: 4px;
+    box-shadow: 2px 2px 3px 1px #a5a6aa;
+}
 .context {
     font-size: .8rem;
     text-align: center;
