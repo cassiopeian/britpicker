@@ -218,6 +218,10 @@ main {
     margin: 4px;
     color: rgb(57, 58, 65);
 }
+.context {
+    font-variant: small-caps;
+    color: rgb(163, 159, 153);
+}
 .translated {
     background-color: rgba(172, 255, 47, 0.603);
     cursor: pointer;
