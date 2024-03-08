@@ -470,7 +470,8 @@ let translations = [
     {
         american: 'cop',
         british: 'rozzer',
-        plural: 'rozzers'
+        plural: 'rozzers',
+        context: 'Law enforcement.'
     },
     {
         american: 'costume',
