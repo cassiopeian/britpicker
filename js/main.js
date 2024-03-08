@@ -183,7 +183,7 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace the split three-word phrase/contracted phrase with the joined american phrase 
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.british, phrase.american, phrase.alt, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.context, phrase.british, phrase.american, phrase.alt, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (pluralExists && threeWords.toLowerCase() == phrase.american + 's'
                 || threeWords.toLowerCase() == phrase.american + 'es'
                 || contractedPhrase.toLowerCase() == phrase.american + 's'
@@ -191,19 +191,19 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace those three words with the joined american phrase
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, threeWords, phrase.altplural, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.context, phrase.plural, threeWords, phrase.altplural, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (pluralExists && hyphenatedPhrase.toLowerCase() == phrase.american + 's'
                 || hyphenatedPhrase.toLowerCase() == phrase.american + 'es') {
                 // replace those three words with the joined american phrase
                 aeSplit.splice(beforePrevIndex, 5, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.plural, hyphenatedPhrase, phrase.altplural, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
+                beSplit.splice(beforePrevIndex, 1, caseMatch(phrase.context, phrase.plural, hyphenatedPhrase, phrase.altplural, index-4), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (twoWords.toLowerCase() == phrase.american 
                 || hyphenatedWord.toLowerCase() == phrase.american) {
                 // replace both words and the space (or hyphen) with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.british, phrase.typed || phrase.american, phrase.alt, index-2), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.context, phrase.british, phrase.typed || phrase.american, phrase.alt, index-2), hiddenSpace);
             } else if (pluralExists && twoWords.toLowerCase() == phrase.american + 's' 
                 || twoWords.toLowerCase() == phrase.american + 'es'
                 || twoWords.toLowerCase() == phrase.american.slice(0, -3) + 'men'
@@ -213,27 +213,27 @@ $(document).on('keyup change input', '#ae', function() {
                 // replace both words and the space with the joined american phrase 
                 aeSplit.splice(prevIndex, 3, phrase.american);
                 // replace that with the pluralized british phrase and a hidden space
-                beSplit.splice(prevIndex, 1, caseMatch(phrase.plural, phrase.typedplural || twoWords, phrase.altplural, index-2), hiddenSpace);
+                beSplit.splice(prevIndex, 1, caseMatch(phrase.context, phrase.plural, phrase.typedplural || twoWords, phrase.altplural, index-2), hiddenSpace);
             } else if (word.toLowerCase() == phrase.american) {
                 // or replace single words with the "translated" british phrase
-                beSplit.splice(index, 1, caseMatch(phrase.british, word, phrase.alt, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british, word, phrase.alt, index));
             } else if (pluralExists && word.toLowerCase() == phrase.american + 's' 
                 || word.toLowerCase() == phrase.american + 'es'
                 || word.toLowerCase() == phrase.american.slice(0, -1) + 'ies') {
                 // or replace pluralized words
-                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.plural, word, phrase.altplural, index));
             } else if (pluralExists && word.length > 3 && word.toLowerCase() == phrase.american.slice(0, -3) + 'men') {
                 // replace pluralized words (w/ 4+ letters) ending with -men
-                beSplit.splice(index, 1, caseMatch(phrase.plural, word, phrase.altplural, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.plural, word, phrase.altplural, index));
             } else if (word.toLowerCase() == phrase.american + 'ing') {
                 // or replace words ending with "-ing"
-                beSplit.splice(index, 1, caseMatch(phrase.british + 'ing', word, phrase.alt, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british + 'ing', word, phrase.alt, index));
             } else if (word.toLowerCase() == phrase.american + 'ed') {
                 // or replace words ending with "-ed"
-                beSplit.splice(index, 1, caseMatch(phrase.british + 'ed', word, phrase.alt, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british + 'ed', word, phrase.alt, index));
             } else if (noPluralExists && word.toLowerCase() == phrase.american + 's') {
                 // or replace words ending with "-s" that aren't pluralizations
-                beSplit.splice(index, 1, caseMatch(phrase.british + 's', word, phrase.alt, index));
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british + 's', word, phrase.alt, index));
             }
         });
     }
