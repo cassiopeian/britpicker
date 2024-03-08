@@ -141,6 +141,11 @@ let translations = [
         british: 'backwards'
     },
     {
+        american: 'bad guy',
+        british: 'baddie',
+        plural: 'baddies'
+    },
+    {
         american: 'baked potato',
         british: 'jacket potato',
         plural: 'jacket potatoes'
