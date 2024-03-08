@@ -1007,7 +1007,8 @@ let translations = [
     {
         american: 'hood',
         british: 'bonnet',
-        plural: 'bonnets'
+        plural: 'bonnets',
+        context: 'Vehicles.'
     },
     {
         american: 'hungry',
