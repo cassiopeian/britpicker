@@ -135,7 +135,7 @@ $(document).on('keyup change input', '#ae', function() {
         }
 
         // match the case of the displayed american word
-        function caseMatch(britPhrase, usPhrase, altPhrase = '', secretIndex) {
+        function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
             if (uppercase === true) {
                 // set the whole word uppercase
                 britPhrase = britPhrase.toUpperCase();
@@ -155,7 +155,7 @@ $(document).on('keyup change input', '#ae', function() {
                 altPhrase = altPhrase.toLowerCase();
             }
 
-            return `<span><div class="context-box"><p class="context">Context: Info TK!</p></div><span><mark class="translated">${britPhrase}</mark><div class="edits-container"><button class="edit" type="button">${usPhrase}</button><button class="edit" type="button">${altPhrase}</button></div><span hidden>${secretIndex}</span></span></span>`;
+            return `<span><div class="context-box"><p><span class="context">Context:</span> ${explanation}</p></div><span><mark class="translated">${britPhrase}</mark><div class="edits-container"><button class="edit" type="button">${usPhrase}</button><button class="edit" type="button">${altPhrase}</button></div><span hidden>${secretIndex}</span></span></span>`;
         }
 
         // loop through each phrase in the translations array
