@@ -193,10 +193,9 @@ main {
 }
 .context-box {
     position: absolute;
-    top: -35px;
+    bottom: calc(100% + 10px);
     left: 0;
-    min-width: 162px;
-    width: fit-content;
+    min-width: max-content;
     background-color: rgb(255, 255, 255);
     border-radius: 4px;
     box-shadow: 2px 2px 3px 1px #a5a6aa;
