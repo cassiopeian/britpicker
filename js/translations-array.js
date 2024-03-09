@@ -2337,6 +2337,10 @@ let translations = [
         alt: 'fannying about'
     },
     {
+        american: 'we haven\'t',
+        british: 'we\'ve not'
+    },
+    {
         american: 'went on about',
         british: 'banged on about'
     },
