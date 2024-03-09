@@ -192,6 +192,7 @@ main {
     border-radius: 0 0 8px 0;
 }
 .context-box {
+    display: none;
     position: absolute;
     bottom: calc(100% + 10px);
     left: 0;
