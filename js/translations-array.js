@@ -2395,6 +2395,10 @@ let translations = [
         british: 'you lot'
     },
     {
+        american: 'you haven\'t',
+        british: 'you\'ve not'
+    },
+    {
         american: 'z',
         british: 'zed',
         plural: 'zeds'
