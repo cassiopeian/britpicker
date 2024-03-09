@@ -242,6 +242,24 @@ $(document).on('keyup change input', '#ae', function() {
     $('#be').html(beSplit.join(''));
 });
 
+$(document).on({
+    // when hovering over 'mark' elements
+    mouseenter: function() {
+        let thisContextBox = $(this).parent().siblings('.context-box');
+        let clarification = $(this).parent().siblings('.context-box').children('p');
+
+        // if the context info isn't empty
+        if (clarification.text() !== 'Context: ') {
+            // display the context info
+            thisContextBox.css('display', 'block');
+        }
+    },
+    mouseleave: function() {
+        // hide the context info
+        $(this).parent().siblings('.context-box').css('display', 'none')
+    }
+}, 'mark');
+
 $(document).on('click', 'mark', function() {
     let thisDropdown = $(this).siblings('.edits-container');
     let altOption = $(this).siblings('.edits-container').children('button:nth-child(2)');
