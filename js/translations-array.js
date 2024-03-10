@@ -2241,7 +2241,8 @@ let translations = [
     {
         american: 'trunk',
         british: 'boot',
-        plural: 'boots'
+        plural: 'boots',
+        context: 'Vehicles.'
     },
     {
         american: 'turn signal',
