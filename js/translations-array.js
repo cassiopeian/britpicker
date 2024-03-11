@@ -979,6 +979,10 @@ let translations = [
         plural: 'boiled sweets'
     },
     {
+        american: 'have a look',
+        british: 'have a gander'
+    },
+    {
         american: 'heavy cream',
         british: 'double cream'
     },
