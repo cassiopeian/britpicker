@@ -974,6 +974,11 @@ let translations = [
         plural: 'dogsbodies'
     },
     {
+        american: 'hang up',
+        british: 'ring off',
+        context: 'Phone conversations.'
+    },
+    {
         american: 'hard candy',
         british: 'boiled sweet',
         plural: 'boiled sweets'
