@@ -2229,6 +2229,10 @@ let translations = [
         plural: 'bagmen'
     },
     {
+        american: 'trickery',
+        british: 'jiggery-pokery'
+    },
+    {
         american: 'tricky situation',
         british: 'sticky wicket',
         plural: 'sticky wickets'
