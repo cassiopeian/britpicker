@@ -1176,6 +1176,10 @@ let translations = [
         altplural: 'offies'
     },
     {
+        american: 'lucky',
+        british: 'jammy'
+    },
+    {
         american: 'lumber',
         british: 'timber'
     },
