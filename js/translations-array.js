@@ -1423,7 +1423,8 @@ let translations = [
     },
     {
         american: 'occupied',
-        british: 'engaged'
+        british: 'engaged',
+        context: 'Toilets.'
     },
     {
         american: 'odds and ends',
