@@ -1850,6 +1850,12 @@ let translations = [
         plural: 'prawns'
     },
     {
+        american: 'shot',
+        british: 'jab',
+        plural: 'jabs',
+        context: 'Inoculations.'
+    },
+    {
         american: 'shower stall',
         british: 'shower cubicle',
         plural: 'shower cubicles'
