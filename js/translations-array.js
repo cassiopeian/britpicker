@@ -396,6 +396,10 @@ let translations = [
         plural: 'chin-wags'
     },
     {
+        american: 'child',
+        british: 'nipper'
+    },
+    {
         american: 'chitchat',
         british: 'natter',
         plural: 'natters'
