@@ -391,6 +391,11 @@ let translations = [
         british: 'the till'
     },
     {
+        american: 'chat',
+        british: 'chin-wag',
+        plural: 'chin-wags'
+    },
+    {
         american: 'chitchat',
         british: 'natter',
         plural: 'natters'
