@@ -739,7 +739,8 @@ let translations = [
     },
     {
         american: 'excellent',
-        british: 'brilliant'
+        british: 'brilliant',
+        alt: 'topping'
     },
     {
         american: 'exclamation point',
