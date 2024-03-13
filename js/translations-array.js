@@ -400,6 +400,10 @@ let translations = [
         british: 'nipper'
     },
     {
+        american: 'children',
+        british: 'nippers'
+    },
+    {
         american: 'chitchat',
         british: 'natter',
         plural: 'natters'
