@@ -2355,6 +2355,12 @@ let translations = [
         alt: 'proper'
     },
     {
+        american: 'wallet',
+        british: 'purse',
+        plural: 'purses',
+        context: 'Women\'s wallets.'
+    },
+    {
         american: 'warden',
         british: 'warder',
         plural: 'warders'
