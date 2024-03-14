@@ -2113,7 +2113,8 @@ let translations = [
     },
     {
         american: 'tacky',
-        british: 'naff'
+        british: 'naff',
+        context: 'Poor taste.'
     },
     {
         american: 'taffy',
