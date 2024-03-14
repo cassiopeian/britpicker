@@ -2069,7 +2069,8 @@ let translations = [
     },
     {
         american: 'stuffed',
-        british: 'stodged'
+        british: 'stodged',
+        context: 'Overeating.'
     },
     {
         american: 'stupid',
