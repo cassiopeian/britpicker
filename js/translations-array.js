@@ -1352,7 +1352,8 @@ let translations = [
     {
         american: 'muffler',
         british: 'silencer',
-        plural: 'silencers'
+        plural: 'silencers',
+        context: 'Vehicles.'
     },
     {
         american: 'mutter',
