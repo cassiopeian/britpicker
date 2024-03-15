@@ -567,6 +567,10 @@ let translations = [
         british: 'twee'
     },
     {
+        american: 'dapper',
+        british: 'smart'
+    },
+    {
         american: 'delicious',
         british: 'gorgeous',
         alt: 'nice'
