@@ -1961,6 +1961,10 @@ let translations = [
         british: 'patience'
     },
     {
+        american: 'sorta',
+        british: 'quite'
+    },
+    {
         american: 'space heater',
         british: 'electric fire',
         plural: 'electric fires'
