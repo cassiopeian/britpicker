@@ -115,7 +115,8 @@ let translations = [
     },
     {
         american: 'awesome',
-        british: 'wicked'
+        british: 'wicked',
+        alt: 'brilliant'
     },
     {
         american: 'an awesome',
