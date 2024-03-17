@@ -232,6 +232,10 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'blather',
+        british: 'waffle'
+    },
+    {
         american: 'blunder',
         british: 'clanger',
         plural: 'clangers'
