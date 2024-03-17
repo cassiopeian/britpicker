@@ -240,6 +240,10 @@ let translations = [
         british: 'waffled'
     },
     {
+        american: 'blathering',
+        british: 'waffling'
+    },
+    {
         american: 'blunder',
         british: 'clanger',
         plural: 'clangers'
