@@ -701,8 +701,8 @@ let translations = [
         american: 'dude',
         british: 'mate',
         plural: 'mates',
-        alt: 'bloke',
-        altplural: 'blokes'
+        alt: 'geezer',
+        altplural: 'geezers'
     },
     {
         american: 'dumb',
