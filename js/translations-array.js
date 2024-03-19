@@ -266,6 +266,10 @@ let translations = [
         plural: 'bogeys'
     },
     {
+        american: 'botch',
+        british: 'bodge'
+    },
+    {
         american: 'boy',
         british: 'lad',
         plural: 'lads'
