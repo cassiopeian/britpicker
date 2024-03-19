@@ -1280,6 +1280,10 @@ let translations = [
         british: 'taking the piss out of'
     },
     {
+        american: 'malarkey',
+        british: 'poppycock'
+    },
+    {
         american: 'man',
         british: 'bloke',
         alt: 'chap'
