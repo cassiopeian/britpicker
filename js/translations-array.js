@@ -2175,6 +2175,11 @@ let translations = [
         altplural: 'vests'
     },
     {
+        american: 'tantrum',
+        british: 'strop',
+        plural: 'strops'
+    },
+    {
         american: 'teeter-totter',
         british: 'seesaw',
         plural: 'seesaws'
