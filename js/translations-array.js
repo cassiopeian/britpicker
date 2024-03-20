@@ -1073,7 +1073,8 @@ let translations = [
     },
     {
         american: 'i guess',
-        british: 'i suppose'
+        british: 'i suppose',
+        alt: 'i reckon'
     },
     {
         american: 'i hadn\'t',
