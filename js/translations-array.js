@@ -54,6 +54,10 @@ let translations = [
         british: 'amongst'
     },
     {
+        american: 'an herb',
+        british: 'a herb'
+    },
+    {
         american: 'angry',
         british: 'cross',
         alt: 'shirty'
