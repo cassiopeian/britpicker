@@ -1229,6 +1229,11 @@ let translations = [
         altplural: 'offies'
     },
     {
+        american: 'loose change',
+        british: 'shrapnel',
+        context: 'Coins.'
+    },
+    {
         american: 'lucky',
         british: 'jammy'
     },
