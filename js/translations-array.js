@@ -1104,6 +1104,10 @@ let translations = [
         plural: 'in hospitals'
     },
     {
+        american: 'inebriated',
+        british: 'sozzled'
+    },
+    {
         american: 'insane',
         british: 'mental'
     },
