@@ -1023,6 +1023,11 @@ let translations = [
         plural: 'boiled sweets'
     },
     {
+        american: 'hassle',
+        british: 'palaver',
+        plural: 'palavers'
+    },
+    {
         american: 'have a look',
         british: 'have a gander'
     },
