@@ -1823,6 +1823,10 @@ let translations = [
         plural: 'terraced houses'
     },
     {
+        american: 'ruckus',
+        british: 'palaver'
+    },
+    {
         american: 'run away',
         british: 'scarper'
     },
