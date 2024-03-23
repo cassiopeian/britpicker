@@ -1852,6 +1852,10 @@ let translations = [
         altplural: 'butties'
     },
     {
+        american: 'santa claus',
+        british: 'father christmas'
+    },
+    {
         american: 'sarcastic',
         british: 'sarky'
     },
