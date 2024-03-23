@@ -2324,6 +2324,12 @@ let translations = [
         plural: 'stabilizers'
     },
     {
+        american: 'transmission',
+        british: 'gearbox',
+        plural: 'gearboxes',
+        context: 'Vehicles.'
+    },
+    {
         american: 'trash',
         british: 'rubbish',
         alt: 'bin'
