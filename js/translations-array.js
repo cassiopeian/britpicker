@@ -1829,7 +1829,8 @@ let translations = [
     },
     {
         american: 'ruckus',
-        british: 'palaver'
+        british: 'palaver',
+        plural: 'palavers'
     },
     {
         american: 'run away',
