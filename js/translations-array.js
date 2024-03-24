@@ -828,6 +828,10 @@ let translations = [
         british: 'grotty'
     },
     {
+        american: 'fine',
+        british: 'tickety-boo'
+    },
+    {
         american: 'first floor',
         british: 'ground floor'
     },
