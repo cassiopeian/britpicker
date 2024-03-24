@@ -1481,6 +1481,10 @@ let translations = [
         british: 'normality'
     },
     {
+        american: 'not too bright',
+        british: 'thick as mince'
+    },
+    {
         american: 'nutcase',
         british: 'nutter',
         plural: 'nutters'
