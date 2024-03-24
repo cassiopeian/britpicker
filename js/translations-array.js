@@ -1482,7 +1482,8 @@ let translations = [
     },
     {
         american: 'not too bright',
-        british: 'thick as mince'
+        british: 'thick as mince',
+        context: 'Intelligence.'
     },
     {
         american: 'nutcase',
