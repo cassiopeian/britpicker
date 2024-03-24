@@ -829,7 +829,8 @@ let translations = [
     },
     {
         american: 'fine',
-        british: 'tickety-boo'
+        british: 'tickety-boo',
+        context: 'Okay, in order.'
     },
     {
         american: 'first floor',
