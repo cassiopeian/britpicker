@@ -1816,6 +1816,13 @@ let translations = [
         altplural: 'lay-bys'
     },
     {
+        american: 'restroom',
+        british: 'toilet',
+        plural: 'toilets',
+        alt: 'bog',
+        altplural: 'bogs'
+    },
+    {
         american: 'retiree',
         british: 'pensioner',
         plural: 'pensioners'
