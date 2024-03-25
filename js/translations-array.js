@@ -693,6 +693,10 @@ let translations = [
         plural: 'curtains'
     },
     {
+        american: 'dreamed',
+        british: 'dreamt'
+    },
+    {
         american: 'driver\'s license',
         british: 'driving license',
         plural: 'driving licenses'
