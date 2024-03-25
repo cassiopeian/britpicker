@@ -1221,6 +1221,10 @@ let translations = [
         alt: 'work-shy'
     },
     {
+        american: 'learned',
+        british: 'learnt'
+    },
+    {
         american: 'license plate',
         british: 'number plate',
         plural: 'number plates'
