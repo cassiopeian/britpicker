@@ -2529,6 +2529,11 @@ let translations = [
         plural: 'squirty creams'
     },
     {
+        american: 'wimp',
+        british: 'melt',
+        plural: 'melts'
+    },
+    {
         american: 'windshield',
         british: 'windscreen',
         plural: 'windscreens'
