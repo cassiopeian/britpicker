@@ -172,7 +172,8 @@ let translations = [
     },
     {
         american: 'bangs',
-        british: 'fringe'
+        british: 'fringe',
+        context: 'Hairstyle.'
     },
     {
         american: 'bar',
