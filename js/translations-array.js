@@ -176,6 +176,13 @@ let translations = [
         context: 'Hairstyle.'
     },
     {
+        // bangs are
+        american: 'fringe are',
+        british: 'fringe is',
+        typed: 'bangs are',
+        context: 'Hairstyle.'
+    },
+    {
         american: 'bar',
         british: 'pub',
         plural: 'pubs'
