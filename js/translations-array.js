@@ -471,6 +471,11 @@ let translations = [
         plural: 'duvets'
     },
     {
+        american: 'commotion',
+        british: 'kerfuffle',
+        plural: 'kerfuffles'
+    },
+    {
         american: 'community service',
         british: 'community payback'
     },
