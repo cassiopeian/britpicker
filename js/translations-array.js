@@ -105,6 +105,11 @@ let translations = [
         british: 'gobsmacked'
     },
     {
+        american: 'atm',
+        british: 'cash machine',
+        plural: 'cash machines'
+    },
+    {
         american: 'attorney',
         british: 'solicitor',
         plural: 'solicitors'
