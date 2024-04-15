@@ -107,7 +107,9 @@ let translations = [
     {
         american: 'atm',
         british: 'cash machine',
-        plural: 'cash machines'
+        plural: 'cash machines',
+        alt: 'cashpoint',
+        altplural: 'cashpoints'
     },
     {
         american: 'attorney',
