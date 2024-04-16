@@ -1897,7 +1897,9 @@ let translations = [
     {
         american: 'rv',
         british: 'caravan',
-        plural: 'caravans'
+        plural: 'caravans',
+        alt: 'camper',
+        altplural: 'campers'
     },
     {
         american: 'sales assistant',
