@@ -1895,6 +1895,11 @@ let translations = [
         plural: 'swedes'
     },
     {
+        american: 'rv',
+        british: 'caravan',
+        plural: 'caravans'
+    },
+    {
         american: 'sales assistant',
         british: 'shop assistant',
         plural: 'shop assistants'
