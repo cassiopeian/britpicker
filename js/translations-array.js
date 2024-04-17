@@ -2286,6 +2286,10 @@ let translations = [
         plural: 'autocues'
     },
     {
+        american: 'terminate',
+        british: 'sack'
+    },
+    {
         american: 'thanks',
         british: 'cheers',
         alt: 'ta'
