@@ -2287,7 +2287,8 @@ let translations = [
     },
     {
         american: 'terminate',
-        british: 'sack'
+        british: 'sack',
+        context: 'Employment.'
     },
     {
         american: 'thanks',
