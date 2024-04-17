@@ -2291,6 +2291,11 @@ let translations = [
         context: 'Employment.'
     },
     {
+        american: 'terminated',
+        british: 'sacked',
+        context: 'Employment.'
+    },
+    {
         american: 'thanks',
         british: 'cheers',
         alt: 'ta'
