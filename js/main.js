@@ -137,7 +137,9 @@ $(document).on('keyup change input', '#ae', function() {
         // match the case of the displayed american word
         function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
 
-            if (britPhrase === 'cash machine') {
+            let mismatches = ['cash machine', 'caravan'];
+
+            if (mismatches.includes(britPhrase)) {
                 // lowercase translations from abbreviations
                 britPhrase = britPhrase.toLowerCase();
             } else if (uppercase === true) {
