@@ -126,7 +126,7 @@ $(document).on('keyup change input', '#ae', function() {
         if (word === word.toUpperCase()) {
             uppercase = true;
             capitalized = false;
-        } else if (word.charAt(0).match(/[A-Z]/)) {
+        } else if (word.charAt(0).match(/[A-Z]/) && word.charAt(1).match(/[a-z]/)) {
             uppercase = false;
             capitalized = true;
         } else {
