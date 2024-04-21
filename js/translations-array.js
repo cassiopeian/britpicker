@@ -1679,6 +1679,10 @@ let translations = [
         plural: 'p45s'
     },
     {
+        american: 'pissed',
+        british: 'narked'
+    },
+    {
         american: 'plastic wrap',
         british: 'cling film'
     },
