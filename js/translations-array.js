@@ -1680,7 +1680,8 @@ let translations = [
     },
     {
         american: 'pissed',
-        british: 'narked'
+        british: 'narked',
+        context: 'Annoyance.'
     },
     {
         american: 'plastic wrap',
