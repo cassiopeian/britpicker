@@ -1238,7 +1238,9 @@ let translations = [
     {
         american: 'lawyer',
         british: 'barrister',
-        plural: 'barristers'
+        plural: 'barristers',
+        alt: 'solicitor',
+        altplural: 'solicitors'
     },
     {
         american: 'layer cake',
