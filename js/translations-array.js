@@ -1676,7 +1676,8 @@ let translations = [
     {
         american: 'pink slip',
         british: 'p45',
-        plural: 'p45s'
+        plural: 'p45s',
+        context: 'Employment.'
     },
     {
         american: 'pissed',
