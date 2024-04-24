@@ -839,6 +839,10 @@ let translations = [
         plural: 'taps'
     },
     {
+        american: 'fell over',
+        british: 'went arse over tit'
+    },
+    {
         american: 'fender bender',
         british: 'prang',
         plural: 'prangs'
