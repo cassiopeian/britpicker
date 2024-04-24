@@ -1955,6 +1955,11 @@ let translations = [
         british: 'sellotape'
     },
     {
+        american: 'screwup',
+        british: 'cock-up',
+        plural: 'cock-ups'
+    },
+    {
         american: 'sedan',
         british: 'saloon',
         plural: 'saloons'
