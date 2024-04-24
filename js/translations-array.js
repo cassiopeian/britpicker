@@ -2279,6 +2279,10 @@ let translations = [
         plural: 'exhaust pipes'
     },
     {
+        american: 'taken care of',
+        british: 'sorted'
+    },
+    {
         american: 'takeout',
         british: 'takeaway',
         plural: 'takeaways'
