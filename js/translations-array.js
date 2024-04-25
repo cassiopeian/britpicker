@@ -627,6 +627,11 @@ let translations = [
         plural: 'diversions'
     },
     {
+        american: 'devastated',
+        british: 'gutted',
+        context: 'Mood.'
+    },
+    {
         american: 'diaper',
         british: 'nappy',
         plural: 'nappies'
