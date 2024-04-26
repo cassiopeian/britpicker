@@ -923,7 +923,8 @@ let translations = [
     },
     {
         american: 'freezing',
-        british: 'baltic'
+        british: 'baltic',
+        context: 'Weather.'
     },
     {
         american: 'french press',
