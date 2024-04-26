@@ -922,6 +922,10 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'freezing',
+        british: 'baltic'
+    },
+    {
         american: 'french press',
         british: 'cafetière',
         plural: 'cafetières'
