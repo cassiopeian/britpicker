@@ -864,6 +864,7 @@ let translations = [
     {
         american: 'fine',
         british: 'tickety-boo',
+        alt: 'hunky-dory',
         context: 'Okay, in order.'
     },
     {
