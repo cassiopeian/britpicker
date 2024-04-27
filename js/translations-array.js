@@ -375,6 +375,11 @@ let translations = [
         british: 'tinned'
     },
     {
+        american: 'can\'t be bothered',
+        british: 'can\'t be arsed',
+        alt: 'can\'t be fussed'
+    },
+    {
         american: 'careen',
         british: 'career'
     },
