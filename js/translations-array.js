@@ -105,6 +105,10 @@ let translations = [
         british: 'gobsmacked'
     },
     {
+        american: 'at a disadvantage',
+        british: 'on the back foot'
+    },
+    {
         american: 'atm',
         british: 'cash machine',
         plural: 'cash machines',
