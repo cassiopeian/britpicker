@@ -480,7 +480,9 @@ let translations = [
     {
         american: 'college',
         british: 'university',
-        plural: 'universities'
+        plural: 'universities',
+        alt: 'uni',
+        altplural: 'unis'
     },
     {
         american: 'comforter',
