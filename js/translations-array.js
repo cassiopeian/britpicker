@@ -1017,6 +1017,10 @@ let translations = [
         british: 'get on'
     },
     {
+        american: 'gets along',
+        british: 'gets on'
+    },
+    {
         american: 'getting along',
         british: 'getting on'
     },
