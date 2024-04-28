@@ -1039,6 +1039,10 @@ let translations = [
         plural: 'goodies'
     },
     {
+        american: 'got along',
+        british: 'got on'
+    },
+    {
         american: 'got told off',
         british: 'got a bollocking'
     },
