@@ -1017,6 +1017,10 @@ let translations = [
         british: 'get on'
     },
     {
+        american: 'getting along',
+        british: 'getting on'
+    },
+    {
         american: 'girl',
         british: 'bird',
         plural: 'birds'
