@@ -1596,6 +1596,10 @@ let translations = [
         alt: 'knackered'
     },
     {
+        american: 'one-time thing',
+        british: 'one-off'
+    },
+    {
         american: 'operating room',
         british: 'operating theater',
         plural: 'operating theaters'
