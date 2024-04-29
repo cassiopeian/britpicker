@@ -1592,7 +1592,8 @@ let translations = [
     },
     {
         american: 'on the fritz',
-        british: 'on the blink'
+        british: 'on the blink',
+        alt: 'knackered'
     },
     {
         american: 'operating room',
