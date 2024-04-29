@@ -1597,7 +1597,8 @@ let translations = [
     },
     {
         american: 'one-time thing',
-        british: 'one-off'
+        british: 'one-off',
+        plural: 'one-offs'
     },
     {
         american: 'operating room',
