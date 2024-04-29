@@ -1591,6 +1591,10 @@ let translations = [
         british: 'bloody hell'
     },
     {
+        american: 'on the fritz',
+        british: 'on the blink'
+    },
+    {
         american: 'operating room',
         british: 'operating theater',
         plural: 'operating theaters'
