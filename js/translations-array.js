@@ -2378,7 +2378,8 @@ let translations = [
     },
     {
         american: 'the er',
-        british: 'a&e'
+        british: 'a&e',
+        context: 'Hospitals.'
     },
     {
         american: 'theater',
