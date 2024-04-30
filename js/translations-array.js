@@ -2377,6 +2377,10 @@ let translations = [
         alt: 'ta'
     },
     {
+        american: 'the er',
+        british: 'a&e'
+    },
+    {
         american: 'theater',
         british: 'cinema',
         plural: 'cinemas'
