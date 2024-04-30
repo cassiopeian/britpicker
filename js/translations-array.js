@@ -2377,6 +2377,12 @@ let translations = [
         alt: 'ta'
     },
     {
+        american: 'the emergency room',
+        british: 'casualty',
+        plural: 'the casualty wards',
+        context: 'Hospitals.'
+    },
+    {
         american: 'the er',
         british: 'a&e',
         context: 'Hospitals.'
