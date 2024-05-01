@@ -1596,6 +1596,11 @@ let translations = [
         alt: 'knackered'
     },
     {
+        american: 'one thirty',
+        british: 'half one',
+        context: 'Time.'
+    },
+    {
         american: 'one-time thing',
         british: 'one-off',
         plural: 'one-offs'
