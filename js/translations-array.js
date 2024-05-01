@@ -925,6 +925,11 @@ let translations = [
         altplural: 'mugs'
     },
     {
+        american: 'four thirty',
+        british: 'half four',
+        context: 'Time.'
+    },
+    {
         american: 'freaked me out',
         british: 'gave me the screaming habdabs'
     },
