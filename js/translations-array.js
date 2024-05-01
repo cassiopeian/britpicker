@@ -2537,6 +2537,11 @@ let translations = [
         british: 'rocks up'
     },
     {
+        american: 'twelve thirty',
+        british: 'half twelve',
+        context: 'Time.'
+    },
+    {
         american: 'two cents',
         british: 'twopence'
     },
