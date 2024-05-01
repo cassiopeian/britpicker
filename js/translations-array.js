@@ -2424,6 +2424,11 @@ let translations = [
         british: 'reckoned'
     },
     {
+        american: 'three thirty',
+        british: 'half three',
+        context: 'Time.'
+    },
+    {
         american: 'thumbtack',
         british: 'drawing pin',
         plural: 'drawing pins'
