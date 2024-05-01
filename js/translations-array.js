@@ -2551,6 +2551,11 @@ let translations = [
         british: 'twopence'
     },
     {
+        american: 'two thirty',
+        british: 'half two',
+        context: 'Time.'
+    },
+    {
         american: 'two weeks',
         british: 'a fortnight'
     },
