@@ -893,6 +893,11 @@ let translations = [
         plural: 'punch-ups'
     },
     {
+        american: 'five thirty',
+        british: 'half five',
+        context: 'Time.'
+    },
+    {
         american: 'flashlight',
         british: 'torch',
         plural: 'torches'
