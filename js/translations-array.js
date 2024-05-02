@@ -2097,6 +2097,11 @@ let translations = [
         altplural: 'footpaths'
     },
     {
+        american: 'six thirty',
+        british: 'half six',
+        context: 'Time.'
+    },
+    {
         american: 'skim milk',
         british: 'skimmed milk'
     },
