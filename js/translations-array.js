@@ -1561,6 +1561,11 @@ let translations = [
         plural: 'truncheons'
     },
     {
+        american: 'nine thirty',
+        british: 'half nine',
+        context: 'Time.'
+    },
+    {
         american: 'nonsense',
         british: 'bollocks',
         alt: 'codswallop'
