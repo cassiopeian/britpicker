@@ -2397,6 +2397,11 @@ let translations = [
         plural: 'autocues'
     },
     {
+        american: 'ten thirty',
+        british: 'half ten',
+        context: 'Time.'
+    },
+    {
         american: 'terminate',
         british: 'sack',
         context: 'Employment.'
