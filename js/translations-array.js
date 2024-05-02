@@ -2037,6 +2037,11 @@ let translations = [
         plural: 'pensioners'
     },
     {
+        american: 'seven thirty',
+        british: 'half seven',
+        context: 'Time.'
+    },
+    {
         american: 'shady',
         british: 'dodgy'
     },
