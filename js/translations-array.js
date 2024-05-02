@@ -788,6 +788,11 @@ let translations = [
         plural: 'aubergines'
     },
     {
+        american: 'eight thirty',
+        british: 'half eight',
+        context: 'Time.'
+    },
+    {
         american: 'election day',
         british: 'polling day',
         plural: 'polling days'
