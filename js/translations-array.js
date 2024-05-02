@@ -803,6 +803,11 @@ let translations = [
         plural: 'lifts'
     },
     {
+        american: 'eleven thirty',
+        british: 'half eleven',
+        context: 'Time.'
+    },
+    {
         american: 'emergency brake',
         british: 'handbrake',
         plural: 'handbrakes'
