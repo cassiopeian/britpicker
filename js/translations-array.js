@@ -1192,6 +1192,10 @@ let translations = [
         altplural: 'plonkers'
     },
     {
+        american: 'impressive',
+        british: 'cracking'
+    },
+    {
         american: 'in the hospital',
         british: 'in hospital',
         plural: 'in hospitals'
