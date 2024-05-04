@@ -725,6 +725,11 @@ let translations = [
         plural: 'halls of residence'
     },
     {
+        american: 'douchebag',
+        british: 'sketchead',
+        plural: 'sketcheads'
+    },
+    {
         american: 'drape',
         british: 'curtain',
         plural: 'curtains'
