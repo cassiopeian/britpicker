@@ -72,6 +72,10 @@ let translations = [
         british: 'a flat'
     },
     {
+        american: 'apples and oranges',
+        british: 'chalk and cheese'
+    },
+    {
         american: 'arguing',
         british: 'rowing',
         alt: 'quarreling'
