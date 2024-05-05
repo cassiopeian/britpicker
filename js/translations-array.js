@@ -724,6 +724,11 @@ let translations = [
         altplural: 'quid'
     },
     {
+        american: 'domino effect',
+        british: 'knock-on effect',
+        plural: 'knock-on effects'
+    },
+    {
         american: 'dorm',
         british: 'hall of residence',
         plural: 'halls of residence'
