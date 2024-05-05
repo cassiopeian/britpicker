@@ -1286,6 +1286,10 @@ let translations = [
         british: 'snogging'
     },
     {
+        american: 'knocked her up',
+        british: 'got her up the duff'
+    },
+    {
         american: 'ladybug',
         british: 'ladybird',
         plural: 'ladybirds'
