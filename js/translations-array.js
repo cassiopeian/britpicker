@@ -1287,7 +1287,8 @@ let translations = [
     },
     {
         american: 'knocked her up',
-        british: 'got her up the duff'
+        british: 'got her up the duff',
+        context: 'Pregnancy.'
     },
     {
         american: 'ladybug',
