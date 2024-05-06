@@ -1370,6 +1370,11 @@ let translations = [
         context: 'Irrational behavior.'
     },
     {
+        american: 'lost his mind',
+        british: 'lost the plot',
+        context: 'Irrational behavior.'
+    },
+    {
         american: 'lucky',
         british: 'jammy'
     },
