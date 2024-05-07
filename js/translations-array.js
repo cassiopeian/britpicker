@@ -729,6 +729,11 @@ let translations = [
         plural: 'knock-on effects'
     },
     {
+        american: 'don\'t worry',
+        british: 'chin up',
+        context: 'Consolation.'
+    },
+    {
         american: 'dorm',
         british: 'hall of residence',
         plural: 'halls of residence'
