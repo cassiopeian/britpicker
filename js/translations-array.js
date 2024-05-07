@@ -2736,6 +2736,11 @@ let translations = [
         british: 'we\'ve not'
     },
     {
+        american: 'went ballistic',
+        british: 'went spare',
+        plural: 'Outrage.'
+    },
+    {
         american: 'went on about',
         british: 'banged on about'
     },
