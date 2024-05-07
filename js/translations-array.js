@@ -744,6 +744,11 @@ let translations = [
         plural: 'sketcheads'
     },
     {
+        american: 'down the drain',
+        british: 'up the spout',
+        context: 'Destruction.'
+    },
+    {
         american: 'drape',
         british: 'curtain',
         plural: 'curtains'
