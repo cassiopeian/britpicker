@@ -2491,6 +2491,10 @@ let translations = [
         plural: 'cinemas'
     },
     {
+        american: 'the whole shebang',
+        british: 'the full monty'
+    },
+    {
         american: 'they hadn\'t',
         british: 'they\'d not'
     },
