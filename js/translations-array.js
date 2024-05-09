@@ -1103,6 +1103,11 @@ let translations = [
         british: 'got'
     },
     {
+        american: 'grandma',
+        british: 'nan',
+        plural: 'nans'
+    },
+    {
         american: 'grifter',
         british: 'fraudster',
         plural: 'fraudsters',
