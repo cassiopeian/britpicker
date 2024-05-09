@@ -1108,6 +1108,11 @@ let translations = [
         plural: 'nans'
     },
     {
+        american: 'grandpa',
+        british: 'grandad',
+        plural: 'grandads'
+    },
+    {
         american: 'grifter',
         british: 'fraudster',
         plural: 'fraudsters',
