@@ -366,6 +366,10 @@ let translations = [
         plural: 'diaries'
     },
     {
+        american: 'calm down',
+        british: 'steady on'
+    },
+    {
         american: 'can of',
         british: 'tin of'
     },
