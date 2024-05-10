@@ -1654,6 +1654,10 @@ let translations = [
         context: 'Time.'
     },
     {
+        american: 'no offense',
+        british: 'i\'m not being funny'
+    },
+    {
         american: 'nonsense',
         british: 'bollocks',
         alt: 'codswallop'
