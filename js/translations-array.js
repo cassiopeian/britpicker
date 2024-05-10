@@ -1094,6 +1094,10 @@ let translations = [
         british: 'bangs on about'
     },
     {
+        american: 'going ballistic',
+        british: 'going spare'
+    },
+    {
         american: 'going on about',
         british: 'banging on about'
     },
