@@ -1260,7 +1260,8 @@ let translations = [
     },
     {
         american: 'insane',
-        british: 'mental'
+        british: 'mental',
+        alt: 'doolally'
     },
     {
         american: 'intermission',
