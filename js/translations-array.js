@@ -2752,6 +2752,10 @@ let translations = [
         plural: 'warders'
     },
     {
+        american: 'was sitting there',
+        british: 'was sat there'
+    },
+    {
         american: 'was told off',
         british: 'got a bollocking'
     },
