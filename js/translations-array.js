@@ -1846,6 +1846,10 @@ let translations = [
         context: 'Employment.'
     },
     {
+        american: 'pipe down',
+        british: 'wind your neck in'
+    },
+    {
         american: 'pissed',
         british: 'narked',
         context: 'Annoyance.'
