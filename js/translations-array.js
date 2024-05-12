@@ -1847,7 +1847,8 @@ let translations = [
     },
     {
         american: 'pipe down',
-        british: 'wind your neck in'
+        british: 'wind your neck in',
+        context: 'Admonishment.'
     },
     {
         american: 'pissed',
