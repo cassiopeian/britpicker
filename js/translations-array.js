@@ -1974,6 +1974,10 @@ let translations = [
         british: 'quietened'
     },
     {
+        american: 'quit doing that',
+        british: 'pack it in'
+    },
+    {
         american: 'quotation mark',
         british: 'inverted comma',
         plural: 'inverted commas'
