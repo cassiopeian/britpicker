@@ -1278,6 +1278,10 @@ let translations = [
         plural: 'pneumatic drills'
     },
     {
+        american: 'jam-packed',
+        british: 'rammed'
+    },
+    {
         american: 'jell-o',
         british: 'jelly',
         plural: 'jellies'
