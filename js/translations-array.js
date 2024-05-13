@@ -1070,7 +1070,8 @@ let translations = [
     },
     {
         american: 'get lost',
-        british: 'jog on'
+        british: 'jog on',
+        context: 'Dismissal.'
     },
     {
         american: 'gets along',
