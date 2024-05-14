@@ -1089,6 +1089,12 @@ let translations = [
         plural: 'birds'
     },
     {
+        american: 'go away',
+        british: 'jog on',
+        alt: 'piss off',
+        context: 'Dismissal.'
+    },
+    {
         american: 'go ballistic',
         british: 'go spare'
     },
