@@ -367,7 +367,8 @@ let translations = [
     },
     {
         american: 'calm down',
-        british: 'steady on'
+        british: 'steady on',
+        alt: 'settle, petal'
     },
     {
         american: 'can of',
