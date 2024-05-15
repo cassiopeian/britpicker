@@ -2301,6 +2301,14 @@ let translations = [
         typedplural: 'soccer balls'
     },
     {
+        // soccer coach
+        american: 'football coach',
+        british: 'gaffer',
+        plural: 'gaffers',
+        typed: 'soccer coach',
+        typedplural: 'soccer coaches'
+    },
+    {
         // soccer player
         american: 'football player',
         british: 'footballer',
