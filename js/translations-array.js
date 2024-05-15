@@ -256,6 +256,10 @@ let translations = [
         british: 'tits up'
     },
     {
+        american: 'belly-up',
+        british: 'tits-up'
+    },
+    {
         american: 'big rig',
         british: 'articulated lorry',
         plural: 'articulated lorries',
