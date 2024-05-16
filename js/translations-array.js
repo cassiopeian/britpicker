@@ -2565,7 +2565,8 @@ let translations = [
     {
         american: 'theater',
         british: 'cinema',
-        plural: 'cinemas'
+        plural: 'cinemas',
+        context: 'Films.'
     },
     {
         american: 'the whole shebang',
