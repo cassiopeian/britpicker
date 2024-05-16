@@ -29,6 +29,10 @@ let translations = [
         altplural: 'agony uncles'
     },
     {
+        american: 'advil',
+        british: 'ibuprofen'
+    },
+    {
         american: 'aggressive',
         british: 'aggro'
     },
