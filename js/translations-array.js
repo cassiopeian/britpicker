@@ -2744,6 +2744,10 @@ let translations = [
         british: 'a fortnight'
     },
     {
+        american: 'tylenol',
+        british: 'paracetamol'
+    },
+    {
         american: 'umbrella',
         british: 'brolly',
         plural: 'brollies'
