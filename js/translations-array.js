@@ -2632,6 +2632,10 @@ let translations = [
         plural: 'shedloads'
     },
     {
+        american: 'top-notch',
+        british: 'top-drawer'
+    },
+    {
         american: 'total',
         british: 'proper'
     },
