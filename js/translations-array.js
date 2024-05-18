@@ -642,7 +642,8 @@ let translations = [
     },
     {
         american: 'cut the crap',
-        british: 'come off it'
+        british: 'come off it',
+        context: 'Exasperation.'
     },
     {
         american: 'cutesy',
