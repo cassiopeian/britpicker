@@ -641,6 +641,10 @@ let translations = [
         british: 'bespoke'
     },
     {
+        american: 'cut the crap',
+        british: 'come off it'
+    },
+    {
         american: 'cutesy',
         british: 'twee'
     },
