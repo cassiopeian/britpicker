@@ -2004,7 +2004,8 @@ let translations = [
     },
     {
         american: 'quit doing that',
-        british: 'pack it in'
+        british: 'pack it in',
+        alt: 'leave off'
     },
     {
         american: 'quotation mark',
