@@ -2562,6 +2562,11 @@ let translations = [
         alt: 'ta'
     },
     {
+        american: 'that\'s bullshit',
+        british: 'come off it',
+        context: 'Exasperation.'
+    },
+    {
         american: 'the emergency room',
         british: 'casualty',
         plural: 'the casualty wards',
