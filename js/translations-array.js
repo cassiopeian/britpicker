@@ -2181,6 +2181,10 @@ let translations = [
         british: 'gave them a fright'
     },
     {
+        american: 'scared us',
+        british: 'gave us a fright'
+    },
+    {
         american: 'scotch tape',
         british: 'sellotape'
     },
