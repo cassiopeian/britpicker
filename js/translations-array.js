@@ -2165,6 +2165,10 @@ let translations = [
         alt: 'heaps'
     },
     {
+        american: 'scared me',
+        british: 'gave me a fright'
+    },
+    {
         american: 'scotch tape',
         british: 'sellotape'
     },
