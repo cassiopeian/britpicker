@@ -1669,6 +1669,10 @@ let translations = [
         plural: 'swots'
     },
     {
+        american: 'nervous',
+        british: 'nervy'
+    },
+    {
         american: 'newscaster',
         british: 'newsreader',
         plural: 'newsreaders'
