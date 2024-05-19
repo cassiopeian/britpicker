@@ -1106,6 +1106,11 @@ let translations = [
         plural: 'birds'
     },
     {
+        american: 'glove box',
+        british: 'glove compartment',
+        plural: 'glove compartments'
+    },
+    {
         american: 'go away',
         british: 'jog on',
         alt: 'piss off',
