@@ -368,6 +368,12 @@ let translations = [
         altplural: 'mingers'
     },
     {
+        american: 'cabinet',
+        british: 'cupboard',
+        plural: 'cupboards',
+        context: 'Kitchens.'
+    },
+    {
         american: 'caboose',
         british: 'guard\'s van',
         plural: 'guards\' vans'
