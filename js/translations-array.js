@@ -1970,7 +1970,9 @@ let translations = [
     {
         american: 'prostitute',
         british: 'prozzie',
-        plural: 'prozzies'
+        plural: 'prozzies',
+        alt: 'slapper',
+        altplural: 'slappers'
     },
     {
         american: 'pruning shears',
