@@ -1792,6 +1792,11 @@ let translations = [
         plural: 'trousers'
     },
     {
+        american: 'pantry',
+        british: 'larder',
+        plural: 'larders'
+    },
+    {
         american: 'panty',
         british: 'knicker',
         plural: 'knickers'
