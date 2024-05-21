@@ -2327,7 +2327,8 @@ let translations = [
     {
         american: 'smart',
         british: 'clever',
-        alt: 'canny'
+        alt: 'canny',
+        context: 'Intelligence.'
     },
     {
         american: 'sneaker',
