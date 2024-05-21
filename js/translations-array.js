@@ -2337,6 +2337,11 @@ let translations = [
         altplural: 'plimsolls'
     },
     {
+        american: 'snob',
+        british: 'toff',
+        plural: 'toffs'
+    },
+    {
         american: 'snuck',
         british: 'sneaked'
     },
