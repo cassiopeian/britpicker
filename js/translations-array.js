@@ -1250,6 +1250,10 @@ let translations = [
         plural: 'tramps'
     },
     {
+        american: 'hoity-toity',
+        british: 'posh'
+    },
+    {
         american: 'hood',
         british: 'bonnet',
         plural: 'bonnets',
