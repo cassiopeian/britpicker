@@ -1973,7 +1973,8 @@ let translations = [
     },
     {
         american: 'pretentious',
-        british: 'wanky'
+        british: 'wanky',
+        altplural: 'toffee-nosed'
     },
     {
         american: 'proctor',
