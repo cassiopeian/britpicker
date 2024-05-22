@@ -2859,6 +2859,11 @@ let translations = [
         plural: 'hoovers'
     },
     {
+        american: 'vagina',
+        british: 'fanny',
+        plural: 'fannies'
+    },
+    {
         american: 'veggie',
         british: 'veg',
         plural: 'veg'
