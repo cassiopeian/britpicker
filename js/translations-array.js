@@ -2300,6 +2300,11 @@ let translations = [
         altplural: 'footpaths'
     },
     {
+        american: 'silly me',
+        british: 'what am i like',
+        context: 'Self-deprecation.'
+    },
+    {
         american: 'six thirty',
         british: 'half six',
         context: 'Time.'
