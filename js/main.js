@@ -126,13 +126,19 @@ $(document).on('keyup change input', '#ae', function() {
         if (word === word.toUpperCase()) {
             uppercase = true;
             capitalized = false;
-        } else if (word.charAt(0).match(/[A-Z]/) && word.charAt(1).match(/[a-z]/)) {
+        } else if (word.charAt(0).match(/[A-Z]/) 
+            && word.charAt(1).match(/[a-z]/)) {
             uppercase = false;
             capitalized = true;
-        } else if (prevWord.charAt(0).match(/[A-Z]/) && prevWord.charAt(1).match(/[a-z]/) && word === word.toLowerCase()) {
+        } else if (prevWord.charAt(0).match(/[A-Z]/) 
+            && prevWord.charAt(1).match(/[a-z]/) 
+            && word === word.toLowerCase()) {
             uppercase = false;
             capitalized = true;
-        } else if (beforePrev.charAt(0).match(/[A-Z]/) && beforePrev.charAt(1).match(/[a-z]/) && prevWord === prevWord.toLowerCase() && word === word.toLowerCase()) {
+        } else if (beforePrev.charAt(0).match(/[A-Z]/) 
+            && beforePrev.charAt(1).match(/[a-z]/) 
+            && prevWord === prevWord.toLowerCase() 
+            && word === word.toLowerCase()) {
             uppercase = false;
             capitalized = true;
         } else {
