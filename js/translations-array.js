@@ -2861,7 +2861,9 @@ let translations = [
     {
         american: 'vagina',
         british: 'fanny',
-        plural: 'fannies'
+        plural: 'fannies',
+        alt: 'twat',
+        altplural: 'twats'
     },
     {
         american: 'veggie',
