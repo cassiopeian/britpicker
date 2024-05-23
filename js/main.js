@@ -129,6 +129,9 @@ $(document).on('keyup change input', '#ae', function() {
         } else if (word.charAt(0).match(/[A-Z]/) && word.charAt(1).match(/[a-z]/)) {
             uppercase = false;
             capitalized = true;
+        } else if (prevWord.charAt(0).match(/[A-Z]/) && prevWord.charAt(1).match(/[a-z]/) && word === word.toLowerCase()) {
+            uppercase = false;
+            capitalized = true;
         } else {
             uppercase = false;
             capitalized = false;
