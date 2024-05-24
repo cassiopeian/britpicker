@@ -2406,6 +2406,11 @@ let translations = [
         plural: 'electric fires'
     },
     {
+        american: 'spaghetti bolognese',
+        british: 'spag bol',
+        plural: 'spag bols'
+    },
+    {
         american: 'special election',
         british: 'by-election',
         plural: 'by-elections'
