@@ -477,6 +477,10 @@ let translations = [
         british: 'nipper'
     },
     {
+        american: 'chill out',
+        british: 'calm your tits'
+    },
+    {
         american: 'children',
         british: 'nippers'
     },
