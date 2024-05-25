@@ -2705,6 +2705,10 @@ let translations = [
         plural: 'titbits'
     },
     {
+        american: 'timid',
+        british: 'nesh'
+    },
+    {
         american: 'tipsy',
         british: 'tiddly'
     },
