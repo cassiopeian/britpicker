@@ -2341,6 +2341,11 @@ let translations = [
         context: 'Intelligence.'
     },
     {
+        american: 'snack',
+        british: 'nosh',
+        plural: 'noshes'
+    },
+    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers',
