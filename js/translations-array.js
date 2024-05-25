@@ -2083,6 +2083,11 @@ let translations = [
         plural: 'estate agents'
     },
     {
+        american: 'redhead',
+        british: 'ginger',
+        plural: 'gingers'
+    },
+    {
         american: 'rental',
         british: 'hire',
         plural: 'hires'
