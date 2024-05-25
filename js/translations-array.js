@@ -2088,6 +2088,10 @@ let translations = [
         plural: 'gingers'
     },
     {
+        american: 'redheaded',
+        british: 'ginger'
+    },
+    {
         american: 'rental',
         british: 'hire',
         plural: 'hires'
