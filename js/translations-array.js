@@ -2542,7 +2542,7 @@ let translations = [
     },
     {
         american: 'stupid',
-        british: 'thick',
+        british: 'daft',
         alt: 'gormless'
     },
     {
