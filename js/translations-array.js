@@ -815,7 +815,8 @@ let translations = [
     },
     {
         american: 'dumb',
-        british: 'daft'
+        british: 'thick',
+        alt: 'daft'
     },
     {
         american: 'dummy',
