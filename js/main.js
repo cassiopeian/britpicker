@@ -121,6 +121,8 @@ $(document).on('keyup change input', '#ae', function() {
         let hyphenatedPhrase = beforePrev + '-' + prevWord + ' ' + word;
         // needed between two-word and one-word translations
         let hiddenSpace = '\u200B';
+        let prevWordExists = typeof prevWord !== 'undefined';
+        let beforePrevExists = typeof beforePrev !== 'undefined';
 
         // determine the case of the american word
         if (word === word.toUpperCase()) {
@@ -130,12 +132,15 @@ $(document).on('keyup change input', '#ae', function() {
             && word.charAt(1).match(/[a-z]/)) {
             uppercase = false;
             capitalized = true;
-        } else if (prevWord.charAt(0).match(/[A-Z]/) 
+        } else if (prevWordExists 
+            && prevWord.charAt(0).match(/[A-Z]/) 
             && prevWord.charAt(1).match(/[a-z]/) 
             && word === word.toLowerCase()) {
             uppercase = false;
             capitalized = true;
-        } else if (beforePrev.charAt(0).match(/[A-Z]/) 
+        } else if (beforePrevExists
+            && prevWordExists
+            && beforePrev.charAt(0).match(/[A-Z]/) 
             && beforePrev.charAt(1).match(/[a-z]/) 
             && prevWord === prevWord.toLowerCase() 
             && word === word.toLowerCase()) {
