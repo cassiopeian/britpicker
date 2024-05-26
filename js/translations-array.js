@@ -2710,6 +2710,11 @@ let translations = [
         context: 'Time.'
     },
     {
+        american: 'throw',
+        british: 'bung',
+        plural: 'bungs'
+    },
+    {
         american: 'thumbtack',
         british: 'drawing pin',
         plural: 'drawing pins'
