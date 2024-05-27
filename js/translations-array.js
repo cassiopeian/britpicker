@@ -290,7 +290,8 @@ let translations = [
     {
         american: 'blinder',
         british: 'blinker',
-        plural: 'blinkers'
+        plural: 'blinkers',
+        context: 'Horses.'
     },
     {
         american: 'blunder',
