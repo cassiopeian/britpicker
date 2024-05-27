@@ -770,6 +770,10 @@ let translations = [
         context: 'Consolation.'
     },
     {
+        american: 'dopey',
+        british: 'dozy'
+    },
+    {
         american: 'dorm',
         british: 'hall of residence',
         plural: 'halls of residence'
