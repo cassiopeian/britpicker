@@ -288,6 +288,11 @@ let translations = [
         british: 'waffling'
     },
     {
+        american: 'blinder',
+        british: 'blinker',
+        plural: 'blinkers'
+    },
+    {
         american: 'blunder',
         british: 'clanger',
         plural: 'clangers'
