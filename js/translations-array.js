@@ -1386,6 +1386,10 @@ let translations = [
         british: 'snogging'
     },
     {
+        american: 'knock on wood',
+        british: 'touch wood'
+    },
+    {
         american: 'knocked her up',
         british: 'got her up the duff',
         context: 'Pregnancy.'
