@@ -276,6 +276,11 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'blacktop',
+        british: 'tarmac',
+        plural: 'tarmacs'
+    },
+    {
         american: 'blather',
         british: 'waffle'
     },
