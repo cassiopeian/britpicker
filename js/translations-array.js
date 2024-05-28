@@ -294,6 +294,11 @@ let translations = [
         context: 'Horses.'
     },
     {
+        american: 'blood sausage',
+        british: 'black pudding',
+        plural: 'black puddings'
+    },
+    {
         american: 'blunder',
         british: 'clanger',
         plural: 'clangers'
