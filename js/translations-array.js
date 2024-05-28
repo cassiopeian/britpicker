@@ -321,6 +321,11 @@ let translations = [
         altplural: 'hair grips'
     },
     {
+        american: 'bodega',
+        british: 'corner shop',
+        plural: 'corner shops'
+    },
+    {
         american: 'booger',
         british: 'bogey',
         plural: 'bogeys'
