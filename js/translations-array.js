@@ -1416,6 +1416,10 @@ let translations = [
         british: 'snogging'
     },
     {
+        american: 'kitty-corner',
+        british: 'catty-corner'
+    },
+    {
         american: 'knock on wood',
         british: 'touch wood'
     },
