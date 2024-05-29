@@ -2903,7 +2903,8 @@ let translations = [
     },
     {
         american: 'tylenol',
-        british: 'paracetamol'
+        british: 'panadol',
+        alt: 'paracetamol'
     },
     {
         american: 'umbrella',
