@@ -1290,6 +1290,11 @@ let translations = [
         context: 'Vehicles.'
     },
     {
+        american: 'horseback riding',
+        british: 'riding',
+        alt: 'horse riding'
+    },
+    {
         american: 'hungry',
         british: 'peckish'
     },
