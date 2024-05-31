@@ -2802,6 +2802,11 @@ let translations = [
         british: 'towards'
     },
     {
+        american: 'track meet',
+        british: 'athletics meeting',
+        alt: 'athletics meetings'
+    },
+    {
         american: 'track pants',
         british: 'trackies'
     },
