@@ -2953,6 +2953,11 @@ let translations = [
         altplural: 'twats'
     },
     {
+        american: 'varmint',
+        british: 'vermin',
+        plural: 'vermin'
+    },
+    {
         american: 'veggie',
         british: 'veg',
         plural: 'veg'
