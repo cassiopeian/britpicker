@@ -3087,6 +3087,10 @@ let translations = [
         plural: 'zeds'
     },
     {
+        american: 'zilch',
+        british: 'nowt'
+    },
+    {
         american: 'zip code',
         british: 'postcode',
         plural: 'postcodes'
