@@ -2409,6 +2409,10 @@ let translations = [
         plural: 'noshes'
     },
     {
+        american: 'snazzy',
+        british: 'smart'
+    },
+    {
         american: 'sneaker',
         british: 'trainer',
         plural: 'trainers',
