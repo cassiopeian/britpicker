@@ -1692,6 +1692,11 @@ let translations = [
         british: 'chunter'
     },
     {
+        american: 'my treat',
+        british: 'my shout',
+        context: 'Payment.'
+    },
+    {
         american: 'nail polish',
         british: 'nail varnish',
         plural: 'nail varnishes'
