@@ -1801,6 +1801,10 @@ let translations = [
         british: 'bits and bobs'
     },
     {
+        american: 'oftentimes',
+        british: 'often'
+    },
+    {
         american: 'oh my god',
         british: 'bloody hell'
     },
