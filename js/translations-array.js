@@ -2574,6 +2574,11 @@ let translations = [
         plural: 'cookers'
     },
     {
+        american: 'stovetop',
+        british: 'hob',
+        plural: 'hobs'
+    },
+    {
         american: 'streetcar',
         british: 'tram',
         plural: 'trams'
