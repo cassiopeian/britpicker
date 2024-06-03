@@ -3099,6 +3099,12 @@ let translations = [
         plural: 'amber lights'
     },
     {
+        american: 'yield',
+        british: 'give way',
+        plural: 'gives way',
+        context: 'Traffic.'
+    },
+    {
         american: 'you guys',
         british: 'you lot'
     },
