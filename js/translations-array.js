@@ -1835,8 +1835,10 @@ let translations = [
     },
     {
         american: 'outlet',
-        british: 'power point',
-        plural: 'power points'
+        british: 'socket',
+        plural: 'sockets',
+        alt: 'power point',
+        altplural: 'power points'
     },
     {
         american: 'overpass',
