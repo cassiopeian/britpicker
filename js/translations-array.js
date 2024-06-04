@@ -1770,6 +1770,10 @@ let translations = [
         alt: 'codswallop'
     },
     {
+        american: 'noon',
+        british: 'midday'
+    },
+    {
         american: 'normalcy',
         british: 'normality'
     },
