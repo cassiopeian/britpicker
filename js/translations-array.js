@@ -829,6 +829,11 @@ let translations = [
         plural: 'driving licenses'
     },
     {
+        american: 'drugstore',
+        british: 'chemist',
+        plural: 'chemists'
+    },
+    {
         american: 'drunk driving',
         british: 'drink-driving'
     },
