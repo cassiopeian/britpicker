@@ -831,7 +831,9 @@ let translations = [
     {
         american: 'drugstore',
         british: 'chemist',
-        plural: 'chemists'
+        plural: 'chemists',
+        alt: 'pharmacy',
+        altplural: 'pharmacies'
     },
     {
         american: 'drunk driving',
