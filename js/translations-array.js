@@ -67,6 +67,10 @@ let translations = [
         alt: 'shirty'
     },
     {
+        american: 'annoy her',
+        british: 'wind her up'
+    },
+    {
         american: 'apartment',
         british: 'flat',
         plural: 'flats'
