@@ -1624,6 +1624,10 @@ let translations = [
         plural: 'people carriers'
     },
     {
+        american: 'misspelled',
+        british: 'misspelt'
+    },
+    {
         american: 'mohawk',
         british: 'mohican',
         plural: 'mohicans'
