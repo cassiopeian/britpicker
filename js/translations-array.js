@@ -79,6 +79,10 @@ let translations = [
         british: 'wind me up'
     },
     {
+        american: 'annoy them',
+        british: 'wind them up'
+    },
+    {
         american: 'apartment',
         british: 'flat',
         plural: 'flats'
