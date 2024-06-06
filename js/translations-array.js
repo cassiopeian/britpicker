@@ -1866,6 +1866,10 @@ let translations = [
         plural: 'chancers'
     },
     {
+        american: 'orient',
+        british: 'orientate'
+    },
+    {
         american: 'outlet',
         british: 'socket',
         plural: 'sockets',
