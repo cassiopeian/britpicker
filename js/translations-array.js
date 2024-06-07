@@ -977,6 +977,10 @@ let translations = [
         alt: 'dead'
     },
     {
+        american: 'fall leaf',
+        british: 'autumn leaf'
+    },
+    {
         american: 'fanny pack',
         british: 'bum bag',
         plural: 'bum bags'
