@@ -981,6 +981,10 @@ let translations = [
         british: 'autumn leaf'
     },
     {
+        american: 'fall leaves',
+        british: 'autumn leaves'
+    },
+    {
         american: 'fanny pack',
         british: 'bum bag',
         plural: 'bum bags'
