@@ -1866,7 +1866,8 @@ let translations = [
     },
     {
         american: 'on a dime',
-        british: 'on a sixpence'
+        british: 'on a sixpence',
+        context: 'Idiomatic.'
     },
     {
         american: 'on the fritz',
