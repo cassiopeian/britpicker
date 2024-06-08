@@ -714,6 +714,11 @@ let translations = [
         british: 'smart'
     },
     {
+        american: 'debark',
+        british: 'disembark',
+        plural: 'disembarks'
+    },
+    {
         american: 'delicious',
         british: 'gorgeous',
         alt: 'nice'
