@@ -1865,6 +1865,10 @@ let translations = [
         british: 'bloody hell'
     },
     {
+        american: 'on a dime',
+        british: 'on a sixpence'
+    },
+    {
         american: 'on the fritz',
         british: 'on the blink',
         alt: 'knackered'
