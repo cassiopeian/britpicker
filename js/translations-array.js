@@ -2966,6 +2966,10 @@ let translations = [
         context: 'Vehicles.'
     },
     {
+        american: 'tuna fish',
+        british: 'tuna'
+    },
+    {
         american: 'turn signal',
         british: 'indicator',
         plural: 'indicators'
