@@ -987,6 +987,10 @@ let translations = [
         alt: 'dead'
     },
     {
+        american: 'eyeglasses',
+        british: 'glasses'
+    },
+    {
         american: 'fall leaf',
         british: 'autumn leaf'
     },
