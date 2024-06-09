@@ -1780,6 +1780,11 @@ let translations = [
         plural: 'bank holidays'
     },
     {
+        american: 'necktie',
+        british: 'tie',
+        plural: 'ties'
+    },
+    {
         american: 'neosporin',
         british: 'savlon',
         plural: 'savlons'
