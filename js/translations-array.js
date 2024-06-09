@@ -2930,6 +2930,10 @@ let translations = [
         plural: 'stabilizers'
     },
     {
+        american: 'transportation',
+        british: 'transport'
+    },
+    {
         american: 'transmission',
         british: 'gearbox',
         plural: 'gearboxes',
