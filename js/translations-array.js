@@ -1262,6 +1262,11 @@ let translations = [
         plural: 'grandads'
     },
     {
+        american: 'green thumb',
+        british: 'green fingers',
+        plural: 'green fingers'
+    },
+    {
         american: 'grifter',
         british: 'fraudster',
         plural: 'fraudsters',
