@@ -630,6 +630,10 @@ let translations = [
         context: 'Law enforcement.'
     },
     {
+        american: 'copacetic',
+        british: 'just ducky'
+    },
+    {
         american: 'costume',
         british: 'fancy dress'
     },
