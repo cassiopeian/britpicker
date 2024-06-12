@@ -1662,6 +1662,11 @@ let translations = [
         british: 'maths'
     },
     {
+        american: 'median strip',
+        british: 'central reservation',
+        plural: 'central reservations'
+    },
+    {
         american: 'men',
         british: 'blokes',
         alt: 'chaps'
