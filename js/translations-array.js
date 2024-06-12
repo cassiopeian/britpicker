@@ -2135,7 +2135,8 @@ let translations = [
     {
         american: 'principal',
         british: 'head teacher',
-        plural: 'head teachers'
+        plural: 'head teachers',
+        context: 'Educator.'
     },
     {
         american: 'proctor',
