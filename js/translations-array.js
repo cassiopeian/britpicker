@@ -2133,6 +2133,11 @@ let translations = [
         altplural: 'toffee-nosed'
     },
     {
+        american: 'principal',
+        british: 'head teacher',
+        plural: 'head teachers'
+    },
+    {
         american: 'proctor',
         british: 'invigilator',
         plural: 'invigilators',
