@@ -1548,6 +1548,11 @@ let translations = [
         british: 'learnt'
     },
     {
+        american: 'learner\'s permit',
+        british: 'provisional license',
+        plural: 'provisional licenses'
+    },
+    {
         american: 'license plate',
         british: 'number plate',
         plural: 'number plates'
