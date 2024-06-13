@@ -1181,6 +1181,11 @@ let translations = [
         typedplural: 'gas pedals'
     },
     {
+        american: 'gearhead',
+        british: 'petrolhead',
+        plural: 'petrolheads'
+    },
+    {
         american: 'gearshift',
         british: 'gear stick',
         plural: 'gear sticks' 
