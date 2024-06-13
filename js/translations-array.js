@@ -889,6 +889,11 @@ let translations = [
         altplural: 'geezers'
     },
     {
+        american: 'duffel bag',
+        british: 'holdall',
+        plural: 'holdalls'
+    },
+    {
         american: 'dumb',
         british: 'thick',
         alt: 'daft'
