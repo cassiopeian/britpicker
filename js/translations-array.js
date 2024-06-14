@@ -1449,6 +1449,11 @@ let translations = [
         british: 'rammed'
     },
     {
+        american: 'janitor',
+        british: 'caretaker',
+        plural: 'caretakers'
+    },
+    {
         american: 'jell-o',
         british: 'jelly',
         plural: 'jellies'
