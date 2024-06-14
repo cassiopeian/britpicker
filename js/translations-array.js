@@ -1141,6 +1141,11 @@ let translations = [
         british: 'icing'
     },
     {
+        american: 'full-size bed',
+        british: 'double bed',
+        plural: 'double beds'
+    },
+    {
         american: 'furnace',
         british: 'boiler',
         plural: 'boilers'
