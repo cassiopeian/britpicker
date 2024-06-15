@@ -3236,7 +3236,8 @@ let translations = [
     },
     {
         american: 'wow',
-        british: 'blimey'
+        british: 'blimey',
+        context: 'Interjection.'
     },
     {
         american: 'wrench',
