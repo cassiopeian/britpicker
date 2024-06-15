@@ -3235,6 +3235,10 @@ let translations = [
         british: 'clapped-out'
     },
     {
+        american: 'wow',
+        british: 'blimey'
+    },
+    {
         american: 'wrench',
         british: 'spanner',
         plural: 'spanners'
