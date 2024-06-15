@@ -701,6 +701,11 @@ let translations = [
         plural: 'fairy cakes'
     },
     {
+        american: 'custodian',
+        british: 'caretaker',
+        plural: 'caretakers'
+    },
+    {
         american: 'custom-made',
         british: 'bespoke'
     },
