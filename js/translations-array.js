@@ -634,6 +634,10 @@ let translations = [
         british: 'just ducky'
     },
     {
+        american: 'cornstarch',
+        british: 'corn flour'
+    },
+    {
         american: 'costume',
         british: 'fancy dress'
     },
