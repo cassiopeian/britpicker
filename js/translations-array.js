@@ -2940,6 +2940,11 @@ let translations = [
         plural: 'drawing pins'
     },
     {
+        american: 'ticket stub',
+        british: 'counterfoil',
+        plural: 'counterfoils'
+    },
+    {
         american: 'tidbit',
         british: 'titbit',
         plural: 'titbits'
