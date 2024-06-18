@@ -396,7 +396,9 @@ let translations = [
     {
         american: 'bumper car',
         british: 'dodgem',
-        plural: 'dodgems'
+        plural: 'dodgems',
+        alt: 'dodgem car',
+        altplural: 'dodgem cars'
     },
     {
         american: 'burglarize',
