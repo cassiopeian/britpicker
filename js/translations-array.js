@@ -394,16 +394,16 @@ let translations = [
         plural: 'bruvs'
     },
     {
-        american: 'burlap',
-        british: 'hessian'
-    },
-    {
         american: 'burglarize',
         british: 'burgle'
     },
     {
         american: 'burglarized',
         british: 'burgled'
+    },
+    {
+        american: 'burlap',
+        british: 'hessian'
     },
     {
         american: 'busy signal',
