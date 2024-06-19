@@ -3252,6 +3252,11 @@ let translations = [
         plural: 'melts'
     },
     {
+        american: 'windbreaker',
+        british: 'windcheater',
+        plural: 'windcheaters'
+    },
+    {
         american: 'windshield',
         british: 'windscreen',
         plural: 'windscreens'
