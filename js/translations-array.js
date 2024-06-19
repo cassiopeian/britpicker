@@ -450,6 +450,11 @@ let translations = [
         british: 'tin of'
     },
     {
+        american: 'candidacy',
+        british: 'candidature',
+        plural: 'candidatures'
+    },
+    {
         american: 'candy apple',
         british: 'toffee apple',
         plural: 'toffee apples'
