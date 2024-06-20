@@ -1616,6 +1616,13 @@ let translations = [
         altplural: 'offies'
     },
     {
+        american: 'liverpudlian',
+        british: 'scouse',
+        plural: 'scousers',
+        alt: 'scouser',
+        altplural: 'scousers'
+    },
+    {
         american: 'loose change',
         british: 'shrapnel',
         context: 'Coins.'
