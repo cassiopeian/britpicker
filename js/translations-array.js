@@ -1452,6 +1452,10 @@ let translations = [
         alt: 'doolally'
     },
     {
+        american: 'intel',
+        british: 'gen'
+    },
+    {
         american: 'intermission',
         british: 'interval',
         plural: 'intervals'
