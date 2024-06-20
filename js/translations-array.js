@@ -1920,6 +1920,11 @@ let translations = [
         context: 'Intelligence.'
     },
     {
+        american: 'novocastrian',
+        british: 'geordie',
+        plural: 'geordies'
+    },
+    {
         american: 'nutcase',
         british: 'nutter',
         plural: 'nutters'
