@@ -1453,7 +1453,8 @@ let translations = [
     },
     {
         american: 'intel',
-        british: 'gen'
+        british: 'gen',
+        context: 'Information.'
     },
     {
         american: 'intermission',
