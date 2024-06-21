@@ -1517,6 +1517,11 @@ let translations = [
         plural: 'journos'
     },
     {
+        american: 'jumper cable',
+        british: 'jump lead',
+        plural: 'jump leads'
+    },
+    {
         american: 'jumping jack',
         british: 'star jump',
         plural: 'star jumps'
