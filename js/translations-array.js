@@ -1573,6 +1573,11 @@ let translations = [
         plural: 'launderettes'
     },
     {
+        american: 'layaway',
+        british: 'hire purchase',
+        plural: 'hire purchases'
+    },
+    {
         american: 'lawyer',
         british: 'barrister',
         plural: 'barristers',
