@@ -425,6 +425,11 @@ let translations = [
         altplural: 'mingers'
     },
     {
+        american: 'c-clamp',
+        british: 'g-clamp',
+        plural: 'g-clamps'
+    },
+    {
         american: 'cabinet',
         british: 'cupboard',
         plural: 'cupboards',
