@@ -302,6 +302,10 @@ let translations = [
         british: 'quibbled'
     },
     {
+        american: 'bickering',
+        british: 'quibbling'
+    },
+    {
         american: 'big rig',
         british: 'articulated lorry',
         plural: 'articulated lorries',
