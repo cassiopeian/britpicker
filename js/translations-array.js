@@ -2650,7 +2650,8 @@ let translations = [
     },
     {
         american: 'so good',
-        british: 'mint'
+        british: 'mint',
+        alt: 'lush'
     },
     {
         american: 'soda',
