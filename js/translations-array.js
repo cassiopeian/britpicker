@@ -2649,6 +2649,10 @@ let translations = [
         british: 'sneaked'
     },
     {
+        american: 'so good',
+        british: 'mint'
+    },
+    {
         american: 'soda',
         british: 'pop',
         plural: 'pops',
