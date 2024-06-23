@@ -1586,6 +1586,11 @@ let translations = [
         altplural: 'dumps'
     },
     {
+        american: 'landslide',
+        british: 'landslip',
+        plural: 'landslips'
+    },
+    {
         american: 'laundromat',
         british: 'launderette',
         plural: 'launderettes'
