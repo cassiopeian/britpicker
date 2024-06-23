@@ -717,6 +717,11 @@ let translations = [
         alt: 'mad'
     },
     {
+        american: 'crossing guard',
+        british: 'lollipop man',
+        plural: 'lollipop men'
+    },
+    {
         american: 'crosswalk',
         british: 'zebra crossing',
         plural: 'zebra crossings'
