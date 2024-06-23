@@ -719,7 +719,9 @@ let translations = [
     {
         american: 'crossing guard',
         british: 'lollipop man',
-        plural: 'lollipop men'
+        plural: 'lollipop men',
+        alt: 'lollipop lady',
+        altplural: 'lollipop ladies'
     },
     {
         american: 'crosswalk',
