@@ -1183,6 +1183,11 @@ let translations = [
         plural: 'chips'
     },
     {
+        american: 'front desk',
+        british: 'reception',
+        plural: 'receptions'
+    },
+    {
         american: 'frosh',
         british: 'fresher',
         plural: 'freshers'
