@@ -1257,6 +1257,11 @@ let translations = [
         plural: 'gear sticks' 
     },
     {
+        american: 'general delivery',
+        british: 'poste restante',
+        context: 'Mail.'
+    },
+    {
         american: 'get along',
         british: 'get on'
     },
