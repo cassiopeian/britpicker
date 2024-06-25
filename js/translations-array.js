@@ -1425,7 +1425,9 @@ let translations = [
     {
         american: 'ho',
         british: 'trollop',
-        plural: 'trollops'
+        plural: 'trollops',
+        alt: 'tart',
+        altplural: 'tarts'
     },
     {
         american: 'hobo',
