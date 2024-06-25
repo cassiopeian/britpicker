@@ -1518,6 +1518,11 @@ let translations = [
         plural: 'pneumatic drills'
     },
     {
+        american: 'jagoff',
+        british: 'wanker',
+        plural: 'wankers'
+    },
+    {
         american: 'jam-packed',
         british: 'rammed'
     },
