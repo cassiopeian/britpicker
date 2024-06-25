@@ -1423,6 +1423,11 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'ho',
+        british: 'trollop',
+        plural: 'trollops'
+    },
+    {
         american: 'hobo',
         british: 'tramp',
         plural: 'tramps'
