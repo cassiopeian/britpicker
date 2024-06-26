@@ -431,6 +431,11 @@ let translations = [
         plural: 'engaged tones'
     },
     {
+        american: 'busybody',
+        british: 'nosy parker',
+        plural: 'nosy parkers'
+    },
+    {
         american: 'butterface',
         british: 'munter',
         plural: 'munters',
