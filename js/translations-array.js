@@ -919,7 +919,8 @@ let translations = [
     },
     {
         american: 'drinking heavily',
-        british: 'on the piss'
+        british: 'on the piss',
+        context: 'Inebriation.'
     },
     {
         american: 'driver\'s license',
