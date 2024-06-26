@@ -918,6 +918,10 @@ let translations = [
         british: 'dreamt'
     },
     {
+        american: 'drinking heavily',
+        british: 'on the piss'
+    },
+    {
         american: 'driver\'s license',
         british: 'driving license',
         plural: 'driving licenses'
