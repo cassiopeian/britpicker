@@ -605,7 +605,8 @@ let translations = [
     {
         american: 'cloture',
         british: 'closure',
-        plural: 'closures'
+        plural: 'closures',
+        context: 'Legislation.'
     },
     {
         american: 'college',
