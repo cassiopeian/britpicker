@@ -603,6 +603,11 @@ let translations = [
         plural: 'boots'
     },
     {
+        american: 'cloture',
+        british: 'closure',
+        plural: 'closures'
+    },
+    {
         american: 'college',
         british: 'university',
         plural: 'universities',
