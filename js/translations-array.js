@@ -531,6 +531,11 @@ let translations = [
         altplural: 'mobiles'
     },
     {
+        american: 'charge account',
+        british: 'credit account',
+        plural: 'credit accounts'
+    },
+    {
         american: 'check mark',
         british: 'tick',
         plural: 'ticks'
