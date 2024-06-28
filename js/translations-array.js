@@ -2599,6 +2599,10 @@ let translations = [
         plural: 'sorbets'
     },
     {
+        american: 'shipping and handling',
+        british: 'postage and packing'
+    },
+    {
         american: 'shit',
         british: 'shite'
     },
