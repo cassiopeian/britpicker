@@ -1430,10 +1430,6 @@ let translations = [
         british: 'oi'
     },
     {
-        american: 'hi',
-        british: 'hiya'
-    },
-    {
         american: 'hickey',
         british: 'love bite',
         plural: 'love bites'
