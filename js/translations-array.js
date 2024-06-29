@@ -799,6 +799,10 @@ let translations = [
         alt: 'nice'
     },
     {
+        american: 'deplane',
+        british: 'disembark'
+    },
+    {
         american: 'desperate',
         british: 'gagging'
     },
