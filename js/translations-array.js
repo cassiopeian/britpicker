@@ -1687,7 +1687,8 @@ let translations = [
     },
     {
         american: 'legos',
-        british: 'lego bricks'
+        british: 'lego bricks',
+        alt: 'lego sets'
     },
     {
         american: 'license plate',
