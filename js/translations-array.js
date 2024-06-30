@@ -1987,6 +1987,11 @@ let translations = [
         plural: 'newsagents'
     },
     {
+        american: 'newspaperman',
+        british: 'pressman',
+        plural: 'pressmen'
+    },
+    {
         american: 'nightstick',
         british: 'truncheon',
         plural: 'truncheons'
