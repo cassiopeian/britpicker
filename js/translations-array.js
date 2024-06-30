@@ -1920,6 +1920,7 @@ let translations = [
     {
         american: 'moxie',
         british: 'bottle',
+        alt: 'pecker'
     },
     {
         american: 'muffler',
