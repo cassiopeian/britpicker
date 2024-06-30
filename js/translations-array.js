@@ -1141,6 +1141,11 @@ let translations = [
         context: 'Time.'
     },
     {
+        american: 'flat tire',
+        british: 'puncture',
+        plural: 'punctures'
+    },
+    {
         american: 'flashlight',
         british: 'torch',
         plural: 'torches'
