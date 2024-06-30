@@ -1686,6 +1686,10 @@ let translations = [
         plural: 'provisional licenses'
     },
     {
+        american: 'legos',
+        british: 'lego bricks'
+    },
+    {
         american: 'license plate',
         british: 'number plate',
         plural: 'number plates'
