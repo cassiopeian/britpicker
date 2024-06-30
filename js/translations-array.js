@@ -1918,6 +1918,10 @@ let translations = [
         plural: 'films'
     },
     {
+        american: 'moxie',
+        british: 'bottle',
+    },
+    {
         american: 'muffler',
         british: 'silencer',
         plural: 'silencers',
