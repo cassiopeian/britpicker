@@ -120,6 +120,11 @@ let translations = [
         altplural: 'rows'
     },
     {
+        american: 'armpit',
+        british: 'oxter',
+        plural: 'oxters'
+    },
+    {
         american: 'arugula',
         british: 'rocket'
     },
