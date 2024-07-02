@@ -1609,6 +1609,11 @@ let translations = [
         plural: 'star jumps'
     },
     {
+        american: 'junkman',
+        british: 'rag-and-bone man',
+        plural: 'rag-and-bone men'
+    },
+    {
         american: 'kerosene',
         british: 'paraffin'
     },
