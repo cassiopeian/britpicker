@@ -1489,6 +1489,11 @@ let translations = [
         alt: 'horse riding'
     },
     {
+        american: 'hottie',
+        british: 'totty',
+        plural: 'totties'
+    },
+    {
         american: 'hungry',
         british: 'peckish'
     },
