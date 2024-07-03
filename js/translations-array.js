@@ -2026,6 +2026,11 @@ let translations = [
         plural: 'presswomen'
     },
     {
+        american: 'nightstand',
+        british: 'bedside table',
+        plural: 'bedside tables'
+    },
+    {
         american: 'nightstick',
         british: 'truncheon',
         plural: 'truncheons'
