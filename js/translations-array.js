@@ -2682,6 +2682,11 @@ let translations = [
         plural: 'shower cubicles'
     },
     {
+        american: 'shredded cheese',
+        british: 'grated cheese',
+        plural: 'grated cheeses'
+    },
+    {
         american: 'side-view mirror',
         british: 'wing mirror',
         plural: 'wing mirrors'
