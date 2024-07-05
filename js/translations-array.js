@@ -3247,6 +3247,13 @@ let translations = [
         plural: 'lorries'
     },
     {
+        // truck stop
+        american: 'lorry stop',
+        british: 'transport café',
+        plural: 'transport cafés',
+        typed: 'truck stop'
+    },
+    {
         american: 'trunk',
         british: 'boot',
         plural: 'boots',
