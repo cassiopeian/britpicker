@@ -100,7 +100,8 @@ let translations = [
         american: 'flat building',
         british: 'tower block',
         plural: 'tower blocks',
-        typed: 'apartment building'
+        typed: 'apartment building',
+        typedplural: 'apartment buildings'
     },
     {
         american: 'an apartment',
