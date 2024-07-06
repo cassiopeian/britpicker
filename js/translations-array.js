@@ -2302,7 +2302,8 @@ let translations = [
     },
     {
         american: 'plastic wrap',
-        british: 'cling film'
+        british: 'cling film',
+        plural: 'cling films'
     },
     {
         american: 'play hooky',
