@@ -2296,6 +2296,11 @@ let translations = [
         context: 'Annoyance.'
     },
     {
+        american: 'plantar wart',
+        british: 'verruca',
+        plural: 'verrucas'
+    },
+    {
         american: 'plastic wrap',
         british: 'cling film'
     },
