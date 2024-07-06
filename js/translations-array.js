@@ -1598,7 +1598,8 @@ let translations = [
         british: 'tosser',
         plural: 'tossers',
         alt: 'twat',
-        altplural: 'twats'
+        altplural: 'twats',
+        context: 'Foes.'
     },
     {
         american: 'john hancock',
