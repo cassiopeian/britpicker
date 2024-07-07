@@ -261,7 +261,9 @@ let translations = [
     {
         american: 'bathing suit',
         british: 'swimming costume',
-        plural: 'swimming costumes'
+        plural: 'swimming costumes',
+        alt: 'cozzie',
+        altplural: 'cozzies'
     },
     {
         american: 'bathroom',
