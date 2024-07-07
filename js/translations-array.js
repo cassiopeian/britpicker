@@ -422,7 +422,9 @@ let translations = [
     {
         american: 'buh-bye',
         british: 'toodle-oo',
-        plural: 'toodle-oos'
+        plural: 'toodle-oos',
+        alt: 'ta-ra',
+        altplural: 'ta-ras'
     },
     {
         american: 'bumper car',
