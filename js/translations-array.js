@@ -420,6 +420,11 @@ let translations = [
         plural: 'bruvs'
     },
     {
+        american: 'buh-bye',
+        british: 'toodle-oo',
+        plural: 'toodle-oos'
+    },
+    {
         american: 'bumper car',
         british: 'dodgem',
         plural: 'dodgems',
