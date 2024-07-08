@@ -1138,6 +1138,10 @@ let translations = [
         plural: 'pitches'
     },
     {
+        american: 'figure out',
+        british: 'suss out'
+    },
+    {
         american: 'filthy',
         british: 'grotty'
     },
