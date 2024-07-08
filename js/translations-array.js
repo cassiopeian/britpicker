@@ -1142,6 +1142,10 @@ let translations = [
         british: 'suss out'
     },
     {
+        american: 'figured out',
+        british: 'sussed out'
+    },
+    {
         american: 'filthy',
         british: 'grotty'
     },
