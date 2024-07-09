@@ -3029,11 +3029,13 @@ let translations = [
     {
         american: 'suv',
         british: 'four-by-four',
-        plural: 'four-by-fours'
+        plural: 'four-by-fours',
+        abbreviation: true
     },
     {
         american: 'an suv',
-        british: 'a four-by-four'
+        british: 'a four-by-four',
+        abbreviation: true
     },
     {
         american: 'sweatpant',
