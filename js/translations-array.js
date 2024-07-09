@@ -166,6 +166,12 @@ let translations = [
         abbreviation: true
     },
     {
+        american: 'an atm',
+        british: 'a cash machine',
+        alt: 'a cashpoint',
+        abbreviation: true
+    },
+    {
         american: 'attorney',
         british: 'solicitor',
         plural: 'solicitors'
