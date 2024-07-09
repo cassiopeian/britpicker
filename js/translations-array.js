@@ -3032,6 +3032,10 @@ let translations = [
         plural: 'four-by-fours'
     },
     {
+        american: 'an suv',
+        british: 'a four-by-four'
+    },
+    {
         american: 'sweatpant',
         british: 'track bottom',
         plural: 'track bottoms',
