@@ -2603,6 +2603,12 @@ let translations = [
         abbreviation: true
     },
     {
+        american: 'an rv',
+        british: 'a caravan',
+        alt: 'a camper',
+        abbreviation: true
+    },
+    {
         american: 'sales assistant',
         british: 'shop assistant',
         plural: 'shop assistants'
