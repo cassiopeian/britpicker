@@ -154,7 +154,7 @@ $(document).on('keyup change input', '#ae', function() {
         // match the case of the displayed american word
         function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
 
-            let mismatches = ['a four-by-four', 'a cash machine', 'cash machine', 'caravan', 'four-by-four'];
+            let mismatches = ['a caravan', 'a cash machine', 'a four-by-four', 'caravan', 'cash machine', 'four-by-four'];
 
             if (mismatches.includes(britPhrase)) {
                 // lowercase translations from abbreviations
