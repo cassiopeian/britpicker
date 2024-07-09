@@ -3027,6 +3027,11 @@ let translations = [
         plural: 'braces'
     },
     {
+        american: 'suv',
+        british: 'four-by-four',
+        plural: 'four-by-fours'
+    },
+    {
         american: 'sweatpant',
         british: 'track bottom',
         plural: 'track bottoms',
