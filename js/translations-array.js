@@ -1910,7 +1910,9 @@ let translations = [
     {
         american: 'middle school',
         british: 'secondary school',
-        plural: 'secondary schools'
+        plural: 'secondary schools',
+        alt: 'comprehensive school',
+        altplural: 'comprehensive schools'
     },
     {
         american: 'minivan',
