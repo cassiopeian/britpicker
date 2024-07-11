@@ -1908,6 +1908,11 @@ let translations = [
         altplural: 'happy crimbos'
     },
     {
+        american: 'middle school',
+        british: 'secondary school',
+        plural: 'secondary schools'
+    },
+    {
         american: 'minivan',
         british: 'people carrier',
         plural: 'people carriers'
