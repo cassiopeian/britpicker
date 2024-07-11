@@ -1051,6 +1051,11 @@ let translations = [
         plural: 'polling days'
     },
     {
+        american: 'elementary school',
+        british: 'primary school',
+        plural: 'primary schools'
+    },
+    {
         american: 'elevator',
         british: 'lift',
         plural: 'lifts'
