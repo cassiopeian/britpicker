@@ -2404,6 +2404,11 @@ let translations = [
         plural: 'icing sugars'
     },
     {
+        american: 'pre-k',
+        british: 'reception',
+        plural: 'receptions'
+    },
+    {
         american: 'prep school',
         british: 'private school',
         plural: 'private schools'
