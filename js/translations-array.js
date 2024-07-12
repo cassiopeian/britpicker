@@ -1676,6 +1676,11 @@ let translations = [
         british: 'quite'
     },
     {
+        american: 'kindergarten',
+        british: 'year one',
+        plural: 'year ones'
+    },
+    {
         american: 'kiss',
         british: 'snog',
         plural: 'snogs'
