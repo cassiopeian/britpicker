@@ -1681,6 +1681,11 @@ let translations = [
         plural: 'year ones'
     },
     {
+        american: 'kindergartner',
+        british: 'first year',
+        plural: 'first years'
+    },
+    {
         american: 'kiss',
         british: 'snog',
         plural: 'snogs'
