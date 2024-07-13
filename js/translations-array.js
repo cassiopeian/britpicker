@@ -1179,6 +1179,12 @@ let translations = [
         british: 'ground floor'
     },
     {
+        american: 'first grade',
+        british: 'year two',
+        plural: 'year twos',
+        context: 'School.'
+    },
+    {
         american: 'fish stick',
         british: 'fish finger',
         plural: 'fish fingers'
