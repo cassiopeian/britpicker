@@ -2711,6 +2711,12 @@ let translations = [
         plural: 'cock-ups'
     },
     {
+        american: 'second grade',
+        british: 'year three',
+        plural: 'year threes',
+        context: 'School.'
+    },
+    {
         american: 'sedan',
         british: 'saloon',
         plural: 'saloons'
