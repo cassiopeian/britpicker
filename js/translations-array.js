@@ -3229,6 +3229,12 @@ let translations = [
         context: 'School.'
     },
     {
+        american: 'third grader',
+        british: 'fourth year',
+        plural: 'fourth years',
+        context: 'School.'
+    },
+    {
         american: 'third wheel',
         british: 'gooseberry',
         plural: 'gooseberries'
