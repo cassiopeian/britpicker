@@ -3223,6 +3223,12 @@ let translations = [
         british: 'reckon'
     },
     {
+        american: 'third grade',
+        british: 'year four',
+        plural: 'year fours',
+        context: 'School.'
+    },
+    {
         american: 'third wheel',
         british: 'gooseberry',
         plural: 'gooseberries'
