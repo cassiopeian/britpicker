@@ -2850,6 +2850,12 @@ let translations = [
         context: 'Time.'
     },
     {
+        american: 'sixth grade',
+        british: 'year seven',
+        plural: 'year sevens',
+        context: 'School.'
+    },
+    {
         american: 'skim milk',
         british: 'skimmed milk'
     },
