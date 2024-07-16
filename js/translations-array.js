@@ -2771,6 +2771,12 @@ let translations = [
         context: 'Time.'
     },
     {
+        american: 'seventh grade',
+        british: 'year eight',
+        plural: 'year eights',
+        context: 'School.'
+    },
+    {
         american: 'shady',
         british: 'dodgy'
     },
