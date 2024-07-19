@@ -3507,6 +3507,8 @@ let translations = [
         american: 'twelfth grade',
         british: 'year thirteen',
         plural: 'year thirteens',
+        alt: 'upper sixth',
+        altplural: 'upper sixths',
         context: 'School.'
     },
     {
