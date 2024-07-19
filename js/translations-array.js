@@ -3508,6 +3508,12 @@ let translations = [
         context: 'School.'
     },
     {
+        american: 'twelfth grader',
+        british: 'thirteenth year',
+        plural: 'thirteenth years',
+        context: 'School.'
+    },
+    {
         american: 'twelve thirty',
         british: 'half twelve',
         context: 'Time.'
