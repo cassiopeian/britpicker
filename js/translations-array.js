@@ -2595,7 +2595,8 @@ let translations = [
     },
     {
         american: 'ran away',
-        british: 'scarpered'
+        british: 'scarpered',
+        alt: 'did a runner'
     },
     {
         american: 'rappel',
