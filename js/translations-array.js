@@ -1053,8 +1053,8 @@ let translations = [
     },
     {
         american: 'eighth grader',
-        british: 'ninth year',
-        plural: 'ninth years',
+        british: 'ninth-year',
+        plural: 'ninth-years',
         context: 'School.'
     },
     {
@@ -1087,8 +1087,8 @@ let translations = [
     },
     {
         american: 'eleventh grader',
-        british: 'twelfth year',
-        plural: 'twelfth years',
+        british: 'twelfth-year',
+        plural: 'twelfth-years',
         context: 'School.'
     },
     {
@@ -1182,8 +1182,8 @@ let translations = [
     },
     {
         american: 'fifth grader',
-        british: 'sixth year',
-        plural: 'sixth years',
+        british: 'sixth-year',
+        plural: 'sixth-years',
         context: 'School.'
     },
     {
@@ -1224,8 +1224,8 @@ let translations = [
     },
     {
         american: 'first grader',
-        british: 'second year',
-        plural: 'second years',
+        british: 'second-year',
+        plural: 'second-years',
         context: 'School.'
     },
     {
@@ -1293,8 +1293,8 @@ let translations = [
     },
     {
         american: 'fourth grader',
-        british: 'fifth year',
-        plural: 'fifth years',
+        british: 'fifth-year',
+        plural: 'fifth-years',
         context: 'School.'
     },
     {
@@ -2182,8 +2182,8 @@ let translations = [
     },
     {
         american: 'ninth grader',
-        british: 'tenth year',
-        plural: 'tenth years',
+        british: 'tenth-year',
+        plural: 'tenth-years',
         context: 'School.'
     },
     {
@@ -2780,8 +2780,8 @@ let translations = [
     },
     {
         american: 'second grader',
-        british: 'third year',
-        plural: 'third years',
+        british: 'third-year',
+        plural: 'third-years',
         context: 'School.'
     },
     {
@@ -2816,8 +2816,8 @@ let translations = [
     },
     {
         american: 'seventh grader',
-        british: 'eighth year',
-        plural: 'eighth years',
+        british: 'eighth-year',
+        plural: 'eighth-years',
         context: 'School.'
     },
     {
@@ -2907,8 +2907,8 @@ let translations = [
     },
     {
         american: 'sixth grader',
-        british: 'seventh year',
-        plural: 'seventh years',
+        british: 'seventh-year',
+        plural: 'seventh-years',
         context: 'School.'
     },
     {
@@ -3258,8 +3258,8 @@ let translations = [
     },
     {
         american: 'tenth grader',
-        british: 'eleventh year',
-        plural: 'eleventh years',
+        british: 'eleventh-year',
+        plural: 'eleventh-years',
         context: 'School.'
     },
     {
@@ -3328,8 +3328,8 @@ let translations = [
     },
     {
         american: 'third grader',
-        british: 'fourth year',
-        plural: 'fourth years',
+        british: 'fourth-year',
+        plural: 'fourth-years',
         context: 'School.'
     },
     {
@@ -3513,8 +3513,8 @@ let translations = [
     },
     {
         american: 'twelfth grader',
-        british: 'thirteenth year',
-        plural: 'thirteenth years',
+        british: 'thirteenth-year',
+        plural: 'thirteenth-years',
         context: 'School.'
     },
     {
