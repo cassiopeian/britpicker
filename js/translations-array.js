@@ -3127,7 +3127,8 @@ let translations = [
     {
         american: 'student',
         british: 'pupil',
-        plural: 'pupils'
+        plural: 'pupils',
+        context: 'Ages K–12.'
     },
     {
         american: 'studio apartment',
