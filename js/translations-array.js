@@ -3125,6 +3125,11 @@ let translations = [
         altplural: 'pushchairs'
     },
     {
+        american: 'student',
+        british: 'pupil',
+        plural: 'pupils'
+    },
+    {
         american: 'studio apartment',
         british: 'bedsit',
         plural: 'bedsits'
