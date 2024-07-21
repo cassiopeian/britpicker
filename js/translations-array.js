@@ -555,7 +555,9 @@ let translations = [
         // cat pan
         american: 'moggy pan',
         british: 'litter tray',
-        plural: 'litter trays'
+        plural: 'litter trays',
+        typed: 'cat pan',
+        typedplural: 'cat pans'
     },
     {
         american: 'cell phone',
