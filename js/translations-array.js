@@ -1854,6 +1854,11 @@ let translations = [
         altplural: 'offies'
     },
     {
+        american: 'litter box',
+        british: 'litter tray',
+        plural: 'litter trays'
+    },
+    {
         american: 'liverpudlian',
         british: 'scouse',
         plural: 'scousers',
