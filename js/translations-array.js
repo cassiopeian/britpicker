@@ -552,6 +552,12 @@ let translations = [
         plural: 'moggies'
     },
     {
+        // cat pan
+        american: 'moggy pan',
+        british: 'litter tray',
+        plural: 'litter trays'
+    },
+    {
         american: 'cell phone',
         british: 'phone',
         plural: 'phones',
