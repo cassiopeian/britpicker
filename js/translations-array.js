@@ -2332,7 +2332,8 @@ let translations = [
     {
         american: 'packet',
         british: 'sachet',
-        plural: 'sachets'
+        plural: 'sachets',
+        context: 'E.g., condiments.'
     },
     {
         american: 'pant',
