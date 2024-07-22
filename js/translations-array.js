@@ -2330,6 +2330,11 @@ let translations = [
         plural: 'dummies'
     },
     {
+        american: 'packet',
+        british: 'sachet',
+        plural: 'sachets'
+    },
+    {
         american: 'pant',
         british: 'trouser',
         plural: 'trousers'
