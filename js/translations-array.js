@@ -2565,14 +2565,14 @@ let translations = [
         plural: 'jumpers'
     },
     {
-        american: 'pull-up',
-        british: 'press-up',
-        plural: 'press-ups'
-    },
-    {
         american: 'purse',
         british: 'handbag',
         plural: 'handbags'
+    },
+    {
+        american: 'push-up',
+        british: 'press-up',
+        plural: 'press-ups'
     },
     {
         american: 'putter',
