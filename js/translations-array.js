@@ -2036,6 +2036,11 @@ let translations = [
         british: 'glandular fever'
     },
     {
+        american: 'mooch',
+        british: 'scrounger',
+        plural: 'scroungers'
+    },
+    {
         american: 'morgue',
         british: 'mortuary',
         plural: 'mortuaries'
