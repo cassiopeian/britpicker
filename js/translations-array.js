@@ -3283,7 +3283,8 @@ let translations = [
     },
     {
         american: 'teed off',
-        british: 'hacked off'
+        british: 'hacked off',
+        alt: 'cheesed off'
     },
     {
         american: 'teleprompter',
