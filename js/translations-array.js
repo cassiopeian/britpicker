@@ -3282,6 +3282,10 @@ let translations = [
         plural: 'seesaws'
     },
     {
+        american: 'teed off',
+        british: 'hacked off'
+    },
+    {
         american: 'teleprompter',
         british: 'autocue',
         plural: 'autocues'
