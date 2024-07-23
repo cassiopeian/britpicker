@@ -3284,7 +3284,8 @@ let translations = [
     {
         american: 'teed off',
         british: 'hacked off',
-        alt: 'cheesed off'
+        alt: 'cheesed off',
+        context: 'Irritation.'
     },
     {
         american: 'teleprompter',
