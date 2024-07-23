@@ -2783,6 +2783,10 @@ let translations = [
         british: 'gave me a fright'
     },
     {
+        american: 'scared shitless',
+        british: 'shit-scared'
+    },
+    {
         american: 'scared them',
         british: 'gave them a fright'
     },
