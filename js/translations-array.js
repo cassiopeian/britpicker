@@ -2279,6 +2279,9 @@ let translations = [
         american: 'on the fritz',
         british: 'on the blink',
         alt: 'knackered'
+    },{
+        american: 'on welfare',
+        british: 'on the dole'
     },
     {
         american: 'one thirty',
