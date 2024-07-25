@@ -3399,7 +3399,8 @@ let translations = [
     {
         american: 'throw',
         british: 'bung',
-        plural: 'bungs'
+        plural: 'bungs',
+        context: 'Flinging motion.'
     },
     {
         american: 'thumbtack',
