@@ -2976,6 +2976,11 @@ let translations = [
         altplural: 'skets'
     },
     {
+        american: 'small bet',
+        british: 'flutter',
+        plural: 'flutters'
+    },
+    {
         american: 'smart',
         british: 'clever',
         alt: 'canny',
