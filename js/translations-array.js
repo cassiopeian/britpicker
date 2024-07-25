@@ -2978,7 +2978,9 @@ let translations = [
     {
         american: 'small bet',
         british: 'flutter',
-        plural: 'flutters'
+        plural: 'flutters',
+        alt: 'punt',
+        altplural: 'punts'
     },
     {
         american: 'smart',
