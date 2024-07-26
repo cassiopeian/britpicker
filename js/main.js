@@ -124,32 +124,34 @@ $(document).on('keyup change input', '#ae', function() {
         let prevWordExists = typeof prevWord !== 'undefined';
         let beforePrevExists = typeof beforePrev !== 'undefined';
 
-        // determine the case of the american word
-        if (word === word.toUpperCase()) {
-            uppercase = true;
-            capitalized = false;
-        } else if (word.charAt(0).match(/[A-Z]/) 
-            && word.charAt(1).match(/[a-z]/)) {
-            uppercase = false;
-            capitalized = true;
-        } else if (prevWordExists 
-            && prevWord.charAt(0).match(/[A-Z]/) 
-            && prevWord.charAt(1).match(/[a-z]/) 
-            && word === word.toLowerCase()) {
-            uppercase = false;
-            capitalized = true;
-        } else if (beforePrevExists
-            && prevWordExists
-            && beforePrev.charAt(0).match(/[A-Z]/) 
-            && beforePrev.charAt(1).match(/[a-z]/) 
-            && prevWord === prevWord.toLowerCase() 
-            && word === word.toLowerCase()) {
-            uppercase = false;
-            capitalized = true;
-        } else {
-            uppercase = false;
-            capitalized = false;
-        }
+        translations.forEach(phrase => {
+            // determine the case of the american word
+            if (word === word.toUpperCase()) {
+                uppercase = true;
+                capitalized = false;
+            } else if (word.charAt(0).match(/[A-Z]/) 
+                && word.charAt(1).match(/[a-z]/)) {
+                uppercase = false;
+                capitalized = true;
+            } else if (prevWordExists 
+                && prevWord.charAt(0).match(/[A-Z]/) 
+                && prevWord.charAt(1).match(/[a-z]/)
+                && word === word.toLowerCase()) {
+                uppercase = false;
+                capitalized = true;
+            } else if (beforePrevExists
+                && prevWordExists
+                && beforePrev.charAt(0).match(/[A-Z]/) 
+                && beforePrev.charAt(1).match(/[a-z]/) 
+                && prevWord === prevWord.toLowerCase() 
+                && word === word.toLowerCase()) {
+                uppercase = false;
+                capitalized = true;
+            } else {
+                uppercase = false;
+                capitalized = false;
+            }
+        });
 
         // match the case of the displayed american word
         function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
