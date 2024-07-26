@@ -3709,7 +3709,8 @@ let translations = [
     },
     {
         american: 'were told off',
-        british: 'got a bollocking'
+        british: 'got a bollocking',
+        alt: 'got stick'
     },
     {
         american: 'while',
