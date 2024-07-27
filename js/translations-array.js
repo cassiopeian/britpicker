@@ -3134,6 +3134,10 @@ let translations = [
         alt: 'pinched'
     },
     {
+        american: 'stop lying',
+        british: 'come off it'
+    },
+    {
         american: 'stoplight',
         british: 'traffic light',
         plural: 'traffic lights'
