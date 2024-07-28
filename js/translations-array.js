@@ -2760,6 +2760,11 @@ let translations = [
         plural: 'shop assistants'
     },
     {
+        american: 'salt spreader',
+        british: 'gritter',
+        plural: 'gritters'
+    },
+    {
         american: 'sandwich',
         british: 'sarnie',
         plural: 'sarnies',
