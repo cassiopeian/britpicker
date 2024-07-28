@@ -998,6 +998,11 @@ let translations = [
         british: 'drink-driving'
     },
     {
+        american: 'drunkard',
+        british: 'tosspot',
+        plural: 'tosspots'
+    },
+    {
         american: 'drywall',
         british: 'plasterboard'
     },
