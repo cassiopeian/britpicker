@@ -1482,6 +1482,11 @@ let translations = [
         british: 'banging on about'
     },
     {
+        american: 'good grief',
+        british: 'gordon bennett',
+        plural: 'gordon bennetts'
+    },
+    {
         american: 'good guy',
         british: 'goody',
         plural: 'goodies'
