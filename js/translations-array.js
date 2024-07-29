@@ -2762,7 +2762,8 @@ let translations = [
     {
         american: 'salt spreader',
         british: 'gritter',
-        plural: 'gritters'
+        plural: 'gritters',
+        context: 'Snow.'
     },
     {
         american: 'sandwich',
