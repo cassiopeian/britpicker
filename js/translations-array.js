@@ -2612,7 +2612,8 @@ let translations = [
     {
         american: 'quit doing that',
         british: 'pack it in',
-        alt: 'leave off'
+        alt: 'leave off',
+        context: 'Annoyance.'
     },
     {
         american: 'quotation mark',
