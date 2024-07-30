@@ -3776,6 +3776,10 @@ let translations = [
         british: 'clapped-out'
     },
     {
+        american: 'would you like',
+        british: 'fancy'
+    },
+    {
         american: 'wow',
         british: 'blimey',
         context: 'Interjection.'
