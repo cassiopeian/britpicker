@@ -3120,6 +3120,11 @@ let translations = [
         british: 'sport'
     },
     {
+        american: 'spring break',
+        british: 'easter holiday',
+        plural: 'easter holidays'
+    },
+    {
         american: 'squishy',
         british: 'squidgy'
     },
