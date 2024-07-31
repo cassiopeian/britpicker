@@ -1049,6 +1049,11 @@ let translations = [
         british: 'a keen'
     },
     {
+        american: 'egghead',
+        british: 'boffin',
+        plural: 'boffins'
+    },
+    {
         american: 'eggplant',
         british: 'aubergine',
         plural: 'aubergines'
