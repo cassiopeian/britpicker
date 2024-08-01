@@ -1706,6 +1706,10 @@ let translations = [
         plural: 'caretakers'
     },
     {
+        american: 'jeez',
+        british: 'blimey'
+    },
+    {
         american: 'jell-o',
         british: 'jelly',
         plural: 'jellies'
