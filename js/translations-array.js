@@ -2829,6 +2829,10 @@ let translations = [
         british: 'sellotape'
     },
     {
+        american: 'scotch-irish',
+        british: 'ulster-scots'
+    },
+    {
         american: 'screwup',
         british: 'cock-up',
         plural: 'cock-ups'
