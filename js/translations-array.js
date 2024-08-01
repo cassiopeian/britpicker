@@ -2797,6 +2797,11 @@ let translations = [
         alt: 'heaps'
     },
     {
+        american: 'scallion',
+        british: 'spring onion',
+        plural: 'spring onions'
+    },
+    {
         american: 'scared her',
         british: 'gave her a fright'
     },
