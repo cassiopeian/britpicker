@@ -1700,6 +1700,10 @@ let translations = [
         plural: 'pneumatic drills'
     },
     {
+        american: 'jacking off',
+        british: 'wanking'
+    },
+    {
         american: 'jagoff',
         british: 'wanker',
         plural: 'wankers'
