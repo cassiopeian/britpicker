@@ -1704,6 +1704,10 @@ let translations = [
         british: 'wanking'
     },
     {
+        american: 'jacks off',
+        british: 'wanks'
+    },
+    {
         american: 'jagoff',
         british: 'wanker',
         plural: 'wankers'
