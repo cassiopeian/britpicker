@@ -1179,6 +1179,10 @@ let translations = [
         plural: 'taps'
     },
     {
+        american: 'fdic',
+        british: 'fscs'
+    },
+    {
         american: 'fell over',
         british: 'went arse over tit'
     },
