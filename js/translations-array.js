@@ -2660,6 +2660,11 @@ let translations = [
         plural: 'wellies'
     },
     {
+        american: 'rain check',
+        british: 'another chance',
+        alt: 'another time'
+    },
+    {
         american: 'raincoat',
         british: 'waterproof',
         plural: 'waterproofs',
