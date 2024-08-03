@@ -2662,7 +2662,8 @@ let translations = [
     {
         american: 'rain check',
         british: 'another chance',
-        alt: 'another time'
+        alt: 'another time',
+        context: 'Unavailability.'
     },
     {
         american: 'raincoat',
