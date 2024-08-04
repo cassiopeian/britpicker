@@ -1553,7 +1553,9 @@ let translations = [
     {
         american: 'half bath',
         british: 'toilet',
-        plural: 'toilets'
+        plural: 'toilets',
+        alt: 'cloakroom',
+        altplural: 'cloakrooms'
     },
     {
         american: 'hang up',
