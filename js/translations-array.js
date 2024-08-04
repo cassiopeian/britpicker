@@ -2047,6 +2047,11 @@ let translations = [
         altplural: 'comprehensive schools'
     },
     {
+        american: 'miner',
+        british: 'pitman',
+        plural: 'pitmen'
+    },
+    {
         american: 'minivan',
         british: 'people carrier',
         plural: 'people carriers'
