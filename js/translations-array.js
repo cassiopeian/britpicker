@@ -1551,6 +1551,11 @@ let translations = [
         plural: 'dogsbodies'
     },
     {
+        american: 'half bath',
+        british: 'toilet',
+        plural: 'toilets'
+    },
+    {
         american: 'hang up',
         british: 'ring off',
         context: 'Phone conversations.'
