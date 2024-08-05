@@ -1679,6 +1679,11 @@ let translations = [
         british: 'sozzled'
     },
     {
+        american: 'infantryman',
+        british: 'squaddie',
+        plural: 'squaddies'
+    },
+    {
         american: 'insane',
         british: 'mental',
         alt: 'doolally'
