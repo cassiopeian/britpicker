@@ -340,7 +340,8 @@ let translations = [
     },
     {
         american: 'blackjack',
-        british: 'pontoon'
+        british: 'pontoon',
+        context: 'Card game.'
     },
     {
         american: 'blacktop',
