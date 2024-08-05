@@ -339,6 +339,10 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'blackjack',
+        british: 'pontoon'
+    },
+    {
         american: 'blacktop',
         british: 'tarmac',
         plural: 'tarmacs'
