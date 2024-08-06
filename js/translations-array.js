@@ -17,6 +17,11 @@ let translations = [
         plural: 'adverts'
     },
     {
+        american: 'adjunct professor',
+        british: 'lecturer',
+        plural: 'lecturers'
+    },
+    {
         american: 'advice column',
         british: 'agony column',
         plural: 'agony columns'
