@@ -2015,7 +2015,8 @@ let translations = [
     },
     {
         american: 'majored in',
-        british: 'read'
+        british: 'read',
+        context: 'Education.'
     },
     {
         american: 'make fun of',
