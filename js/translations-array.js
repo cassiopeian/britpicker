@@ -1636,7 +1636,8 @@ let translations = [
     },
     {
         american: 'horny',
-        british: 'randy'
+        british: 'randy',
+        context: 'Aroused.'
     },
     {
         american: 'horseback riding',
