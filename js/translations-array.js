@@ -2014,6 +2014,10 @@ let translations = [
         plural: 'high streets'
     },
     {
+        american: 'majored in',
+        british: 'read'
+    },
+    {
         american: 'make fun of',
         british: 'take the piss out of'
     },
