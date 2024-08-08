@@ -1162,6 +1162,11 @@ let translations = [
         plural: 'expiry dates'
     },
     {
+        american: 'expressway',
+        british: 'motorway',
+        plural: 'motorways'
+    },
+    {
         american: 'extremely',
         british: 'well',
         alt: 'dead'
