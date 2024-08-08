@@ -1164,7 +1164,9 @@ let translations = [
     {
         american: 'expressway',
         british: 'motorway',
-        plural: 'motorways'
+        plural: 'motorways',
+        alt: 'carriageway',
+        altplural: 'carriageways'
     },
     {
         american: 'extremely',
