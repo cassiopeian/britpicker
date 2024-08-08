@@ -155,6 +155,11 @@ let translations = [
         plural: 'arses'
     },
     {
+        american: 'associate professor',
+        british: 'reader',
+        plural: 'readers'
+    },
+    {
         american: 'astounded',
         british: 'gobsmacked'
     },
