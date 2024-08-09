@@ -1130,6 +1130,11 @@ let translations = [
         plural: 'handbrakes'
     },
     {
+        american: 'english muffin',
+        british: 'muffin',
+        plural: 'muffins'
+    },
+    {
         american: 'eraser',
         british: 'rubber',
         plural: 'rubbers'
