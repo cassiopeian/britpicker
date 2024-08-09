@@ -906,6 +906,10 @@ let translations = [
         british: 'gobshite'
     },
     {
+        american: 'direct deposit',
+        british: 'giro'
+    },
+    {
         american: 'discombobulated',
         british: 'discomposed'
     },
