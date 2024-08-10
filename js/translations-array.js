@@ -1655,6 +1655,10 @@ let translations = [
         british: 'posh'
     },
     {
+        american: 'hokey pokey',
+        british: 'hokey cokey'
+    },
+    {
         american: 'hood',
         british: 'bonnet',
         plural: 'bonnets',
