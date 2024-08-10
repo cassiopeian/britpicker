@@ -907,7 +907,8 @@ let translations = [
     },
     {
         american: 'direct deposit',
-        british: 'giro'
+        british: 'giro',
+        context: 'Finances.'
     },
     {
         american: 'discombobulated',
