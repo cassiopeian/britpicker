@@ -155,6 +155,11 @@ let translations = [
         plural: 'arses'
     },
     {
+        american: 'assistance program',
+        british: 'assistance scheme',
+        plural: 'assistance schemes'
+    },
+    {
         american: 'associate professor',
         british: 'reader',
         plural: 'readers'
