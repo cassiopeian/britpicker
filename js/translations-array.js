@@ -418,6 +418,11 @@ let translations = [
         british: 'bodge'
     },
     {
+        american: 'bowler',
+        british: 'derby',
+        plural: 'derbies'
+    },
+    {
         american: 'boy',
         british: 'lad',
         plural: 'lads'
