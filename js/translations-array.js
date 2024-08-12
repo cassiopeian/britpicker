@@ -871,7 +871,8 @@ let translations = [
     {
         american: 'deputy',
         british: 'constable',
-        plural: 'constables'
+        plural: 'constables',
+        context: 'Law enforcement.'
     },
     {
         american: 'desperate',
