@@ -420,7 +420,8 @@ let translations = [
     {
         american: 'bowler',
         british: 'derby',
-        plural: 'derbies'
+        plural: 'derbies',
+        context: 'Hats.'
     },
     {
         american: 'boy',
