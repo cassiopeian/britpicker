@@ -869,6 +869,11 @@ let translations = [
         british: 'disembark'
     },
     {
+        american: 'deputy',
+        british: 'constable',
+        plural: 'constables'
+    },
+    {
         american: 'desperate',
         british: 'gagging'
     },
