@@ -3682,7 +3682,8 @@ let translations = [
     },
     {
         american: 'trophies',
-        british: 'silverware'
+        british: 'silverware',
+        context: 'Awards.'
     },
     {
         american: 'truck',
