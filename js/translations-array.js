@@ -3100,6 +3100,10 @@ let translations = [
         context: 'School.'
     },
     {
+        american: 'sketchy',
+        british: 'dodgy'
+    },
+    {
         american: 'skim milk',
         british: 'skimmed milk'
     },
