@@ -3681,6 +3681,10 @@ let translations = [
         plural: 'sticky wickets'
     },
     {
+        american: 'trophies',
+        british: 'silverware'
+    },
+    {
         american: 'truck',
         british: 'lorry',
         plural: 'lorries'
