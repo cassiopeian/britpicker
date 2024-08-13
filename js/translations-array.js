@@ -3101,7 +3101,8 @@ let translations = [
     },
     {
         american: 'sketchy',
-        british: 'dodgy'
+        british: 'dodgy',
+        context: 'Dubiousness.'
     },
     {
         american: 'skim milk',
