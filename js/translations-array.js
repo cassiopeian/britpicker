@@ -545,6 +545,10 @@ let translations = [
         british: 'tinned'
     },
     {
+        american: 'canola',
+        british: 'rapeseed'
+    },
+    {
         american: 'can\'t be bothered',
         british: 'can\'t be arsed',
         alt: 'can\'t be fussed'
