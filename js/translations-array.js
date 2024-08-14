@@ -480,6 +480,11 @@ let translations = [
         british: 'hessian'
     },
     {
+        american: 'busboy',
+        british: 'commis waiter',
+        plural: 'commis waiters'
+    },
+    {
         american: 'busy signal',
         british: 'engaged tone',
         plural: 'engaged tones'
