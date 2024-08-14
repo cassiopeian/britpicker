@@ -546,7 +546,8 @@ let translations = [
     },
     {
         american: 'canola',
-        british: 'rapeseed'
+        british: 'rapeseed',
+        context: 'Vegetable oil.'
     },
     {
         american: 'can\'t be bothered',
