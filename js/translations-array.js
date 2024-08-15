@@ -3120,7 +3120,8 @@ let translations = [
     },
     {
         american: 'skivvies',
-        british: 'pants'
+        british: 'pants',
+        context: 'Underwear.'
     },
     {
         american: 'skosh',
