@@ -3121,6 +3121,7 @@ let translations = [
     {
         american: 'skivvies',
         british: 'pants',
+        alt: 'knickers',
         context: 'Underwear.'
     },
     {
