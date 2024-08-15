@@ -3119,6 +3119,10 @@ let translations = [
         british: 'skimmed milk'
     },
     {
+        american: 'skivvies',
+        british: 'pants'
+    },
+    {
         american: 'skosh',
         british: 'bit',
         alt: 'tad'
