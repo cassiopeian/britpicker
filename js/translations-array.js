@@ -2882,6 +2882,10 @@ let translations = [
         british: 'scarpers'
     },
     {
+        american: 'runs for office',
+        british: 'stands for election'
+    },
+    {
         american: 'rutabaga',
         british: 'swede',
         plural: 'swedes'
