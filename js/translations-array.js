@@ -2866,6 +2866,10 @@ let translations = [
         alt: 'do a runner'
     },
     {
+        american: 'run for office',
+        british: 'stand for election'
+    },
+    {
         american: 'running away',
         british: 'scarpering'
     },
