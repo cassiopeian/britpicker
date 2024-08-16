@@ -2874,6 +2874,10 @@ let translations = [
         british: 'scarpering'
     },
     {
+        american: 'running for office',
+        british: 'standing for election'
+    },
+    {
         american: 'runs away',
         british: 'scarpers'
     },
