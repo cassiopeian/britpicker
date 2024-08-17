@@ -3405,7 +3405,8 @@ let translations = [
         british: 'tube',
         plural: 'tubes',
         alt: 'underground',
-        altplural: 'undergrounds'
+        altplural: 'undergrounds',
+        context: 'Transportation.'
     },
     {
         american: 'sunscreen',
