@@ -2839,6 +2839,11 @@ let translations = [
         british: 'posh'
     },
     {
+        american: 'robe',
+        british: 'dressing gown',
+        plural: 'dressing gowns'
+    },
+    {
         american: 'roommate',
         british: 'flatmate',
         plural: 'flatmates',
