@@ -1514,6 +1514,10 @@ let translations = [
         british: 'getting on'
     },
     {
+        american: 'gimpy',
+        british: 'gammy'
+    },
+    {
         american: 'girl',
         british: 'bird',
         plural: 'birds'
