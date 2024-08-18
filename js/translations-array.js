@@ -2841,7 +2841,8 @@ let translations = [
     {
         american: 'robe',
         british: 'dressing gown',
-        plural: 'dressing gowns'
+        plural: 'dressing gowns',
+        context: 'Loungewear.'
     },
     {
         american: 'roommate',
