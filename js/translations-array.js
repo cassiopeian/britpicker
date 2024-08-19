@@ -8,6 +8,10 @@ let translations = [
         british: 'noughties'
     },
     {
+        american: 'a late lunch',
+        british: 'tea'
+    },
+    {
         american: 'acetaminophen',
         british: 'paracetamol'
     },
