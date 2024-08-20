@@ -2597,6 +2597,10 @@ let translations = [
         context: 'Admonishment.'
     },
     {
+        american: 'piss me off',
+        british: 'do my head in'
+    },
+    {
         american: 'pissed',
         british: 'narked',
         context: 'Annoyance.'
