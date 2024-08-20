@@ -2602,6 +2602,10 @@ let translations = [
         context: 'Annoyance.'
     },
     {
+        american: 'pisses me off',
+        british: 'does my head in'
+    },
+    {
         american: 'pissing me off',
         british: 'doing my head in'
     },
