@@ -2602,6 +2602,10 @@ let translations = [
         context: 'Annoyance.'
     },
     {
+        american: 'pissing me off',
+        british: 'doing my head in'
+    },
+    {
         american: 'plantar wart',
         british: 'verruca',
         plural: 'verrucas'
