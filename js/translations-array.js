@@ -2569,7 +2569,8 @@ let translations = [
     {
         american: 'pickle',
         british: 'gherkin',
-        plural: 'gherkins'
+        plural: 'gherkins',
+        context: 'Gourds.'
     },
     {
         american: 'picnic basket',
