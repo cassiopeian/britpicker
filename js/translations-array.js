@@ -1700,6 +1700,7 @@ let translations = [
     {
         american: 'holy crap',
         british: 'bloody hell',
+        alt: 'blooming heck',
         context: 'Interjection.'
     },
     {
