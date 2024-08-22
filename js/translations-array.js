@@ -1699,7 +1699,8 @@ let translations = [
     },
     {
         american: 'holy crap',
-        british: 'bloody hell'
+        british: 'bloody hell',
+        context: 'Interjection.'
     },
     {
         american: 'hood',
