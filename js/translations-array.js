@@ -51,6 +51,11 @@ let translations = [
         plural: 'aeroplanes'
     },
     {
+        american: 'all-purpose flour',
+        british: 'plain flour',
+        plural: 'plain flours'
+    },
+    {
         american: 'aluminum',
         british: 'aluminium'
     },
