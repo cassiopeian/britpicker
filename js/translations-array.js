@@ -53,7 +53,8 @@ let translations = [
     {
         american: 'all-purpose flour',
         british: 'plain flour',
-        plural: 'plain flours'
+        plural: 'plain flours',
+        context: 'Baking.'
     },
     {
         american: 'aluminum',
