@@ -2806,6 +2806,7 @@ let translations = [
     {
         american: 'raining buckets',
         british: 'pissing it down',
+        alt: 'chucking it down'
     },
     {
         american: 'ran away',
