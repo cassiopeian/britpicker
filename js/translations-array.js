@@ -2804,6 +2804,10 @@ let translations = [
         altpl: 'macs'
     },
     {
+        american: 'raining buckets',
+        british: 'pissing it down',
+    },
+    {
         american: 'ran away',
         british: 'scarpered',
         alt: 'did a runner'
