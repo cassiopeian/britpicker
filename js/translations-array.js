@@ -2853,7 +2853,9 @@ let translations = [
     {
         american: 'redneck',
         british: 'yokel',
-        plural: 'yokels'
+        plural: 'yokels',
+        alt: 'bumpkin',
+        altplural: 'bumpkins'
     },
     {
         american: 'rental',
