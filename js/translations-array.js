@@ -2837,6 +2837,11 @@ let translations = [
         plural: 'estate agents'
     },
     {
+        american: 'red hair',
+        british: 'ginger hair',
+        plural: 'ginger hairs'
+    },
+    {
         american: 'redhead',
         british: 'ginger',
         plural: 'gingers'
@@ -2844,11 +2849,6 @@ let translations = [
     {
         american: 'redheaded',
         british: 'ginger'
-    },
-    {
-        american: 'red hair',
-        british: 'ginger hair',
-        plural: 'ginger hairs'
     },
     {
         american: 'rental',
