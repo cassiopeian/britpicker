@@ -598,6 +598,11 @@ let translations = [
         plural: 'moggies'
     },
     {
+        american: 'catsup',
+        british: 'ketchup',
+        plural: 'ketchups'
+    },
+    {
         // cat pan
         american: 'moggy pan',
         british: 'litter tray',
