@@ -454,6 +454,10 @@ let translations = [
         plural: 'bruvs'
     },
     {
+        american: 'broil',
+        british: 'grill'
+    },
+    {
         american: 'broke',
         british: 'skint',
         alt: 'brassic'
