@@ -2480,7 +2480,8 @@ let translations = [
     },
     {
         american: 'out sick',
-        british: 'off sick'
+        british: 'off sick',
+        context: 'Absence due to illness.'
     },
     {
         american: 'outlet',
