@@ -455,7 +455,8 @@ let translations = [
     },
     {
         american: 'broil',
-        british: 'grill'
+        british: 'grill',
+        context: 'Cooking.'
     },
     {
         american: 'broke',
