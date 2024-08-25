@@ -2479,6 +2479,10 @@ let translations = [
         british: 'crotchety'
     },
     {
+        american: 'out sick',
+        british: 'off sick'
+    },
+    {
         american: 'outlet',
         british: 'socket',
         plural: 'sockets',
