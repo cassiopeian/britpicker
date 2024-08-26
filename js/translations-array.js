@@ -277,7 +277,8 @@ let translations = [
     {
         american: 'bar',
         british: 'pub',
-        plural: 'pubs'
+        plural: 'pubs',
+        context: 'Serving alcohol.'
     },
     {
         american: 'barrette',
