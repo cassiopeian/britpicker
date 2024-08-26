@@ -386,6 +386,10 @@ let translations = [
         british: 'waffling'
     },
     {
+        american: 'bleachers',
+        british: 'stands'
+    },
+    {
         american: 'blinder',
         british: 'blinker',
         plural: 'blinkers',
