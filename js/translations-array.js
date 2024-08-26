@@ -387,7 +387,8 @@ let translations = [
     },
     {
         american: 'bleachers',
-        british: 'stands'
+        british: 'stands',
+        context: 'Spectator seating.'
     },
     {
         american: 'blinder',
