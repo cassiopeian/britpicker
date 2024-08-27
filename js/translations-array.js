@@ -1263,6 +1263,10 @@ let translations = [
         plural: 'bum bags'
     },
     {
+        american: 'fantastic',
+        british: 'lovely jubbly'
+    },
+    {
         american: 'faucet',
         british: 'tap',
         plural: 'taps'
