@@ -1792,7 +1792,8 @@ let translations = [
     },
     {
         american: 'inebriated',
-        british: 'sozzled'
+        british: 'sozzled',
+        alt: 'blotto'
     },
     {
         american: 'infantryman',
