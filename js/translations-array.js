@@ -2217,7 +2217,9 @@ let translations = [
     {
         american: 'mooch',
         british: 'scrounger',
-        plural: 'scroungers'
+        plural: 'scroungers',
+        alt: 'cadger',
+        altplural: 'cadgers'
     },
     {
         american: 'morgue',
