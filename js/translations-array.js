@@ -3353,7 +3353,8 @@ let translations = [
     {
         american: 'speedo',
         british: 'budgy smuggler',
-        plural: 'budgy smugglers'
+        plural: 'budgy smugglers',
+        context: 'Swimwear.'
     },
     {
         american: 'spelunking',
