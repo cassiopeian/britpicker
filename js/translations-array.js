@@ -2212,7 +2212,8 @@ let translations = [
     },
     {
         american: 'mono',
-        british: 'glandular fever'
+        british: 'glandular fever',
+        context: 'Mononucleosis.'
     },
     {
         american: 'mooch',
