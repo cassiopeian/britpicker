@@ -3351,6 +3351,11 @@ let translations = [
         plural: 'sleeping policemen'
     },
     {
+        american: 'speedo',
+        british: 'budgy smuggler',
+        plural: 'budgy smugglers'
+    },
+    {
         american: 'spelunking',
         british: 'potholing',
         alt: 'caving'
