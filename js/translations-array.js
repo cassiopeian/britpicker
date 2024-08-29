@@ -3415,7 +3415,8 @@ let translations = [
     },
     {
         american: 'stop lying',
-        british: 'come off it'
+        british: 'come off it',
+        context: 'Dishonesty.'
     },
     {
         american: 'stoplight',
