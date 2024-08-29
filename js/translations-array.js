@@ -3384,7 +3384,8 @@ let translations = [
         british: 'off-license',
         plural: 'off-licenses',
         alt: 'offie',
-        altplural: 'offies'
+        altplural: 'offies',
+        context: 'Liquor stores.'
     },
     {
         american: 'station wagon',
