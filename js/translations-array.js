@@ -3291,6 +3291,10 @@ let translations = [
         alt: 'lush'
     },
     {
+        american: 'so nervous',
+        british: 'bricking it'
+    },
+    {
         american: 'soda',
         british: 'pop',
         plural: 'pops',
