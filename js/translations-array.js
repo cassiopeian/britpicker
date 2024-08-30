@@ -2816,7 +2816,8 @@ let translations = [
     {
         american: 'railroad',
         british: 'railway',
-        plural: 'railways'
+        plural: 'railways',
+        context: 'Trains.'
     },
     {
         american: 'rain boot',
