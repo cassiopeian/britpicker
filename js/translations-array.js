@@ -1216,6 +1216,10 @@ let translations = [
         alt: 'topping'
     },
     {
+        american: 'excited',
+        british: 'buzzing'
+    },
+    {
         american: 'exclamation point',
         british: 'exclamation mark',
         plural: 'exclamation marks'
