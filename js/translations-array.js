@@ -1028,7 +1028,9 @@ let translations = [
     {
         american: 'doofus',
         british: 'ninny',
-        plural: 'ninnies'
+        plural: 'ninnies',
+        alt: 'nitwit',
+        altplural: 'nitwits'
     },
     {
         american: 'dopey',
