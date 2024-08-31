@@ -1027,7 +1027,8 @@ let translations = [
     },
     {
         american: 'doofus',
-        british: 'ninny'
+        british: 'ninny',
+        plural: 'ninnies'
     },
     {
         american: 'dopey',
