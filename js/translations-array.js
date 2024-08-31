@@ -1026,6 +1026,10 @@ let translations = [
         context: 'Consolation.'
     },
     {
+        american: 'doofus',
+        british: 'ninny'
+    },
+    {
         american: 'dopey',
         british: 'dozy'
     },
