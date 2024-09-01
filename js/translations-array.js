@@ -3739,6 +3739,11 @@ let translations = [
         british: 'tiddly'
     },
     {
+        american: 'tired',
+        british: 'knackered',
+        context: 'Sleepiness.'
+    },
+    {
         american: 'toilet',
         british: 'loo',
         plural: 'loos'
