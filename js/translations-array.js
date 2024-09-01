@@ -1113,7 +1113,8 @@ let translations = [
         british: 'numpty',
         plural: 'numpties',
         alt: 'berk',
-        altplural: 'berks'
+        altplural: 'berks',
+        context:'Simpletons.'
     },
     {
         american: 'dumpster',
