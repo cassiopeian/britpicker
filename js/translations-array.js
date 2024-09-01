@@ -1235,7 +1235,8 @@ let translations = [
     },
     {
         american: 'exhausted',
-        british: 'shattered'
+        british: 'shattered',
+        context: 'Tiredness.'
     },
     {
         american: 'expensive',
