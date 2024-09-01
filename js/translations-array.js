@@ -1054,7 +1054,8 @@ let translations = [
     {
         american: 'drape',
         british: 'curtain',
-        plural: 'curtains'
+        plural: 'curtains',
+        context: 'Window coverings.'
     },
     {
         american: 'dreamed',
