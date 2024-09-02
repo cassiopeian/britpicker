@@ -3741,6 +3741,7 @@ let translations = [
     {
         american: 'tired',
         british: 'knackered',
+        alt: 'done in',
         context: 'Sleepiness.'
     },
     {
