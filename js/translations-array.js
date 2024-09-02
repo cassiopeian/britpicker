@@ -1796,6 +1796,10 @@ let translations = [
         altplural: 'plonkers'
     },
     {
+        american: 'i\'m drained',
+        british: 'i\'m spent'
+    },
+    {
         american: 'impressive',
         british: 'cracking'
     },
