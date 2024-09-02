@@ -1797,7 +1797,8 @@ let translations = [
     },
     {
         american: 'i\'m drained',
-        british: 'i\'m spent'
+        british: 'i\'m spent',
+        context: 'Listlessness.'
     },
     {
         american: 'impressive',
