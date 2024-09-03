@@ -3936,6 +3936,10 @@ let translations = [
         plural: 'brollies'
     },
     {
+        american: 'uncertain',
+        british: 'wobbly'
+    },
+    {
         american: 'uniform',
         british: 'kit',
         plural: 'kits'
