@@ -1889,7 +1889,8 @@ let translations = [
     {
         american: 'jelly',
         british: 'jam',
-        plural: 'jams'
+        plural: 'jams',
+        context: 'Fruit preserves.'
     },
     {
         american: 'jerk',
