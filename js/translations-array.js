@@ -1855,11 +1855,13 @@ let translations = [
     },
     {
         american: 'jacking off',
-        british: 'wanking'
+        british: 'wanking',
+        context: 'Onanism.'
     },
     {
         american: 'jacks off',
-        british: 'wanks'
+        british: 'wanks',
+        context: 'Onanism.'
     },
     {
         american: 'jagoff',
