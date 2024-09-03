@@ -1840,11 +1840,13 @@ let translations = [
     },
     {
         american: 'jack off',
-        british: 'wank'
+        british: 'wank',
+        context: 'Onanism.'
     },
     {
         american: 'jacked off',
-        british: 'wanked'
+        british: 'wanked',
+        context: 'Onanism.'
     },
     {
         american: 'jackhammer',
