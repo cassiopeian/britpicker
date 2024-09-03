@@ -1927,7 +1927,8 @@ let translations = [
     },
     {
         american: 'junk',
-        british: 'tat'
+        british: 'tat',
+        context: 'Poor quality.'
     },
     {
         american: 'junkman',
