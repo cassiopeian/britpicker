@@ -119,6 +119,12 @@ $(document).on('keyup change input', '#ae', function() {
         let endOnContraction =  beforePrev + ' ' + prevWord + '\'' + word; 
         // phrase consisting of a hyphenated word and a word
         let hyphenatedPhrase = beforePrev + '-' + prevWord + ' ' + word;
+        // the word before beforePrev
+        let fourOut = beSplit[i-6];
+        // index of fourOut
+        let fourOutIndex = beSplit.indexOf(beSplit[i-6]);
+        // four-word phrase
+        let fourWords = fourOut + ' ' + beforePrev + ' ' + prevWord + ' ' + word;
         // needed between two-word and one-word translations
         let hiddenSpace = '\u200B';
         let prevWordExists = typeof prevWord !== 'undefined';
@@ -201,7 +207,12 @@ $(document).on('keyup change input', '#ae', function() {
             }
 
             // if a typed phrase matches an american phrase
-            if (threeWords.toLowerCase() == phrase.american
+            if (fourWords.toLowerCase() == phrase.american) {
+                // replace the split four-word phrase with the joined american phrase
+                aeSplit.splice(fourOutIndex, 7, phrase.american);
+                // replace that with the british phrase and hidden spaces
+                beSplit.splice(fourOutIndex, 1, caseMatch(phrase.context, phrase.british, phrase.american, phrase.alt, index-6), hiddenSpace, hiddenSpace, hiddenSpace);
+            } else if (threeWords.toLowerCase() == phrase.american
                 || contractedPhrase.toLowerCase() == phrase.american
                 || hyphenatedPhrase.toLowerCase() == phrase.american
                 || endOnContraction.toLowerCase() == phrase.american) {
