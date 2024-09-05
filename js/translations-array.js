@@ -128,7 +128,8 @@ let translations = [
     },
     {
         american: 'apples and oranges',
-        british: 'chalk and cheese'
+        british: 'chalk and cheese',
+        context: 'Comparisons.'
     },
     {
         american: 'are you kidding',
