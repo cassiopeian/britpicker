@@ -8,6 +8,10 @@ let translations = [
         british: 'noughties'
     },
     {
+        american: 'a dime a dozen',
+        british: 'ten a penny'
+    },
+    {
         american: 'a late lunch',
         british: 'tea'
     },
