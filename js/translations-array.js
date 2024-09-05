@@ -204,7 +204,8 @@ let translations = [
     {
         american: 'attorney',
         british: 'solicitor',
-        plural: 'solicitors'
+        plural: 'solicitors',
+        context: 'Legal expert.'
     },
     {
         american: 'attractive',
