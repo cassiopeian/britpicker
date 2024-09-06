@@ -2696,6 +2696,11 @@ let translations = [
         context: 'Tantrums.'
     },
     {
+        american: 'pitched a fit',
+        british: 'threw a wobbly',
+        context: 'Tantrums.'
+    },
+    {
         american: 'plantar wart',
         british: 'verruca',
         plural: 'verrucas'
