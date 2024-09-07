@@ -4065,6 +4065,10 @@ let translations = [
         british: 'banged on about'
     },
     {
+        american: 'went wrong',
+        british: 'went pear-shaped'
+    },
+    {
         american: 'were sitting there',
         british: 'were sat there'
     },
