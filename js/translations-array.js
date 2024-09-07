@@ -4078,6 +4078,10 @@ let translations = [
         alt: 'got stick'
     },
     {
+        american: 'what do they have',
+        british: 'what have they got'
+    },
+    {
         american: 'what do you have',
         british: 'what have you got'
     },
