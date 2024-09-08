@@ -4090,6 +4090,10 @@ let translations = [
         british: 'what has he got'
     },
     {
+        american: 'what does she have',
+        british: 'what has she got'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
