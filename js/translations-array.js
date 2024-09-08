@@ -3950,7 +3950,8 @@ let translations = [
     },
     {
         american: 'two weeks',
-        british: 'a fortnight'
+        british: 'a fortnight',
+        alt: 'fortnight'
     },
     {
         american: 'tylenol',
