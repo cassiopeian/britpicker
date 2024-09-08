@@ -3968,7 +3968,8 @@ let translations = [
     },
     {
         american: 'underwear',
-        british: 'pants'
+        british: 'pants',
+        alt: 'knickers'
     },
     {
         american: 'uniform',
