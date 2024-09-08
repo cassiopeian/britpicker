@@ -1695,7 +1695,8 @@ let translations = [
     },
     {
         american: 'heavy cream',
-        british: 'double cream'
+        british: 'double cream',
+        context: 'Dairy products.'
     },
     {
         american: 'he hadn\'t',
