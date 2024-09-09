@@ -3910,15 +3910,18 @@ let translations = [
     },
     {
         american: 'turn up',
-        british: 'rock up'
+        british: 'rock up',
+        context: 'Making an appearance.'
     },
     {
         american: 'turned up',
-        british: 'rocked up'
+        british: 'rocked up',
+        context: 'Making an appearance.'
     },
     {
         american: 'turns up',
-        british: 'rocks up'
+        british: 'rocks up',
+        context: 'Making an appearance.'
     },
     {
         american: 'twelfth grade',
