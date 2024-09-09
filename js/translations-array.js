@@ -3919,6 +3919,11 @@ let translations = [
         context: 'Making an appearance.'
     },
     {
+        american: 'turning up',
+        british: 'rocking up',
+        context: 'Making an appearance.'
+    },
+    {
         american: 'turns up',
         british: 'rocks up',
         context: 'Making an appearance.'
