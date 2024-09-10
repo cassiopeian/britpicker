@@ -1631,6 +1631,12 @@ let translations = [
         british: 'got'
     },
     {
+        american: 'gps',
+        british: 'satnav',
+        plural: 'satnavs',
+        abbreviation: true
+    },
+    {
         american: 'grandma',
         british: 'nan',
         plural: 'nans'
