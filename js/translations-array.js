@@ -1634,6 +1634,7 @@ let translations = [
         american: 'gps',
         british: 'satnav',
         plural: 'satnavs',
+        context: 'Navigation.',
         abbreviation: true
     },
     {
