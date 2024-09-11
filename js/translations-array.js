@@ -629,7 +629,8 @@ let translations = [
     },
     {
         american: 'caught on to',
-        british: 'rumbled'
+        british: 'rumbled',
+        context: 'Discovery.'
     },
     {
         american: 'cell phone',
