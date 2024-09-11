@@ -615,17 +615,17 @@ let translations = [
         plural: 'moggies'
     },
     {
-        american: 'catsup',
-        british: 'ketchup',
-        plural: 'ketchups'
-    },
-    {
         // cat pan
         american: 'moggy pan',
         british: 'litter tray',
         plural: 'litter trays',
         typed: 'cat pan',
         typedplural: 'cat pans'
+    },
+    {
+        american: 'catsup',
+        british: 'ketchup',
+        plural: 'ketchups'
     },
     {
         american: 'cell phone',
