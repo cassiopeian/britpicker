@@ -628,6 +628,10 @@ let translations = [
         plural: 'ketchups'
     },
     {
+        american: 'caught on to',
+        british: 'rumbled'
+    },
+    {
         american: 'cell phone',
         british: 'phone',
         plural: 'phones',
