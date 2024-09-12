@@ -651,7 +651,8 @@ let translations = [
     },
     {
         american: 'checkers',
-        british: 'draughts'
+        british: 'draughts',
+        context: 'Board games.'
     },
     {
         american: 'checking account',
