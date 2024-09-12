@@ -711,7 +711,8 @@ let translations = [
     {
         american: 'class',
         british: 'lesson',
-        plural: 'lessons'
+        plural: 'lessons',
+        context: 'School sessions.'
     },
     {
         american: 'cleat',
