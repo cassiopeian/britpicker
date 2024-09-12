@@ -657,7 +657,8 @@ let translations = [
     {
         american: 'checking account',
         british: 'current account',
-        plural: 'current accounts'
+        plural: 'current accounts',
+        context: 'Banking.'
     },
     {
         american: 'checkout',
