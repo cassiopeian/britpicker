@@ -701,7 +701,8 @@ let translations = [
     {
         american: 'chip',
         british: 'crisp',
-        plural: 'crisps'
+        plural: 'crisps',
+        context: 'Thin snacks, often fried.'
     },
     {
         american: 'cilantro',
