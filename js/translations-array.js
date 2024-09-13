@@ -129,7 +129,9 @@ let translations = [
     {
         american: 'appetizer',
         british: 'starter',
-        plural: 'starters'
+        plural: 'starters',
+        alt: 'entrée',
+        altplural: 'entrées'
     },
     {
         american: 'apples and oranges',
