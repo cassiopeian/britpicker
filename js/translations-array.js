@@ -1924,6 +1924,10 @@ let translations = [
         context: 'Foes.'
     },
     {
+        american: 'jizz',
+        british: 'spunk'
+    },
+    {
         american: 'john hancock',
         british: 'moniker',
         plural: 'monikers'
