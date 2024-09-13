@@ -127,6 +127,11 @@ let translations = [
         british: 'a flat'
     },
     {
+        american: 'appetizer',
+        british: 'starter',
+        plural: 'starters'
+    },
+    {
         american: 'apples and oranges',
         british: 'chalk and cheese',
         context: 'Comparisons.'
