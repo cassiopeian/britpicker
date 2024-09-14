@@ -4137,6 +4137,10 @@ let translations = [
         british: 'what has she got'
     },
     {
+        american: 'whatchamacallit',
+        british: 'wossname'
+    },
+    {
         american: 'while',
         british: 'whilst'
     },
