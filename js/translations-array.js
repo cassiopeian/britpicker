@@ -3712,6 +3712,7 @@ let translations = [
     {
         american: 'that\'s bullshit',
         british: 'come off it',
+        alt: 'you\'re having a laugh',
         context: 'Exasperation.'
     },
     {
