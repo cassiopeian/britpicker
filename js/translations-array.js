@@ -4138,7 +4138,8 @@ let translations = [
     },
     {
         american: 'whatchamacallit',
-        british: 'wossname'
+        british: 'wossname',
+        plural: 'wossnames'
     },
     {
         american: 'while',
