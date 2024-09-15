@@ -751,7 +751,8 @@ let translations = [
     },
     {
         american: 'community service',
-        british: 'community payback'
+        british: 'community payback',
+        context: 'Punishment.'
     },
     {
         american: 'complain',
