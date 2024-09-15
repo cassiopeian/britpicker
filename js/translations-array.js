@@ -3747,7 +3747,9 @@ let translations = [
     {
         american: 'thingy',
         british: 'wotsit',
-        plural: 'wotsits'
+        plural: 'wotsits',
+        alt: 'wossname',
+        altplural: 'wossnames'
     },
     {
         american: 'think',
