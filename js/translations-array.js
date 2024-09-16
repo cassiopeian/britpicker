@@ -379,7 +379,8 @@ let translations = [
     },
     {
         american: 'bipoc',
-        british: 'bame'
+        british: 'bame',
+        context: 'Minority groups.'
     },
     {
         american: 'blackjack',
