@@ -378,6 +378,10 @@ let translations = [
         plural: 'hoardings'
     },
     {
+        american: 'bipoc',
+        british: 'bame'
+    },
+    {
         american: 'blackjack',
         british: 'pontoon',
         context: 'Card game.'
