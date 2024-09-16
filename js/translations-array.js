@@ -3552,7 +3552,8 @@ let translations = [
         british: 'pram',
         plural: 'prams',
         alt: 'pushchair',
-        altplural: 'pushchairs'
+        altplural: 'pushchairs',
+        context: 'Baby carriages.'
     },
     {
         american: 'student',
