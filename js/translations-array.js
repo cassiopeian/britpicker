@@ -3317,6 +3317,11 @@ let translations = [
         alt: 'tad'
     },
     {
+        american: 'sleeveless shirt',
+        british: 'vest',
+        plural: 'vests'
+    },
+    {
         american: 'sleigh',
         british: 'sledge',
         plural: 'sledges'
