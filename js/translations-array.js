@@ -3848,7 +3848,8 @@ let translations = [
     },
     {
         american: 'touchy',
-        british: 'tetchy'
+        british: 'tetchy',
+        context: 'Petulance.'
     },
     {
         american: 'toward',
