@@ -4050,7 +4050,8 @@ let translations = [
     {
         american: 'vacuum',
         british: 'hoover',
-        plural: 'hoovers'
+        plural: 'hoovers',
+        context: 'Cleaning.'
     },
     {
         american: 'vagina',
