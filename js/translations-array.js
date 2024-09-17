@@ -4220,7 +4220,8 @@ let translations = [
     {
         american: 'yard',
         british: 'garden',
-        plural: 'gardens'
+        plural: 'gardens',
+        context: 'Grass.'
     },
     {
         american: 'yellow light',
