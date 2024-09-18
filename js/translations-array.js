@@ -3423,7 +3423,8 @@ let translations = [
     },
     {
         american: 'solitaire',
-        british: 'patience'
+        british: 'patience',
+        context: 'Card game.'
     },
     {
         american: 'sorta',
