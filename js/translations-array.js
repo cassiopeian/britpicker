@@ -3525,7 +3525,8 @@ let translations = [
     {
         american: 'store',
         british: 'shop',
-        plural: 'shops'
+        plural: 'shops',
+        context: 'Retail.'
     },
     {
         american: 'storefront',
