@@ -4259,7 +4259,8 @@ let translations = [
     {
         american: 'zipper',
         british: 'zip',
-        plural: 'zips'
+        plural: 'zips',
+        context: 'Haberdashery.'
     },
     {
         american: 'zucchini',
