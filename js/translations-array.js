@@ -1514,7 +1514,8 @@ let translations = [
     },
     {
         american: 'furious',
-        british: 'fuming'
+        british: 'fuming',
+        context: 'Anger.'
     },
     {
         american: 'furnace',
