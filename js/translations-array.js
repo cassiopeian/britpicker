@@ -1513,6 +1513,10 @@ let translations = [
         plural: 'double mattresses'
     },
     {
+        american: 'furious',
+        british: 'fuming'
+    },
+    {
         american: 'furnace',
         british: 'boiler',
         plural: 'boilers'
