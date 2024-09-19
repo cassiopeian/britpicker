@@ -1876,6 +1876,11 @@ let translations = [
         plural: 'intervals'
     },
     {
+        american: 'irritated',
+        british: 'peeved',
+        context: 'Frustration.'
+    },
+    {
         american: 'isn\'t it',
         british: 'innit'
     },
