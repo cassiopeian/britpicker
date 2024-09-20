@@ -1677,7 +1677,8 @@ let translations = [
     {
         american: 'green thumb',
         british: 'green fingers',
-        plural: 'green fingers'
+        plural: 'green fingers',
+        context: 'Gardening.'
     },
     {
         american: 'grifter',
