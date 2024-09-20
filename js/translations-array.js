@@ -1803,7 +1803,8 @@ let translations = [
     {
         american: 'hottie',
         british: 'totty',
-        plural: 'totties'
+        plural: 'totties',
+        context: 'Attractive people.'
     },
     {
         american: 'hungry',
