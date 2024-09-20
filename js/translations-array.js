@@ -1759,7 +1759,8 @@ let translations = [
         british: 'trollop',
         plural: 'trollops',
         alt: 'tart',
-        altplural: 'tarts'
+        altplural: 'tarts',
+        context: 'Insult.'
     },
     {
         american: 'hobo',
