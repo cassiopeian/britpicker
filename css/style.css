@@ -242,7 +242,9 @@ main {
     z-index: 2;
 }
 .edit {
-    display: block;
+    display: flex;
+    align-items: center;
+    justify-content: left;
     font-size: .95rem;
     letter-spacing: .05rem;
     text-align: left;
@@ -252,7 +254,7 @@ main {
     white-space: nowrap;
     width: 100%;
     margin: 0;
-    padding: 4px 6px;
+    padding: 4px 8px;
     border: none;
     cursor: pointer;
 }
