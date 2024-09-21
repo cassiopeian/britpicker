@@ -323,7 +323,7 @@ function tagEdit(secondPhrase) {
 }
 
 $(document).on('click', '.edit', function() {
-    let updatedWord = $(this).html();
+    let updatedWord = $(this).children('span').html();
     let copiedIndex = $(this).parent().siblings('span').html();
 
     // replace the highlighted word with the selected edit
