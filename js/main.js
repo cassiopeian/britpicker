@@ -299,9 +299,10 @@ $(document).on({
 $(document).on('click', 'mark', function() {
     let thisDropdown = $(this).siblings('.edits-container');
     let altOption = $(this).siblings('.edits-container').children('button:nth-child(2)');
+    let altOptionText = $(this).siblings('.edits-container').children('button:nth-child(2)').children('span');
 
     // if there is no alt translation
-    if (altOption.html() === '') {
+    if (altOptionText.html() === '') {
         // hide the empty button
         $(altOption).css('display', 'none');
     }
