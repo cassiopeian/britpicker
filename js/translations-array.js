@@ -1621,7 +1621,8 @@ let translations = [
     },
     {
         american: 'goes ballistic',
-        british: 'goes spare'
+        british: 'goes spare',
+        context: 'Anger.'
     },
     {
         american: 'goes on about',
