@@ -1637,7 +1637,8 @@ let translations = [
     {
         american: 'good grief',
         british: 'gordon bennett',
-        plural: 'gordon bennetts'
+        plural: 'gordon bennetts',
+        context: 'Interjection.'
     },
     {
         american: 'good guy',
