@@ -3881,7 +3881,8 @@ let translations = [
     },
     {
         american: 'track pants',
-        british: 'trackies'
+        british: 'trackies',
+        context: 'Sports apparel.'
     },
     {
         american: 'traffic jam',
