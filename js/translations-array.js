@@ -3801,7 +3801,8 @@ let translations = [
     {
         american: 'third wheel',
         british: 'gooseberry',
-        plural: 'gooseberries'
+        plural: 'gooseberries',
+        context: 'Superfluousness.'
     },
     {
         american: 'thought',
