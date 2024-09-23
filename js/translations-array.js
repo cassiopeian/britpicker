@@ -3863,7 +3863,8 @@ let translations = [
     },
     {
         american: 'total',
-        british: 'proper'
+        british: 'proper',
+        context: 'Absolute, utter.'
     },
     {
         american: 'touchy',
