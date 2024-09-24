@@ -3224,7 +3224,8 @@ let translations = [
     },
     {
         american: 'shady',
-        british: 'dodgy'
+        british: 'dodgy',
+        context: 'Something questionable.'
     },
     {
         american: 'she hadn\'t',
