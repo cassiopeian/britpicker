@@ -3588,7 +3588,8 @@ let translations = [
     {
         american: 'study',
         british: 'revise',
-        plural: 'revises'
+        plural: 'revises',
+        context: 'Education.'
     },
     {
         american: 'studying',
