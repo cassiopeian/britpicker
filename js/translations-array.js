@@ -3360,7 +3360,8 @@ let translations = [
         british: 'flutter',
         plural: 'flutters',
         alt: 'punt',
-        altplural: 'punts'
+        altplural: 'punts',
+        context: 'Gambling.'
     },
     {
         american: 'smart',
