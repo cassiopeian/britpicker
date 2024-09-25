@@ -526,7 +526,8 @@ let translations = [
     {
         american: 'busy signal',
         british: 'engaged tone',
-        plural: 'engaged tones'
+        plural: 'engaged tones',
+        context: 'Phones.'
     },
     {
         american: 'busybody',
