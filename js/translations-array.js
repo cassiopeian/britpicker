@@ -685,7 +685,8 @@ let translations = [
     {
         american: 'chat',
         british: 'chin-wag',
-        plural: 'chin-wags'
+        plural: 'chin-wags',
+        context: 'Conversation.'
     },
     {
         american: 'child',
