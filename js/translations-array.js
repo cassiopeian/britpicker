@@ -745,7 +745,8 @@ let translations = [
         british: 'university',
         plural: 'universities',
         alt: 'uni',
-        altplural: 'unis'
+        altplural: 'unis',
+        context: 'Higher education.'
     },
     {
         american: 'comforter',
