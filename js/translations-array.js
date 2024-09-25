@@ -625,7 +625,8 @@ let translations = [
     {
         american: 'cat',
         british: 'moggy',
-        plural: 'moggies'
+        plural: 'moggies',
+        context: 'Meow.'
     },
     {
         // cat pan
