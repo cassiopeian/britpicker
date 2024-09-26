@@ -811,7 +811,8 @@ let translations = [
     },
     {
         american: 'copacetic',
-        british: 'just ducky'
+        british: 'just ducky',
+        alt: 'sound'
     },
     {
         american: 'cornstarch',
