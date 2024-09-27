@@ -976,7 +976,9 @@ let translations = [
     {
         american: 'dickhead',
         british: 'bellend',
-        plural: 'bellends'
+        plural: 'bellends',
+        alt: 'knob',
+        altplural: 'knobs'
     },
     {
         american: 'dirty',
