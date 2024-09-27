@@ -3291,6 +3291,10 @@ let translations = [
         plural: 'grated cheeses'
     },
     {
+        american: 'shut up',
+        british: 'shut it'
+    },
+    {
         american: 'side-view mirror',
         british: 'wing mirror',
         plural: 'wing mirrors'
