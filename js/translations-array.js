@@ -955,6 +955,7 @@ let translations = [
     {
         american: 'devastated',
         british: 'gutted',
+        alt: 'knocked for six',
         context: 'Mood.'
     },
     {
