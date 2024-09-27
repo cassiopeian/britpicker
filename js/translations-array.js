@@ -945,7 +945,8 @@ let translations = [
     },
     {
         american: 'desperate',
-        british: 'gagging'
+        british: 'gagging',
+        alt: 'keen'
     },
     {
         american: 'detour',
