@@ -3292,7 +3292,8 @@ let translations = [
     },
     {
         american: 'shut up',
-        british: 'shut it'
+        british: 'shut it',
+        alt: 'belt up'
     },
     {
         american: 'side-view mirror',
