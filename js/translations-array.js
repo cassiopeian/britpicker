@@ -3400,7 +3400,8 @@ let translations = [
         british: 'trainer',
         plural: 'trainers',
         alt: 'plimsoll',
-        altplural: 'plimsolls'
+        altplural: 'plimsolls',
+        context: 'Footwear.'
     },
     {
         american: 'snob',
