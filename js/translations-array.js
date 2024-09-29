@@ -3406,7 +3406,9 @@ let translations = [
     {
         american: 'snob',
         british: 'toff',
-        plural: 'toffs'
+        plural: 'toffs',
+        alt: 'nob',
+        altplural: 'nobs'
     },
     {
         american: 'snuck',
