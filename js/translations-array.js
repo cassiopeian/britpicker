@@ -3670,6 +3670,12 @@ let translations = [
         abbreviation: true
     },
     {
+        american: 'sweater',
+        british: 'jumper',
+        plural: 'jumpers',
+        context: 'Apparel.'
+    },
+    {
         american: 'sweatpant',
         british: 'track bottom',
         plural: 'track bottoms',
