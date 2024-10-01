@@ -3683,6 +3683,15 @@ let translations = [
         altplural: 'jogging bottoms'
     },
     {
+        // sweater vest
+        american: 'jumper vest',
+        british: 'sleeveless jumper',
+        plural: 'sleeveless jumpers',
+        typed: 'sweater vest',
+        typedplural: 'sweater vests',
+        context: 'Apparel.'
+    },
+    {
         american: 'tacky',
         british: 'naff',
         context: 'Poor taste.'
