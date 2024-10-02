@@ -2143,6 +2143,11 @@ let translations = [
         altplural: 'scousers'
     },
     {
+        american: 'long johns',
+        british: 'onesie',
+        plural: 'onesies'
+    },
+    {
         american: 'loose change',
         british: 'shrapnel',
         context: 'Coins.'
