@@ -2886,6 +2886,8 @@ let translations = [
         american: 'puffer vest',
         british: 'gilet',
         plural: 'gilets',
+        alt: 'body warmer',
+        altplural: 'body warmers'
     },
     {
         american: 'pullover',
