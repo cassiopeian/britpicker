@@ -2883,6 +2883,11 @@ let translations = [
         british: 'public transport'
     },
     {
+        american: 'puffer vest',
+        british: 'gilet',
+        plural: 'gilets',
+    },
+    {
         american: 'pullover',
         british: 'jumper',
         plural: 'jumpers'
