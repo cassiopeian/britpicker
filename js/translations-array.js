@@ -2615,6 +2615,10 @@ let translations = [
         altplural: 'power points'
     },
     {
+        american: 'overalls',
+        british: 'dungarees'
+    },
+    {
         american: 'overpass',
         british: 'flyover',
         plural: 'flyovers'
