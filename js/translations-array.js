@@ -315,6 +315,12 @@ let translations = [
         altplural: 'cozzies'
     },
     {
+        american: 'bathrobe',
+        british: 'dressing gown',
+        plural: 'dressing gowns',
+        context: 'Loungewear.'
+    },
+    {
         american: 'bathroom',
         british: 'toilet',
         plural: 'toilets',
