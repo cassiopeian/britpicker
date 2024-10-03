@@ -2616,7 +2616,8 @@ let translations = [
     },
     {
         american: 'overalls',
-        british: 'dungarees'
+        british: 'dungarees',
+        context: 'Apparel.'
     },
     {
         american: 'overpass',
