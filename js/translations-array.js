@@ -178,7 +178,8 @@ let translations = [
     {
         american: 'ass',
         british: 'arse',
-        plural: 'arses'
+        plural: 'arses',
+        context: 'Butts or buttheads.'
     },
     {
         american: 'assistance program',
