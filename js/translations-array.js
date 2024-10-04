@@ -192,7 +192,8 @@ let translations = [
     },
     {
         american: 'astounded',
-        british: 'gobsmacked'
+        british: 'gobsmacked',
+        alt: 'staggered'
     },
     {
         american: 'at a disadvantage',
