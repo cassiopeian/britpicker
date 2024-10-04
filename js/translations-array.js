@@ -233,7 +233,8 @@ let translations = [
     },
     {
         american: 'an awesome',
-        british: 'a wicked'
+        british: 'a wicked',
+        alt: 'a brilliant'
     },
     {
         american: 'bachelor party',
