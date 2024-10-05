@@ -189,7 +189,8 @@ let translations = [
     {
         american: 'associate professor',
         british: 'reader',
-        plural: 'readers'
+        plural: 'readers',
+        context: 'Job title.'
     },
     {
         american: 'astounded',
