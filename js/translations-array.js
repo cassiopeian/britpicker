@@ -2581,7 +2581,13 @@ let translations = [
         american: 'on the fritz',
         british: 'on the blink',
         alt: 'knackered'
-    },{
+    },
+    {
+        american: 'on the prowl',
+        british: 'on the pull',
+        context: 'Finding a partner.'
+    },
+    {
         american: 'on welfare',
         british: 'on the dole'
     },
