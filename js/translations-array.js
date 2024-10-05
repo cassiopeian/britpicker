@@ -609,6 +609,11 @@ let translations = [
         context: 'Vegetable oil.'
     },
     {
+        american: 'canopy tent',
+        british: 'marquee',
+        plural: 'marquees'
+    },
+    {
         american: 'can\'t be bothered',
         british: 'can\'t be arsed',
         alt: 'can\'t be fussed'
