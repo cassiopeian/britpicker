@@ -2722,7 +2722,8 @@ let translations = [
     {
         american: 'period',
         british: 'full stop',
-        plural: 'full stops'
+        plural: 'full stops',
+        context: 'Punctuation.'
     },
     {
         american: 'persnickety',
