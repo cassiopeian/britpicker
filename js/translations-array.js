@@ -2815,7 +2815,8 @@ let translations = [
     {
         american: 'plastic wrap',
         british: 'cling film',
-        plural: 'cling films'
+        plural: 'cling films',
+        context: 'Food storage.'
     },
     {
         american: 'play hooky',
