@@ -2925,7 +2925,8 @@ let translations = [
     {
         american: 'pullover',
         british: 'jumper',
-        plural: 'jumpers'
+        plural: 'jumpers',
+        context: 'Sweaters.'
     },
     {
         american: 'punching bag',
