@@ -2941,7 +2941,8 @@ let translations = [
     {
         american: 'push-up',
         british: 'press-up',
-        plural: 'press-ups'
+        plural: 'press-ups',
+        context: 'Exercise.'
     },
     {
         american: 'putter',
