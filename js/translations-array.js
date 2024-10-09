@@ -2955,7 +2955,8 @@ let translations = [
     },
     {
         american: 'quiet down',
-        british: 'quieten down'
+        british: 'quieten down',
+        context: 'A command.'
     },
     {
         american: 'quieted',
