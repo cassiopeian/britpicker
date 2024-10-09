@@ -2946,7 +2946,8 @@ let translations = [
     },
     {
         american: 'putter',
-        british: 'potter'
+        british: 'potter',
+        context: 'Aimlessness, tinkering.'
     },
     {
         american: 'questionable',
