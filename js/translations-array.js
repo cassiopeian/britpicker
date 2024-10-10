@@ -3124,7 +3124,8 @@ let translations = [
     },
     {
         american: 'running for office',
-        british: 'standing for election'
+        british: 'standing for election',
+        context: 'Campaigning.'
     },
     {
         american: 'runs away',
