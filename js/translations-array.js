@@ -3073,7 +3073,8 @@ let translations = [
     },
     {
         american: 'right away',
-        british: 'straightaway'
+        british: 'straightaway',
+        context: 'Immediately.'
     },
     {
         american: 'ritzy',
