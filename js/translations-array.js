@@ -3010,7 +3010,8 @@ let translations = [
     },
     {
         american: 'ran for office',
-        british: 'stood for election'
+        british: 'stood for election',
+        context: 'Campaigning.'
     },
     {
         american: 'rappel',
