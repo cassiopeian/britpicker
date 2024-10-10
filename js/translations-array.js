@@ -3133,7 +3133,8 @@ let translations = [
     },
     {
         american: 'runs for office',
-        british: 'stands for election'
+        british: 'stands for election',
+        context: 'Campaigning.'
     },
     {
         american: 'rutabaga',
