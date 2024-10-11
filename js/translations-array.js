@@ -3471,7 +3471,8 @@ let translations = [
     {
         american: 'so good',
         british: 'mint',
-        alt: 'lush'
+        alt: 'lush',
+        context: 'Quality.'
     },
     {
         american: 'so nervous',
