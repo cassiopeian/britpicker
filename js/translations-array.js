@@ -3583,7 +3583,8 @@ let translations = [
     {
         american: 'station wagon',
         british: 'estate car',
-        plural: 'estate cars'
+        plural: 'estate cars',
+        context: 'Vehicles.'
     },
     {
         american: 'steal',
