@@ -3171,7 +3171,8 @@ let translations = [
         british: 'sarnie',
         plural: 'sarnies',
         alt: 'butty',
-        altplural: 'butties'
+        altplural: 'butties',
+        context: 'Food.'
     },
     {
         american: 'santa claus',
