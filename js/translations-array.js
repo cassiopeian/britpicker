@@ -3769,7 +3769,8 @@ let translations = [
     {
         american: 'takeout',
         british: 'takeaway',
-        plural: 'takeaways'
+        plural: 'takeaways',
+        context: 'Food.'
     },
     {
         american: 'talking about',
