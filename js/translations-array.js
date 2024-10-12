@@ -3754,7 +3754,8 @@ let translations = [
         british: 'chew',
         plural: 'chews',
         alt: 'fruit chew',
-        altplural: 'fruit chews'
+        altplural: 'fruit chews',
+        context: 'Candy.'
     },
     {
         american: 'tailpipe',
