@@ -3703,7 +3703,8 @@ let translations = [
     {
         american: 'superintendent',
         british: 'caretaker',
-        plural: 'caretakers'
+        plural: 'caretakers',
+        context: 'Custodians.'
     },
     {
         american: 'suspender',
