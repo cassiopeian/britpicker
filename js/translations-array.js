@@ -2905,7 +2905,8 @@ let translations = [
     },
     {
         american: 'pruning shears',
-        british: 'secateurs'
+        british: 'secateurs',
+        context: 'Garden tools.'
     },
     {
         american: 'public school',
