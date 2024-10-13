@@ -2875,7 +2875,8 @@ let translations = [
     {
         american: 'prep school',
         british: 'public school',
-        plural: 'public schools'
+        plural: 'public schools',
+        context: 'Prestigious, costly school.'
     },
     {
         american: 'pretentious',
