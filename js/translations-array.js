@@ -2874,8 +2874,8 @@ let translations = [
     },
     {
         american: 'prep school',
-        british: 'private school',
-        plural: 'private schools'
+        british: 'public school',
+        plural: 'public schools'
     },
     {
         american: 'pretentious',
