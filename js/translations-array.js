@@ -2985,7 +2985,8 @@ let translations = [
     {
         american: 'rain boot',
         british: 'wellie',
-        plural: 'wellies'
+        plural: 'wellies',
+        context: 'Footwear.'
     },
     {
         american: 'rain check',
