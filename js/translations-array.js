@@ -1070,7 +1070,8 @@ let translations = [
         british: 'pound',
         plural: 'pounds',
         alt: 'quid',
-        altplural: 'quid'
+        altplural: 'quid',
+        context: 'Currency.'
     },
     {
         american: 'domino effect',
