@@ -39,7 +39,7 @@ $('.us').on('click', function() {
 
 $('.uk').on('click', function() {
     // focus the british english text
-    $('#be').focus();
+    $('#be-text-wrap').focus();
 });
 
 // when the trash icon is clicked
