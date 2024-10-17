@@ -150,6 +150,12 @@ main {
     width: 1px;
     background-color: rgb(211, 211, 228);
 }
+#brit-icons-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 3rem;
+}
 .translator-icon {
     display: flex;
     align-items: center;
