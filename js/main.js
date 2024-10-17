@@ -275,7 +275,7 @@ $(document).on('keyup change input', '#ae', function() {
     }
 
     // join and display the words in the split British array
-    $('#be').html(beSplit.join(''));
+    $('#be-text-wrap').html(beSplit.join(''));
 });
 
 $(document).on({
