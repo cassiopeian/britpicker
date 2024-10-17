@@ -188,8 +188,15 @@ main {
     resize: none;
 }
 #be {
+    display: flex;
+    padding: 0;
+    border: none;
+}
+#be-text-wrap {
     border-left: none;
     border-radius: 0 0 8px 0;
+    width: 100%;
+    resize: none;
 }
 .context-box {
     display: none;
