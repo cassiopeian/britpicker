@@ -85,6 +85,26 @@ $('#highlight-toggle img').hover(
     }
 );
 
+$('#copy-translation').on('click', function() {
+    let output = $('#be').children();
+    let outputClone = output.clone();
+
+    // remove hidden info (i.e., context, edit options, index)
+    output.find('*').not(':visible').remove();
+
+    // create a variable for the stripped output text
+    let outputText = output.text();
+
+    // replace the original object with the clone
+    output.replaceWith(outputClone);
+    
+    if (navigator.clipboard) {
+        // send stripped output text to the clipboard
+        navigator.clipboard.writeText(outputText);
+    }
+
+});
+
 $(document).on('keyup change input', '#ae', function() {
     let capitalized;
     let uppercase;
