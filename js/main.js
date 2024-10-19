@@ -105,6 +105,19 @@ $('#copy-translation').on('click', function() {
 
 });
 
+// modify clipboard icon, on hover
+$('#copy-translation img').hover(
+    function() {
+        // prevent hover state on small screens
+        if ($(window).width() > 415) {
+            $(this).attr('src', './images/icons/blue-clipboard-filled.svg')
+        } 
+    },
+    function() {
+        $(this).attr('src', './images/icons/blue-clipboard.svg');
+    }
+);
+
 $(document).on('keyup change input', '#ae', function() {
     let capitalized;
     let uppercase;
