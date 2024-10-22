@@ -53,7 +53,7 @@ $('#clear-all').on('click', function() {
 $('#clear-all img').hover(
     function() {
         // prevent hover state on small screens
-        if ($(window).width() > 415) {
+        if ($(window).width() > 440) {
             $(this).attr('src', './images/icons/trash-filled.svg');
         }
     }, 
@@ -76,7 +76,7 @@ $('#highlight-toggle').on('click', function() {
 $('#highlight-toggle img').hover(
     function() {
         // prevent hover state on small screens
-        if ($(window).width() > 415) {
+        if ($(window).width() > 440) {
             $(this).attr('src', './images/icons/tilted-highlighter-filled.svg')
         } 
     },
@@ -109,7 +109,7 @@ $('#copy-translation').on('click', function() {
 $('#copy-translation img').hover(
     function() {
         // prevent hover state on small screens
-        if ($(window).width() > 415) {
+        if ($(window).width() > 440) {
             $(this).attr('src', './images/icons/blue-clipboard-filled.svg')
         } 
     },
