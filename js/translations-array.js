@@ -1284,7 +1284,8 @@ let translations = [
     },
     {
         american: 'excited',
-        british: 'buzzing'
+        british: 'buzzing',
+        context: 'Thrilled.'
     },
     {
         american: 'exclamation point',
