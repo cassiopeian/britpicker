@@ -846,6 +846,9 @@ footer {
         border-right: 1px solid rgb(211, 211, 228);
         border-radius: 0 0 0 0;
     }
+    #be-text-wrap {
+        border-radius: 0 0 0 0;
+    }
     #toggle-dialects {
         display: block;
     }
