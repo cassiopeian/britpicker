@@ -840,11 +840,13 @@ footer {
     .divider {
         display: none;
     }
-    #ae,
-    #be {
+    #ae {
         border-left: 1px solid rgb(211, 211, 228);
         border-right: 1px solid rgb(211, 211, 228);
         border-radius: 0 0 0 0;
+    }
+    #be {
+        border: none;
     }
     #be-text-wrap {
         border-left: 1px solid rgb(211, 211, 228);
