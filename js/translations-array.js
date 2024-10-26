@@ -1320,7 +1320,8 @@ let translations = [
     },
     {
         american: 'eyeglasses',
-        british: 'glasses'
+        british: 'specs',
+        alt: 'glasses'
     },
     {
         american: 'fall leaf',
