@@ -154,7 +154,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 3rem;
+    width: 3rem !important;
 }
 .translator-icon {
     display: flex;
