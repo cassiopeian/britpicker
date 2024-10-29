@@ -660,3 +660,6 @@ $('#yes-del').on('click', function() {
     // close the #deletion-confirmation popup
     $('#modal').css('display', 'none');
 });
+
+// set copyright year
+$('#copyright-year').html(new Date().getFullYear());
