@@ -1758,7 +1758,9 @@ let translations = [
     {
         american: 'hassle',
         british: 'palaver',
-        plural: 'palavers'
+        plural: 'palavers',
+        alt: 'faff',
+        altplural: 'faffs'
     },
     {
         american: 'have a look',
