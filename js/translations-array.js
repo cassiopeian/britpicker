@@ -1760,7 +1760,8 @@ let translations = [
         british: 'palaver',
         plural: 'palavers',
         alt: 'faff',
-        altplural: 'faffs'
+        altplural: 'faffs',
+        context: 'Annoyance.'
     },
     {
         american: 'have a look',
