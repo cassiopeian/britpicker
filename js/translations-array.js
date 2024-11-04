@@ -1783,7 +1783,8 @@ let translations = [
     },
     {
         american: 'hey',
-        british: 'oi'
+        british: 'oi',
+        context: 'Interjection.'
     },
     {
         american: 'hickey',
