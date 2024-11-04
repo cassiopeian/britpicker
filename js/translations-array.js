@@ -1743,7 +1743,8 @@ let translations = [
         british: 'toilet',
         plural: 'toilets',
         alt: 'cloakroom',
-        altplural: 'cloakrooms'
+        altplural: 'cloakrooms',
+        context: 'Powder room.'
     },
     {
         american: 'hang up',
