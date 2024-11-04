@@ -1807,7 +1807,8 @@ let translations = [
     {
         american: 'hobo',
         british: 'tramp',
-        plural: 'tramps'
+        plural: 'tramps',
+        context: 'Vagrants.'
     },
     {
         american: 'hoity-toity',
