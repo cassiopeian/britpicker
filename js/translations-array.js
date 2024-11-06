@@ -1872,7 +1872,8 @@ let translations = [
         british: 'ice lolly',
         plural: 'ice lollies',
         alt: 'lolly',
-        altplural: 'lollies'
+        altplural: 'lollies',
+        context: 'Confections.'
     },
     {
         american: 'idiot',
