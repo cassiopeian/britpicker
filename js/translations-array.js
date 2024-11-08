@@ -2211,6 +2211,11 @@ let translations = [
         plural: 'timber yards'
     },
     {
+        american: 'lunatic',
+        british: 'bedlamite',
+        plural: 'bedlamites'
+    },
+    {
         american: 'made fun of',
         british: 'took the piss out of'
     },
