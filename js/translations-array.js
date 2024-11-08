@@ -2355,7 +2355,8 @@ let translations = [
         british: 'scrounger',
         plural: 'scroungers',
         alt: 'cadger',
-        altplural: 'cadgers'
+        altplural: 'cadgers',
+        context: 'Freeloaders.'
     },
     {
         american: 'morgue',
