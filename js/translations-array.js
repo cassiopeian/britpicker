@@ -2403,7 +2403,8 @@ let translations = [
     {
         american: 'moxie',
         british: 'bottle',
-        alt: 'pecker'
+        alt: 'pecker',
+        context: 'Courage.'
     },
     {
         american: 'muffler',
