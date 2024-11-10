@@ -121,6 +121,7 @@ $('#copy-translation img').hover(
 $(document).on('keyup change input', '#ae', function() {
     let capitalized;
     let uppercase;
+    let oneOfTwoCapitalized;
 
     // turn #ae into an array of words, split at non-words
     let aeSplit = $('#ae').val().split(/([_\W])/);
@@ -175,9 +176,11 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (prevWordExists 
                 && prevWord.charAt(0).match(/[A-Z]/) 
                 && prevWord.charAt(1).match(/[a-z]/)
-                && word === word.toLowerCase()) {
+                && word === word.toLowerCase()
+                && twoWords.toLowerCase() === phrase.american) {
                 uppercase = false;
-                capitalized = true;
+                capitalized = false;
+                oneOfTwoCapitalized = true;
             } else if (beforePrevExists
                 && prevWordExists
                 && beforePrev.charAt(0).match(/[A-Z]/) 
@@ -196,6 +199,8 @@ $(document).on('keyup change input', '#ae', function() {
         function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
 
             let mismatches = ['a caravan', 'a cash machine', 'a four-by-four', 'caravan', 'cash machine', 'four-by-four', 'satnav'];
+            let britPhraseSplit = britPhrase.split(' ');
+            let firstBritWord = britPhraseSplit[0];
 
             if (mismatches.includes(britPhrase)) {
                 // lowercase translations from abbreviations
@@ -208,6 +213,13 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (capitalized === true) {
                 // cap the first letter, and make the rest lowercase
                 britPhrase = britPhrase[0].toUpperCase() + britPhrase.slice(1);
+                usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
+                if (altPhrase.length > 0) {
+                    altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
+                }
+            } else if (oneOfTwoCapitalized === true) {
+                // cap the first letter of the phrase's first word
+                britPhrase = firstBritWord[0].toUpperCase() + britPhrase.slice(1);
                 usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
                 if (altPhrase.length > 0) {
                     altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
