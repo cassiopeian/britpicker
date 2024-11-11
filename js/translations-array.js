@@ -225,7 +225,8 @@ let translations = [
     },
     {
         american: 'attractive',
-        british: 'lush'
+        british: 'lush',
+        alt: 'peng'
     },
     {
         american: 'aughts',
