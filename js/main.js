@@ -122,6 +122,7 @@ $(document).on('keyup change input', '#ae', function() {
     let capitalized;
     let uppercase;
     let oneOfTwoCapitalized;
+    let oneOfThreeCapitalized;
 
     // turn #ae into an array of words, split at non-words
     let aeSplit = $('#ae').val().split(/([_\W])/);
@@ -186,9 +187,12 @@ $(document).on('keyup change input', '#ae', function() {
                 && beforePrev.charAt(0).match(/[A-Z]/) 
                 && beforePrev.charAt(1).match(/[a-z]/) 
                 && prevWord === prevWord.toLowerCase() 
-                && word === word.toLowerCase()) {
+                && word === word.toLowerCase()
+                && threeWords.toLowerCase() === phrase.american) {
                 uppercase = false;
-                capitalized = true;
+                capitalized = false;
+                oneOfTwoCapitalized = false;
+                oneOfThreeCapitalized = true;
             } else {
                 uppercase = false;
                 capitalized = false;
@@ -218,6 +222,13 @@ $(document).on('keyup change input', '#ae', function() {
                     altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
                 }
             } else if (oneOfTwoCapitalized === true) {
+                // cap the first letter of the phrase's first word
+                britPhrase = firstBritWord[0].toUpperCase() + britPhrase.slice(1);
+                usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
+                if (altPhrase.length > 0) {
+                    altPhrase = altPhrase[0].toUpperCase() + altPhrase.slice(1);
+                }
+            } else if (oneOfThreeCapitalized === true) {
                 // cap the first letter of the phrase's first word
                 britPhrase = firstBritWord[0].toUpperCase() + britPhrase.slice(1);
                 usPhrase = usPhrase[0].toUpperCase() + usPhrase.slice(1);
