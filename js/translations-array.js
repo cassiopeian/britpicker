@@ -207,13 +207,15 @@ let translations = [
         plural: 'cash machines',
         alt: 'cashpoint',
         altplural: 'cashpoints',
-        abbreviation: true
+        abbreviation: true,
+        context: 'Money.'
     },
     {
         american: 'an atm',
         british: 'a cash machine',
         alt: 'a cashpoint',
-        abbreviation: true
+        abbreviation: true,
+        context: 'Money.'
     },
     {
         american: 'attorney',
