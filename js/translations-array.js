@@ -235,7 +235,8 @@ let translations = [
     {
         american: 'awesome',
         british: 'wicked',
-        alt: 'brilliant'
+        alt: 'brilliant',
+        context: 'Extraordinary.'
     },
     {
         american: 'an awesome',
