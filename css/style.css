@@ -100,6 +100,15 @@ h1 a {
     position: absolute;
     z-index: 5;
 }
+#gherkin-pattern {
+    height: 100%;
+    width: 100%;
+    background-image: url('../images/gherkinesque-pattern.svg');
+    background-repeat: repeat;
+    background-size: 5.7rem;
+    position: absolute;
+    opacity: 51%;
+}
 
 /* 4. MAIN */
 
