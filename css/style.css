@@ -74,6 +74,9 @@ p {
 /* 3. HEADER */
 
 header {
+    display: flex;
+    height: 144px;
+    position: relative;
     background-color: rgb(60, 95, 150);
 }
 h1 {
