@@ -80,7 +80,7 @@ header {
     background-color: rgb(60, 95, 150);
 }
 h1 {
-    margin: 2.5rem 0;
+    margin: 2.5rem auto;
     text-align: center;
     position: relative;
     z-index: 10;
