@@ -3146,7 +3146,8 @@ let translations = [
     },
     {
         american: 'running away',
-        british: 'scarpering'
+        british: 'scarpering',
+        alt: 'doing a runner'
     },
     {
         american: 'running for office',
