@@ -2145,7 +2145,8 @@ let translations = [
     {
         american: 'lie',
         british: 'porky',
-        plural: 'porkies'
+        plural: 'porkies',
+        context: 'Fabrication.'
     },
     {
         american: 'line',
