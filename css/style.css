@@ -867,6 +867,7 @@ footer {
     #intro {
         flex-direction: column-reverse;
         align-items: center;
+        margin-bottom: 3rem;
     }
     #intro p {
         margin: 1rem 0;
