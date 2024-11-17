@@ -407,7 +407,7 @@ $(document).on('click', '.edit', function() {
 
     // replace the highlighted word with the selected edit
     beSplit.splice(copiedIndex, 1, tagEdit(updatedWord));
-    $('#be').html(beSplit.join(''));
+    $('#be-text-wrap').html(beSplit.join(''));
 });
 
 $('#toggle-dialects').on('click', function() {
