@@ -1583,7 +1583,8 @@ let translations = [
     },
     {
         american: 'gas',
-        british: 'petrol'
+        british: 'petrol',
+        context: 'Fuel.'
     },
     {
         // gas pedal
