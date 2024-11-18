@@ -4380,7 +4380,8 @@ let translations = [
     {
         american: 'yellow light',
         british: 'amber light',
-        plural: 'amber lights'
+        plural: 'amber lights',
+        context: 'Traffic lights.'
     },
     {
         american: 'yield',
