@@ -2151,7 +2151,8 @@ let translations = [
     {
         american: 'line',
         british: 'queue',
-        plural: 'queues'
+        plural: 'queues',
+        context: 'People, waiting.'
     },
     {
         american: 'liquor store',
