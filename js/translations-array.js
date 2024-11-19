@@ -1471,7 +1471,8 @@ let translations = [
         british: 'muppet',
         plural: 'muppets',
         alt: 'mug',
-        altplural: 'mugs'
+        altplural: 'mugs',
+        context: 'Simpletons.'
     },
     {
         american: 'four thirty',
