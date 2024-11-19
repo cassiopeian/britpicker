@@ -1536,7 +1536,8 @@ let translations = [
     },
     {
         american: 'frosting',
-        british: 'icing'
+        british: 'icing',
+        context: 'Confectionaries.'
     },
     {
         american: 'full-size bed',
