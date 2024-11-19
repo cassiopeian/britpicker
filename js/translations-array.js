@@ -1522,7 +1522,8 @@ let translations = [
     {
         american: 'fry',
         british: 'chip',
-        plural: 'chips'
+        plural: 'chips',
+        context: 'French fries.'
     },
     {
         american: 'front desk',
