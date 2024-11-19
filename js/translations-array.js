@@ -1365,7 +1365,8 @@ let translations = [
     {
         american: 'field',
         british: 'pitch',
-        plural: 'pitches'
+        plural: 'pitches',
+        context: 'Playing fields.'
     },
     {
         american: 'fifth grade',
