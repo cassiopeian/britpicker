@@ -1507,7 +1507,8 @@ let translations = [
     {
         american: 'french press',
         british: 'cafetière',
-        plural: 'cafetières'
+        plural: 'cafetières',
+        context: 'Coffee.'
     },
     {
         american: 'freshman',
