@@ -1351,7 +1351,8 @@ let translations = [
     },
     {
         american: 'fdic',
-        british: 'fscs'
+        british: 'fscs',
+        context: 'Banking.'
     },
     {
         american: 'fell over',
