@@ -1260,7 +1260,8 @@ let translations = [
     {
         american: 'emergency brake',
         british: 'handbrake',
-        plural: 'handbrakes'
+        plural: 'handbrakes',
+        context: 'Vehicles.'
     },
     {
         american: 'english muffin',
