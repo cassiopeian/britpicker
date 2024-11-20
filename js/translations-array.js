@@ -1294,7 +1294,8 @@ let translations = [
     {
         american: 'exclamation point',
         british: 'exclamation mark',
-        plural: 'exclamation marks'
+        plural: 'exclamation marks',
+        context: 'Punctuation.'
     },
     {
         american: 'exhausted',
