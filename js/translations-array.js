@@ -990,7 +990,8 @@ let translations = [
     },
     {
         american: 'dibs',
-        british: 'bagsy'
+        british: 'bagsy',
+        context: 'Claims.'
     },
     {
         american: 'dick',
