@@ -1106,7 +1106,8 @@ let translations = [
     {
         american: 'douchebag',
         british: 'sketchead',
-        plural: 'sketcheads'
+        plural: 'sketcheads',
+        context: 'Contemptible people.'
     },
     {
         american: 'down the drain',
