@@ -359,19 +359,25 @@ $(document).on('keyup change input', '#ae', function() {
 
 $(document).on({
     // when hovering over 'mark' elements
-    mouseenter: function() {
-        let thisContextBox = $(this).parent().siblings('.context-box');
-        let clarification = $(this).parent().siblings('.context-box').children('p');
+    mouseenter: function(event) {
+        // check that the pointer is a mouse
+        if (event.pointerType !== 'pen' && event.pointerType !== 'touch') {
+            let thisContextBox = $(this).parent().siblings('.context-box');
+            let clarification = $(this).parent().siblings('.context-box').children('p');
 
-        // if the context info isn't empty
-        if (clarification.text() !== 'Context: ') {
-            // display the context info
-            thisContextBox.css('display', 'block');
+            // if the context info isn't empty
+            if (clarification.text() !== 'Context: ') {
+                // display the context info
+                thisContextBox.css('display', 'block');
+            }
         }
     },
-    mouseleave: function() {
-        // hide the context info
-        $(this).parent().siblings('.context-box').css('display', 'none')
+    mouseleave: function(event) {
+        // check that the pointer is a mouse
+        if (event.pointerType !== 'pen' && event.pointerType !== 'touch') {
+            // hide the context info
+            $(this).parent().siblings('.context-box').css('display', 'none');
+        }
     }
 }, 'mark');
 
