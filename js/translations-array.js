@@ -958,7 +958,8 @@ let translations = [
     },
     {
         american: 'deplane',
-        british: 'disembark'
+        british: 'disembark',
+        context: 'Aviation.'
     },
     {
         american: 'deputy',
