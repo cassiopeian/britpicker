@@ -940,7 +940,8 @@ let translations = [
     {
         american: 'debark',
         british: 'disembark',
-        plural: 'disembarks'
+        plural: 'disembarks',
+        context: 'Exiting.'
     },
     {
         american: 'debarkation',
