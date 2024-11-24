@@ -895,7 +895,8 @@ let translations = [
         british: 'lollipop man',
         plural: 'lollipop men',
         alt: 'lollipop lady',
-        altplural: 'lollipop ladies'
+        altplural: 'lollipop ladies',
+        context: 'Road safety.'
     },
     {
         american: 'crosswalk',
