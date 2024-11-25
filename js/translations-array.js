@@ -878,7 +878,8 @@ let translations = [
         british: 'boilersuit',
         plural: 'boilersuits',
         alt: 'overall',
-        altplural: 'overalls'
+        altplural: 'overalls',
+        context: 'Apparel.'
     },
     {
         american: 'crazies',
