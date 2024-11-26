@@ -857,7 +857,8 @@ let translations = [
     {
         american: 'couch',
         british: 'settee',
-        plural: 'settees'
+        plural: 'settees',
+        context: 'Furniture.'
     },
     {
         american: 'counter',
