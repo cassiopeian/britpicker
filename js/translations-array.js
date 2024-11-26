@@ -872,7 +872,8 @@ let translations = [
     {
         american: 'countertop',
         british: 'worktop',
-        plural: 'worktops'
+        plural: 'worktops',
+        context: 'Kitchen surface.'
     },
     {
         american: 'coverall',
