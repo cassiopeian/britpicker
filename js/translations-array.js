@@ -862,7 +862,8 @@ let translations = [
     {
         american: 'counter',
         british: 'worktop',
-        plural: 'worktops'
+        plural: 'worktops',
+        context: 'Kitchen surface.'
     },
     {
         american: 'counterclockwise',
