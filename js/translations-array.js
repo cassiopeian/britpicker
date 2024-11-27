@@ -774,7 +774,8 @@ let translations = [
     {
         american: 'comforter',
         british: 'duvet',
-        plural: 'duvets'
+        plural: 'duvets',
+        context: 'Bedding.'
     },
     {
         american: 'commotion',
