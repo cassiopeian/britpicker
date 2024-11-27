@@ -755,7 +755,8 @@ let translations = [
     {
         american: 'cleat',
         british: 'boot',
-        plural: 'boots'
+        plural: 'boots',
+        context: 'Footwear.'
     },
     {
         american: 'cloture',
