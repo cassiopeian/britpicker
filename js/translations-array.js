@@ -2717,7 +2717,8 @@ let translations = [
     {
         american: 'pantry',
         british: 'larder',
-        plural: 'larders'
+        plural: 'larders',
+        context: 'Storage.'
     },
     {
         american: 'panty',
