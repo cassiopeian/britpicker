@@ -2699,7 +2699,8 @@ let translations = [
     {
         american: 'pacifier',
         british: 'dummy',
-        plural: 'dummies'
+        plural: 'dummies',
+        context: 'Babies.'
     },
     {
         american: 'packet',
