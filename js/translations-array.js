@@ -3166,7 +3166,9 @@ let translations = [
     {
         american: 'ruckus',
         british: 'palaver',
-        plural: 'palavers'
+        plural: 'palavers',
+        alt: 'kerfuffle',
+        altplural: 'kerfuffles'
     },
     {
         american: 'run away',
