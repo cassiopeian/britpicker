@@ -2895,7 +2895,8 @@ let translations = [
     },
     {
         american: 'pleased',
-        british: 'chuffed'
+        british: 'chuffed',
+        context: 'Happiness.'
     },
     {
         american: 'plexiglas',
