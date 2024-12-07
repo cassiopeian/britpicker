@@ -2732,7 +2732,8 @@ let translations = [
     {
         american: 'paper route',
         british: 'paper round',
-        plural: 'paper rounds'
+        plural: 'paper rounds',
+        context: 'Delivery service.'
     },
     {
         american: 'paper towels',
