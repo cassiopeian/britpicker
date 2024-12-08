@@ -782,7 +782,9 @@ let translations = [
     {
         american: 'commotion',
         british: 'kerfuffle',
-        plural: 'kerfuffles'
+        plural: 'kerfuffles',
+        alt: 'palaver',
+        altplural: 'palavers'
     },
     {
         american: 'community service',
