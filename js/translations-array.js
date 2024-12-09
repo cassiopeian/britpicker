@@ -27,7 +27,8 @@ let translations = [
     {
         american: 'ad',
         british: 'advert',
-        plural: 'adverts'
+        plural: 'adverts',
+        context: 'Advertisements.'
     },
     {
         american: 'adjunct professor',
