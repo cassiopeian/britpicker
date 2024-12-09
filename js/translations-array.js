@@ -347,7 +347,8 @@ let translations = [
         british: 'blighter',
         plural: 'blighters',
         alt: 'bleeder',
-        altplural: 'bleeders'
+        altplural: 'bleeders',
+        context: 'Nuisances.'
     },
     {
         american: 'bedspread',
