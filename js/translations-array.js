@@ -391,7 +391,8 @@ let translations = [
         british: 'articulated lorry',
         plural: 'articulated lorries',
         alt: 'artic',
-        altplural: 'artics'
+        altplural: 'artics',
+        context: 'Semitrailers.'
     },
     {
         american: 'billboard',
