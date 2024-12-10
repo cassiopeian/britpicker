@@ -426,7 +426,8 @@ let translations = [
     },
     {
         american: 'blathering',
-        british: 'waffling'
+        british: 'waffling',
+        alt: 'rabbiting on'
     },
     {
         american: 'bleachers',
