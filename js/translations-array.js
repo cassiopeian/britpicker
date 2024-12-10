@@ -416,7 +416,8 @@ let translations = [
     },
     {
         american: 'blather',
-        british: 'waffle'
+        british: 'waffle',
+        alt: 'rabbit on'
     },
     {
         american: 'blathered',
