@@ -254,6 +254,10 @@ let translations = [
         british: 'prattled'
     },
     {
+        american: 'babbling',
+        british: 'prattling'
+    },
+    {
         american: 'bachelor party',
         british: 'stag do',
         plural: 'stag dos'
