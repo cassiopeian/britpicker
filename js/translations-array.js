@@ -250,6 +250,10 @@ let translations = [
         british: 'prattle'
     },
     {
+        american: 'babbled',
+        british: 'prattled'
+    },
+    {
         american: 'bachelor party',
         british: 'stag do',
         plural: 'stag dos'
