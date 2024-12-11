@@ -246,6 +246,10 @@ let translations = [
         alt: 'a brilliant'
     },
     {
+        american: 'babble',
+        british: 'prattle'
+    },
+    {
         american: 'bachelor party',
         british: 'stag do',
         plural: 'stag dos'
