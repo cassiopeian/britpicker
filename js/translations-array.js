@@ -460,7 +460,8 @@ let translations = [
         british: 'kirby grip',
         plural: 'kirby grips',
         alt: 'hair grip',
-        altplural: 'hair grips'
+        altplural: 'hair grips',
+        context: 'Hair accessories.'
     },
     {
         american: 'bodega',
