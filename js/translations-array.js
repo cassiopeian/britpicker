@@ -247,7 +247,8 @@ let translations = [
     },
     {
         american: 'babble',
-        british: 'prattle'
+        british: 'prattle',
+        alt: 'natter'
     },
     {
         american: 'babbled',
