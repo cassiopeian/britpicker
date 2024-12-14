@@ -405,7 +405,8 @@ let translations = [
     },
     {
         american: 'bickering',
-        british: 'quibbling'
+        british: 'quibbling',
+        alt: 'quarreling'
     },
     {
         american: 'big rig',
