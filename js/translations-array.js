@@ -394,7 +394,9 @@ let translations = [
     {
         american: 'bicker',
         british: 'quibble',
-        plural: 'quibbles'
+        plural: 'quibbles',
+        alt: 'quarrel',
+        altplural: 'quarrels'
     },
     {
         american: 'bickered',
