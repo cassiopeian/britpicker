@@ -387,7 +387,9 @@ let translations = [
     {
         american: 'beverage',
         british: 'bevvy',
-        plural: 'bevvies'
+        plural: 'bevvies',
+        alt: 'drink',
+        altplural: 'drinks'
     },
     {
         american: 'bicker',
