@@ -400,7 +400,8 @@ let translations = [
     },
     {
         american: 'bickered',
-        british: 'quibbled'
+        british: 'quibbled',
+        alt: 'quarreled'
     },
     {
         american: 'bickering',
