@@ -419,7 +419,8 @@ let translations = [
     {
         american: 'billboard',
         british: 'hoarding',
-        plural: 'hoardings'
+        plural: 'hoardings',
+        context: 'Advertising.'
     },
     {
         american: 'bipoc',
