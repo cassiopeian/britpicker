@@ -471,7 +471,9 @@ let translations = [
     {
         american: 'blunder',
         british: 'clanger',
-        plural: 'clangers'
+        plural: 'clangers',
+        alt: 'dog\'s breakfast',
+        altplural: 'dogs\' breakfasts'
     },
     {
         american: 'boardwalk',
