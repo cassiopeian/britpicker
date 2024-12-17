@@ -544,7 +544,9 @@ let translations = [
     {
         american: 'bruh',
         british: 'bruv',
-        plural: 'bruvs'
+        plural: 'bruvs',
+        alt: 'mate',
+        altplural: 'mates'
     },
     {
         american: 'buh-bye',
