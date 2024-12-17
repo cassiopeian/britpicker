@@ -538,7 +538,8 @@ let translations = [
     {
         american: 'broke',
         british: 'skint',
-        alt: 'brassic'
+        alt: 'brassic',
+        context: 'Poverty.'
     },
     {
         american: 'bruh',
