@@ -3801,6 +3801,11 @@ let translations = [
         context: 'Transportation.'
     },
     {
+        american: 'sunblock',
+        british: 'sun cream',
+        plural: 'sun creams'
+    },
+    {
         american: 'sunscreen',
         british: 'sun cream',
         plural: 'sun creams'
