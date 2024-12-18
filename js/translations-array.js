@@ -3983,6 +3983,11 @@ let translations = [
         british: 'they\'ve not'
     },
     {
+        american: 'thief',
+        british: 'filcher',
+        plural: 'filchers'
+    },
+    {
         american: 'thingy',
         british: 'wotsit',
         plural: 'wotsits',
