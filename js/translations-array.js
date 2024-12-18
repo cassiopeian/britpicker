@@ -560,7 +560,8 @@ let translations = [
         british: 'dodgem',
         plural: 'dodgems',
         alt: 'dodgem car',
-        altplural: 'dodgem cars'
+        altplural: 'dodgem cars',
+        context: 'Amusement parks.'
     },
     {
         american: 'burglarize',
