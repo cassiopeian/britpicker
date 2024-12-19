@@ -3902,7 +3902,9 @@ let translations = [
     {
         american: 'tantrum',
         british: 'strop',
-        plural: 'strops'
+        plural: 'strops',
+        alt: 'wobbly',
+        altplural: 'wobblies'
     },
     {
         american: 'teeter-totter',
