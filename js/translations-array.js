@@ -1870,6 +1870,13 @@ let translations = [
         plural: 'motorways'
     },
     {
+        american: 'hissy fit',
+        british: 'strop',
+        plural: 'strops',
+        alt: 'wobbly',
+        altplural: 'wobblies'
+    },
+    {
         american: 'ho',
         british: 'trollop',
         plural: 'trollops',
