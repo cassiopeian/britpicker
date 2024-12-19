@@ -1820,6 +1820,10 @@ let translations = [
         context: 'Powder room.'
     },
     {
+        american: 'handsome',
+        british: 'fit'
+    },
+    {
         american: 'hang up',
         british: 'ring off',
         context: 'Phone conversations.'
