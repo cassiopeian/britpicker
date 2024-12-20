@@ -1918,7 +1918,10 @@ let translations = [
     {
         american: 'homeless',
         british: 'sleeping rough',
-        plural: 'sleeping rough'
+        plural: 'sleeping rough',
+        alt: 'rough sleeper',
+        altplural: 'rough sleepers',
+        context: 'Vagrancy.'
     },
     {
         american: 'hood',
