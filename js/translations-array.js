@@ -1893,6 +1893,8 @@ let translations = [
         american: 'hobo',
         british: 'tramp',
         plural: 'tramps',
+        alt: 'rough sleeper',
+        altplural: 'rough sleepers',
         context: 'Vagrants.'
     },
     {
