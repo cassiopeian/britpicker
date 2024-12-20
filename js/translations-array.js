@@ -1916,6 +1916,11 @@ let translations = [
         context: 'Interjection.'
     },
     {
+        american: 'homeless',
+        british: 'sleeping rough',
+        plural: 'sleeping rough'
+    },
+    {
         american: 'hood',
         british: 'bonnet',
         plural: 'bonnets',
