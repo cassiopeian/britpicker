@@ -1058,7 +1058,8 @@ let translations = [
         british: 'bellend',
         plural: 'bellends',
         alt: 'knob',
-        altplural: 'knobs'
+        altplural: 'knobs',
+        context: 'Phalli.'
     },
     {
         american: 'dirty',
