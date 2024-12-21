@@ -1050,7 +1050,8 @@ let translations = [
         british: 'knob',
         plural: 'knobs',
         alt: 'prick',
-        altplural: 'pricks'
+        altplural: 'pricks',
+        context: 'Phalli.'
     },
     {
         american: 'dickhead',
