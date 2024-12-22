@@ -1459,7 +1459,8 @@ let translations = [
     },
     {
         american: 'filthy',
-        british: 'grotty'
+        british: 'grotty',
+        alt: 'manky'
     },
     {
         american: 'fine',
