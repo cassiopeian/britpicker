@@ -1507,7 +1507,8 @@ let translations = [
     {
         american: 'flat tire',
         british: 'puncture',
-        plural: 'punctures'
+        plural: 'punctures',
+        context: 'Vehicles.'
     },
     {
         american: 'flashlight',
