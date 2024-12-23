@@ -3500,6 +3500,10 @@ let translations = [
         context: 'Self-deprecation.'
     },
     {
+        american: 'silverware',
+        british: 'cutlery'
+    },
+    {
         american: 'six thirty',
         british: 'half six',
         context: 'Time.'
