@@ -1827,6 +1827,7 @@ let translations = [
     {
         american: 'handsome',
         british: 'fit',
+        alt: 'dishy',
         context: 'Appearance.'
     },
     {
