@@ -2059,7 +2059,8 @@ let translations = [
     {
         american: 'jagoff',
         british: 'wanker',
-        plural: 'wankers'
+        plural: 'wankers',
+        context: 'Unpleasant people.'
     },
     {
         american: 'jam-packed',
