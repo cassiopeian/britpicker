@@ -1402,7 +1402,8 @@ let translations = [
     },
     {
         american: 'fantastic',
-        british: 'lovely jubbly'
+        british: 'lovely jubbly',
+        alt: 'ace'
     },
     {
         american: 'faucet',
