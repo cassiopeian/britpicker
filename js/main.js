@@ -346,6 +346,9 @@ $(document).on('keyup change input', '#ae', function() {
             } else if (word.toLowerCase() == phrase.american + 'ed') {
                 // or replace words ending with "-ed"
                 beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british + 'ed', word, phrase.alt, index));
+            } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'ier') {
+                // or replace "-y" words with "-ier"
+                beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british.slice(0, -1) + 'ier', word, phrase.alt, index));
             } else if (word.toLowerCase() == phrase.american.slice(0, -1) + 'iest') {
                 // or replace "-y" words with "-iest"
                 beSplit.splice(index, 1, caseMatch(phrase.context, phrase.british.slice(0, -1) + 'iest', word, phrase.alt, index));
