@@ -320,6 +320,8 @@ let translations = [
         american: 'bar',
         british: 'pub',
         plural: 'pubs',
+        alt: 'local',
+        altplural: 'locals',
         context: 'Serving alcohol.'
     },
     {
