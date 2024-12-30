@@ -243,7 +243,8 @@ let translations = [
     {
         american: 'an awesome',
         british: 'a wicked',
-        alt: 'a brilliant'
+        alt: 'a brilliant',
+        ontext: 'Extraordinary.'
     },
     {
         american: 'babble',
