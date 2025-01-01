@@ -455,6 +455,11 @@ let translations = [
         alt: 'rabbited on'
     },
     {
+        american: 'blatherer',
+        british: 'waffler',
+        alt: 'prattler'
+    },
+    {
         american: 'blathering',
         british: 'waffling',
         alt: 'rabbiting on'
