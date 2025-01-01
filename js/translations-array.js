@@ -228,7 +228,8 @@ let translations = [
     {
         american: 'attractive',
         british: 'lush',
-        alt: 'peng'
+        alt: 'peng',
+        context: 'People.'
     },
     {
         american: 'aughts',
