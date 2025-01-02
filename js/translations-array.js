@@ -508,7 +508,8 @@ let translations = [
     {
         american: 'booger',
         british: 'bogey',
-        plural: 'bogeys'
+        plural: 'bogeys',
+        context: 'Snot.'
     },
     {
         american: 'botch',
