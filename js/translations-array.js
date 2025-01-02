@@ -529,7 +529,8 @@ let translations = [
     {
         american: 'braid',
         british: 'plait',
-        plural: 'plaits'
+        plural: 'plaits',
+        context: 'Hair.'
     },
     {
         american: 'breadbox',
