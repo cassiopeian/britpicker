@@ -592,7 +592,8 @@ let translations = [
     {
         american: 'busboy',
         british: 'commis waiter',
-        plural: 'commis waiters'
+        plural: 'commis waiters',
+        context: 'Restaurants.'
     },
     {
         american: 'busy signal',
