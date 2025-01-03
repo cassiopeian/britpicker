@@ -713,7 +713,8 @@ let translations = [
         british: 'litter tray',
         plural: 'litter trays',
         typed: 'cat pan',
-        typedplural: 'cat pans'
+        typedplural: 'cat pans',
+        context: 'Cat toilets.'
     },
     {
         american: 'catsup',
