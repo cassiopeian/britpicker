@@ -698,7 +698,8 @@ let translations = [
     {
         american: 'cart',
         british: 'trolley',
-        plural: 'trolleys'
+        plural: 'trolleys',
+        context: 'Wheeled conveyances.'
     },
     {
         american: 'cat',
