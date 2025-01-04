@@ -524,7 +524,9 @@ let translations = [
     {
         american: 'boy',
         british: 'lad',
-        plural: 'lads'
+        plural: 'lads',
+        alt: 'chap',
+        altplural: 'chaps'
     },
     {
         american: 'braid',
