@@ -1108,7 +1108,8 @@ let translations = [
     },
     {
         american: 'disgusting',
-        british: 'minging'
+        british: 'minging',
+        alt: 'rank'
     },
     {
         american: 'dish soap',
