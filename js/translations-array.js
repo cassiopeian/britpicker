@@ -1281,7 +1281,8 @@ let translations = [
     {
         american: 'egghead',
         british: 'boffin',
-        plural: 'boffins'
+        plural: 'boffins',
+        context: 'Intellect.'
     },
     {
         american: 'eggplant',
