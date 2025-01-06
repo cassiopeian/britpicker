@@ -1175,7 +1175,8 @@ let translations = [
     },
     {
         american: 'dopey',
-        british: 'dozy'
+        british: 'dozy',
+        alt: 'gormless'
     },
     {
         american: 'dorm',
