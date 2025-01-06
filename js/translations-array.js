@@ -1090,7 +1090,8 @@ let translations = [
     {
         american: 'dining car',
         british: 'restaurant car',
-        plural: 'restaurant cars'
+        plural: 'restaurant cars',
+        context: 'Trains.'
     },
     {
         american: 'dipshit',
