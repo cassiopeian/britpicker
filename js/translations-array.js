@@ -1358,7 +1358,8 @@ let translations = [
     },
     {
         american: 'evasive',
-        british: 'dodgy'
+        british: 'dodgy',
+        alt: 'slippery'
     },
     {
         american: 'exactly right',
