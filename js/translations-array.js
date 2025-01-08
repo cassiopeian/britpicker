@@ -2966,6 +2966,11 @@ let translations = [
         plural: 'verrucas'
     },
     {
+        american: 'plastic bag',
+        british: 'carrier bag',
+        plural: 'carrier bags'
+    },
+    {
         american: 'plastic wrap',
         british: 'cling film',
         plural: 'cling films',
