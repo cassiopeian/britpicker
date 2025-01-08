@@ -2893,6 +2893,11 @@ let translations = [
         plural: 'chemists'
     },
     {
+        american: 'pharmacy',
+        british: 'chemist',
+        plural: 'chemists'
+    },
+    {
         american: 'pickle',
         british: 'gherkin',
         plural: 'gherkins',
