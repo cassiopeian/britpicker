@@ -2968,7 +2968,8 @@ let translations = [
     {
         american: 'plastic bag',
         british: 'carrier bag',
-        plural: 'carrier bags'
+        plural: 'carrier bags',
+        context: 'Shopping bags.'
     },
     {
         american: 'plastic wrap',
