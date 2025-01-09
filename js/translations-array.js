@@ -3035,7 +3035,8 @@ let translations = [
     {
         american: 'pre-k',
         british: 'reception',
-        plural: 'receptions'
+        plural: 'receptions',
+        context: 'Education.'
     },
     {
         american: 'prep school',
