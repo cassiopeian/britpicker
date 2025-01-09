@@ -3030,7 +3030,8 @@ let translations = [
     {
         american: 'powdered sugar',
         british: 'icing sugar',
-        plural: 'icing sugars'
+        plural: 'icing sugars',
+        context: 'Baking.'
     },
     {
         american: 'pre-k',
