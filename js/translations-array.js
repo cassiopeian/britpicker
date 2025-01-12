@@ -3657,7 +3657,8 @@ let translations = [
     },
     {
         american: 'so nervous',
-        british: 'bricking it'
+        british: 'bricking it',
+        alt: 'shit-scared'
     },
     {
         american: 'soda',
