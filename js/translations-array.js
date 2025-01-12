@@ -3025,7 +3025,8 @@ let translations = [
     {
         american: 'pound sign',
         british: 'hash sign',
-        plural: 'hash signs'
+        plural: 'hash signs',
+        context: 'As on phone keypads.'
     },
     {
         american: 'powdered sugar',
