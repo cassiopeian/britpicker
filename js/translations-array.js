@@ -3069,7 +3069,8 @@ let translations = [
         british: 'prozzie',
         plural: 'prozzies',
         alt: 'slapper',
-        altplural: 'slappers'
+        altplural: 'slappers',
+        context: 'Noun.'
     },
     {
         american: 'pruning shears',
