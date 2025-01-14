@@ -3491,7 +3491,8 @@ let translations = [
     },
     {
         american: 'shitcan',
-        british: 'sack'
+        british: 'sack',
+        context: 'Unemployment.'
     },
     {
         // shit-faced
