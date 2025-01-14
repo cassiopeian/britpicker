@@ -3495,6 +3495,11 @@ let translations = [
         context: 'Unemployment.'
     },
     {
+        american: 'shitcanned',
+        british: 'sacked',
+        context: 'Unemployment.'
+    },
+    {
         // shit-faced
         american: 'shite-faced',
         british: 'rat-arsed',
