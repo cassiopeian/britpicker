@@ -3500,6 +3500,11 @@ let translations = [
         context: 'Unemployment.'
     },
     {
+        american: 'shitcanning',
+        british: 'sacking',
+        context: 'Unemployment.'
+    },
+    {
         // shit-faced
         american: 'shite-faced',
         british: 'rat-arsed',
