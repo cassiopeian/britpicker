@@ -3490,6 +3490,10 @@ let translations = [
         british: 'shite'
     },
     {
+        american: 'shitcan',
+        british: 'sack'
+    },
+    {
         // shit-faced
         american: 'shite-faced',
         british: 'rat-arsed',
