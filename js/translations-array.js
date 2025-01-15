@@ -3700,6 +3700,8 @@ let translations = [
         american: 'football coach',
         british: 'gaffer',
         plural: 'gaffers',
+        alt: 'skipper',
+        altplural: 'skippers',
         typed: 'soccer coach',
         typedplural: 'soccer coaches'
     },
