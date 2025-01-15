@@ -3720,7 +3720,8 @@ let translations = [
     },
     {
         american: 'sorta',
-        british: 'quite'
+        british: 'quite',
+        alt: 'a bit'
     },
     {
         american: 'space heater',
