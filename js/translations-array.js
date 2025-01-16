@@ -3806,7 +3806,8 @@ let translations = [
     {
         american: 'stolen',
         british: 'nicked',
-        alt: 'pinched'
+        alt: 'pinched',
+        context: 'Theft.'
     },
     {
         american: 'stop lying',
