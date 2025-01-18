@@ -3916,7 +3916,8 @@ let translations = [
     {
         american: 'suspender',
         british: 'brace',
-        plural: 'braces'
+        plural: 'braces',
+        context: 'Apparel.'
     },
     {
         american: 'suv',
