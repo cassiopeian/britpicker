@@ -3995,7 +3995,8 @@ let translations = [
         british: 'singlet',
         plural: 'singlets',
         alt: 'vest',
-        altplural: 'vests'
+        altplural: 'vests',
+        context: 'Apparel.'
     },
     {
         american: 'tantrum',
