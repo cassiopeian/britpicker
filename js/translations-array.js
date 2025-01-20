@@ -287,7 +287,9 @@ let translations = [
     {
         american: 'bad guy',
         british: 'baddie',
-        plural: 'baddies'
+        plural: 'baddies',
+        alt: 'rascal',
+        altplural: 'rascals'
     },
     {
         american: 'baked potato',
