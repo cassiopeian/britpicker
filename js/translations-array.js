@@ -2326,6 +2326,7 @@ let translations = [
     {
         american: 'lost their minds',
         british: 'lost the plot',
+        alt: 'gone round the bend',
         context: 'Irrational behavior.'
     },
     {
