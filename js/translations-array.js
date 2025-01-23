@@ -3811,6 +3811,10 @@ let translations = [
         plural: 'shorthand typists'
     },
     {
+        american: 'stingy',
+        british: 'tightfisted'
+    },
+    {
         american: 'stole',
         british: 'nicked',
         alt: 'pinched',
