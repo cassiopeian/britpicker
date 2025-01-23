@@ -4173,6 +4173,10 @@ let translations = [
         context: 'Sleepiness.'
     },
     {
+        american: 'to boot',
+        british: 'in the bargain'
+    },
+    {
         american: 'toilet',
         british: 'loo',
         plural: 'loos'
