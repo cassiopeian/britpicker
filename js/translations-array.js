@@ -3812,7 +3812,8 @@ let translations = [
     },
     {
         american: 'stingy',
-        british: 'tightfisted'
+        british: 'tightfisted',
+        alt: 'miserly'
     },
     {
         american: 'stole',
