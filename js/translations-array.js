@@ -4185,7 +4185,8 @@ let translations = [
     {
         american: 'ton',
         british: 'shedload',
-        plural: 'shedloads'
+        plural: 'shedloads',
+        context: 'Quantity.'
     },
     {
         american: 'top-notch',
