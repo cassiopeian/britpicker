@@ -745,7 +745,9 @@ let translations = [
     {
         american: 'cheapskate',
         british: 'skinflint',
-        plural: 'skinflints'
+        plural: 'skinflints',
+        alt: 'miser',
+        altplural: 'misers'
     },
     {
         american: 'check mark',
