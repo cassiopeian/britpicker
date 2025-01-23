@@ -743,6 +743,11 @@ let translations = [
         plural: 'credit accounts'
     },
     {
+        american: 'cheapskate',
+        british: 'skinflint',
+        plural: 'skinflints'
+    },
+    {
         american: 'check mark',
         british: 'tick',
         plural: 'ticks'
