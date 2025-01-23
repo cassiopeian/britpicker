@@ -4174,7 +4174,8 @@ let translations = [
     },
     {
         american: 'to boot',
-        british: 'in the bargain'
+        british: 'in the bargain',
+        context: 'As well, also.'
     },
     {
         american: 'toilet',
