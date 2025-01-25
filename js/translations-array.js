@@ -2868,7 +2868,8 @@ let translations = [
     {
         american: 'party tent',
         british: 'marquee',
-        plural: 'marquees'
+        plural: 'marquees',
+        context: 'Outdoor events.'
     },
     {
         american: 'paycheck',
