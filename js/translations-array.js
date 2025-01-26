@@ -2590,7 +2590,8 @@ let translations = [
     {
         american: 'narc',
         british: 'grass',
-        plural: 'grasses'
+        plural: 'grasses',
+        context: 'Snitching.'
     },
     {
         american: 'national holiday',
