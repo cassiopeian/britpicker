@@ -2775,7 +2775,8 @@ let translations = [
     },
     {
         american: 'orient',
-        british: 'orientate'
+        british: 'orientate',
+        context: 'Adjustment.'
     },
     {
         american: 'oriented',
