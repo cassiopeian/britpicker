@@ -2795,7 +2795,8 @@ let translations = [
         british: 'socket',
         plural: 'sockets',
         alt: 'power point',
-        altplural: 'power points'
+        altplural: 'power points',
+        context: 'Electricity.'
     },
     {
         american: 'overalls',
