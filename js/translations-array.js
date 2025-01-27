@@ -2585,7 +2585,8 @@ let translations = [
     {
         american: 'napkin',
         british: 'serviette',
-        plural: 'serviettes'
+        plural: 'serviettes',
+        context: 'Dining.'
     },
     {
         american: 'narc',
