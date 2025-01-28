@@ -2158,7 +2158,8 @@ let translations = [
     {
         american: 'jumping jack',
         british: 'star jump',
-        plural: 'star jumps'
+        plural: 'star jumps',
+        context: 'Exercise.'
     },
     {
         american: 'junk',
