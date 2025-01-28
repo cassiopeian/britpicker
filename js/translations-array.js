@@ -2176,7 +2176,8 @@ let translations = [
     },
     {
         american: 'kinda',
-        british: 'quite'
+        british: 'quite',
+        context: 'Sorta.'
     },
     {
         american: 'kindergarten',
