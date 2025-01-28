@@ -2203,7 +2203,8 @@ let translations = [
     },
     {
         american: 'knock on wood',
-        british: 'touch wood'
+        british: 'touch wood',
+        context: 'Superstition.'
     },
     {
         american: 'knocked her up',
