@@ -2110,7 +2110,8 @@ let translations = [
     },
     {
         american: 'jeez',
-        british: 'blimey'
+        british: 'blimey',
+        alt: 'cripes'
     },
     {
         american: 'jell-o',
