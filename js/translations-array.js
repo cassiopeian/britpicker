@@ -2111,7 +2111,8 @@ let translations = [
     {
         american: 'jeez',
         british: 'blimey',
-        alt: 'cripes'
+        alt: 'cripes',
+        context: 'Interjection.'
     },
     {
         american: 'jell-o',
