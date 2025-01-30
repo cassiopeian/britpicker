@@ -2133,7 +2133,8 @@ let translations = [
     },
     {
         american: 'jizz',
-        british: 'spunk'
+        british: 'spunk',
+        context: 'Semen.'
     },
     {
         american: 'john hancock',
