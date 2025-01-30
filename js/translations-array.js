@@ -1185,7 +1185,8 @@ let translations = [
     {
         american: 'dopey',
         british: 'dozy',
-        alt: 'gormless'
+        alt: 'gormless',
+        context: 'Sluggishness.'
     },
     {
         american: 'dorm',
