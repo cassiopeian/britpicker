@@ -1094,7 +1094,8 @@ let translations = [
     {
         american: 'dirty',
         british: 'manky',
-        alt: 'grotty'
+        alt: 'grotty',
+        context: 'Unclean.'
     },
     {
         american: 'dining car',
