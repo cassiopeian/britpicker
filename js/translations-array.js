@@ -997,7 +997,8 @@ let translations = [
     {
         american: 'custodian',
         british: 'caretaker',
-        plural: 'caretakers'
+        plural: 'caretakers',
+        context: 'Janitor or guardian.'
     },
     {
         american: 'custom-made',
