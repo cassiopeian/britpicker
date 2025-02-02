@@ -690,15 +690,12 @@ $('#down-arrow').on('click', function() {
 $(document).on('click', '.delete-insult', function() {
     // create an array of red delete buttons
     let xsArr = Array.from($('.delete-insult'));
-    console.log(xsArr);
     
     // get the index of the clicked delete button
     xi = xsArr.indexOf(this);
-    console.log(xi);
 
     // get the insult from the p tag "prev" to "this" selected button
     let unwantedInsult = $(this).prev().text();
-    console.log(unwantedInsult);
 
     // add the unwanted insult to the confirmation message
     $('#deletion-confirmation p').text(`Delete ${unwantedInsult}?`);
