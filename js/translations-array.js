@@ -785,7 +785,8 @@ let translations = [
     },
     {
         american: 'chill out',
-        british: 'calm your tits'
+        british: 'calm your tits',
+        context: 'Calming down.'
     },
     {
         american: 'chilly',
