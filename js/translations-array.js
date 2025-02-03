@@ -697,7 +697,8 @@ let translations = [
     {
         american: 'carnival',
         british: 'funfair',
-        plural: 'funfairs'
+        plural: 'funfairs',
+        context: 'Traveling exhibitions.'
     },
     {
         american: 'cart',
