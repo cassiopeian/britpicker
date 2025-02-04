@@ -33,7 +33,8 @@ let translations = [
     {
         american: 'adjunct professor',
         british: 'lecturer',
-        plural: 'lecturers'
+        plural: 'lecturers',
+        context: 'Job title.'
     },
     {
         american: 'advice column',
