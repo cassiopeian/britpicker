@@ -615,7 +615,8 @@ let translations = [
         british: 'munter',
         plural: 'munters',
         alt: 'minger',
-        altplural: 'mingers'
+        altplural: 'mingers',
+        context: 'Appearance.'
     },
     {
         american: 'c-clamp',
