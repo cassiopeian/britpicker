@@ -487,7 +487,8 @@ let translations = [
         british: 'clanger',
         plural: 'clangers',
         alt: 'dog\'s breakfast',
-        altplural: 'dogs\' breakfasts'
+        altplural: 'dogs\' breakfasts',
+        context: 'Mistakes.'
     },
     {
         american: 'boardwalk',
