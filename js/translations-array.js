@@ -90,7 +90,8 @@ let translations = [
     {
         american: 'angry',
         british: 'cross',
-        alt: 'shirty'
+        alt: 'shirty',
+        context: 'Emotion.'
     },
     {
         american: 'annoy her',
