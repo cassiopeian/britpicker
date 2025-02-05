@@ -1201,7 +1201,9 @@ let translations = [
     {
         american: 'dorm',
         british: 'hall of residence',
-        plural: 'halls of residence'
+        plural: 'halls of residence',
+        alt: 'diggings',
+        altplural: 'diggings'
     },
     {
         american: 'douchebag',
