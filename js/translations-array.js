@@ -1411,7 +1411,8 @@ let translations = [
     },
     {
         american: 'expensive',
-        british: 'dear'
+        british: 'dear',
+        alt: 'pricey'
     },
     {
         american: 'expiration date',
