@@ -1381,7 +1381,8 @@ let translations = [
     {
         american: 'evasive',
         british: 'dodgy',
-        alt: 'slippery'
+        alt: 'slippery',
+        context: 'Deception.'
     },
     {
         american: 'exactly right',
