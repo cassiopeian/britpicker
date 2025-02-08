@@ -46,7 +46,7 @@ li,
 .edit,
 .dialect,
 #toggle-dialects,
-#add-insult p,
+#fav-buttons-wrapper p,
 #info-icon span,
 #insult-me,
 #lock-alert,
@@ -462,7 +462,7 @@ aside {
     width: 2px;
     margin: 0 0.5rem;
 }
-#add-insult p {
+#fav-buttons-wrapper p {
     font-weight: 700;
     letter-spacing: .03rem;
     text-transform: uppercase;
