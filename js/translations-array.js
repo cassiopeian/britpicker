@@ -1371,7 +1371,8 @@ let translations = [
     {
         american: 'english muffin',
         british: 'muffin',
-        plural: 'muffins'
+        plural: 'muffins',
+        context: 'Food.'
     },
     {
         american: 'eraser',
