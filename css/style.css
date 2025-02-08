@@ -453,7 +453,8 @@ aside {
 #prev-arrow img {
     height: 12px;
 }
-#add-insult img {
+#add-insult img,
+#copy-insults img {
     height: 20px;
 }
 #fav-buttons-wrapper span {
