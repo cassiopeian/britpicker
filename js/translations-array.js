@@ -1203,7 +1203,8 @@ let translations = [
         british: 'hall of residence',
         plural: 'halls of residence',
         alt: 'diggings',
-        altplural: 'diggings'
+        altplural: 'diggings',
+        context: 'Student accommodations.'
     },
     {
         american: 'douchebag',
