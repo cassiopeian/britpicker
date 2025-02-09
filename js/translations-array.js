@@ -1755,7 +1755,8 @@ let translations = [
     },
     {
         american: 'gimpy',
-        british: 'gammy'
+        british: 'gammy',
+        context: 'Injuries.'
     },
     {
         american: 'girl',
