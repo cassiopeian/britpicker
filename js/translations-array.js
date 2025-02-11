@@ -650,7 +650,8 @@ let translations = [
     },
     {
         american: 'can of',
-        british: 'tin of'
+        british: 'tin of',
+        context: 'Containers.'
     },
     {
         american: 'candidacy',
