@@ -1152,7 +1152,8 @@ let translations = [
     },
     {
         american: 'disorganized',
-        british: 'shambolic'
+        british: 'shambolic',
+        alt: 'muddled'
     },
     {
         american: 'doctor\'s office',
