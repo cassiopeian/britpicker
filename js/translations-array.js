@@ -1513,7 +1513,8 @@ let translations = [
     },
     {
         american: 'figuring out',
-        british: 'sussing out'
+        british: 'sussing out',
+        context: 'Discovery.'
     },
     {
         american: 'filthy',
