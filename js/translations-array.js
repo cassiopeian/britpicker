@@ -1498,7 +1498,8 @@ let translations = [
     },
     {
         american: 'figure out',
-        british: 'suss out'
+        british: 'suss out',
+        context: 'Discovery.'
     },
     {
         american: 'figured out',
