@@ -1556,7 +1556,9 @@ let translations = [
     {
         american: 'fistfight',
         british: 'punch-up',
-        plural: 'punch-ups'
+        plural: 'punch-ups',
+        alt: 'scrap',
+        altplural: 'scraps'
     },
     {
         american: 'five thirty',
