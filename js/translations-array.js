@@ -1685,6 +1685,7 @@ let translations = [
     {
         american: 'furious',
         british: 'fuming',
+        alt: 'boiling',
         context: 'Anger.'
     },
     {
