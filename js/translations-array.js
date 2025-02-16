@@ -1775,7 +1775,8 @@ let translations = [
     {
         american: 'glove box',
         british: 'glove compartment',
-        plural: 'glove compartments'
+        plural: 'glove compartments',
+        context: 'Vehicles.'
     },
     {
         american: 'go away',
