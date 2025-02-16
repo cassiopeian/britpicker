@@ -3456,6 +3456,11 @@ let translations = [
         british: 'gave you a fright'
     },
     {
+        american: 'scarf',
+        british: 'scoff',
+        context: 'Gobbling food.'
+    },
+    {
         american: 'scotch tape',
         british: 'sellotape'
     },
