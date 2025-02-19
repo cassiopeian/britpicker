@@ -2887,7 +2887,8 @@ let translations = [
     },
     {
         american: 'paper towel',
-        british: 'bit of kitchen roll'
+        british: 'bit of kitchen roll',
+        plural: 'kitchen roll'
     },
     {
         american: 'parka',
