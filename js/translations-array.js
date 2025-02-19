@@ -2934,7 +2934,8 @@ let translations = [
     },
     {
         american: 'persnickety',
-        british: 'pernickety'
+        british: 'pernickety',
+        alt: 'particular'
     },
     {
         american: 'phone booth',
