@@ -2886,8 +2886,8 @@ let translations = [
         context: 'Delivery service.'
     },
     {
-        american: 'paper towels',
-        british: 'kitchen roll'
+        american: 'paper towel',
+        british: 'bit of kitchen roll'
     },
     {
         american: 'parka',
