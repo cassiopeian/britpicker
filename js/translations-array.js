@@ -3539,7 +3539,8 @@ let translations = [
     {
         american: 'sheet cake',
         british: 'tray cake',
-        plural: 'tray cakes'
+        plural: 'tray cakes',
+        context: 'Confections.'
     },
     {
         american: 'sheet-pan dinner',
