@@ -3537,6 +3537,11 @@ let translations = [
         british: 'she\'s not'
     },
     {
+        american: 'sheet cake',
+        british: 'tray cake',
+        plural: 'tray cakes'
+    },
+    {
         american: 'sherbet',
         british: 'sorbet',
         plural: 'sorbets'
