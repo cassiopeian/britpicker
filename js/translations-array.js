@@ -3432,7 +3432,9 @@ let translations = [
     {
         american: 'scammer',
         british: 'swindler',
-        plural: 'swindlers'
+        plural: 'swindlers',
+        alt: 'fraudster',
+        altplural: 'fraudsters'
     },
     {
         american: 'scared her',
