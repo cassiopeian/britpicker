@@ -3430,6 +3430,11 @@ let translations = [
         plural: 'spring onions'
     },
     {
+        american: 'scammer',
+        british: 'swindler',
+        plural: 'swindlers'
+    },
+    {
         american: 'scared her',
         british: 'gave her a fright'
     },
