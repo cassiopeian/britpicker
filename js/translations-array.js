@@ -3434,7 +3434,8 @@ let translations = [
         british: 'swindler',
         plural: 'swindlers',
         alt: 'fraudster',
-        altplural: 'fraudsters'
+        altplural: 'fraudsters',
+        context: 'Con artists.'
     },
     {
         american: 'scared her',
