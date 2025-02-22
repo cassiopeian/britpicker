@@ -3965,6 +3965,10 @@ let translations = [
         context: 'Overeating.'
     },
     {
+        american: 'stunned',
+        british: 'knocked for six'
+    },
+    {
         american: 'stupid',
         british: 'daft',
         alt: 'gormless'
