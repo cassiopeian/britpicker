@@ -3966,7 +3966,8 @@ let translations = [
     },
     {
         american: 'stunned',
-        british: 'knocked for six'
+        british: 'knocked for six',
+        alt: 'gobsmacked'
     },
     {
         american: 'stupid',
