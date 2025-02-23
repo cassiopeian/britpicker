@@ -1499,6 +1499,7 @@ let translations = [
     {
         american: 'figure out',
         british: 'suss out',
+        alt: 'rumble',
         context: 'Discovery.'
     },
     {
