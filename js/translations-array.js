@@ -4474,6 +4474,10 @@ let translations = [
         british: 'upmarket'
     },
     {
+        american: 'useless',
+        british: 'feckless'
+    },
+    {
         american: 'vacation',
         british: 'holiday',
         plural: 'holidays'
