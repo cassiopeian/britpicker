@@ -2487,6 +2487,7 @@ let translations = [
     {
         american: 'messed up',
         british: 'bungled',
+        alt: 'mucked up',
         context: 'Disarray.'
     },
     {
