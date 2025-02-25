@@ -2485,6 +2485,10 @@ let translations = [
         altplural: 'happy crimbos'
     },
     {
+        american: 'messed up',
+        british: 'bungled'
+    },
+    {
         american: 'middle school',
         british: 'secondary school',
         plural: 'secondary schools',
