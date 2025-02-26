@@ -459,6 +459,10 @@ aside {
     visibility: hidden;
     display: flex;
 }
+#prev-arrow,
+#copy-insults {
+    display: none;
+}
 #fav-buttons-wrapper span {
     background-color: rgb(14, 38, 86);
     height: 20px;
