@@ -433,8 +433,6 @@ aside {
     align-self: flex-end;
 }
 #fav-buttons-wrapper button {
-    visibility: hidden;
-    display: flex;
     align-items: center;
     justify-content: space-between;
     background-color: inherit;
