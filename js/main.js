@@ -667,6 +667,9 @@ $('#add-insult').on('click', function() {
         // make the nav arrows visible
         $('#insult-nav').css('visibility', 'visible');
     }
+
+    // display the copy-insults button
+    $('#copy-insults').css('display', 'flex');
 });
 
 $('#up-arrow').on('click', function() {
