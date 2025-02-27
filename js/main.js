@@ -672,6 +672,25 @@ $('#add-insult').on('click', function() {
     $('#copy-insults').css('display', 'flex');
 });
 
+$('#copy-insults').on('click', function() {
+    let copiedInsults = $('#insult-list').children();
+    let copiedInsultsClone = copiedInsults.clone();
+
+    // remove the x buttons that delete insults
+    copiedInsults.find('.delete-insult').remove();
+
+    // create a variable for the stripped copiedInsults list
+    let copiedInsultsText = copiedInsults.text();
+
+    // replace the original object with the clone
+    copiedInsults.replaceWith(copiedInsultsClone);
+    
+    if (navigator.clipboard) {
+        // send stripped copiedInsults list to the clipboard
+        navigator.clipboard.writeText(copiedInsultsText);
+    }
+});
+
 $('#up-arrow').on('click', function() {
     // scroll up through the insult list
     insultList.scrollBy({
