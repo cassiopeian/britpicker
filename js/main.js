@@ -563,7 +563,7 @@ $('#insult-me').on('click', function() {
     $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('.lock').addClass('mostly-disabled') : $('.lock').removeClass('mostly-disabled');
 
     // display the prev button, if two insults have been generated
-    prevInsult.length > 0 ? $('#prev-arrow').css('visibility', 'visible') : $('#prev-arrow').css('visibility', 'hidden');
+    prevInsult.length > 0 ? $('#prev-arrow').css('display', 'flex') : $('#prev-arrow').css('display', 'none');
 
     // display the like button, if an insult has been generated
     $(insultAdj).text() === '' || $(insultNoun).text() === '' ? $('#add-insult').css('visibility', 'hidden') : $('#add-insult').css('visibility', 'visible');
