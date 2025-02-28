@@ -2656,7 +2656,9 @@ let translations = [
     {
         american: 'nerd',
         british: 'swot',
-        plural: 'swots'
+        plural: 'swots',
+        alt: 'anorak',
+        altplural: 'anoraks'
     },
     {
         american: 'nervous',
