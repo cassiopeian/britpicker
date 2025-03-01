@@ -2993,6 +2993,7 @@ let translations = [
     {
         american: 'pipe down',
         british: 'wind your neck in',
+        alt: 'shut it',
         context: 'Admonishment.'
     },
     {
