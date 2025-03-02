@@ -3519,6 +3519,11 @@ let translations = [
         plural: 'guide dogs'
     },
     {
+        american: 'seeing-eye dog',
+        british: 'guide dog',
+        plural: 'guide dogs'
+    },
+    {
         american: 'self-righteous',
         british: 'priggish'
     },
