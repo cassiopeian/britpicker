@@ -2798,6 +2798,10 @@ let translations = [
         context: 'Finding a partner.'
     },
     {
+        american: 'on the weekend',
+        british: 'at the weekend'
+    },
+    {
         american: 'on welfare',
         british: 'on the dole'
     },
