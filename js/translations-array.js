@@ -4560,6 +4560,10 @@ let translations = [
         alt: 'got stick'
     },
     {
+        american: 'wash the dishes',
+        british: 'wash up'
+    },
+    {
         american: 'washcloth',
         british: 'flannel',
         plural: 'flannels'
