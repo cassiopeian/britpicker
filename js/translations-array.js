@@ -4718,7 +4718,8 @@ let translations = [
     },
     {
         american: 'zilch',
-        british: 'nowt'
+        british: 'nought',
+        alt: 'nowt'
     },
     {
         american: 'zip code',
