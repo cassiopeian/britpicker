@@ -2781,7 +2781,8 @@ let translations = [
     {
         american: 'oh my god',
         british: 'bloody hell',
-        alt: 'blimey'
+        alt: 'blimey',
+        context: 'Interjection.'
     },
     {
         american: 'on a dime',
