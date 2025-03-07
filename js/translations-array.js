@@ -2746,7 +2746,9 @@ let translations = [
     {
         american: 'nutcase',
         british: 'nutter',
-        plural: 'nutters'
+        plural: 'nutters',
+        alt: 'bedlamite',
+        altplural: 'bedlamites'
     },
     {
         american: 'oatmeal',
