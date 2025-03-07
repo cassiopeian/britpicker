@@ -4678,6 +4678,7 @@ let translations = [
     {
         american: 'wow',
         british: 'blimey',
+        alt: 'bloody hell',
         context: 'Interjection.'
     },
     {
