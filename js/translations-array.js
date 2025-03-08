@@ -2340,6 +2340,11 @@ let translations = [
         plural: 'litter trays'
     },
     {
+        american: 'litterbug',
+        british: 'fly-tipper',
+        plural: 'fly-tippers'
+    },
+    {
         american: 'liverpudlian',
         british: 'scouse',
         plural: 'scousers',
