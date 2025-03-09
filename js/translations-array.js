@@ -1290,6 +1290,10 @@ let translations = [
         british: 'fly-tip'
     },
     {
+        american: 'dumps waste',
+        british: 'fly-tips'
+    },
+    {
         american: 'dumpster',
         british: 'skip',
         plural: 'skips'
