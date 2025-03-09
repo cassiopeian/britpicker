@@ -1286,6 +1286,10 @@ let translations = [
         context:'Simpletons.'
     },
     {
+        american: 'dump waste',
+        british: 'fly-tip'
+    },
+    {
         american: 'dumpster',
         british: 'skip',
         plural: 'skips'
