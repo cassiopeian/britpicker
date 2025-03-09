@@ -1294,6 +1294,10 @@ let translations = [
         british: 'fly-tipped'
     },
     {
+        american: 'dumping waste',
+        british: 'fly-tipping'
+    },
+    {
         american: 'dumps waste',
         british: 'fly-tips'
     },
