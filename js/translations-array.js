@@ -1653,6 +1653,7 @@ let translations = [
     {
         american: 'freezing',
         british: 'baltic',
+        alt: 'biting',
         context: 'Weather.'
     },
     {
