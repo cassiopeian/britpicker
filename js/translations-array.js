@@ -1850,7 +1850,8 @@ let translations = [
     {
         american: 'got told off',
         british: 'got a bollocking',
-        alt: 'got stick'
+        alt: 'got stick',
+        context: 'Castigation.'
     },
     {
         american: 'gotten',
