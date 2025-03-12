@@ -1900,7 +1900,8 @@ let translations = [
     {
         american: 'grunt worker',
         british: 'dogsbody',
-        plural: 'dogsbodies'
+        plural: 'dogsbodies',
+        context: 'Rookies.'
     },
     {
         american: 'half bath',
