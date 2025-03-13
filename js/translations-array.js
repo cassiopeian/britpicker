@@ -1937,7 +1937,8 @@ let translations = [
     },
     {
         american: 'have a look',
-        british: 'have a gander'
+        british: 'have a gander',
+        context: 'Inspection.'
     },
     {
         american: 'heavy cream',
