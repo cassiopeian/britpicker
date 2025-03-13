@@ -2482,7 +2482,8 @@ let translations = [
     },
     {
         american: 'malarkey',
-        british: 'poppycock'
+        british: 'poppycock',
+        alt: 'codswallop'
     },
     {
         american: 'man',
