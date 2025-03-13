@@ -1904,6 +1904,11 @@ let translations = [
         context: 'Rookies.'
     },
     {
+        american: 'had a look',
+        british: 'had a gander',
+        context: 'Inspection.'
+    },
+    {
         american: 'half bath',
         british: 'toilet',
         plural: 'toilets',
