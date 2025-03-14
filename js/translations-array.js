@@ -2610,7 +2610,9 @@ let translations = [
     {
         american: 'mouth',
         british: 'gob',
-        plural: 'gobs'
+        plural: 'gobs',
+        alt: 'trap',
+        altplural: 'traps'
     },
     {
         american: 'mouthy',
