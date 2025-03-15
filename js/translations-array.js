@@ -968,6 +968,7 @@ let translations = [
     {
         american: 'cramming for',
         british: 'swotting for',
+        alt: 'revising for',
         context: 'Studying.'
     },
     {
