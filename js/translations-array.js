@@ -966,6 +966,10 @@ let translations = [
         context: 'Apparel.'
     },
     {
+        american: 'cramming for',
+        british: 'swotting for'
+    },
+    {
         american: 'crazies',
         british: 'nutters',
         alt: 'madmen',
