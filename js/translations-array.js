@@ -4607,6 +4607,10 @@ let translations = [
         british: 'wash up'
     },
     {
+        american: 'washed the dishes',
+        british: 'washed up'
+    },
+    {
         american: 'washcloth',
         british: 'flannel',
         plural: 'flannels'
