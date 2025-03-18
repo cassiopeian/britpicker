@@ -4707,7 +4707,9 @@ let translations = [
     {
         american: 'wimp',
         british: 'melt',
-        plural: 'melts'
+        plural: 'melts',
+        alt: 'drip',
+        altplural: 'drips'
     },
     {
         american: 'windbreaker',
