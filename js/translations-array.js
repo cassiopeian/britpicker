@@ -3353,7 +3353,8 @@ let translations = [
         british: 'toilet',
         plural: 'toilets',
         alt: 'bog',
-        altplural: 'bogs'
+        altplural: 'bogs',
+        context: 'Bathrooms.'
     },
     {
         american: 'retiree',
