@@ -3218,7 +3218,8 @@ let translations = [
     {
         american: 'punching bag',
         british: 'punch bag',
-        plural: 'punch bags'
+        plural: 'punch bags',
+        context: 'Gym equipment.'
     },
     {
         american: 'purse',
