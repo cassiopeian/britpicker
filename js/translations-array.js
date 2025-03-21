@@ -2548,7 +2548,9 @@ let translations = [
     {
         american: 'minor injury',
         british: 'tweak',
-        alt: 'knock'
+        plural: 'tweaks',
+        alt: 'knock',
+        altplural: 'knocks'
     },
     {
         american: 'misspelled',
