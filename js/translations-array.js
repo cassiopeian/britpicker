@@ -2547,7 +2547,8 @@ let translations = [
     },
     {
         american: 'minor injury',
-        british: 'tweak'
+        british: 'tweak',
+        alt: 'knock'
     },
     {
         american: 'misspelled',
