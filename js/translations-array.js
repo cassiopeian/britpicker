@@ -2546,6 +2546,10 @@ let translations = [
         plural: 'people carriers'
     },
     {
+        american: 'minor injury',
+        british: 'tweak'
+    },
+    {
         american: 'misspelled',
         british: 'misspelt'
     },
