@@ -2635,7 +2635,8 @@ let translations = [
     },
     {
         american: 'move over',
-        british: 'budge up'
+        british: 'budge up',
+        context: 'Requesting space.'
     },
     {
         american: 'movie',
