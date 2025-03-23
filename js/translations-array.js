@@ -2287,7 +2287,8 @@ let translations = [
     },
     {
         american: 'laid off',
-        british: 'made redundant'
+        british: 'made redundant',
+        context: 'Employment.'
     },
     {
         american: 'landfill',
