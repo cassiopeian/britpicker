@@ -2619,7 +2619,8 @@ let translations = [
     {
         american: 'mouse pad',
         british: 'mouse mat',
-        plural: 'mouse mats'
+        plural: 'mouse mats',
+        context: 'Computers.'
     },
     {
         american: 'mouth',
