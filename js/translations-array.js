@@ -1940,6 +1940,11 @@ let translations = [
         plural: 'boiled sweets'
     },
     {
+        american: 'has a look',
+        british: 'has a gander',
+        context: 'Inspection.'
+    },
+    {
         american: 'hassle',
         british: 'palaver',
         plural: 'palavers',
