@@ -2855,7 +2855,8 @@ let translations = [
     {
         american: 'on the fritz',
         british: 'on the blink',
-        alt: 'knackered'
+        alt: 'knackered',
+        context: 'Malfunction.'
     },
     {
         american: 'on the prowl',
