@@ -1958,6 +1958,11 @@ let translations = [
         context: 'Inspection.'
     },
     {
+        american: 'having a look',
+        british: 'having a gander',
+        context: 'Inspection.'
+    },
+    {
         american: 'heavy cream',
         british: 'double cream',
         context: 'Dairy products.'
