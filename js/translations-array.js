@@ -2797,6 +2797,7 @@ let translations = [
     {
         american: 'not too bright',
         british: 'thick as mince',
+        alt: 'thick as two short planks',
         context: 'Intelligence.'
     },
     {
