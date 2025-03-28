@@ -1499,7 +1499,8 @@ let translations = [
     },
     {
         american: 'fell over',
-        british: 'went arse over tit'
+        british: 'went arse over tit',
+        alt: 'went arse over teakettle'
     },
     {
         american: 'fender bender',
