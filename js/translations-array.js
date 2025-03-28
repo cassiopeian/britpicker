@@ -62,6 +62,11 @@ let translations = [
         plural: 'aeroplanes'
     },
     {
+        american: 'all talk',
+        british: 'all piss and wind',
+        context: 'Blustering.'
+    },
+    {
         american: 'all-purpose flour',
         british: 'plain flour',
         plural: 'plain flours',
