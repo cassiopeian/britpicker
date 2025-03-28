@@ -369,6 +369,11 @@ let translations = [
         altplural: 'bogs'
     },
     {
+        american: 'batshit',
+        british: 'barking',
+        context: 'Insanity.'
+    },
+    {
         american: 'baseboard',
         british: 'skirting board',
         plural: 'skirting boards'
