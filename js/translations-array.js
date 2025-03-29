@@ -3356,6 +3356,10 @@ let translations = [
         plural: 'ginger hairs'
     },
     {
+        american: 'red-handed',
+        british: 'bang to rights'
+    },
+    {
         american: 'redhead',
         british: 'ginger',
         plural: 'gingers'
