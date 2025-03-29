@@ -3357,7 +3357,8 @@ let translations = [
     },
     {
         american: 'red-handed',
-        british: 'bang to rights'
+        british: 'bang to rights',
+        context: 'Getting caught.'
     },
     {
         american: 'redhead',
