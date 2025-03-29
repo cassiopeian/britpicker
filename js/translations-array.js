@@ -1695,6 +1695,10 @@ let translations = [
         british: 'blummin'
     },
     {
+        american: 'frigging',
+        british: 'blooming'
+    },
+    {
         american: 'fry',
         british: 'chip',
         plural: 'chips',
