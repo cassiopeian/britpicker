@@ -1691,6 +1691,10 @@ let translations = [
         plural: 'mates'
     },
     {
+        american: 'friggin',
+        british: 'blummin'
+    },
+    {
         american: 'fry',
         british: 'chip',
         plural: 'chips',
