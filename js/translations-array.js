@@ -624,6 +624,11 @@ let translations = [
         plural: 'nosy parkers'
     },
     {
+        american: 'butt',
+        british: 'bum',
+        plural: 'bums'
+    },
+    {
         american: 'butterface',
         british: 'munter',
         plural: 'munters',
