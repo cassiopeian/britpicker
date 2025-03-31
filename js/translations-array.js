@@ -3489,6 +3489,11 @@ let translations = [
         context: 'Campaigning.'
     },
     {
+        american: 'runs off',
+        british: 'does a bunk',
+        context: 'Fleeing.'
+    },
+    {
         american: 'rutabaga',
         british: 'swede',
         plural: 'swedes'
