@@ -3352,7 +3352,8 @@ let translations = [
     },
     {
         american: 'ran off',
-        british: 'did a bunk'
+        british: 'did a bunk',
+        context: 'Fleeing.'
     },
     {
         american: 'rappel',
