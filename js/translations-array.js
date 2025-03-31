@@ -3351,6 +3351,10 @@ let translations = [
         context: 'Campaigning.'
     },
     {
+        american: 'ran off',
+        british: 'did a bunk'
+    },
+    {
         american: 'rappel',
         british: 'abseil'
     },
