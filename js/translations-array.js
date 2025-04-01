@@ -3848,7 +3848,8 @@ let translations = [
     },
     {
         american: 'smarty-pants',
-        british: 'clever clogs'
+        british: 'clever clogs',
+        alt: 'know-all'
     },
     {
         american: 'snack',
