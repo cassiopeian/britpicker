@@ -4794,6 +4794,10 @@ let translations = [
         plural: 'windscreens'
     },
     {
+        american: 'wonderful',
+        british: 'corking'
+    },
+    {
         american: 'worn-out',
         british: 'clapped-out'
     },
