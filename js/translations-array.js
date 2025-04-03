@@ -17,6 +17,10 @@ let translations = [
         british: 'tea'
     },
     {
+        american: 'a long time',
+        british: 'donkey\'s years'
+    },
+    {
         american: 'a stomachache',
         british: 'the collywobbles'
     },
