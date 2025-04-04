@@ -4184,6 +4184,10 @@ let translations = [
         altplural: 'jogging bottoms'
     },
     {
+        american: 'sweetie',
+        british: 'duck'
+    },
+    {
         american: 'tacky',
         british: 'naff',
         context: 'Poor taste.'
