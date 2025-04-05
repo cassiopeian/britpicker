@@ -1652,6 +1652,10 @@ let translations = [
         context: 'Simpletons.'
     },
     {
+        american: 'fork over',
+        british: 'fork out'
+    },
+    {
         american: 'four thirty',
         british: 'half four',
         context: 'Time.'
