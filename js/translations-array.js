@@ -4437,7 +4437,8 @@ let translations = [
     },
     {
         american: 'tough luck',
-        british: 'hard cheese'
+        british: 'hard cheese',
+        context: 'Interjection.'
     },
     {
         american: 'toward',
