@@ -4438,6 +4438,7 @@ let translations = [
     {
         american: 'tough luck',
         british: 'hard cheese',
+        alt: 'hard lines',
         context: 'Interjection.'
     },
     {
