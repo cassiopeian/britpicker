@@ -4436,6 +4436,10 @@ let translations = [
         context: 'Petulance.'
     },
     {
+        american: 'tough luck',
+        british: 'hard cheese'
+    },
+    {
         american: 'toward',
         british: 'towards'
     },
