@@ -3575,6 +3575,10 @@ let translations = [
         british: 'hook it'
     },
     {
+        american: 'scampered off',
+        british: 'hooked it'
+    },
+    {
         american: 'scared her',
         british: 'gave her a fright'
     },
