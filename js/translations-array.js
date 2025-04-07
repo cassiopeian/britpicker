@@ -3571,6 +3571,10 @@ let translations = [
         context: 'Con artists.'
     },
     {
+        american: 'scamper off',
+        british: 'hook it'
+    },
+    {
         american: 'scared her',
         british: 'gave her a fright'
     },
