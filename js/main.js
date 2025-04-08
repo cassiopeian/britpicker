@@ -218,7 +218,7 @@ $(document).on('keyup change input', '#ae', function() {
         // match the case of the displayed american word
         function caseMatch(explanation = '', britPhrase, usPhrase, altPhrase = '', secretIndex) {
 
-            let mismatches = ['a caravan', 'a cash machine', 'a four-by-four', 'caravan', 'cash machine', 'four-by-four', 'satnav'];
+            let mismatches = ['a caravan', 'a cash machine', 'a four-by-four', 'caravan', 'cash machine', 'four-by-four', 'satnav', 'telly'];
             let britPhraseSplit = britPhrase.split(' ');
             let firstBritWord = britPhraseSplit[0];
 
