@@ -4575,6 +4575,10 @@ let translations = [
         context: 'Making an appearance.'
     },
     {
+        american: 'tv',
+        british: 'telly'
+    },
+    {
         american: 'twelfth grade',
         british: 'year thirteen',
         plural: 'year thirteens',
