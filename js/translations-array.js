@@ -4577,7 +4577,8 @@ let translations = [
     {
         american: 'tv',
         british: 'telly',
-        abbreviation: true
+        abbreviation: true,
+        context: 'Television.'
     },
     {
         american: 'twelfth grade',
