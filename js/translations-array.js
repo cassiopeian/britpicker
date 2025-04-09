@@ -2245,6 +2245,11 @@ let translations = [
         context: 'Semen.'
     },
     {
+        american: 'joe schmo',
+        british: 'joe bloggs',
+        plural: 'joe bloggses'
+    },
+    {
         american: 'john hancock',
         british: 'moniker',
         plural: 'monikers'
