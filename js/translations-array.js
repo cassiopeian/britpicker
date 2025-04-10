@@ -2876,6 +2876,10 @@ let translations = [
         british: 'off'
     },
     {
+        american: 'offended',
+        british: 'miffed'
+    },
+    {
         american: 'oftentimes',
         british: 'often'
     },
