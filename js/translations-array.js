@@ -4753,6 +4753,10 @@ let translations = [
         british: 'we\'ve not'
     },
     {
+        american: 'wealthy',
+        british: 'minted'
+    },
+    {
         american: 'went ballistic',
         british: 'went spare',
         plural: 'Outrage.'
