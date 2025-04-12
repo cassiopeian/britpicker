@@ -3175,6 +3175,10 @@ let translations = [
         british: 'cheeky'
     },
     {
+        american: 'playing around',
+        british: 'mucking about'
+    },
+    {
         american: 'playing hooky',
         british: 'skiving off'
     },
