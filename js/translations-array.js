@@ -3163,6 +3163,10 @@ let translations = [
         context: 'Food storage.'
     },
     {
+        american: 'play around',
+        british: 'muck about'
+    },
+    {
         american: 'play hooky',
         british: 'skive off'
     },
