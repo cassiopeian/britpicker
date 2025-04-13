@@ -2949,6 +2949,11 @@ let translations = [
         british: 'crotchety'
     },
     {
+        american: 'out of his mind',
+        british: 'off his head',
+        context: 'Insanity or delirium.'
+    },
+    {
         american: 'out sick',
         british: 'off sick',
         context: 'Absence due to illness.'
