@@ -2312,7 +2312,8 @@ let translations = [
     },
     {
         american: 'kissing',
-        british: 'snogging'
+        british: 'snogging',
+        alt: 'necking'
     },
     {
         american: 'kitty-corner',
