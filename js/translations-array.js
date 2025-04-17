@@ -2959,8 +2959,9 @@ let translations = [
         context: 'Insanity or delirium.'
     },
     {
-        american: 'out of their minds',
-        british: 'off their heads',
+        american: 'out of their mind',
+        british: 'off their head',
+        plural: 'off their heads',
         context: 'Insanity or delirium.'
     },
     {
