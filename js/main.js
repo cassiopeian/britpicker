@@ -291,6 +291,12 @@ $(document).on('keyup change input', '#ae', function() {
                 aeSplit.splice(fourOutIndex, 7, phrase.american);
                 // replace that with the british phrase and hidden spaces
                 beSplit.splice(fourOutIndex, 1, caseMatch(phrase.context, phrase.british, phrase.american, phrase.alt, index-6), hiddenSpace, hiddenSpace, hiddenSpace);
+            } else if (pluralExists && fourWords.toLowerCase() == phrase.american + 's'
+            || fourWords.toLowerCase() == phrase.american + 'es') {
+                // replace the split four-word phrase with the joined american phrase
+                aeSplit.splice(fourOutIndex, 7, phrase.american);
+                // replace that with the pluralized british phrase and hidden spaces
+                beSplit.splice(fourOutIndex, 1, caseMatch(phrase.context, phrase.plural, phrase.typedplural || fourWords, phrase.altplural, index-6), hiddenSpace, hiddenSpace, hiddenSpace);
             } else if (threeWords.toLowerCase() == phrase.american
                 || contractedPhrase.toLowerCase() == phrase.american
                 || hyphenatedPhrase.toLowerCase() == phrase.american
