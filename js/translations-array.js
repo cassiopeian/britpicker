@@ -4015,7 +4015,8 @@ let translations = [
     },
     {
         american: 'soused',
-        british: 'pickled'
+        british: 'pickled',
+        context: 'Inebriation.'
     },
     {
         american: 'space heater',
