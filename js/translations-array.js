@@ -4014,6 +4014,10 @@ let translations = [
         alt: 'a bit'
     },
     {
+        american: 'soused',
+        british: 'pickled'
+    },
+    {
         american: 'space heater',
         british: 'electric fire',
         plural: 'electric fires'
