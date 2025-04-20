@@ -1823,6 +1823,10 @@ let translations = [
         british: 'getting on'
     },
     {
+        american: 'getting drunk',
+        british: 'on the piss'
+    },
+    {
         american: 'gimpy',
         british: 'gammy',
         context: 'Injuries.'
