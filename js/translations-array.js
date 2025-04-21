@@ -1824,7 +1824,8 @@ let translations = [
     },
     {
         american: 'getting drunk',
-        british: 'on the piss'
+        british: 'on the piss',
+        context: 'Binge drinking.'
     },
     {
         american: 'gimpy',
