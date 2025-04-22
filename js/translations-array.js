@@ -1039,6 +1039,10 @@ let translations = [
         british: 'bespoke'
     },
     {
+        american: 'customer',
+        british: 'punter'
+    },
+    {
         american: 'cut the crap',
         british: 'come off it',
         context: 'Exasperation.'
