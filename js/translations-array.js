@@ -1040,7 +1040,8 @@ let translations = [
     },
     {
         american: 'customer',
-        british: 'punter'
+        british: 'punter',
+        plural: 'punters'
     },
     {
         american: 'cut the crap',
