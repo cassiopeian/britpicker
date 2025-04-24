@@ -4026,6 +4026,7 @@ let translations = [
     {
         american: 'soused',
         british: 'pickled',
+        alt: 'rat-arsed',
         context: 'Inebriation.'
     },
     {
