@@ -3801,6 +3801,7 @@ let translations = [
         // shit-faced
         american: 'shite-faced',
         british: 'rat-arsed',
+        alt: 'pickled',
         typed: 'shit-faced'
     },
     {
