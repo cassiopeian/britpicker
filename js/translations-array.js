@@ -2589,6 +2589,11 @@ let translations = [
         context: 'Disarray.'
     },
     {
+        american: 'messing with me',
+        british: 'winding me up',
+        context: 'Irritation.'
+    },
+    {
         american: 'middle school',
         british: 'secondary school',
         plural: 'secondary schools',
