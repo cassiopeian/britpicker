@@ -3812,7 +3812,8 @@ let translations = [
         american: 'shite-faced',
         british: 'rat-arsed',
         alt: 'wankered',
-        typed: 'shit-faced'
+        typed: 'shit-faced',
+        context: 'Inebriation.'
     },
     {
         american: 'shopping bag',
