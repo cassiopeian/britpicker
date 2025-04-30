@@ -4344,6 +4344,11 @@ let translations = [
         plural: 'seesaws'
     },
     {
+        american: 'teeter totter',
+        british: 'seesaw',
+        plural: 'seesaws'
+    },
+    {
         american: 'teed off',
         british: 'hacked off',
         alt: 'cheesed off',
