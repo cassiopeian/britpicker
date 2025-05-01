@@ -3703,6 +3703,11 @@ let translations = [
         plural: 'cock-ups'
     },
     {
+        american: 'scrotum',
+        british: 'ballbag',
+        plural: 'ballbags'
+    },
+    {
         american: 'second grade',
         british: 'year three',
         plural: 'year threes',
