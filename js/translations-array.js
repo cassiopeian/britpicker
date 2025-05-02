@@ -402,7 +402,8 @@ let translations = [
     },
     {
         american: 'belly up',
-        british: 'tits up'
+        british: 'tits up',
+        context: 'Ruin.'
     },
     {
         american: 'belly-up',
