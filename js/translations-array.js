@@ -2872,6 +2872,11 @@ let translations = [
         altplural: 'bedlamites'
     },
     {
+        american: 'nutso',
+        british: 'crackers',
+        context: 'Insanity.'
+    },
+    {
         american: 'oatmeal',
         british: 'porridge',
         plural: 'porridges'
