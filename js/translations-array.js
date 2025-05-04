@@ -3016,6 +3016,11 @@ let translations = [
         context: 'Electricity.'
     },
     {
+        american: 'outstanding',
+        british: 'corking',
+        context: 'Delight.'
+    },
+    {
         american: 'overalls',
         british: 'dungarees',
         context: 'Apparel.'
