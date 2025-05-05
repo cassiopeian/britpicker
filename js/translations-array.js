@@ -1967,6 +1967,11 @@ let translations = [
         context: 'Powder room.'
     },
     {
+        american: 'handcuffs',
+        british: 'darbies',
+        context: 'Restraints.'
+    },
+    {
         american: 'handsome',
         british: 'fit',
         alt: 'dishy',
