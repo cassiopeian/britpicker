@@ -3080,6 +3080,11 @@ let translations = [
         plural: 'kitchen roll'
     },
     {
+        american: 'paperwork',
+        british: 'bumf',
+        context: 'Clerical drudgery.'
+    },
+    {
         american: 'parka',
         british: 'anorak',
         plural: 'anoraks'
