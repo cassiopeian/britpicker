@@ -3065,6 +3065,11 @@ let translations = [
         context: 'Pranks, hazing.'
     },
     {
+        american: 'pantsing',
+        british: 'debagging',
+        context: 'Pranks, hazing.'
+    },
+    {
         american: 'panty',
         british: 'knicker',
         plural: 'knickers'
