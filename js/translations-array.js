@@ -4705,6 +4705,7 @@ let translations = [
     {
         american: 'tv',
         british: 'telly',
+        plural: 'tellies',
         abbreviation: true,
         context: 'Television.'
     },
