@@ -4706,6 +4706,8 @@ let translations = [
         american: 'tv',
         british: 'telly',
         plural: 'tellies',
+        alt: 'gogglebox',
+        altplural: 'goggleboxes',
         abbreviation: true,
         context: 'Television.'
     },
