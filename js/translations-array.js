@@ -2156,6 +2156,11 @@ let translations = [
         plural: 'in hospitals'
     },
     {
+        american: 'in prison',
+        british: 'inside',
+        alt: 'at her majesty\'s pleasure'
+    },
+    {
         american: 'inebriated',
         british: 'sozzled',
         alt: 'blotto'
